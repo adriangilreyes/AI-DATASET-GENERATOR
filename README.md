@@ -1,11 +1,12 @@
 "#AI-DATASET-GENERATOR" 
-##Faker
-
+## Faker
 Libreria usada para la creación de Datasets con datos falsos de manera aleatoria
 
-##Datasets
-
+## Datasets
 1º)-Ecommerce
 2º)-Hospital
 3º) Banca
 4º)- Social media
+
+## Ejecución
+python main.py --dataset --nombre_dataset --rows 10000
