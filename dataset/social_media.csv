@@ -1,0 +1,1001 @@
+user_id,sm,price,date,country,social media
+dc90fc62-3ebc-4245-a4cb-fb1d0a666c08,web 2.0,741.07,2026-03-05,Gibraltar,Internet
+9ff8bd31-7751-4093-bd0b-42adb1288ebe,networking,152.48,2026-03-01,Christmas Island,Tablet
+52f1190b-7284-4407-bdbd-4c24947e4095,networking,101.68,2026-03-07,Maldives,Tablet
+45c94bd6-e2c3-455d-aea5-eb47a1e89bfe,networking,975.61,2026-03-03,Moldova,Tablet
+d51e1e92-63e7-4746-99c6-f301d40dc32c,TV,263.14,2026-03-02,Palau,Internet
+3fd51993-a35b-4cb0-9548-8de330d3f93d,Internet,1621.95,2026-03-01,Kiribati,Tablet
+2e6b1704-9780-4b39-b9f6-1f227c495b5f,Internet,772.9,2026-03-02,Rwanda,Tablet
+8ad1361e-d2cf-4b15-8040-7c376c6c5f91,TV,422.44,2026-03-01,Saint Kitts and Nevis,public
+eaa019e9-5535-4100-b824-04fa01313141,Internet,1991.76,2026-03-03,Somalia,Internet
+08a293c4-87bd-42af-8e44-318473a3d531,TV,1917.72,2026-03-06,Azerbaijan,TV
+25824abe-3015-4018-9356-eb80ae602354,Internet,12.98,2026-03-04,Tunisia,public
+7260f0a5-2faf-4747-b614-4481b821fc17,TV,1485.63,2026-03-01,Belgium,TV
+2588f6de-0b3e-4f5d-9dad-c79b3687eabc,networking,1715.89,2026-03-02,Sierra Leone,Internet
+ffb1d2a8-925a-4cab-8407-1078807ae96c,web 2.0,686.21,2026-03-04,Spain,TV
+6e84d884-1ccb-4fde-b7f2-38ec0785a795,TV,1749.72,2026-03-02,Colombia,Internet
+41e87432-22a1-441d-89c3-02f47426f715,TV,1289.83,2026-03-02,Hungary,TV
+f9418161-26a5-45b9-ae7b-a26f31460639,web 2.0,1169.57,2026-03-05,Guinea,Internet
+f93aab25-5f2d-4335-8d3b-d3e47291b79d,Internet,103.91,2026-03-07,Liberia,Internet
+1d826102-bfaf-462e-9421-aa32cb5b21db,Internet,1598.65,2026-03-07,French Southern Territories,Internet
+53efdc07-1fd2-4d22-8497-05a495298a78,networking,459.42,2026-03-04,Pitcairn Islands,TV
+a09e6d5e-ea22-4fc8-87ab-818c7892e8e4,TV,1937.31,2026-03-04,Ecuador,Internet
+48d94bda-bd31-423b-92bb-f507bb2537cc,Internet,260.14,2026-03-04,Palestinian Territory,Tablet
+356f36b3-21d5-46d0-9e13-26fce41d5302,TV,154.13,2026-03-03,Ghana,Tablet
+3ac096bf-42cb-43b1-8d4c-d36161aac66a,TV,655.8,2026-03-03,Lithuania,Internet
+088dac73-fd69-496a-8186-89d074e5a201,networking,1960.9,2026-03-01,Nigeria,public
+3e5d23f5-0c4a-41dc-a97a-01839e9f29d6,web 2.0,1686.44,2026-03-06,Timor-Leste,TV
+f5bd03e6-fc5f-411b-aa23-0d1a8a9cf972,web 2.0,1599.55,2026-03-06,Bermuda,TV
+854b8d8a-7f3b-47b3-8646-dc2291568131,Internet,841.88,2026-03-04,Aruba,TV
+d6b500fe-494f-4e26-b815-121a4ea5d536,web 2.0,1320.08,2026-03-07,Angola,Internet
+04dfb5d7-f687-46b3-9b4e-89c8bb653624,networking,1178.98,2026-03-02,Bosnia and Herzegovina,TV
+136585ed-6a9b-40df-a818-1da84f0f483d,web 2.0,1667.7,2026-03-07,French Guiana,Tablet
+3988aabd-525e-4596-8c34-6ba8d0ac75cf,TV,1516.33,2026-03-04,Madagascar,Tablet
+e446d54c-079e-4adc-83d1-b26bb0880c06,web 2.0,578.65,2026-03-02,Moldova,public
+a79dd827-f95d-418c-84a4-5010d393f317,Internet,1763.91,2026-03-04,Myanmar,Tablet
+f395e35a-4872-4554-a6eb-1b711e8dbf9d,Internet,662.84,2026-03-06,Taiwan,Internet
+f3f37eb4-3115-4262-b129-438c240d2c18,web 2.0,269.3,2026-03-03,Uruguay,public
+a7942dc9-6a78-4e89-9ddf-f11a12814633,TV,920.19,2026-03-07,Micronesia,public
+f07c45d0-9bab-4bbb-a2da-9c5be8b02639,web 2.0,922.83,2026-03-03,Croatia,Internet
+4bb921f0-e525-4dda-989f-337326c47723,TV,920.38,2026-03-02,Ethiopia,public
+f2a295d1-d7e3-4906-bd92-e44e0370f98c,networking,470.29,2026-03-03,Central African Republic,public
+003a77fa-2280-4672-9467-6df7f0119364,networking,1771.8,2026-03-05,Guinea,Internet
+79ff8b59-eb88-421f-b361-2aece67dbe91,networking,371.59,2026-03-01,Bosnia and Herzegovina,Tablet
+24c2541f-86a9-4f56-af53-ee65db2860a4,web 2.0,774.64,2026-03-03,Kyrgyz Republic,Internet
+99098ad6-a4ed-4824-850a-edf6b430992b,TV,319.84,2026-03-06,Bouvet Island (Bouvetoya),Tablet
+a4f9ab74-beb2-4caf-baa3-75d74d07b53c,web 2.0,1017.8,2026-03-06,Angola,Tablet
+ccc8a645-00a1-4a58-84ff-9dd8f0bc8dbc,networking,1151.78,2026-03-07,Eritrea,Internet
+e915b42b-5ec1-4d82-a421-7558a3a1a26c,Internet,515.38,2026-03-07,Equatorial Guinea,Tablet
+fbaca8e2-82bc-49b0-a144-da9b06c66841,Internet,305.43,2026-03-03,Syrian Arab Republic,TV
+c260c8a9-9bd5-4219-aa1e-17a151d3281c,web 2.0,1259.67,2026-03-02,Central African Republic,public
+292b70b5-21c1-40ef-9704-ffa53b8a2fa0,networking,606.58,2026-03-01,Panama,Internet
+654a5bd7-ccf3-4367-b48e-5a7ccee8580a,TV,1948.17,2026-03-05,Philippines,Tablet
+88d76a64-4e72-4b36-8c98-f20d7752499d,web 2.0,444.55,2026-03-03,Gabon,public
+25a0afc5-5eb8-403b-81b7-0f9a50a98a42,TV,90.57,2026-03-05,Austria,Internet
+84f5c7a6-0c76-454d-a845-86eb9bb086b1,networking,1828.39,2026-03-06,Libyan Arab Jamahiriya,Tablet
+4c4995da-17d6-4c2c-8c43-095dfa382992,networking,1798.15,2026-03-06,Colombia,public
+d9f0a9d0-191f-45a5-8272-71ab20081bff,networking,819.54,2026-03-01,Colombia,TV
+b16f2418-0e46-4bf1-807b-cf1197120032,Internet,1658.19,2026-03-07,Bolivia,Tablet
+a5b12548-a210-40f0-9eaa-7e6ba41c653b,Internet,968.82,2026-03-04,Guyana,TV
+ecfe52f4-5c10-4879-b785-3ac8af490ac0,networking,1871.32,2026-03-05,Rwanda,Tablet
+83437521-94be-4923-a444-88f693d8934f,networking,236.07,2026-03-04,Greece,Tablet
+b7241e32-5aa5-4d33-8fa7-255076209085,networking,1127.14,2026-03-02,Palau,Internet
+7fc703cf-97d2-4a2d-b8d9-3ec5c45e4c5e,networking,158.1,2026-03-05,Benin,Internet
+2064d475-8d2f-4c2b-89ed-1155ea820fba,networking,47.54,2026-03-04,Jersey,public
+b4823c8d-2478-4d4f-bba5-253ee2ba5061,TV,828.75,2026-03-05,Greece,TV
+1cd94cfc-8142-450d-8c94-1371f572540f,TV,1983.08,2026-03-05,Equatorial Guinea,public
+15b06614-c94a-4017-9e07-2e477a82ec6f,networking,106.95,2026-03-05,Egypt,Tablet
+c15f2500-24c0-45ca-ad6b-1d04acc46961,TV,541.21,2026-03-06,Luxembourg,Internet
+ac891899-51fe-42dd-a5a3-1fc1e665cfaa,networking,150.36,2026-03-04,South Georgia and the South Sandwich Islands,public
+f512393f-2b24-425b-bddb-26d9f2149aad,Internet,73.75,2026-03-02,Korea,Internet
+cfb3b97e-3428-4ff0-a56e-e4fe92c8447c,networking,1390.17,2026-03-01,Palestinian Territory,Tablet
+4b44ffb2-0223-43f3-b7b7-6bcbf5577621,web 2.0,109.14,2026-03-06,Nauru,Tablet
+e055e012-bc19-46e7-a3c4-4b7336908317,networking,249.33,2026-03-01,Kiribati,TV
+f131114c-b611-43f0-9051-2432cf42ce1f,web 2.0,974.24,2026-03-02,France,Tablet
+c3c384e0-cd87-43a3-a017-41259581286c,TV,191.24,2026-03-05,Spain,Tablet
+a4f6680f-7229-43fd-ae2c-381fa666b4f5,Internet,885.26,2026-03-06,Grenada,TV
+ba890690-ffaa-4c23-bc71-2f97d02affe1,web 2.0,1621.28,2026-03-06,Serbia,public
+a4d6e67e-2f6e-4525-8f9b-24cf844babb9,Internet,1813.46,2026-03-01,Paraguay,TV
+c44654f8-3e69-499a-978b-d4a1c7554b2f,networking,1506.03,2026-03-05,Barbados,public
+d691eb3d-6358-40a5-8a27-088bd2962865,TV,702.1,2026-03-07,Vietnam,TV
+452916a6-12c9-4a96-af03-442247c918e5,Internet,409.63,2026-03-01,Malta,TV
+605e1267-c8a6-44ac-93d8-154d5be15466,networking,383.14,2026-03-03,Jersey,Tablet
+14e8ffb7-d5b0-4a10-8c2e-df949ea927b6,networking,1193.07,2026-03-06,Saudi Arabia,public
+6026c9a0-19b4-49c0-8cb1-ca6c837a0e7f,networking,160.83,2026-03-01,Aruba,public
+ecf40d67-7ad4-46f8-b432-0dec3771b441,web 2.0,1734.26,2026-03-05,Ghana,Tablet
+1e9cce90-b53c-435f-a527-d9032e84a479,Internet,1949.08,2026-03-04,Kazakhstan,Tablet
+09aa22cf-250f-43b5-b63a-090446ea9641,web 2.0,1239.82,2026-03-03,Spain,TV
+06b5783f-b63f-420f-a251-c105d31799d0,networking,358.19,2026-03-06,Serbia,public
+01e77849-d465-4d1d-95c7-7e41a93769a3,web 2.0,1081.04,2026-03-04,Guyana,Tablet
+6a260ff8-5cd3-4836-85f4-bf7154fcb4fa,networking,1170.62,2026-03-06,Greenland,TV
+b39b3965-7a86-4275-85ab-6380971d0ec4,Internet,1306.98,2026-03-01,Bolivia,public
+325b9b97-0027-4f08-be34-20a1484061ef,TV,1651.39,2026-03-02,Madagascar,public
+1142458d-a469-4753-a3cf-cd6ad11f135f,networking,738.07,2026-03-05,Gabon,TV
+9245a59e-d9ac-47d8-af9e-791ba387aa1c,TV,650.31,2026-03-04,Niue,TV
+f6d5cf59-3f96-495d-a985-a1a4de38ef5e,web 2.0,681.02,2026-03-03,Senegal,TV
+ba362359-c128-4548-a107-bafe12eda534,networking,858.3,2026-03-04,Cameroon,public
+81017a74-3983-40d8-979f-de4ed207c5b4,networking,1848.24,2026-03-05,Macao,Tablet
+acca29a3-a378-4718-a70d-d4da5ed3a7cf,Internet,648.04,2026-03-06,Reunion,TV
+80677751-ab94-411d-950c-5bee5b54796e,networking,147.62,2026-03-03,Turkey,Tablet
+c2bca258-72d8-40c9-a35b-f04f321be43c,TV,33.95,2026-03-07,Suriname,Tablet
+7f4dcb03-c0d5-404b-aa49-fc21bfccf03f,networking,1307.7,2026-03-02,Sao Tome and Principe,public
+5349f79a-835b-4c7e-af8c-9b16a66d809a,web 2.0,1931.65,2026-03-02,France,Tablet
+dd48d98b-78a4-4e4c-9a6e-0da2c6f02c41,web 2.0,1437.89,2026-03-07,Japan,TV
+1c2e1e36-1b5c-4c3c-9047-e188496b4e07,web 2.0,1027.38,2026-03-07,Croatia,public
+ead41377-c677-4e4f-9c52-c3b230d87980,Internet,388.86,2026-03-04,Seychelles,Internet
+cb1a58a8-a53b-4dd3-84b9-da1f34349de7,TV,845.26,2026-03-01,Indonesia,TV
+009b222e-83e7-491d-8bf7-566caaadd716,Internet,745.99,2026-03-07,Saint Martin,TV
+1e83e7bb-9177-4490-94f4-22929eff00cc,networking,1153.19,2026-03-02,Guam,Internet
+468933e9-2654-4c04-aec8-3a811e392763,Internet,1237.23,2026-03-05,Afghanistan,Internet
+6eb5db59-09aa-4db5-b827-8c237dd033a3,TV,968.35,2026-03-06,Singapore,Internet
+bd8b361b-3708-4a15-a07a-73b7dc52960e,TV,40.13,2026-03-03,Slovenia,Tablet
+361179ac-5e02-4c7c-adf2-d23197d65aa9,TV,71.84,2026-03-04,Mongolia,Tablet
+5b362501-e97e-4fbd-899d-8a80b5a6faa9,web 2.0,1980.59,2026-03-05,Israel,Tablet
+e668c4f5-01d0-418a-b84c-0c8b830efb63,networking,259.53,2026-03-05,United Arab Emirates,Internet
+d1da8688-d913-4980-ae9d-8bccc411c9d3,web 2.0,1061.23,2026-03-02,Nicaragua,Tablet
+54f7dde1-9362-4675-8d7a-6c5d9a4616bc,networking,597.39,2026-03-02,Cuba,TV
+c7d54604-ccae-456d-b1da-308eba71fa8a,web 2.0,250.46,2026-03-07,United Kingdom,Internet
+8d869587-6203-431d-9a6c-79fbbc821352,web 2.0,870.65,2026-03-02,Luxembourg,TV
+ce31700a-520f-4f23-b50f-5e830d485835,Internet,92.99,2026-03-03,Mali,TV
+4ba381be-f450-409f-aed8-12327192d0f4,web 2.0,347.95,2026-03-01,French Polynesia,public
+85fc8b50-1918-4f6f-8e1f-b4e08afc1538,web 2.0,1499.37,2026-03-02,Montserrat,Tablet
+9e2322d9-4248-481d-acc0-9aae66ec33d5,networking,1050.41,2026-03-07,Sierra Leone,TV
+b4aa579c-2ca2-4642-87f4-d72233372474,networking,907.1,2026-03-06,Saint Kitts and Nevis,public
+322612d5-c806-44eb-9805-4cec094b9844,Internet,413.54,2026-03-03,Comoros,TV
+49d8af26-7421-4465-bc1f-4ef2c7afd6a4,TV,754.06,2026-03-06,Iraq,Tablet
+35403bdb-5557-45f1-8fc5-ba8429a929a4,networking,1081.3,2026-03-03,Holy See (Vatican City State),public
+d9653139-9461-4187-a342-89297625005a,TV,1172.62,2026-03-02,Hong Kong,TV
+f3d86838-e6b9-47e2-acec-6602bf68ee0f,networking,290.34,2026-03-02,United Arab Emirates,Internet
+0353fba9-5040-4de5-b2e8-4d10677958de,networking,640.09,2026-03-04,Libyan Arab Jamahiriya,TV
+1a5d3a94-2394-4750-9a4d-49c7204afb7f,TV,1992.74,2026-03-07,Thailand,Tablet
+9c6ed5d6-07f6-4693-92a5-559e5771afdb,networking,1830.99,2026-03-05,Luxembourg,Internet
+7650639e-1a5d-457b-a5da-24c73b100aed,web 2.0,1262.45,2026-03-07,Gabon,TV
+abf5f49e-a174-4e50-92ca-5f0ef596f4c1,web 2.0,1207.3,2026-03-03,Jersey,Internet
+99d724f8-580e-4da2-b0c7-4faf210306b2,Internet,513.32,2026-03-03,Timor-Leste,TV
+6a132845-11fc-40e6-8be0-1a5d1720a4a0,Internet,1766.93,2026-03-04,Morocco,TV
+eafdb69d-318f-48b2-9480-d6f6a03e0ffc,TV,1385.64,2026-03-05,Uzbekistan,TV
+b0649e1c-31c9-4ece-9790-fee9f98e3f6a,web 2.0,69.86,2026-03-04,Tokelau,Internet
+45adeee0-80a0-4848-8032-1e376c572ae3,TV,1018.65,2026-03-06,Cambodia,Internet
+c6479dc9-ec61-4b59-b2a7-040205951623,TV,244.84,2026-03-04,Botswana,Tablet
+4d14ef40-108a-4a36-aa46-b6c4ba726300,Internet,684.69,2026-03-03,Pitcairn Islands,public
+78a86877-b9d0-4e87-8932-51ee10a10769,web 2.0,79.73,2026-03-07,Andorra,public
+f4d04382-9a58-453d-ae82-5cf13294bdc8,TV,728.81,2026-03-07,Samoa,public
+2fe91e50-4bc3-4837-996a-fb9db6c5c0a1,Internet,37.41,2026-03-01,Bouvet Island (Bouvetoya),Tablet
+6cc6d60c-a3d9-4f51-86fc-0baf1d4675bf,web 2.0,533.41,2026-03-04,Malawi,TV
+e438e087-b823-49f2-ad4e-fcd34925ea39,TV,223.87,2026-03-05,Sierra Leone,public
+fd9e899c-f9c8-4d2e-8c8a-6d6cbecb8f52,web 2.0,707.62,2026-03-06,Togo,Internet
+bdc7cf1f-8e1c-4590-9014-0af55800b3c6,networking,299.23,2026-03-05,United States Virgin Islands,public
+e5e2f18d-59b5-4123-8193-c19418f003ca,TV,1729.47,2026-03-01,Iran,Tablet
+b61539d5-2978-4f21-ae87-429468eca6c1,networking,1524.36,2026-03-01,Netherlands Antilles,Internet
+90ae7436-5e83-4f0b-af9f-4ab00acef0ad,networking,1546.02,2026-03-02,Azerbaijan,Internet
+39268e97-fcdf-4ad0-88c2-6aa60c21c164,networking,1205.53,2026-03-04,Dominican Republic,Tablet
+e3964538-340b-4644-a7e1-eb667ee9504a,networking,570.53,2026-03-01,Antarctica (the territory South of 60 deg S),public
+f27259a6-9ec5-4778-aa07-7329b7f0810e,web 2.0,130.46,2026-03-02,Haiti,TV
+b764de0c-7464-4002-af08-39acedc1f71c,networking,449.92,2026-03-06,Turkmenistan,public
+18f7c912-9284-4028-942b-7633976a6837,TV,711.78,2026-03-04,United States Virgin Islands,Tablet
+5bd660e2-6959-4f6d-be33-7516cb869865,networking,1103.34,2026-03-01,Iran,TV
+177785d8-dd5a-4d01-81d6-1fe5100d6075,networking,1533.5,2026-03-06,Chile,TV
+37b2d832-f3eb-4f8b-af3e-1a8b4df19dee,Internet,846.66,2026-03-02,Romania,Internet
+08d0aaee-1f4e-4d5d-b8a3-73c8458f460a,networking,594.06,2026-03-06,Mauritania,Tablet
+6486d811-0823-42cc-ac56-ab86d9ad4b81,web 2.0,1445.74,2026-03-02,Palau,public
+8323d545-194c-4814-bf7d-2d9192afee90,TV,1593.83,2026-03-07,Zimbabwe,Internet
+465bd42d-ed1f-498a-aeba-5a302b73e14f,web 2.0,1855.23,2026-03-06,Dominican Republic,Internet
+128b202b-ac3d-4543-bec7-31a4d4db588b,networking,513.51,2026-03-06,Cambodia,TV
+e80d7c47-7f87-493c-8c65-fa6691223dd7,web 2.0,1308.12,2026-03-03,Angola,Internet
+49064af4-f79d-44f6-9cfe-c4491105134b,web 2.0,1484.72,2026-03-05,North Macedonia,TV
+923ac6f3-c2f7-422b-a7e7-079a7aa254e2,networking,33.42,2026-03-01,Myanmar,Internet
+c8b52b5e-0e44-4d97-b747-b551f8a64edd,networking,579.21,2026-03-03,Finland,TV
+5afb66c1-dc5a-4958-ad7e-44098b20c805,web 2.0,1955.24,2026-03-05,Antigua and Barbuda,Internet
+24fa1288-1b5d-4ce9-8772-6c58d4549c81,web 2.0,1215.18,2026-03-02,Vietnam,Internet
+ff43aeb4-c1eb-4356-b931-f35cf3c02bfd,TV,1181.72,2026-03-04,Korea,public
+6da45465-c6de-4272-8a77-2df47e167b33,Internet,217.84,2026-03-05,Kuwait,Tablet
+4affeccd-bc59-4e5c-8073-25e8441f236e,TV,368.51,2026-03-07,Marshall Islands,Internet
+b2501998-92f4-4033-a038-9cf1f5dce556,web 2.0,1595.03,2026-03-02,United States Virgin Islands,Internet
+2fd59b27-e417-405e-b5d1-d544f42b5f8e,web 2.0,1831.39,2026-03-04,Bahamas,TV
+a28578a8-27b9-41d1-9d54-a0bd47a612b5,networking,1219.45,2026-03-06,Sweden,public
+b59303b4-0e7e-4edd-9012-1d905e4a3103,TV,108.65,2026-03-01,Turkmenistan,TV
+8af3a674-945f-4b23-ac24-0f24b2b46efc,networking,1960.5,2026-03-06,Mali,TV
+681f9204-05ab-495d-b83d-29259b0fa689,TV,679.43,2026-03-04,Portugal,TV
+1de23d9f-1737-4756-a8be-7fe9f3abc4c1,TV,1759.54,2026-03-02,Israel,TV
+f95cbadb-b7ae-4106-9fa5-51a0161da2f5,TV,1399.23,2026-03-06,Spain,Internet
+55d5f2ae-862e-4397-bbe3-419b392dd029,networking,721.19,2026-03-03,Reunion,Tablet
+aea0da92-2954-4bf5-8e2f-070e774a0d0c,networking,1813.82,2026-03-01,Saint Helena,TV
+a7483795-8fde-4e27-ad5b-1190d048b05b,Internet,919.24,2026-03-06,Afghanistan,public
+f5781993-0b68-4cb6-96b7-8ebfda93a12b,Internet,644.87,2026-03-06,Iraq,TV
+45db3ccc-4efe-4258-b19c-5f4e7bbeb88d,TV,1457.92,2026-03-04,Korea,Internet
+a5e21395-81f3-4d95-8541-e92168a0d269,networking,174.05,2026-03-01,Romania,Tablet
+d176b480-4950-4855-ba7b-f8191f1c8900,networking,1406.18,2026-03-04,Tuvalu,TV
+2096dc82-b5ae-4dd4-99c7-ddcccba6c7f0,Internet,1319.15,2026-03-07,Sri Lanka,Internet
+5f6bda58-2d21-44d5-9d04-e593c35bfa75,networking,1522.66,2026-03-07,Mauritania,TV
+fd7c5100-048f-4ea5-a83a-849b39230822,web 2.0,1997.55,2026-03-04,Malta,TV
+a0fcbd77-3d85-4147-af72-552e851481e2,web 2.0,1486.67,2026-03-06,South Africa,Tablet
+3a4326ad-8af0-4629-80b4-48f552d210d8,networking,144.7,2026-03-05,Qatar,TV
+246f139a-a25d-4799-af91-a33a0809b6ad,web 2.0,684.99,2026-03-03,Tokelau,TV
+5abcfe2c-af49-40ff-9d91-b834fd8244e3,web 2.0,598.47,2026-03-04,Saint Barthelemy,Internet
+95731b5c-4dfb-4df2-94fc-19aa130c0d56,networking,1166.72,2026-03-03,Bangladesh,public
+df1adf8e-48b7-4a9b-9086-65a5c2138126,web 2.0,1565.78,2026-03-06,Spain,Tablet
+b29b2b37-52a7-42df-93f5-1f1296bbbbc6,Internet,1831.15,2026-03-05,Bahrain,public
+18e48837-2b11-4762-ba33-61e169f1af2d,Internet,984.03,2026-03-03,Peru,Internet
+5df2497a-5812-455f-8e9e-9f612934d651,Internet,105.74,2026-03-07,Puerto Rico,Tablet
+285c62ce-9490-4eea-9cad-15b4b200aa5f,TV,610.89,2026-03-03,Italy,public
+7df6443c-5f9e-434a-8b4e-72af27055c97,TV,885.69,2026-03-01,Morocco,public
+39c3ee40-55db-462e-b1cf-d56d30a85e86,Internet,1236.67,2026-03-05,Bolivia,public
+66930a0b-76d3-41b4-a7fc-6b570fc4a5c9,web 2.0,474.42,2026-03-06,Switzerland,Tablet
+ef97d267-92fa-4167-ac70-7cca8b15a655,TV,178.21,2026-03-05,India,TV
+10ed73c9-97ac-4777-9170-45574e82fb9b,web 2.0,1830.03,2026-03-04,Georgia,TV
+277cabb4-fde6-42e7-9015-440426fac78f,networking,853.22,2026-03-06,Ghana,Internet
+70e8f4ea-9a1a-4e14-b6a3-b5e5eedf0c01,TV,1762.99,2026-03-07,Slovakia (Slovak Republic),Internet
+35ad3566-1f6a-4e04-adc5-9483c30fbaed,TV,31.68,2026-03-03,Cote d'Ivoire,Tablet
+9a5103d4-2a49-45ae-806b-82e77b4f3f6e,TV,1216.68,2026-03-06,Martinique,Internet
+96fe025d-96b7-4ccd-a966-90ebbb995670,web 2.0,1972.91,2026-03-07,Armenia,Tablet
+c7cafa16-659c-41e3-a1cc-fb18da43a91e,web 2.0,1516.99,2026-03-06,Saint Kitts and Nevis,Tablet
+3ee425c6-a7cd-4c74-9e4d-6c3ce4398b3f,TV,341.05,2026-03-03,Dominican Republic,public
+f7291019-4b6a-4777-8b4f-b3caebb2aabf,networking,567.17,2026-03-02,Cook Islands,TV
+041fd7e5-ce42-4603-878a-e88422be2fb6,TV,765.61,2026-03-01,Tonga,TV
+c19fed36-7e4d-449c-bd67-1693230ef057,networking,500.1,2026-03-03,Australia,Internet
+47fecf2d-dab8-410c-9d7c-ed4e309c0661,TV,169.13,2026-03-02,Mauritania,public
+60bc7848-cde4-4d17-a542-c4969852b3d8,networking,1275.9,2026-03-06,Bahrain,Internet
+df7ef3a1-14aa-4279-9916-647338b46a58,Internet,969.61,2026-03-01,Turks and Caicos Islands,TV
+4ac08421-625d-4f07-8e1f-26b9a895241a,networking,1631.18,2026-03-02,Papua New Guinea,public
+3e146026-fea3-4452-b60f-2b6d6c435a33,Internet,817.25,2026-03-03,Congo,public
+bd42ef0a-ce6e-4ded-82f2-9cdb8e079438,web 2.0,294.79,2026-03-05,Kiribati,public
+ee80e984-fb76-46a9-a0f5-e46cd82ced9f,TV,147.44,2026-03-01,Mozambique,public
+38bc3685-61db-4f19-8104-8cbf6986e1c1,TV,451.81,2026-03-03,France,Internet
+ede03dd5-a4b0-483a-a6dc-b76cdf22b605,TV,1764.19,2026-03-05,Guadeloupe,Tablet
+a38537af-baf8-41d3-8ada-2256c39a0341,web 2.0,1820.42,2026-03-02,Guam,public
+4eaa8d43-f5bb-4d4e-8b9a-063567cd6016,networking,1525.36,2026-03-04,Solomon Islands,Internet
+98d4875a-3748-4b4d-a7f8-2fbeaa433935,Internet,1331.29,2026-03-03,Moldova,Internet
+f3124525-a63d-4732-9f65-e657935b9f9e,Internet,158.34,2026-03-06,Zambia,TV
+02f5ca6a-a634-47d6-92dc-aa81d5597e78,Internet,1788.88,2026-03-01,United Kingdom,public
+e00ed12a-ffda-4233-9e98-c49ac410a808,TV,1800.38,2026-03-04,United States of America,Internet
+a0cd21ce-f05c-485b-8779-d2d3ba44796a,web 2.0,1076.48,2026-03-05,Qatar,TV
+e946f1b6-a4c2-4ee2-829a-a723acd85663,Internet,166.8,2026-03-03,Nigeria,TV
+c90cdacd-beda-4f0a-8cf1-cb19c91b979a,web 2.0,65.55,2026-03-05,Northern Mariana Islands,Tablet
+1fb44497-a807-41a3-b3f2-5f8636a27c51,networking,1597.93,2026-03-05,Kuwait,Internet
+3a43b060-8af3-49b0-932b-3adfa02b6282,Internet,474.28,2026-03-02,United Arab Emirates,Internet
+cac14a13-9e9a-4a2d-ba90-1a14f0c990ca,networking,98.76,2026-03-04,Georgia,TV
+915fa030-24f4-4e43-a0f1-6c272c2eb378,Internet,217.66,2026-03-01,Afghanistan,TV
+f87cb020-4ed6-431d-ba57-545ec2b9ede4,web 2.0,306.32,2026-03-04,Oman,public
+0d7fe689-d0a8-4053-981c-bde8790f3802,Internet,1746.13,2026-03-03,Kenya,TV
+7c97db49-0c6f-40d4-bae3-0276f3f4179c,networking,1684.0,2026-03-02,Chad,TV
+b166218c-bfd5-446a-a313-e68153c78175,TV,551.01,2026-03-03,Sudan,public
+1bf78dd5-76bd-4eea-9a54-4f8cdf7727e6,TV,1780.71,2026-03-05,Romania,TV
+77b58aa6-a3d3-4450-8b25-7729e1387965,web 2.0,708.66,2026-03-06,Kyrgyz Republic,Tablet
+43627760-284f-4f0c-84d7-9bd9c4897495,web 2.0,1642.66,2026-03-05,Finland,Tablet
+5afcaa3f-a1d4-4bf0-9e44-3f6f3b136586,Internet,1751.5,2026-03-03,Jamaica,public
+ddd7f48a-4e7c-4b92-9861-f1c5d007a099,networking,1734.34,2026-03-05,Sao Tome and Principe,TV
+73e64b69-ea73-4c6d-9bb5-1805213d0202,web 2.0,1586.39,2026-03-03,Guinea,Internet
+9d9e65c1-d027-4b08-ad89-49f5f14fed82,Internet,270.97,2026-03-01,Liechtenstein,public
+e7785a49-6c60-49cc-b044-be81d03a7526,TV,216.99,2026-03-02,Cook Islands,public
+5d688ea5-8a8b-417e-8dc4-4d75d3ac5217,web 2.0,1146.79,2026-03-05,Comoros,Internet
+02217344-f380-4fa7-8709-0bb585497e23,web 2.0,1218.44,2026-03-01,Argentina,Internet
+8e073207-c4b4-47dc-8627-553fa5a15209,networking,1077.31,2026-03-05,Ukraine,public
+b2610fad-00ae-4635-95e4-feb70a450a13,web 2.0,1886.9,2026-03-01,Comoros,public
+0ea4c478-957f-4271-a7ff-bea9bbfd5f40,Internet,1360.01,2026-03-06,Madagascar,Tablet
+a88fd719-7731-4871-a8fa-2ddf7a553a86,networking,1431.46,2026-03-01,Azerbaijan,Tablet
+7e5a362c-8c87-4d7a-b343-13a6f2429c50,TV,38.21,2026-03-02,Paraguay,Internet
+a73ae2e7-f0d7-4bae-b07c-c2074635d9ac,Internet,904.29,2026-03-01,Antigua and Barbuda,TV
+0e72198f-b91c-43b4-a511-8e53622325e8,web 2.0,1666.36,2026-03-07,American Samoa,TV
+91cef47f-3039-4598-ac61-fb2fcb57e331,Internet,1017.5,2026-03-07,Grenada,public
+8afbe65e-8786-4421-837f-45023f1ee40d,networking,462.91,2026-03-03,Togo,Tablet
+1ce4a016-1974-45e2-a418-f51d02926abb,Internet,350.49,2026-03-07,Canada,TV
+b4ef0eff-fead-470c-b8d7-9653291854e3,networking,1201.99,2026-03-05,Nigeria,Tablet
+5e2488c1-0080-4eef-afa4-f5096b287165,networking,879.17,2026-03-05,Paraguay,Tablet
+978d5e07-e185-4d65-bb6a-80f60df750f9,TV,1832.75,2026-03-07,Syrian Arab Republic,Tablet
+febdba72-087e-4ca2-94f3-c929da770a5f,networking,1615.32,2026-03-06,Faroe Islands,public
+c4c917ae-b0fc-4704-a611-974566052d27,TV,394.48,2026-03-07,Latvia,Internet
+15d3a242-24f1-40f5-82e2-003c916af8b3,web 2.0,293.48,2026-03-05,Cambodia,TV
+fbfc1ba8-df9b-4a2f-b7e4-14a5f2c6b146,networking,1184.5,2026-03-05,Nigeria,TV
+74ce6d07-b795-46a7-a87f-d7d46f86af29,Internet,969.04,2026-03-07,Timor-Leste,public
+de6abf32-b894-4a67-aad0-9172f9e32cf3,networking,1999.38,2026-03-02,Saint Pierre and Miquelon,Internet
+083aaee5-51ac-439f-80c0-94c61273bb73,Internet,143.81,2026-03-06,Swaziland,Tablet
+afed8ac4-bedf-41e1-934f-ce765fa84cc2,networking,1834.94,2026-03-04,Aruba,Internet
+5731d5de-66bc-463e-bc21-a22fcc2bd374,web 2.0,109.0,2026-03-07,Mali,Tablet
+5368cea1-a8b5-4dff-85d3-fe9ae8d38cb5,networking,1534.64,2026-03-04,Christmas Island,TV
+c24b473e-31ce-4369-8621-4ee6fc3f412f,TV,1636.83,2026-03-07,Lithuania,Tablet
+ea3ca83c-d681-423a-8c80-a7518710f344,TV,1031.63,2026-03-03,Peru,Internet
+0c278086-66bf-4eb2-af09-ad9f79595ba9,Internet,1786.59,2026-03-04,Guernsey,TV
+fc704ca6-f4bf-4f6c-8076-9e6e0063070c,web 2.0,164.08,2026-03-07,Jersey,Tablet
+8ca06d1b-2941-4524-a8de-da7df1c436a9,networking,56.02,2026-03-06,Cote d'Ivoire,Internet
+8ea11b58-0cae-47d4-ab99-be02cb8bba48,networking,1591.86,2026-03-05,Mauritius,TV
+979d8fbf-c6a0-4fdc-8b09-eadfb4a744f7,web 2.0,1618.77,2026-03-06,Madagascar,TV
+845f3a5d-bb76-4f73-9e3f-5f4974d8e701,TV,1340.41,2026-03-04,Malaysia,Tablet
+034970ac-261e-4db6-8ee4-ef2e21412583,web 2.0,603.43,2026-03-04,Niger,public
+4ef948d9-3fcd-4e97-b119-03b2a54e9376,TV,949.72,2026-03-07,Moldova,Internet
+0745c339-3266-4f71-b4ad-f012d7c2acb9,web 2.0,1284.57,2026-03-05,Russian Federation,Tablet
+6b026496-525f-49c9-9132-46b4562efe77,networking,137.86,2026-03-07,Taiwan,public
+1c8a9e01-f1fb-4e6b-974c-aae92d1db849,Internet,199.53,2026-03-04,Lesotho,TV
+f4b949b8-7c73-49f1-b9c8-b106fcb86f70,web 2.0,775.79,2026-03-01,Madagascar,public
+616a2d4d-e1c3-4d4f-b3fa-754f947715b8,Internet,767.47,2026-03-04,Korea,TV
+e2198066-17da-4eb7-892a-90f76788527e,networking,1083.67,2026-03-03,Libyan Arab Jamahiriya,public
+fe23b226-4a34-4a45-b5ee-0595c6f95777,networking,1016.61,2026-03-07,Argentina,public
+d3d7e5a9-3938-4c79-aa80-d8b05a231fd8,web 2.0,1647.5,2026-03-05,Cocos (Keeling) Islands,Internet
+8696402c-c856-47ec-b3e5-98928e0a7e9b,networking,1549.48,2026-03-06,Romania,TV
+3047f798-b0d1-44c2-9efb-be3eb79dea11,TV,535.78,2026-03-04,Hungary,public
+10f0fe9c-3371-4023-a3e2-051d3912b98e,web 2.0,295.75,2026-03-06,Gambia,Internet
+3581f706-7a8b-4848-91c5-1081997ecf8b,web 2.0,703.2,2026-03-03,United Kingdom,Tablet
+ec221831-8481-4440-bc5d-f91e52f6d378,TV,546.07,2026-03-05,Cayman Islands,Tablet
+7f28c71e-6232-4820-a452-6e33b0faaa03,networking,830.02,2026-03-02,Iran,Tablet
+2916cc18-788b-46b8-b272-265f61dc8365,Internet,878.68,2026-03-07,Greenland,Tablet
+3e02df97-098c-4ff8-aba2-5a5998471e4e,TV,1765.17,2026-03-03,Morocco,public
+650bd891-48ac-41ca-9895-1ad4c6e184b6,networking,1342.33,2026-03-02,Tokelau,TV
+7313c7ee-58a4-4a57-8b6a-ae33068342aa,Internet,930.16,2026-03-02,Turkmenistan,Internet
+9a5e5a0f-3427-4993-8ed2-aa293234d029,networking,1998.32,2026-03-02,Austria,Tablet
+6836c8ca-d8d9-4927-bea0-480d82ecb166,Internet,15.18,2026-03-03,Syrian Arab Republic,Tablet
+08d661ce-8951-4222-bc68-423618675ee5,networking,521.58,2026-03-03,Niger,Tablet
+3846f90f-bf0a-4adc-9ced-ba352c57038a,networking,123.12,2026-03-06,Honduras,Tablet
+3556332f-ecf0-4d8a-810f-f131546d778c,TV,1136.26,2026-03-02,El Salvador,Tablet
+09749571-8860-4129-a416-c349fd3b0d9b,TV,1375.16,2026-03-03,Pitcairn Islands,Internet
+a757dba7-c18b-4356-82c3-3edb27f280d5,TV,493.53,2026-03-07,Japan,TV
+33e1177e-9cc1-4b5e-9cee-be9d10e3ce6f,web 2.0,952.99,2026-03-01,Cape Verde,TV
+8fbc5a83-517e-4994-9ccc-879a10dcffc6,Internet,1639.62,2026-03-02,Iraq,Tablet
+942825c0-b83f-4614-b06e-30dd140f7e92,networking,18.45,2026-03-06,Tanzania,Internet
+cde779b8-039d-4b29-b326-a3a5419e8298,web 2.0,950.71,2026-03-03,Mozambique,Internet
+d8165081-2676-4606-998c-e22f1c33500a,networking,1760.61,2026-03-05,Angola,Tablet
+65789998-1bf5-4429-93a1-8ecd6c042e7b,Internet,367.42,2026-03-03,Austria,TV
+fb363568-5105-4672-b22a-2616c5cbf0f9,TV,845.44,2026-03-01,Saint Kitts and Nevis,Tablet
+ca40844d-6092-45e1-b9d8-2cb3d5d53e01,networking,1623.27,2026-03-05,Korea,TV
+31ab65f9-9cb1-4037-bc53-01e0fc64e358,TV,1706.31,2026-03-02,Samoa,Internet
+8b3bb0fc-ac44-4f38-af7c-a2e1c3451544,networking,1667.46,2026-03-01,Armenia,TV
+3414a371-e800-4152-aa43-380ec35e11ba,web 2.0,795.77,2026-03-07,Cook Islands,TV
+07741061-53e0-40fa-a8fd-6d44a37ab4a8,web 2.0,1632.07,2026-03-02,Argentina,public
+a3a921c7-c1c9-433a-a734-5378fbbabf4f,networking,777.55,2026-03-06,Moldova,Internet
+7d1a6f17-ceb1-4564-8303-289d80841007,Internet,769.21,2026-03-05,Denmark,Tablet
+e40d78ee-da46-4a3d-9686-bf6657f8e7b4,Internet,1401.68,2026-03-01,Mauritius,TV
+3797ad4c-8613-40c3-96b7-d53da855845b,Internet,1951.33,2026-03-01,Taiwan,Internet
+56cbbc74-2a47-4e49-80ec-75b60f08e315,Internet,675.34,2026-03-03,Svalbard & Jan Mayen Islands,Tablet
+21d21741-c9bd-4d60-bad3-4c0888441ed5,web 2.0,1553.54,2026-03-04,Cayman Islands,Tablet
+f3388799-2a2a-426a-b62e-5cde2253fa2b,networking,1822.84,2026-03-03,Burundi,Tablet
+56f3f51b-8a8d-4bac-be3d-581c1f87bbc4,networking,805.11,2026-03-01,Guinea,Tablet
+e3babe6b-8557-4463-a939-3008bd2038df,networking,1295.63,2026-03-02,Singapore,Tablet
+030592bb-3d94-40f1-bfe8-71b09b41e4b9,networking,1672.83,2026-03-07,Vietnam,public
+a5d8f205-4657-411b-9d89-c80262f09ddf,TV,1000.49,2026-03-05,Greenland,TV
+e5f2b150-2686-4fcb-a4a0-1cf1cfe4b955,networking,1282.92,2026-03-03,Malaysia,Tablet
+b9c0f066-21fe-4921-abce-9df9d0b71ed2,Internet,1460.11,2026-03-02,Papua New Guinea,public
+0a771347-9a9f-4574-a2a6-50019c2e920d,TV,269.33,2026-03-06,Iceland,public
+6c082711-98a8-4843-91e4-24e98fd76500,TV,1358.02,2026-03-01,Romania,TV
+cc0b7518-4aa8-4caf-8ee0-bf54733ae3a2,Internet,1301.77,2026-03-04,Ukraine,Tablet
+b79bb666-1c84-421d-9c49-5e6f06555fbf,web 2.0,210.29,2026-03-07,United Kingdom,Tablet
+c0af4222-8e21-4bf5-bc71-d03c2d7cde30,Internet,1108.21,2026-03-01,Congo,TV
+b99b8cbe-14b3-4899-a0d1-8744d64b1d35,Internet,1816.62,2026-03-03,San Marino,TV
+c4381e5a-338d-4c6d-8228-a8ceeee70337,networking,1421.41,2026-03-06,China,TV
+1d13feef-7062-4c82-8de3-0c14fbb7fb99,web 2.0,1754.4,2026-03-04,Georgia,Internet
+3b571042-8d88-4a76-bf13-865a63b27375,Internet,1532.09,2026-03-01,Austria,TV
+88928266-6eb1-47ef-96db-7c5e16b4702b,Internet,769.31,2026-03-02,Algeria,Internet
+0cb24855-2b72-464c-ad22-ad731a18c982,web 2.0,1345.53,2026-03-03,Cayman Islands,Tablet
+51580df3-ac77-4c95-9449-e51160a8d28b,networking,1391.62,2026-03-04,Uganda,TV
+d9cb30cc-a686-4978-882d-def98457ec30,Internet,1891.08,2026-03-05,Faroe Islands,TV
+d7707805-93df-4e39-b8ed-190a6f918573,Internet,1788.77,2026-03-04,Jamaica,Internet
+7042d6b6-51d6-4379-9952-d4245aa6a58f,TV,1761.9,2026-03-05,Philippines,public
+5ba2f4a9-992c-4e57-9a52-e088df9c311c,TV,1228.19,2026-03-01,Israel,TV
+a52a1158-69d5-4563-ab3f-c5e90f19ad4c,web 2.0,1411.47,2026-03-07,Iraq,Internet
+ae2552d5-442b-43ed-b4d6-165c65991f57,Internet,193.29,2026-03-04,French Polynesia,public
+fa90ff2b-cde9-41ed-83c6-2d10621b79ef,Internet,635.63,2026-03-03,Jersey,Tablet
+1efe4dab-d9af-49d2-84db-147b1744db0f,networking,1958.47,2026-03-04,Kazakhstan,Internet
+909fdcc7-a8d8-4b3f-aa2a-bb354683ddbf,TV,1656.37,2026-03-06,Uzbekistan,public
+2c28b9e0-0d50-4399-951d-beda7f4c0685,web 2.0,1856.2,2026-03-02,United States of America,Internet
+f25ed42b-5df4-40cc-bca1-4b2ce3a522b0,Internet,1687.62,2026-03-01,Bolivia,Tablet
+b33b3f5c-6574-436b-a16a-d8ed93314246,Internet,64.49,2026-03-07,Malaysia,Tablet
+6cd9b0c1-8b15-42a2-8237-def9689ad680,web 2.0,1154.18,2026-03-07,Cook Islands,Internet
+0db5c2d9-ade5-460a-9247-c9d83cc3a844,TV,658.14,2026-03-01,Japan,public
+92133a2a-4fa1-4760-93b2-4b52fed19fdb,web 2.0,605.19,2026-03-05,Yemen,Internet
+e4bb6119-4422-466f-b6cc-a47d5f5d20d5,TV,1310.44,2026-03-02,Bermuda,TV
+00c4f32f-ff91-49d8-886c-4beb3a73ab76,Internet,975.37,2026-03-03,Australia,TV
+b5fcb428-4646-412d-8137-14fdf0439674,TV,38.61,2026-03-02,Burkina Faso,Tablet
+472cb7d6-715d-4d3d-9cb3-73fd57690de9,web 2.0,1050.37,2026-03-03,Guatemala,public
+5f030b65-a19e-43b5-91f3-4235b92033af,web 2.0,772.51,2026-03-02,Guam,Internet
+568088dc-7373-4838-a51e-cc02d2459f6c,TV,1838.07,2026-03-06,Bouvet Island (Bouvetoya),Tablet
+13f94442-a04b-4ec2-ba3a-4ec06f9510b2,TV,386.41,2026-03-03,Anguilla,public
+2db7047c-626d-4061-bd2e-5862030c2e9d,TV,729.81,2026-03-02,Jamaica,TV
+c9621cc8-eafa-4ac5-a7e2-3c503ba2bb2b,Internet,62.37,2026-03-07,Togo,Internet
+32032809-03b0-4b7c-b502-ad24d5e319b4,Internet,1514.8,2026-03-03,Mongolia,public
+62400f02-585b-4110-8c0e-d8467bb40cf1,networking,1833.31,2026-03-07,Haiti,TV
+27ac9056-5b3c-449a-ab09-4332f22368d1,Internet,1659.98,2026-03-03,French Southern Territories,public
+a90bf301-0c9f-443b-9c16-d013744cfdde,Internet,782.92,2026-03-04,El Salvador,TV
+0d1fc709-be5c-4134-96f8-283c32bb82e1,networking,1570.42,2026-03-03,Wallis and Futuna,TV
+66b96944-1a31-4ce1-8a7f-5860a27b7a68,Internet,1794.01,2026-03-01,British Indian Ocean Territory (Chagos Archipelago),public
+5a434786-a727-41f1-bf6c-81472dd5e5b8,networking,896.35,2026-03-05,Tokelau,Internet
+57cd1bcf-25e9-43f3-9890-b9a6bcdeebd1,networking,666.28,2026-03-03,Cyprus,Internet
+8d9e6a01-2bde-4720-a7f2-b3ae395e7592,networking,95.72,2026-03-05,Argentina,Tablet
+ac47c215-205c-4c26-b5b5-339526d904bc,Internet,979.72,2026-03-04,Senegal,Internet
+2140fa01-f588-4667-bbf3-d9621b3c9991,networking,1172.65,2026-03-04,Cyprus,Tablet
+322c5305-52e0-4f4b-95b9-26ee365736e2,TV,1468.23,2026-03-02,Dominica,public
+cd171796-689b-4e59-9b0d-ee30f6a92a6f,web 2.0,1704.02,2026-03-04,Reunion,Internet
+28ae48cb-6b8d-47e0-8797-ff0d62d4c644,Internet,32.72,2026-03-06,Austria,Internet
+3714315a-2680-484e-af7e-792c8992e32a,Internet,1493.84,2026-03-07,Solomon Islands,Tablet
+67e59be5-ca1c-45a3-b13f-c7a8124ad9e3,Internet,11.55,2026-03-05,Tonga,TV
+f5cc14ac-1603-4384-8f23-a96ca26e8280,Internet,905.07,2026-03-06,Mexico,public
+6661917a-dd26-4e1c-91cd-8be8bad7663b,TV,233.3,2026-03-05,Honduras,Internet
+73d04568-efa6-4116-9829-37b6392a383d,TV,717.64,2026-03-02,Israel,Tablet
+2e2f45e5-931c-4db9-9c21-938a312d1f21,web 2.0,319.7,2026-03-04,Philippines,Tablet
+b532124f-5d49-4f4d-95d6-429eef0b279a,networking,1504.75,2026-03-03,Svalbard & Jan Mayen Islands,public
+dbb4d507-72b0-444b-bf25-e1d6e40cb004,Internet,749.82,2026-03-05,British Indian Ocean Territory (Chagos Archipelago),Tablet
+afde3a17-9b3d-4d64-8687-37308b00b280,networking,1798.21,2026-03-02,Papua New Guinea,TV
+647960f7-c5f3-430a-a617-df48d52d83b1,Internet,1893.71,2026-03-06,Saint Helena,Tablet
+c2db328b-306b-4031-a847-532e69b0c891,Internet,1996.61,2026-03-05,Zimbabwe,TV
+3ae0038d-78cc-4f89-b927-61b9842214be,TV,451.45,2026-03-03,Bulgaria,TV
+4d18819a-20a6-4f26-9a74-f250743253a0,networking,222.63,2026-03-07,Cayman Islands,public
+d9cc230e-4dda-4668-bf67-1cb7bd268690,Internet,593.75,2026-03-05,Nicaragua,public
+26d56044-bc55-434b-96f2-e6b2d124737a,networking,381.34,2026-03-02,Hungary,TV
+666b90e8-f1cb-4027-a3f6-3fb57ed73b40,Internet,111.32,2026-03-04,Greece,Tablet
+84bb4c48-8a7a-43d8-ac51-9db189a67a96,TV,127.3,2026-03-05,Tokelau,public
+6f897ae6-d37b-4505-bd57-3c82d67d1e96,Internet,262.76,2026-03-07,Austria,Internet
+e7444083-efe9-4e74-a108-956ec956acf4,Internet,63.22,2026-03-02,Western Sahara,public
+ba113748-036b-4e9a-9684-8a2e9451757b,TV,453.47,2026-03-05,Philippines,public
+8bf0ce32-c84a-43bb-b90d-b1b4f5ad46f0,web 2.0,1748.36,2026-03-07,Algeria,public
+515fa8cf-d73b-4980-9b59-07c7acb60b2f,networking,32.72,2026-03-07,Bermuda,Internet
+3e45acac-93e4-4cea-aed4-b386313687b0,TV,1613.11,2026-03-01,Greece,TV
+3abfdcd4-d9ef-4dec-9213-261f51d29818,Internet,548.12,2026-03-01,Nepal,Tablet
+45d9b9f3-d792-43f9-9bf2-3a08a8a2b046,web 2.0,1523.83,2026-03-03,Cayman Islands,public
+e781d03c-6269-4317-81ca-629b628091bc,Internet,1105.16,2026-03-06,Liechtenstein,public
+f37d9630-9fc1-40db-bda7-2e1614484c2b,web 2.0,1928.53,2026-03-07,Thailand,public
+b5a3e14b-ec60-4b31-bfc1-6e26742bf950,web 2.0,634.42,2026-03-01,Tanzania,public
+0824e53d-79c0-4ec3-81db-1199b292c594,TV,935.81,2026-03-01,French Polynesia,Internet
+388647cc-d126-43be-8e34-29c5fa67e52a,networking,1314.7,2026-03-05,El Salvador,Internet
+5b133d72-fd9f-45d1-a0a3-16f0754baddd,TV,1172.03,2026-03-03,Venezuela,TV
+9b538c45-a601-4802-9527-25d5bf87fb2c,networking,794.03,2026-03-04,Malta,TV
+f2ce0bf3-a53b-4370-a918-4261e19af4b7,Internet,685.26,2026-03-06,Christmas Island,public
+3ef6aaf1-a305-4de2-8162-4b94cb89731c,web 2.0,41.76,2026-03-01,Mozambique,Internet
+0f7ec9f4-2d86-454a-92e2-add06a111021,networking,1495.7,2026-03-07,Morocco,Internet
+3b6c7a1b-256a-4f36-9819-b9818554fb64,web 2.0,497.93,2026-03-04,Bahrain,public
+5befc3ee-e7bc-4e22-b6b4-f320b456dc4c,web 2.0,1664.3,2026-03-05,Spain,public
+701fd353-f277-4296-af48-3347a47dabdb,Internet,1837.01,2026-03-06,Guinea,public
+157efdc8-f558-4dbe-af0e-9e4f31a46580,Internet,1299.24,2026-03-04,Samoa,Tablet
+e52163a6-652f-4d54-8b57-26f22dfe42ae,networking,329.96,2026-03-03,Saint Helena,TV
+f02d11da-3046-45be-833f-51cfdc8c3d8d,web 2.0,744.74,2026-03-05,Sierra Leone,Tablet
+479c56cf-9e63-4691-8c24-1eaff59b5877,TV,420.45,2026-03-06,Comoros,Tablet
+c7601808-59c3-4ef1-952f-38ff38cbce9a,TV,1265.84,2026-03-04,Uruguay,Tablet
+d4eadd0e-288b-491e-85b8-17db84b833b4,Internet,1809.86,2026-03-01,Eritrea,TV
+f3f3aec7-161c-4759-a68a-627c336afd18,networking,203.26,2026-03-04,India,Tablet
+989d0e38-9b60-439d-9b23-428d3890a484,networking,490.19,2026-03-04,Georgia,Internet
+5055b8dd-b211-47bf-8f58-dd072ba1f499,Internet,1887.4,2026-03-05,Peru,public
+ad27a1cf-8bda-4372-a498-a406928d770d,web 2.0,258.23,2026-03-02,Sweden,Tablet
+1644e5a1-4c78-4ea3-8353-83c2d3f4e409,TV,813.03,2026-03-05,Suriname,TV
+0a8e467d-2d7c-4497-9562-0cfbee0ae3bf,Internet,1164.19,2026-03-02,Senegal,Tablet
+8dfc791f-e04a-46d9-8b31-934ed5cd452b,web 2.0,794.43,2026-03-03,Faroe Islands,Internet
+b3b1fefb-a61b-4d61-89ff-dc7f211bd29b,TV,96.53,2026-03-03,Lebanon,public
+9d4764c4-5975-4021-9191-4b884b16720b,TV,1629.55,2026-03-05,Greenland,Internet
+ee875c2e-e48e-48c6-ba22-20818f72986b,Internet,1259.17,2026-03-03,Mozambique,TV
+d4544930-0ff4-49f8-b906-8d47109f0b11,TV,1616.73,2026-03-07,Canada,public
+2f176066-63b8-4f54-8a25-b934daa406db,TV,208.69,2026-03-07,Gibraltar,Tablet
+84faa283-ec68-40f5-8263-c5dee56076fd,Internet,1126.41,2026-03-02,Tokelau,Tablet
+b4d1efea-9a22-4557-8a44-a34994d38056,networking,1697.96,2026-03-02,Hungary,public
+81eab2c0-fefb-48d4-bb16-b49f51e625d8,web 2.0,895.94,2026-03-05,Korea,Internet
+fd43ac7d-3888-47b9-83bd-0c2d21b104ba,Internet,326.26,2026-03-01,Lesotho,Internet
+ddd974f3-c1cd-406a-9c5a-e7ff3404fceb,networking,1250.92,2026-03-06,Liechtenstein,public
+e8ce55c6-7d8a-4b99-85f1-2681fc79c26e,TV,1208.22,2026-03-05,Korea,TV
+24813747-453c-4149-aa98-6c659007785e,TV,1405.4,2026-03-04,Benin,Internet
+91809742-5a10-4b9c-9f17-a39f9b709cb8,web 2.0,445.77,2026-03-04,Qatar,Tablet
+ec5af752-ffd2-4042-b7e0-426b0e155357,Internet,1799.03,2026-03-07,Kuwait,Internet
+7a053638-a399-42a5-83da-9cb348231dd3,Internet,420.53,2026-03-03,Algeria,TV
+9c382493-d74a-4a83-abdd-17800579c0c7,TV,1940.45,2026-03-05,Benin,public
+b5a8c9ac-cfaa-4211-a41a-5493866504e9,web 2.0,700.57,2026-03-03,Palestinian Territory,Internet
+018c422f-c1eb-492a-973b-90f2faa9c4dc,Internet,910.87,2026-03-07,Palestinian Territory,public
+5fd737ed-9526-4a1f-9e39-09ed967a58f5,TV,458.34,2026-03-07,Turkmenistan,Internet
+df8d8968-6cfa-444b-b762-b95ce0274857,web 2.0,1617.68,2026-03-03,Switzerland,Internet
+e21b6c3f-1800-4822-af4e-471948989af4,TV,68.43,2026-03-06,Kuwait,public
+b3366946-aba1-4750-9fd3-eb25341bda1e,TV,1369.61,2026-03-06,Antarctica (the territory South of 60 deg S),Internet
+5f0e2d01-5816-47fc-a6ce-23464f03c287,Internet,210.26,2026-03-07,Reunion,public
+baf75ab0-6490-48a7-9b57-3e3c9f1672f9,TV,569.15,2026-03-02,Monaco,TV
+dcb5dfb4-c109-40a9-9256-1809952ffd80,web 2.0,1874.85,2026-03-03,Turks and Caicos Islands,Tablet
+f712b01b-0bf3-47c3-bcd1-b7fafb5aae34,Internet,1394.42,2026-03-01,Cyprus,TV
+a46cc2cc-267b-4556-9b8a-e0a3dc66d471,web 2.0,544.83,2026-03-04,Bouvet Island (Bouvetoya),public
+1a04b719-03f2-49c7-bdda-68c9753a4c9b,web 2.0,1639.49,2026-03-03,Albania,public
+0ec384c9-6898-4da3-a30b-5ec7f49682cd,Internet,1534.28,2026-03-06,Comoros,public
+cb58b4a1-73ec-4f67-8e9e-08e87e28d97f,networking,578.87,2026-03-07,Switzerland,Internet
+49d06ee0-ba7b-4bf1-8d08-ece3b0e9fa8f,networking,1512.83,2026-03-06,Panama,Internet
+88163338-2240-4d45-b84e-c272a0a4a31a,networking,1396.08,2026-03-06,Palau,Tablet
+875b64b0-72db-4193-958f-c738e5c2c417,TV,1585.19,2026-03-01,Bulgaria,Internet
+25c9255a-847a-4d60-a72a-06576aa3effe,TV,1981.44,2026-03-03,Kenya,Tablet
+467a4113-22ec-427c-a869-1188ae4f232d,Internet,784.83,2026-03-04,Mongolia,TV
+e12ff303-f9fd-4657-80a2-0a750475719f,web 2.0,823.0,2026-03-01,Antarctica (the territory South of 60 deg S),TV
+b25c8402-d557-4eaa-9820-dbc50013425a,Internet,30.64,2026-03-01,Solomon Islands,Tablet
+3abb8e47-428e-403f-8aad-b0293ca12e63,TV,887.52,2026-03-03,Montserrat,public
+edc9d969-be1e-4486-bb6e-2047d89fbeec,TV,1866.73,2026-03-04,Sao Tome and Principe,public
+ab4d7fa5-9d5b-4438-ad9c-a3f55b5d70fb,TV,489.75,2026-03-02,Philippines,TV
+3686f039-61f5-4fee-b495-06e1f9357670,TV,1202.55,2026-03-03,Sri Lanka,Internet
+4b9a819f-ab03-4f03-9f25-9763f8da9dab,web 2.0,1132.26,2026-03-02,Lithuania,TV
+65e178ab-1eed-4be4-9998-e431229c668d,web 2.0,952.92,2026-03-07,Trinidad and Tobago,Internet
+4258123c-8045-4a0a-8850-2eafc65264fa,TV,350.98,2026-03-04,Saint Kitts and Nevis,Internet
+ee337dc1-259e-4c76-a859-9ee68a6e8f65,networking,252.77,2026-03-07,Bolivia,public
+283ac99f-6482-41b1-884f-97622391d60c,Internet,1947.73,2026-03-06,Cyprus,Internet
+21e64a7f-103a-4690-90b7-977f0bfe75ab,web 2.0,409.77,2026-03-04,South Georgia and the South Sandwich Islands,Internet
+1b74584b-1395-4bda-8a99-425163bc53fa,TV,400.4,2026-03-07,Namibia,Tablet
+db9e6876-8df9-4fe1-b073-096920bb49e0,networking,1292.71,2026-03-06,Benin,TV
+c438ddf6-8fa4-46a6-aeb9-27c9dfffe8a9,networking,167.37,2026-03-02,Belize,Tablet
+03b32ebe-54a9-43d6-b31b-99c8e143d6f0,Internet,183.28,2026-03-07,South Georgia and the South Sandwich Islands,public
+52abd62a-0ddf-422c-8c05-3ffd030bdf6d,web 2.0,949.82,2026-03-07,Equatorial Guinea,TV
+b587d5e3-7516-444d-a3f9-b694858008e5,networking,1303.0,2026-03-05,Palau,Tablet
+8745c214-b18b-48cb-bfbd-24db2f074955,Internet,887.45,2026-03-03,French Southern Territories,public
+76da5f1e-7887-4a48-b57e-59e86511a551,web 2.0,1189.82,2026-03-06,British Virgin Islands,Internet
+71730eac-47d8-4888-946f-50636771a4f6,web 2.0,1564.31,2026-03-03,Slovakia (Slovak Republic),Tablet
+4e2bc284-b447-4375-9f2e-e990fec5ee9a,TV,193.56,2026-03-05,Trinidad and Tobago,public
+a5287eb1-51c3-47f2-8117-a663c62b40e2,web 2.0,117.37,2026-03-02,Bulgaria,public
+a398d4bd-b16a-46b3-829a-d57a270190bb,Internet,1035.27,2026-03-06,Togo,TV
+e8ba5671-92fc-43c9-b783-a9bf94215531,Internet,250.27,2026-03-05,Canada,Internet
+8386ecf8-4753-4b60-899c-806049576c33,web 2.0,1478.25,2026-03-07,Latvia,Internet
+0f8f58b8-c838-498b-8f15-29bdda4fa9bb,web 2.0,410.69,2026-03-04,French Guiana,Tablet
+640077fe-2274-4aa2-89cd-63ace5fb0df7,Internet,740.73,2026-03-05,Montserrat,Internet
+af254596-a081-4e10-9cd5-d947f9e1b38d,TV,1971.29,2026-03-04,Malaysia,public
+a9b1dde0-7d58-424e-97c8-0822ddf23af4,networking,639.5,2026-03-07,Maldives,Tablet
+f0054088-a49c-454c-9e75-061d5c03bc01,web 2.0,72.66,2026-03-05,Angola,Tablet
+4e237d8b-a924-4d6b-80fa-135d7bbbf035,web 2.0,196.64,2026-03-01,Gibraltar,TV
+cbcaef27-5e8b-46da-8e3e-6f1a7b416967,web 2.0,819.56,2026-03-01,Chile,Tablet
+8c3fe0cc-69ae-4acf-8ecc-8afa5dad1c45,networking,1757.26,2026-03-05,Lebanon,public
+42fad952-aaca-40e3-bd37-d5d905472ef9,web 2.0,1437.62,2026-03-07,Korea,Tablet
+ff87718e-6228-4208-bfa7-abb2fb95c8e9,networking,569.22,2026-03-04,Greenland,public
+d0fd02a5-62b2-42f6-98fb-bd526be16137,Internet,414.07,2026-03-01,Georgia,Internet
+60cc6186-a3e0-424f-aa05-5ffb93ca483d,networking,1658.36,2026-03-02,Saint Vincent and the Grenadines,Tablet
+67000051-d52a-44eb-919c-50560e4fbd17,web 2.0,362.03,2026-03-02,Bulgaria,Internet
+d4c7ddf1-288a-4a9e-b643-59e459267cac,TV,964.93,2026-03-05,Netherlands Antilles,Tablet
+d93d615a-e78b-4fa4-9f74-7ceae37d4211,Internet,51.55,2026-03-01,Malawi,public
+7ecae945-8394-4ef5-a0fc-093be3445cd6,Internet,1667.37,2026-03-02,Congo,Internet
+2ba1f869-247d-45d9-8f17-48120f402011,networking,858.54,2026-03-07,Cape Verde,TV
+9fbb02f0-a1f5-4911-a2f9-9ab58fb9f618,Internet,1947.44,2026-03-07,Swaziland,Internet
+c0a368c9-eac1-4cd9-8272-c9485d8ccbe4,web 2.0,1727.28,2026-03-06,Holy See (Vatican City State),Internet
+0f817071-208d-4583-a53a-3190af413e30,TV,1450.87,2026-03-03,Moldova,Tablet
+5af45f30-33dc-4dd5-a3a5-76085832ff06,Internet,577.03,2026-03-06,Cook Islands,Internet
+da618285-4915-4b5b-939a-446545cbbc3b,networking,1532.96,2026-03-02,Zimbabwe,Internet
+e4e67b5d-943d-4ece-b6f7-af94980f7d05,web 2.0,1529.24,2026-03-05,Tuvalu,Tablet
+bd9edea6-1b07-4a1f-aa4a-6b5baa57e561,Internet,932.68,2026-03-07,Turkey,TV
+50f91f1e-2665-4307-88ce-92a7b38c2bfd,networking,1715.65,2026-03-01,Liechtenstein,public
+e220f327-9e70-4fc9-bb4b-db90c376da20,TV,14.45,2026-03-02,Bulgaria,public
+71d4004e-7601-4787-bc7a-606e2a0504ab,Internet,1873.86,2026-03-05,Seychelles,TV
+0c5ca812-2016-4801-913f-4d596b7c0136,web 2.0,1398.59,2026-03-06,Lebanon,Tablet
+15db33a9-7932-4a62-9875-014e28eef612,Internet,1172.25,2026-03-02,Djibouti,Tablet
+2622be89-fb4c-4288-9fba-7ad434c5959e,Internet,1955.58,2026-03-03,Czech Republic,TV
+f14692b4-2931-4a50-9f5d-15f19678660a,networking,58.72,2026-03-05,Montserrat,TV
+b86d06ee-0622-401b-985b-50fad5f5ed0a,Internet,143.31,2026-03-05,Hungary,public
+486f6450-9bb1-4936-a3c4-593c584d0dcf,networking,430.04,2026-03-01,Brunei Darussalam,public
+300e9b10-ce3a-4af9-b902-dfdb71e691d1,web 2.0,724.43,2026-03-02,China,TV
+9fc51b9f-b656-45eb-8a43-abfc9f032ae4,Internet,642.28,2026-03-04,Burundi,public
+a0b1cc67-ec92-4943-aaba-c66f5ffab4e4,networking,1015.45,2026-03-01,Moldova,TV
+65051d0a-cca2-4e72-9e4f-4d74c7eeeb4d,networking,1408.45,2026-03-02,Djibouti,Internet
+c0bc4c0b-df66-4641-ac18-2fef03b22749,Internet,98.83,2026-03-04,Dominican Republic,TV
+11b3f848-4115-4e42-93db-5c6cd6e5ec86,Internet,15.52,2026-03-05,Iceland,Tablet
+0a08d561-7524-441d-8686-fbb6b88fa347,Internet,1438.94,2026-03-06,Portugal,Internet
+94c766cd-94be-4e68-9480-5ce38f5db35f,web 2.0,239.79,2026-03-02,Western Sahara,public
+499db3ba-6383-476a-84e0-59909e5603d1,Internet,1868.49,2026-03-05,Western Sahara,public
+879f64f5-507b-44bb-a34e-38f9573d74b4,networking,852.7,2026-03-05,Morocco,Tablet
+00b0e9b9-2001-44d1-bebb-dc8cad45ab62,TV,137.3,2026-03-03,Belgium,TV
+4b155304-6351-4c00-a7e8-8ece4d7e3d8a,Internet,1100.22,2026-03-04,Peru,TV
+714bc78f-018c-4b15-a03c-be3ed54b38aa,TV,1755.54,2026-03-03,Namibia,Internet
+4b2f1baf-80c9-4b57-9be1-926ac94dccf2,Internet,956.29,2026-03-04,Peru,Internet
+938f9801-4d72-43a6-bfaa-9bae1cfec426,networking,1887.04,2026-03-03,Belize,TV
+3add779a-f281-4ea6-96d1-38fe8cb4541f,TV,1975.77,2026-03-06,Austria,public
+e046c790-92a5-4a23-8a46-9d2c89b3d3b4,networking,640.89,2026-03-05,Israel,public
+f9bd1bcf-2c5d-4d90-b084-552794fc6813,TV,320.42,2026-03-04,Ethiopia,Internet
+484e8c57-1cab-4aa1-8dc4-11b13e818663,web 2.0,834.18,2026-03-04,Equatorial Guinea,Internet
+b5ac3c87-a2a1-4d5f-94cd-cd2352e72e18,Internet,1380.68,2026-03-01,Mozambique,public
+58b6ea6c-6fc3-4da8-9cc9-bbd8009725a1,Internet,334.63,2026-03-05,Tunisia,TV
+96fa1d5a-c8be-4be5-833d-337e3f8705bb,TV,327.82,2026-03-06,South Georgia and the South Sandwich Islands,Internet
+0dace1be-2524-47dd-8daa-0ee7b50ba58d,Internet,1249.47,2026-03-06,Austria,Internet
+87918760-3c11-4ba1-bc12-538a42eaee25,networking,1111.92,2026-03-03,Angola,public
+8c962a67-13ad-4ada-a386-9c4ab27fff22,web 2.0,1511.46,2026-03-06,Northern Mariana Islands,Internet
+c6c31fb2-1cd2-47c1-a262-3aa8ac4a49d8,Internet,890.73,2026-03-01,Christmas Island,TV
+2eaf9b14-c8a4-461a-a37e-2f72b98f3f3e,Internet,1450.09,2026-03-04,Iran,Tablet
+80280243-867f-4cc4-b0c2-20f702e60f50,TV,84.56,2026-03-04,Switzerland,Tablet
+3c755131-6122-460e-a363-e4090558554a,Internet,369.07,2026-03-06,Turkmenistan,TV
+11669e19-01fc-4d87-9fc7-f90e4adc776f,networking,1729.6,2026-03-06,Palestinian Territory,Internet
+0fd3bc9a-3a8b-47d7-a89b-e03cba6294b5,networking,1016.8,2026-03-04,Iraq,Internet
+bbedbf55-0e38-493b-8eab-c95b77abb1c1,Internet,1229.82,2026-03-04,South Africa,Internet
+d3473ca7-cb37-4cfb-920a-9bcb20ad88b4,Internet,1547.77,2026-03-04,Sri Lanka,Internet
+0ef0b8a8-a05b-47d2-912e-b7188cc4fcb6,web 2.0,1675.96,2026-03-06,Papua New Guinea,public
+9fbf5a93-f117-4711-8474-8b1992b477d4,TV,37.23,2026-03-03,Tunisia,public
+6342eafa-a92b-449d-b6c8-aacfd768446c,networking,1470.17,2026-03-05,Slovenia,Internet
+6f2dd226-fba2-4fa8-b23b-7e0f57d019cd,web 2.0,1050.23,2026-03-07,Northern Mariana Islands,Tablet
+2dea66d4-9e93-4772-a773-98674d2925e3,TV,1741.68,2026-03-07,South Africa,public
+4b46b0c9-29ad-4635-800e-740c181f09d3,Internet,1084.9,2026-03-03,Mongolia,Tablet
+60397772-fbc2-4636-a888-7d7b7ee94bf6,networking,1184.81,2026-03-07,Iran,public
+8bf770ed-2f5d-49a8-9a5b-ee05098316d9,networking,645.94,2026-03-04,Mali,Internet
+43f081df-960a-4b50-b6f1-ffe2263d4814,networking,1031.44,2026-03-03,Israel,public
+4c7f2242-d6ca-42ad-adc1-a378d050d71a,Internet,295.58,2026-03-06,Mali,TV
+cafcb7c8-f139-45f9-b0cc-b3ee139806db,TV,433.63,2026-03-03,Suriname,TV
+07414a65-2550-47ea-b42f-29d5217eb1d0,networking,569.99,2026-03-06,Bahamas,public
+3706c5c6-727a-4af8-845d-5aab0c376beb,TV,133.02,2026-03-04,Saint Kitts and Nevis,Internet
+8e042ecb-fd6d-4788-80a1-8f2547001da2,Internet,965.15,2026-03-06,Georgia,Internet
+35b5a03a-d4a9-4bb7-b2f3-a9f0fd91a7c5,Internet,727.46,2026-03-02,Belgium,Tablet
+8daae58b-1693-4dde-8dcd-801752b3dc6d,Internet,206.24,2026-03-05,Croatia,public
+b97d57ee-600e-4cc4-98ce-8f520743bc6d,web 2.0,1702.0,2026-03-05,Puerto Rico,public
+054e40a8-94b4-42bc-97a8-de98ce88bd7c,web 2.0,370.36,2026-03-04,Philippines,Tablet
+91bec02a-2596-444d-a1d8-59875ddfca37,networking,295.05,2026-03-02,Cape Verde,Internet
+896e3364-919b-42d8-90e2-1007c81036f0,web 2.0,1817.69,2026-03-04,Gibraltar,Internet
+89809109-9af2-4dc0-bc1e-838de77e4e7f,networking,1842.16,2026-03-01,El Salvador,Internet
+60f795a1-c505-41b4-9b09-3686345d9158,Internet,776.09,2026-03-06,Chile,Internet
+9155f12c-52a0-4970-ae6e-6b5924c5c034,web 2.0,1275.52,2026-03-02,Heard Island and McDonald Islands,Internet
+89111cd2-4fa0-442d-9d73-616a289fb61d,TV,1711.29,2026-03-06,Pakistan,TV
+79152569-1aa1-4ade-87f2-a56a5e70134a,networking,320.37,2026-03-01,Tanzania,Tablet
+a9cfbdd9-6068-44be-b759-9c36a84ceda5,web 2.0,1017.84,2026-03-06,Cuba,Tablet
+0d908044-da39-45d8-b987-33542cdcb9b7,networking,1825.01,2026-03-03,Kenya,TV
+1ea5a274-fa14-4565-a257-352c053e9d70,TV,385.76,2026-03-01,Montenegro,Internet
+771a7735-6f26-45e9-a2a9-9b36ded2da66,Internet,410.53,2026-03-04,Netherlands Antilles,public
+dd7a4ea7-1403-4342-9fe2-72b807b69050,networking,775.28,2026-03-04,Ireland,public
+d369e138-a6ce-4767-9847-7f86febecbc2,web 2.0,1697.15,2026-03-01,Switzerland,public
+db0c1a83-82a1-4299-b418-34ed3ad916d9,TV,1093.98,2026-03-04,Niger,Tablet
+6d9c84d0-28d5-4f12-82a7-d6912339beb5,web 2.0,1532.03,2026-03-07,Solomon Islands,Tablet
+687846fe-5409-4aaa-b36c-ed5ca86c8a1a,networking,1622.85,2026-03-02,Cayman Islands,Internet
+987be540-1a56-4ff2-bfd4-250c31769f07,web 2.0,1165.04,2026-03-04,Vanuatu,public
+dc862c64-8d36-4546-9d3f-89d2a14eb5b3,web 2.0,1933.21,2026-03-04,Spain,TV
+5875315d-3468-4287-af6a-258df60647c8,web 2.0,838.5,2026-03-06,Korea,Internet
+cbe0e09b-5393-40d6-9da5-02640aa2d826,TV,270.38,2026-03-03,Madagascar,Tablet
+c317e347-612a-4c8f-8d50-9966470939b1,Internet,1890.39,2026-03-02,Lithuania,Tablet
+fbd3e52e-cc39-4685-82d8-d93b56aa1047,TV,64.18,2026-03-01,Montenegro,Internet
+a85bcc34-5f10-484a-b66e-d0bc09f507ed,TV,364.8,2026-03-04,Isle of Man,TV
+330ee992-d5ed-4d86-975f-f95e1f92b9d0,networking,1585.18,2026-03-06,Central African Republic,Tablet
+457f41a3-81cd-4407-9dd1-09850dc173ee,Internet,173.2,2026-03-03,Uganda,TV
+acb6347f-65b0-448b-abb6-d39b1560a0ec,TV,1750.25,2026-03-06,Vietnam,TV
+b29832f0-3f87-4d7d-90d2-cb3a9bfae1bb,networking,1380.16,2026-03-02,Turkmenistan,public
+a86b9609-8032-433f-a0cf-8d6d6f1f8dda,Internet,648.66,2026-03-05,Tajikistan,public
+165663c9-f697-49d5-b764-fc3149ea96ec,web 2.0,1139.24,2026-03-01,Heard Island and McDonald Islands,public
+576c784b-a665-43ed-a470-c51ad52c000e,Internet,1115.05,2026-03-03,Nigeria,TV
+dd8e0cf7-a06d-4e75-b2be-2c73f68713d3,TV,1063.7,2026-03-04,Libyan Arab Jamahiriya,Tablet
+df722166-79a1-463d-8996-d3294fe9ec51,TV,891.88,2026-03-04,Zimbabwe,Tablet
+31c54c6a-f4bb-4e80-99d8-32e1ef29b194,networking,259.59,2026-03-06,Bouvet Island (Bouvetoya),public
+605aa9c5-ac2a-469f-9c38-8b657a46ac86,Internet,297.91,2026-03-02,Sierra Leone,Internet
+b3d9f6a8-2fb4-4586-839b-f6547c620203,Internet,316.77,2026-03-07,Saint Martin,Internet
+a28ae19c-28a1-40b5-856d-b83c59301a03,Internet,1040.14,2026-03-02,Montserrat,Tablet
+ba4b8dcb-61f0-4b20-81c1-78d04f5de290,Internet,666.72,2026-03-05,Madagascar,Internet
+75478804-6ac3-456e-91d5-f44d1c0a1b31,TV,1938.33,2026-03-02,Ghana,Internet
+2507740f-85ca-4d2b-8860-2cf69a0ad4ec,networking,137.36,2026-03-05,Puerto Rico,Internet
+00720078-9c14-48f9-ac9b-522e9ee9d991,TV,891.78,2026-03-01,Egypt,TV
+d1cade63-9011-4eb5-9761-595ae30c8ad5,TV,484.27,2026-03-02,Bahamas,public
+189c6323-8968-4dd7-b65d-9dfac9382e01,web 2.0,584.93,2026-03-07,Saint Helena,TV
+2bd74bb7-f23e-4245-811d-fff9b8ebe90f,Internet,879.62,2026-03-03,India,Tablet
+093a268f-3524-4b3c-b104-75dba0049acc,TV,975.55,2026-03-05,Turkmenistan,public
+fa024e1e-3ab5-41cc-b15f-423dfb44ef43,TV,322.41,2026-03-03,American Samoa,Internet
+c0fc78f4-e20a-4be9-848b-f24886ba40e4,Internet,1065.99,2026-03-04,Saint Kitts and Nevis,Internet
+ff82125c-2578-4b84-94f5-855b544c8fd1,TV,1115.53,2026-03-07,Israel,TV
+47389057-12ab-4cdf-aca0-91f59e485192,TV,828.93,2026-03-01,San Marino,Tablet
+25620757-1941-4974-8d12-dc560130bb98,Internet,1253.96,2026-03-02,Singapore,Internet
+f8e6f22c-bd5e-4cf5-88b5-afd0b034e5ce,TV,882.77,2026-03-06,Morocco,Tablet
+2f442530-96e0-485e-bf36-e5a73592141f,networking,751.97,2026-03-02,Papua New Guinea,public
+c69ed865-05aa-4f4a-ba4e-c95e6d65610e,networking,416.9,2026-03-06,Japan,public
+0cd80458-1bec-45b4-9b86-a9b78eaadfb2,TV,29.01,2026-03-07,Pitcairn Islands,Internet
+9357925d-5675-40b2-b56c-f08d240500f1,Internet,154.09,2026-03-04,Faroe Islands,Tablet
+b7ad199a-14e8-4486-8875-c0f7b11363d9,Internet,1721.26,2026-03-03,France,TV
+5508cb54-8fae-4d10-82fe-a951a51983d9,Internet,539.18,2026-03-04,Mongolia,TV
+3c98d4cb-fb71-4edb-a616-c11259b6ca0f,web 2.0,691.35,2026-03-04,Malta,Internet
+63d1940e-6dc1-4e89-95a2-e2a78a2703d1,TV,889.46,2026-03-02,United States Virgin Islands,TV
+8f7a7425-9b33-4031-984a-312b15f1edca,Internet,731.38,2026-03-03,Barbados,Tablet
+c278e7b0-2d22-4d13-8ac2-abc4b02b7230,networking,394.48,2026-03-01,Oman,Tablet
+af9e92be-49b5-4b00-b9d7-bce13103465e,networking,317.67,2026-03-04,Congo,public
+ea25fdb2-37b6-404c-a61b-b18c01b82887,networking,1748.37,2026-03-05,Azerbaijan,TV
+c457e9e6-01bb-4ac0-bbc8-8ac509b90d0b,Internet,439.96,2026-03-01,South Africa,Internet
+f1cd83f9-a064-48ac-97e3-e74ae23e6deb,TV,316.26,2026-03-05,Ireland,Internet
+d77c2037-eb12-402a-8d99-7bda6d8b9fe0,networking,521.13,2026-03-04,Somalia,public
+97752c31-5bff-483c-a167-2a8a848aa3bf,networking,1819.35,2026-03-02,Georgia,Tablet
+77eaf1f4-1801-4146-b55e-5c040e4191d7,web 2.0,1353.49,2026-03-04,Dominica,Internet
+9a21f2fd-9fc8-4455-aa9a-21e7984cf1d7,Internet,1174.11,2026-03-01,Montenegro,Internet
+84d6356a-a274-47de-85f1-d84a8950947b,web 2.0,910.72,2026-03-04,Korea,Internet
+9a4c09e2-4aed-4d1e-bd32-18987916f104,Internet,851.23,2026-03-01,Turkey,Tablet
+8f0437e0-5cfa-4618-93d0-117412220a7a,web 2.0,1426.13,2026-03-01,Djibouti,TV
+051c09b5-d43c-482f-bddd-4e6959c1bf99,Internet,1964.69,2026-03-03,Egypt,Internet
+719b901e-3e29-4031-9363-4cf95ea0cbb1,networking,290.66,2026-03-02,Korea,Internet
+0f7515a1-e3f1-453c-abef-9c0e6d783d19,Internet,94.72,2026-03-05,United States Virgin Islands,Internet
+5b214e85-021f-4ffb-a9b9-258e59179f71,Internet,1355.65,2026-03-01,Argentina,TV
+72bafd65-efff-455f-a4c7-705c2a98be14,Internet,1110.87,2026-03-03,Cayman Islands,public
+664a76e4-f7dd-41b0-bc02-15e1c798f102,Internet,869.19,2026-03-05,Peru,public
+c6092d93-be2a-43be-ad28-77743c6539cc,web 2.0,65.95,2026-03-04,Thailand,TV
+d783e357-7ae7-41fc-aa83-d02047a6e62a,Internet,992.89,2026-03-03,North Macedonia,Internet
+ac09e3ac-40ed-464b-8164-d8d747047c4c,TV,818.51,2026-03-06,Wallis and Futuna,TV
+b707e8d7-74af-4554-9c07-e908bb8057dc,TV,257.08,2026-03-05,Lithuania,public
+796b5878-a0b3-46a5-b9cd-f4e4ab2b2228,web 2.0,778.79,2026-03-06,Romania,Internet
+9582f1ad-2580-4f94-b25a-734f00d00b36,networking,575.13,2026-03-01,Greece,Internet
+fe243798-8298-464a-a765-9c7e24440d4f,web 2.0,1511.34,2026-03-03,Serbia,Internet
+1c2a8179-9030-4b0a-9eb3-26692f8ff192,web 2.0,498.6,2026-03-01,Niue,Internet
+03cec760-8de1-4ebc-88a3-701b9927e7cc,web 2.0,1269.04,2026-03-02,Kazakhstan,public
+0e3c43b2-1daa-46e6-96b9-ea6fa9194d8a,networking,1661.61,2026-03-07,Taiwan,Tablet
+dac995ad-5685-4d7d-9e71-1337f270e192,TV,68.71,2026-03-07,Botswana,Internet
+5dc53369-b9ce-44c4-86bd-5beb2f37e1cd,web 2.0,1951.3,2026-03-02,Monaco,Tablet
+f7a2ad8e-9b99-4768-8bc1-e3017f2ef5a9,Internet,1263.79,2026-03-03,Latvia,Internet
+3958848e-ef87-4cc1-9b90-98fdd02151f4,networking,1935.19,2026-03-05,Saint Pierre and Miquelon,Tablet
+7b880ad4-259b-4c25-84e7-575e27d01daf,Internet,1789.11,2026-03-06,Togo,public
+8347935a-2028-4c18-a6b4-683809eee1f2,networking,1878.15,2026-03-04,France,public
+9bd6ed12-7237-4252-af77-132637419866,networking,1407.9,2026-03-05,Portugal,Tablet
+024bed7d-74e7-4654-923a-92088f1f2099,TV,330.43,2026-03-03,Maldives,Tablet
+83024d79-4f1d-462a-81f0-9982ffa9d19b,web 2.0,1018.73,2026-03-01,Singapore,Tablet
+284e6d47-77f0-4835-aa3e-9103420a9e1b,networking,1300.08,2026-03-04,South Africa,TV
+427b082e-e883-4f46-8eb3-3bf89b35b4f4,web 2.0,400.38,2026-03-05,French Southern Territories,Internet
+4d5d1005-8247-4693-8c30-48d7e38756db,web 2.0,1604.87,2026-03-03,Hong Kong,public
+34484dc6-b863-462b-b76f-05ea06435c88,TV,239.24,2026-03-05,Reunion,Internet
+34a08e10-a689-4bcb-aa36-ee9e3cce8c7b,TV,1051.46,2026-03-01,Mexico,Tablet
+c784d8e5-cd48-4b0c-a99c-9a1a71e45e78,TV,1633.47,2026-03-03,Maldives,TV
+02195d4e-38ae-40b3-9658-ae49271dea61,networking,626.18,2026-03-06,Belize,Tablet
+1b7b0b22-cbec-44a8-9f2e-2faade3b8477,TV,1865.26,2026-03-02,Myanmar,Tablet
+89d34748-5ee3-42eb-b7e0-92c5fc31c340,TV,1060.58,2026-03-07,Jamaica,Tablet
+0a3d3917-ce68-4d7b-92fa-d5422dc3825b,web 2.0,372.35,2026-03-01,Zambia,public
+af199358-7457-44bd-aa6d-28f88def49f5,web 2.0,1266.68,2026-03-02,Myanmar,public
+d3f6168b-4496-4ce7-867f-f4345630e38f,networking,1311.27,2026-03-03,Australia,public
+d232e03e-45e9-4153-8be0-40d090797d04,TV,1975.63,2026-03-01,Russian Federation,Tablet
+a56f9e40-f218-4ef4-8db4-7810c52f2cbb,web 2.0,1126.71,2026-03-03,Nepal,public
+557e0209-f8bf-4efb-9b5c-97f494678b51,Internet,45.25,2026-03-07,Seychelles,Tablet
+c1623e19-95dd-4ab6-8074-db3716df007b,Internet,108.0,2026-03-01,United States Virgin Islands,Internet
+d2d00fed-f457-4edf-b3e9-98e94313bbb5,TV,1076.68,2026-03-07,Turkmenistan,public
+df015fde-150b-4cb0-81e2-fc5ebdb8bbe8,web 2.0,1815.68,2026-03-04,United States Minor Outlying Islands,Internet
+6378361b-08b7-4b1f-afd3-e98e0b70c953,TV,768.68,2026-03-03,Ecuador,Internet
+4e11ad68-e2b8-48cb-a3f0-546f9e032bdf,web 2.0,445.04,2026-03-02,Iran,public
+c33e37a3-da49-4158-a867-abc4fe21b3d9,TV,1150.94,2026-03-07,Palau,Internet
+30939598-978c-4802-bc82-acb2902983de,networking,731.94,2026-03-06,Oman,TV
+d1cd40aa-3a69-4f2f-b38b-cf9b5432646a,web 2.0,865.69,2026-03-05,Malaysia,Internet
+0d5566fc-a17d-4a79-ab52-39e053bdfb6d,Internet,280.48,2026-03-02,Jersey,public
+c40b1b96-7629-47d1-920f-4e08aa84aa60,Internet,978.65,2026-03-02,Mexico,Internet
+206808f6-0134-4d49-9067-7d259885a231,TV,1561.93,2026-03-04,Russian Federation,public
+e8dda084-a65f-4284-b3bf-2d5f98163f62,Internet,84.31,2026-03-07,Cameroon,Internet
+61a2df2d-57ee-4d4d-a015-e06c9feb4a42,networking,1290.63,2026-03-07,Martinique,Tablet
+b221ccbd-1f03-41dc-a3d9-b50e683abb3a,web 2.0,19.6,2026-03-05,Malawi,Tablet
+5525a7e3-7c7b-4563-91e1-da6150606a74,TV,910.54,2026-03-03,Saint Helena,TV
+a8a44b5a-381a-4b5e-b6d5-eb22452ac3b1,TV,1952.18,2026-03-02,Croatia,Tablet
+30f056b1-1b37-4a1b-86ad-166a9644724a,Internet,187.05,2026-03-04,Zambia,Internet
+d88ccdd2-ee83-4b28-8745-c5c370034f28,networking,572.99,2026-03-07,Morocco,public
+d371efea-a4c8-45d3-993f-6525055bb60e,TV,1973.11,2026-03-07,Tokelau,Tablet
+42af3ecb-7760-42a6-adce-ea5a02fb9097,networking,1998.42,2026-03-05,Iraq,Tablet
+4da5b4d7-7634-4892-bb3a-36ae18be92eb,Internet,853.21,2026-03-06,Iran,Internet
+5adf9058-e746-4d52-81ea-0f6a0a35ca10,networking,1451.99,2026-03-01,Liechtenstein,public
+01cc661b-c5e0-4875-9384-34553f1d2d58,TV,747.44,2026-03-07,Malawi,Internet
+43accd1b-73ec-4874-a4f3-9a9ab00d3f5f,TV,294.99,2026-03-07,Falkland Islands (Malvinas),Tablet
+6562ac93-3112-4fc3-9c17-8abbab9e19f8,networking,1283.46,2026-03-02,Morocco,public
+9210c686-7280-4c3a-a569-d7bbca81d0a1,Internet,1249.89,2026-03-05,Spain,public
+8d2c4636-7ff5-4a78-bead-0915724524a5,networking,893.19,2026-03-04,United States of America,Internet
+71d84807-4e06-41c8-8302-6adaace3f3e6,Internet,955.35,2026-03-02,Cote d'Ivoire,public
+a3f80c8b-6791-40e4-8156-1c33c765fec1,web 2.0,195.78,2026-03-06,Sudan,public
+fbf7b842-65b9-4e0c-9683-33e9dd514bea,Internet,1164.04,2026-03-02,United Kingdom,TV
+8dfc749e-6bd4-4b5a-a5fb-825ce5c9279b,web 2.0,90.73,2026-03-01,Austria,Internet
+f1d82c35-64e9-40c5-a513-3e6352a96d0e,Internet,1293.99,2026-03-03,Taiwan,public
+77165d8e-e954-46af-b8a7-1aae2fe0c86d,Internet,1917.95,2026-03-06,Saudi Arabia,public
+5c3c7342-8fab-4420-a931-6f64bee72684,Internet,515.68,2026-03-01,Anguilla,TV
+d1ea9e53-31e1-4eb0-b119-7374884e332b,networking,448.07,2026-03-04,South Georgia and the South Sandwich Islands,TV
+c1c67425-7960-4bf3-994b-10b7ec787228,Internet,138.67,2026-03-03,Bangladesh,Tablet
+336cc455-3e92-40e0-9175-410ec49fb085,Internet,1190.65,2026-03-02,Saudi Arabia,public
+c755755b-194b-45e3-9920-1104091eded4,Internet,1030.92,2026-03-07,Serbia,Tablet
+6df81c51-a3f3-445b-a946-d53a7c33cc22,networking,1046.38,2026-03-06,French Polynesia,Internet
+2c3e2e44-b9de-4d11-a579-f91696269db2,TV,530.09,2026-03-04,Northern Mariana Islands,TV
+2eaf1429-cc3d-4132-91aa-ab6a1227862c,TV,62.78,2026-03-03,French Southern Territories,TV
+e917b9c2-9393-4ff5-8f45-f912a26e2f29,networking,1611.5,2026-03-04,Moldova,Tablet
+7924530c-328c-4373-be24-c0f7a77cb39b,TV,536.54,2026-03-06,Montenegro,public
+cdc0733f-8fc1-4aa2-87fc-88f2c4a8ed66,Internet,1086.04,2026-03-02,New Zealand,TV
+6c8ae74b-9290-4e71-971b-38a87c39890e,TV,1944.3,2026-03-07,Slovakia (Slovak Republic),public
+01615a68-4067-451f-b510-4408cd4dd1a5,networking,1133.51,2026-03-02,Russian Federation,TV
+f019f5f0-16a5-417c-b688-f74f3d82cc4c,web 2.0,1367.6,2026-03-01,Georgia,Internet
+33ef48c8-8d75-4617-92ec-2ecbf33cbf0e,Internet,1977.01,2026-03-05,Peru,public
+e7ef47e1-c8ac-4e42-89e0-1a9c03abceea,networking,1599.53,2026-03-01,Ukraine,Internet
+54b7b708-b384-4272-bcff-3dae1ff3aa36,TV,1914.74,2026-03-06,Brunei Darussalam,TV
+7035d36a-c2aa-4e90-bf84-c5d2eafb5682,web 2.0,1259.2,2026-03-03,Seychelles,TV
+da1d391c-43ec-44af-b763-0354256ffb0b,TV,1271.54,2026-03-04,Swaziland,Internet
+06c9b0df-beaa-46d3-8d7b-d87a201e8bee,networking,740.99,2026-03-01,Guinea,Tablet
+942ec025-8ca9-41d3-a781-961878d6379e,web 2.0,691.86,2026-03-01,Georgia,Internet
+910accf9-53ea-4960-be9c-4afb8fe51628,networking,1073.34,2026-03-07,Antigua and Barbuda,Tablet
+ef996e27-2305-42bf-b369-1e8d53c13982,Internet,196.45,2026-03-06,Austria,public
+35624bca-40bc-4b34-a642-1b90815fc80b,Internet,1847.24,2026-03-04,Malawi,TV
+abd681da-c9c9-4cf0-b14c-903fe4158c71,networking,286.42,2026-03-05,American Samoa,public
+cda61272-62b7-4aa2-9a16-ad43500c1deb,web 2.0,1170.49,2026-03-02,Thailand,Internet
+00917472-301f-46de-88f9-50a846e0563e,TV,339.49,2026-03-07,Guatemala,Tablet
+ec9e8fdc-57b7-4e22-8513-879914673e98,networking,710.31,2026-03-06,Comoros,Tablet
+3fe4203f-ce77-4cdd-b210-fca28bcbb06c,TV,404.06,2026-03-05,Finland,TV
+7b2b5deb-31b0-41c0-8f6d-32ffad9c2cb4,Internet,514.26,2026-03-04,Marshall Islands,TV
+0f79c2c8-90d9-48d5-baa4-26b6518a8f12,Internet,619.45,2026-03-04,Malaysia,Tablet
+5eaccc6e-036f-4f5c-b2af-d8c855fcba0b,Internet,1849.92,2026-03-01,United Arab Emirates,TV
+81e36bd8-0c45-446b-a233-de091a4bc8e2,web 2.0,1601.48,2026-03-02,New Caledonia,TV
+4069f822-b021-438d-88c1-28ee5eda87e3,TV,974.3,2026-03-07,Germany,TV
+5fd4b950-ae9a-43e0-bd8b-30bf422f6fb8,Internet,1840.7,2026-03-04,Bosnia and Herzegovina,Tablet
+fbe909b4-3643-4e85-a5a5-854d6775651c,web 2.0,1592.47,2026-03-06,Monaco,TV
+61d6cd38-c97f-4ba5-8ffa-febdeb7e0887,Internet,155.37,2026-03-06,Tunisia,TV
+1da3acbc-cd38-4145-9e4f-4b35c5f2d7b0,TV,1237.17,2026-03-05,Haiti,TV
+3803121e-c986-4ed0-8cef-7797da5a2b0e,TV,73.24,2026-03-02,Liberia,public
+06c381fe-cab2-4945-b14d-925c228a1304,Internet,473.83,2026-03-05,Fiji,Internet
+7444b961-eae7-43b2-b45a-daa1955a5e9b,networking,1002.37,2026-03-01,Romania,Tablet
+2b6cf6ba-a9ce-49df-b2b0-71344553f7ae,Internet,816.24,2026-03-02,Northern Mariana Islands,TV
+9d12703f-9a77-4452-99ce-ed8cf517b98c,Internet,354.56,2026-03-06,Greenland,Internet
+ae497c64-0780-4fe2-b3f8-9087e73b5be4,web 2.0,396.48,2026-03-06,Netherlands,TV
+77143826-22ca-470a-979e-a0f29ceab798,networking,590.46,2026-03-02,Saint Kitts and Nevis,Internet
+55573757-6644-4ac6-9751-82331f566459,networking,530.9,2026-03-04,Mali,TV
+13fdde72-4de6-4e9d-8517-2fea36a6d6cc,Internet,23.31,2026-03-07,Solomon Islands,Internet
+90ed0b21-844c-4f42-9a9a-0c23f37cb8af,Internet,1145.93,2026-03-02,Mauritania,Tablet
+b7d84c03-bb13-421d-b7c3-5070b21e16a9,web 2.0,963.79,2026-03-07,Mali,Tablet
+a05965b5-5991-443e-bd00-a325833f147c,Internet,1321.34,2026-03-07,Dominica,public
+1dcff43c-1b5a-45c4-b69e-0e598aeddff4,TV,1617.28,2026-03-01,Zambia,Internet
+07911c5d-7680-4a58-88a9-37dea5a2d277,TV,1831.45,2026-03-03,Palestinian Territory,TV
+fbb0ba6d-fba2-40a6-be97-dc2db4182aec,web 2.0,479.59,2026-03-06,Malta,public
+9bf66219-83f4-45bc-a9bb-05dea4720bcd,TV,977.76,2026-03-04,Greece,Internet
+cc8afd32-df96-4416-9163-94ee1e3963db,Internet,1670.91,2026-03-06,Gibraltar,Tablet
+d09b48be-ba98-4737-a4e1-0ba5e8eacecc,TV,1165.65,2026-03-04,Switzerland,public
+f3f74e7c-04ae-47ed-b0cb-7b748820f805,TV,905.76,2026-03-05,Pakistan,public
+5f1d54e5-450a-4de5-8795-25873a892d99,TV,1869.39,2026-03-01,French Guiana,Internet
+021ac2d2-360f-4b32-a24b-82ebfbea44d6,networking,1566.33,2026-03-01,Costa Rica,Internet
+a8fec423-0cc7-4105-96da-5831f7abb51a,web 2.0,1552.83,2026-03-06,Panama,TV
+5b3ea34b-3bf3-4859-988c-0c52d3cba4e3,web 2.0,1772.98,2026-03-06,Antarctica (the territory South of 60 deg S),public
+45aadc3a-de95-4eb9-a5c6-6be708fd1d8b,web 2.0,763.36,2026-03-02,Uganda,TV
+601f8849-67d2-40b7-b857-458e4c2f365d,web 2.0,743.23,2026-03-02,Georgia,TV
+43fe9904-8ace-4b5f-a38c-7a8d77ba6f47,web 2.0,1823.51,2026-03-07,Equatorial Guinea,TV
+8181ce81-69b9-4437-a7ec-066121f65f09,Internet,1098.93,2026-03-06,Bouvet Island (Bouvetoya),Tablet
+62e990a4-6276-457d-97e5-a35a5cb49965,TV,1508.7,2026-03-02,British Virgin Islands,Tablet
+24168118-4acc-47b0-a792-8c6b865b42fc,TV,1551.07,2026-03-02,Svalbard & Jan Mayen Islands,Internet
+42399f19-b36d-4a05-a847-920649fb6d1c,TV,1514.18,2026-03-03,Bahrain,Internet
+7ca89a78-fd73-4156-b97b-51ea8cd4cfb2,TV,548.69,2026-03-04,Germany,Internet
+64dcebec-fbda-422c-aa20-7cd075a5ac6b,Internet,1684.22,2026-03-05,Mozambique,public
+8e92d706-ffd7-4a55-9de8-d74ea4da0b8e,web 2.0,448.72,2026-03-04,Turks and Caicos Islands,public
+322cc829-0ae3-481a-bf3f-6de2033e15c4,Internet,569.95,2026-03-07,Denmark,Internet
+46e78ecc-b968-4562-b2c3-01131346b450,networking,1930.19,2026-03-03,Palestinian Territory,Internet
+756ebd60-9de3-4663-a7fa-71f1a87f2c12,Internet,37.02,2026-03-03,Kuwait,TV
+2385a74b-35cc-4300-bf25-32937933562d,networking,882.19,2026-03-03,Venezuela,TV
+2b0935cc-7341-4514-9905-a54ded08d357,web 2.0,1476.45,2026-03-02,Jordan,Internet
+2fba7543-e9f4-484c-9f03-96508abbe998,TV,1444.29,2026-03-06,Brunei Darussalam,Tablet
+0029ede1-eafc-40e9-8cd4-ec591f15cd58,networking,752.06,2026-03-07,Guyana,Internet
+cfe59f35-747a-4f4b-998e-0256764333ea,TV,1131.41,2026-03-02,Czech Republic,Tablet
+ed97effe-99bb-4ab3-bcde-eab7583a5eec,Internet,1866.21,2026-03-01,Ethiopia,Tablet
+7ab333e8-ecd6-437a-8d1d-494abbe43df2,Internet,344.16,2026-03-02,Malaysia,TV
+d3273cfa-a3d0-45ac-80f2-d1886f353dbe,networking,1088.85,2026-03-03,Marshall Islands,TV
+baf7a6d1-48f2-401c-a0f8-96de7e97491b,Internet,1948.19,2026-03-02,Bangladesh,Internet
+89c8ac67-95c1-4799-80bd-c526dbe94f98,TV,277.53,2026-03-01,Greece,Internet
+82eb6fd8-fa9a-4970-82b7-3ff5069c4d42,TV,120.99,2026-03-03,Mauritius,TV
+0d98d391-93f1-4ef6-b20c-98f7518da45c,Internet,191.45,2026-03-03,Morocco,Internet
+403ffd13-75e0-4f6f-be77-365d417abb43,networking,1322.29,2026-03-01,Iraq,public
+61c5be45-2338-4b1e-b9dd-8c5ac06e9fc4,Internet,1976.43,2026-03-01,Maldives,public
+4da5b785-8af5-497f-8902-3c93d48de5a5,networking,1003.17,2026-03-03,Brunei Darussalam,public
+93d82758-d048-4f94-b63d-99b5094997c5,Internet,341.35,2026-03-05,Croatia,public
+ae77c6f4-ffa0-4f15-9f87-53efcc2f5329,networking,567.26,2026-03-02,Cambodia,Tablet
+b91bfc5a-6e50-46e6-8f36-0ebff8ef5881,Internet,1251.79,2026-03-01,Liechtenstein,public
+3a818b8f-e36c-4771-9fd4-6c2133046a6b,web 2.0,74.12,2026-03-07,Bahrain,public
+65cf265f-6dd8-4dfa-8929-bcb5ec5d34b3,web 2.0,1857.66,2026-03-02,Lithuania,Internet
+2182b98c-2794-4dff-800b-f9dd74c1a144,networking,1377.74,2026-03-05,Armenia,public
+f894dfd8-822d-41c4-bd94-f5abf36fa4fe,Internet,1256.94,2026-03-02,Macao,TV
+81532288-25e5-424e-8ade-abd36f3e0d7c,TV,1077.96,2026-03-01,Georgia,Tablet
+d857b37a-aa40-4549-a0fa-e8ad82b52377,web 2.0,620.73,2026-03-07,Puerto Rico,Tablet
+d616b838-db3c-4fde-9c91-d8e2ac416108,TV,1112.2,2026-03-07,Montenegro,Internet
+e74c423a-ea5c-487d-82c3-608191c59a1a,TV,1851.61,2026-03-05,Greece,Tablet
+44e2ef5f-d6a9-49b6-90e2-dc11241b894e,TV,751.39,2026-03-01,Equatorial Guinea,public
+58c12e0e-a5a1-4e85-91f1-5181ef49668f,web 2.0,916.37,2026-03-05,Luxembourg,Tablet
+87fea1b1-9904-4a7e-a12e-750194cc1b34,networking,1406.56,2026-03-01,Guernsey,TV
+154af224-a04c-4d39-ac8d-9b29538f64eb,web 2.0,22.72,2026-03-05,Montenegro,public
+e96c4db8-930f-44d8-a515-d73ec34f82a4,TV,1493.77,2026-03-05,Belgium,TV
+9d49bd73-0d0e-4261-a390-328fe0324842,web 2.0,1119.56,2026-03-06,Reunion,Tablet
+acf0a846-413b-4fa3-870c-4486507cc4d7,TV,260.32,2026-03-03,Falkland Islands (Malvinas),TV
+5fd3e476-5923-4e31-b12b-502a508345bf,TV,1502.23,2026-03-03,Finland,Internet
+c4368297-3c77-473d-a4bd-9c7888b05138,web 2.0,673.9,2026-03-07,Antigua and Barbuda,public
+75380af9-5011-49dc-aaac-ab67d1d382b9,TV,1337.81,2026-03-07,Cocos (Keeling) Islands,Internet
+016db8c9-35ee-41b5-8869-a324f09fa5d6,Internet,60.72,2026-03-03,Wallis and Futuna,Internet
+9ea19c08-ef27-4459-9413-630b8c638c82,web 2.0,442.55,2026-03-02,Russian Federation,Tablet
+67023ea9-5658-4a5f-a1ca-4a1db22669f6,web 2.0,1849.3,2026-03-03,Guinea-Bissau,Tablet
+a80709d8-9b85-44cf-8073-731f3b927a28,networking,1688.01,2026-03-07,Madagascar,TV
+03ae6616-252c-40c3-88b0-86170c09ddb5,networking,610.72,2026-03-06,Qatar,Internet
+37cc300e-2a2d-4dd6-bec0-4a265d5e60a7,web 2.0,1152.79,2026-03-03,Dominican Republic,Internet
+ea785bec-5bfb-4e56-a375-d10b6bb0cbe8,networking,1504.23,2026-03-02,Estonia,Internet
+ddb09feb-4c31-460d-8087-72ff57136aaf,TV,182.25,2026-03-07,Turks and Caicos Islands,public
+d9b4b5de-dca6-44ba-958d-2bc51dbd1f32,Internet,1749.55,2026-03-02,China,TV
+7b2ff752-28fd-4e1b-9295-6d51f0777e64,web 2.0,1455.92,2026-03-04,Cayman Islands,public
+c2073152-1658-4f8a-ad95-b0c4e96f6af8,TV,1132.17,2026-03-03,Mali,Internet
+388f7a86-ca67-4384-b254-34400fb06697,TV,1448.97,2026-03-03,Cook Islands,Tablet
+bfec3384-2919-4ec6-ac48-0e6b7a2fe79d,networking,1244.54,2026-03-07,Saint Barthelemy,public
+69ae5220-941f-40d2-bb24-ffcf6d1e4dc9,networking,519.25,2026-03-03,Palestinian Territory,Tablet
+e25d9572-b963-4079-8a49-65f0092d1750,Internet,551.7,2026-03-07,Tonga,Internet
+41ef5f7d-cd6f-47e3-a286-37880ba77a6a,TV,1802.41,2026-03-05,Wallis and Futuna,Internet
+8c580b09-0f84-40ed-8c00-8d02293ecccb,Internet,1758.45,2026-03-07,Sweden,TV
+1bd4b7ed-7184-409c-8b9a-87f2961fc80b,TV,1909.73,2026-03-04,Maldives,TV
+4065db9d-5149-4606-a888-fbbc22a5e912,Internet,1831.79,2026-03-02,Lesotho,TV
+f3fbe085-e914-4ba3-aec3-5bf037474a48,web 2.0,294.29,2026-03-05,Azerbaijan,public
+53a53101-8a6d-4eb2-b3ef-8b73e660c269,networking,1211.81,2026-03-02,Cook Islands,Internet
+93aaf29e-7e8e-4f27-a431-9cc4e815a855,networking,618.22,2026-03-02,Eritrea,Internet
+5400e39e-5f54-4603-983f-b0b2a4bf5f7d,Internet,1110.47,2026-03-05,Slovenia,TV
+a53fdc90-ac00-4a1b-af90-6264b5e3414f,TV,463.06,2026-03-03,Maldives,Internet
+f43a142b-9d39-4a59-941b-25758cb4af2c,networking,1973.67,2026-03-03,Aruba,Internet
+cad3a2ff-6b20-45c7-b3da-daaef0aa7212,Internet,1893.21,2026-03-02,Reunion,Tablet
+91b4fae8-eb91-4ae8-b28c-8d08d302c1b4,web 2.0,1786.56,2026-03-07,Canada,Internet
+02040b65-d7d7-4d55-8f5b-e349408bc7e0,web 2.0,794.49,2026-03-05,South Georgia and the South Sandwich Islands,TV
+4b61fe12-41d1-4d94-bbb7-d7ece60d660a,networking,1268.46,2026-03-02,Kazakhstan,public
+83c51b61-b739-4a04-b033-97db039eac00,networking,985.65,2026-03-05,Bangladesh,public
+f9e0715b-b6bb-434a-bbaf-c97fff372b54,Internet,188.77,2026-03-03,Congo,Internet
+6a4d2b99-199b-4c7e-996e-b976de366398,networking,1730.03,2026-03-05,Maldives,public
+0f842633-e94a-4d34-b198-35018e6d9311,networking,1698.31,2026-03-01,Congo,public
+ae5f7ebc-d510-4eda-a560-44d303c3fd7d,web 2.0,624.32,2026-03-01,Turkey,TV
+de3b8d20-8d65-4459-a59e-cd79e315ddbb,web 2.0,1686.49,2026-03-04,Afghanistan,Tablet
+cb9bb8c7-1bd8-4277-9d2f-6b165b8016f9,web 2.0,1907.31,2026-03-03,Uzbekistan,Internet
+ccef7217-37f5-42d0-b6cc-4c1f7e30d325,networking,1450.83,2026-03-07,Italy,Internet
+4993a5e2-47e9-4cc1-8c61-cfa9785a61be,networking,924.36,2026-03-01,Niger,Internet
+83d2dcd1-df37-4b59-8981-539a66fc99b1,TV,1403.83,2026-03-02,Jamaica,TV
+90ad9916-2d1d-4531-b52b-fca0a71e08c1,Internet,894.26,2026-03-07,Greece,Internet
+f0638448-a2db-43c9-a1ff-49c4e40dd99a,TV,480.73,2026-03-03,Nepal,public
+57746561-4ae6-40ef-8818-548d65585c31,web 2.0,775.75,2026-03-07,Barbados,Tablet
+bd8bab21-8c4e-47ab-aa7d-6501d97c64c2,TV,223.21,2026-03-06,British Indian Ocean Territory (Chagos Archipelago),TV
+62b0f2ca-10b5-402c-bb7c-a2444471ab18,TV,200.86,2026-03-03,Martinique,public
+719c4eb6-88ff-4159-84dc-d9b33b5ecb64,TV,1184.57,2026-03-01,French Polynesia,public
+3fd2d36f-8db6-494e-83fe-aed7df11aa0d,web 2.0,303.34,2026-03-05,Yemen,public
+13a8fbde-a35a-416a-aa7e-3aa128b4cb19,Internet,1351.65,2026-03-01,Armenia,Tablet
+8f95d791-fdf5-4140-b567-0c241b0895fe,networking,11.34,2026-03-06,Pitcairn Islands,public
+239f5891-9844-437b-bcbb-ce9f197b61c4,Internet,524.35,2026-03-01,Tunisia,TV
+9f18b05a-1f91-42a9-8a5e-f3f148d4a4dd,TV,537.44,2026-03-04,Marshall Islands,public
+a2515f95-14ab-44db-9640-ef7e1d827299,web 2.0,1399.65,2026-03-05,Canada,Internet
+5dba6623-aa00-4785-b554-c7ad297e36ea,TV,447.8,2026-03-04,Barbados,Tablet
+7518fb1c-b47f-470d-b9d1-87e2d5383ff3,networking,1271.26,2026-03-06,Myanmar,TV
+925df93a-670a-4c13-990d-e84e789c881f,TV,450.88,2026-03-05,Jersey,Tablet
+7a7215bc-4cc7-4c66-ad5e-7fc8e098c664,web 2.0,368.45,2026-03-06,United States Virgin Islands,TV
+e59d36c2-6dbd-472a-99ee-c143ba33d2f6,Internet,1508.22,2026-03-05,Indonesia,public
+3b807fcc-9afd-4517-babe-0dbc7786c30d,networking,1302.55,2026-03-02,Norfolk Island,Tablet
+ff20ad12-a486-43bc-bdc5-a3f36a8ac5a0,web 2.0,821.31,2026-03-04,Netherlands,Tablet
+597ab42d-3700-41c3-9fcb-a147e9dc6f52,networking,603.5,2026-03-07,Gibraltar,TV
+237aab8d-348a-4034-9a86-383289f603b4,networking,562.7,2026-03-03,Antarctica (the territory South of 60 deg S),Internet
+51ee7952-d8f8-4bce-97ae-998548689149,web 2.0,15.55,2026-03-06,Albania,Internet
+5614da76-9458-47aa-93bf-20701fc09d66,TV,1426.81,2026-03-02,Zimbabwe,public
+4479a739-d500-4bf1-989e-e5d5831446df,networking,274.14,2026-03-07,Zimbabwe,Tablet
+d40d9bd2-cb8c-4d42-b3ad-d30737e5acfc,Internet,630.22,2026-03-01,Israel,Tablet
+153ff0d2-6a11-4580-9ec2-8522cca66f2b,web 2.0,1880.67,2026-03-05,Bermuda,TV
+6da7e02a-a1b8-4478-a715-05ef0d1ae989,web 2.0,23.73,2026-03-03,Ethiopia,public
+30e00260-4110-4ffc-b3de-0be456ad347f,web 2.0,1166.91,2026-03-05,Guinea,TV
+08515069-5915-47c2-a42d-23cb26765a44,Internet,1852.15,2026-03-06,Vietnam,Tablet
+cd7468d9-ec26-40dc-a534-3cb294c2f321,networking,1532.64,2026-03-06,Syrian Arab Republic,Tablet
+67a1a4da-6667-4aa7-a084-c44a3a776035,web 2.0,1897.22,2026-03-04,Honduras,public
+cd99edf8-0af7-451f-a43b-b3f018198066,web 2.0,152.3,2026-03-07,Australia,Tablet
+74eb72bd-41b6-4836-b305-f924823e2fc2,TV,34.19,2026-03-01,Switzerland,Internet
+a2b5ffee-fb4d-4957-b75b-8448e6116eb2,web 2.0,1589.4,2026-03-07,Finland,Tablet
+6d232d63-8c98-4be8-b644-b04fb8a4a4b1,Internet,106.19,2026-03-06,French Polynesia,TV
+0ff939a5-2b5e-440d-bedf-7b3a0fb5087d,web 2.0,128.72,2026-03-07,Brunei Darussalam,public
+65459ac1-c90a-42e6-a5f3-4e09a6694584,networking,1441.12,2026-03-01,Malaysia,Tablet
+b6b9bf5d-7bd2-4c71-b61a-4d9efb0facb8,TV,430.97,2026-03-04,Congo,Internet
+ba9b9d99-a489-47eb-b4b9-a4eb8ba5a765,web 2.0,1125.3,2026-03-03,Kyrgyz Republic,public
+126d8aa8-830d-4666-b14b-31a59bb1d782,TV,729.68,2026-03-05,Romania,Internet
+be6f699b-9fd1-4439-9d6d-b8ffba3572c4,networking,1249.7,2026-03-01,Slovenia,Tablet
+03295cfa-1948-4ba2-810e-112d40f54132,networking,834.26,2026-03-01,Cook Islands,Internet
+7c8370b2-119a-4192-b53c-59579004918d,TV,745.94,2026-03-06,Cambodia,TV
+0ed361c3-2d63-4380-b7a9-fc901c81cbe5,Internet,611.08,2026-03-03,Samoa,public
+facc4abf-e417-4656-98ba-328603851ba6,Internet,324.84,2026-03-05,Jamaica,Internet
+b30d127c-a2b0-4c13-bd32-bae4bb2634a7,TV,1617.75,2026-03-03,Mexico,Internet
+8ff63bf4-f8e9-4e31-bdfa-168372d1940c,Internet,1671.31,2026-03-03,Cameroon,Tablet
+ba8c6440-3b41-4b37-8214-ba68d1c8fb91,TV,1358.11,2026-03-07,San Marino,TV
+723a3064-a44c-443e-bb92-c190c1af0072,Internet,1518.51,2026-03-01,Svalbard & Jan Mayen Islands,TV
+93673875-8b17-4db8-b396-f438fc958489,Internet,64.05,2026-03-03,Antigua and Barbuda,public
+58e03ce5-ec84-440e-9607-27d14a75777f,TV,1211.35,2026-03-03,Uzbekistan,Tablet
+3054aba6-4002-480b-9390-fb63aac3217c,Internet,92.21,2026-03-02,Gabon,Tablet
+51913dcb-1dd8-4b2f-88e0-eb09b6888576,web 2.0,487.45,2026-03-02,Czech Republic,TV
+d3359605-3153-4622-a81f-94cd1c4d0932,networking,1397.26,2026-03-01,Belgium,public
+72e2d3d9-68d4-4130-b3b1-9ab62cde10d3,web 2.0,1211.89,2026-03-01,India,TV
+2701f334-a250-4937-a7d9-881833c30d0d,web 2.0,1994.68,2026-03-02,Qatar,public
+27ce7716-324c-457e-9f77-9142099bafb8,Internet,870.36,2026-03-07,Tuvalu,Tablet
+93707cf5-d77e-4187-8b6f-34c61f32cf9b,Internet,1764.37,2026-03-03,Korea,public
+be17a68f-15d3-441d-aa49-4a8e0bd27c44,web 2.0,352.33,2026-03-07,Martinique,Tablet
+4cf975e1-bdd4-4188-976f-a534f4183e63,TV,620.59,2026-03-02,Mali,Tablet
+2dca5f9e-9dae-4b17-8293-b69ea9148a0a,networking,480.59,2026-03-04,Norway,public
+db17f50c-2d92-4616-8925-d6a632d853ea,web 2.0,1518.63,2026-03-01,Vietnam,Internet
+6d29a140-0af1-46ec-86e6-67e8bded96af,web 2.0,758.18,2026-03-02,Egypt,Internet
+bcaa27cc-415d-434f-b164-c25fe88f22f4,networking,145.59,2026-03-04,Iran,public
+7912a116-2100-4f8b-8f1c-63e5a9da629b,web 2.0,78.1,2026-03-04,Slovenia,Internet
+d3a61cb5-88b8-4d5c-b6d7-78b04ec87105,networking,30.31,2026-03-05,Falkland Islands (Malvinas),Tablet
+03359e94-c60a-4c26-9584-d519819afbf3,web 2.0,439.71,2026-03-05,Georgia,Internet
+b7d0c1a8-f879-40a1-baf9-a992a4f37fcb,TV,855.88,2026-03-04,Liechtenstein,TV
+17b19b91-e741-4905-af1e-1aa9ea4c325e,Internet,992.86,2026-03-05,Svalbard & Jan Mayen Islands,TV
+9a90a286-fa30-4454-9164-45b3317e0170,networking,944.99,2026-03-01,Chile,TV
+a3df9981-8242-42d2-b610-29ed787d199f,web 2.0,540.4,2026-03-07,Indonesia,public
+0a93a0c0-5350-4297-9fe3-4105a2603213,Internet,297.95,2026-03-07,Romania,public
+8c7bd7c4-ac26-4836-bee2-b24080119960,Internet,1613.54,2026-03-02,Saint Barthelemy,public
+cd33b5e3-6b95-4798-9414-638ea5a54bb4,TV,1619.9,2026-03-07,Colombia,Internet
+1bff948a-0255-4dc4-be27-cf44fbb6b9ec,TV,1346.26,2026-03-05,Saint Martin,public
+606e68c3-8165-46de-9aa0-02406919cf7d,web 2.0,533.98,2026-03-06,Estonia,Tablet
+50194e5b-97d6-4b87-91fd-4f76228435b7,Internet,1667.17,2026-03-02,Bahamas,TV
+3f3ca6f4-f031-4abb-80c2-a67a71f222b4,TV,374.58,2026-03-07,Saint Lucia,public
+c55ad3de-db27-498e-9e59-1175dada745e,Internet,449.02,2026-03-05,Trinidad and Tobago,TV
+f2e47fca-bdc3-43aa-b2e4-1653b574f0db,networking,1732.09,2026-03-04,Northern Mariana Islands,Internet
+43aee37f-d110-4f7a-96e4-a97122f018a0,web 2.0,941.0,2026-03-07,Solomon Islands,Internet
+bc5e4ada-5d43-477a-8ce7-c4d945278339,web 2.0,680.44,2026-03-07,Oman,Tablet
+38f4886b-886b-490e-a0a0-216c5c38e2ac,TV,335.55,2026-03-05,United Kingdom,TV
+31be6b7b-5183-4253-b7df-892655fa65c3,web 2.0,958.7,2026-03-02,Antigua and Barbuda,Internet
+d6252c64-d6fe-4627-97c7-59ddc00bb20a,TV,1988.49,2026-03-02,Faroe Islands,TV
+97f1ba85-b61b-4bcd-a71f-dc60c657baea,networking,1314.62,2026-03-02,Heard Island and McDonald Islands,Internet
+9df86be1-da82-40ce-bde8-0b0886c38625,Internet,1379.0,2026-03-06,Uzbekistan,TV
+067f5312-3fe3-4ad5-bc4d-3814ce2f6f91,networking,827.49,2026-03-01,Iran,Tablet
+90a89a9e-f38c-4328-969d-35a6641e6d9a,Internet,1110.64,2026-03-04,Vanuatu,public
+2ed4ffbd-759b-4c6d-a732-f09f20e46ef3,web 2.0,743.29,2026-03-07,Montenegro,public
+fe41eb95-a72a-4300-bfe5-097c7ab0c996,networking,703.91,2026-03-02,Saint Barthelemy,Tablet
+b7726cf4-945a-4f68-9af5-f4a91c88c839,Internet,228.78,2026-03-03,Antigua and Barbuda,TV
+6b21cb24-a888-4144-8dad-469e8463eb7d,Internet,1821.74,2026-03-04,El Salvador,Tablet
+28df13ed-af3a-46e6-b889-5c1400e1ab1d,web 2.0,1217.78,2026-03-03,Tajikistan,Tablet
+9413570f-a6f2-4c2b-830e-42e88ee65d4e,TV,1910.62,2026-03-07,Niue,Internet
+6b6aaa2a-e63d-4d37-ad80-c9bddcccc731,web 2.0,1172.49,2026-03-06,New Zealand,public
+43de6aae-6811-4ca0-8fa3-377c11abe1a9,networking,360.71,2026-03-05,United States of America,Internet
+19c21898-d083-49ae-9bf5-a3e73ca6e031,TV,992.79,2026-03-06,Brazil,Tablet
+74ebc0d8-cbaf-493d-bfa9-edd1ee5d37ab,Internet,1952.59,2026-03-01,Bermuda,public
+f4577654-d258-4724-8b52-5ea332dbc032,TV,304.68,2026-03-05,Luxembourg,TV
+0ac1aebc-5548-4fcc-a8b9-580bc28060ea,networking,371.21,2026-03-06,Western Sahara,Tablet
+95044b1a-9976-4c17-b898-2d9e9fa30c2e,TV,22.23,2026-03-04,Svalbard & Jan Mayen Islands,Internet
+fd6a66d8-00e1-40e9-b981-b85e026e6568,Internet,604.41,2026-03-04,Isle of Man,Internet
+47ab97ce-9d02-42f4-99fd-c398187f61ad,TV,179.64,2026-03-04,Central African Republic,public
+0ee03b55-b151-488b-9411-fd66a68fc2c2,web 2.0,294.56,2026-03-07,Tunisia,Tablet
+ee21fa95-72b4-48d8-a8a0-8757e1ed8db3,web 2.0,254.54,2026-03-06,Jersey,TV
+70f2642a-c3f3-4510-ae6a-f17fae994cce,networking,1648.24,2026-03-01,Antigua and Barbuda,public
+f1cd039d-8af2-4070-8484-ac8f7f1c7e8e,TV,1010.72,2026-03-06,Malawi,Internet
+5fe1dcf1-50cc-4f53-89a0-7993b0e26e8e,web 2.0,1058.88,2026-03-03,Costa Rica,Internet
+2b4fec46-83cf-434d-8367-62c0cde36a0e,web 2.0,910.42,2026-03-05,Moldova,TV
+ad014ef6-7e0d-4d6c-95f9-dc3110c97083,Internet,1611.38,2026-03-01,Malawi,Internet
+cfa4a2c9-0bcf-469d-8dd8-ae3d2166aae7,Internet,49.61,2026-03-06,Montenegro,Tablet
+d7ad53f1-e8e6-40a1-bfd6-d3dfafb06387,networking,53.75,2026-03-01,Reunion,TV
+67b3802c-4eac-4a0a-ba83-5405a790c96f,Internet,1790.64,2026-03-03,Chad,Tablet
+a03d43cf-f2a8-4271-bdc7-fbb884c767f0,networking,399.12,2026-03-07,Puerto Rico,Internet
+62121375-0595-4ad8-8642-95e419dd5618,TV,687.6,2026-03-01,Morocco,TV
+1f80f325-e202-4422-a06f-30b804b175a9,web 2.0,793.36,2026-03-07,Uruguay,TV
+2c022ef0-166e-4e17-951c-d5151aac30a3,networking,1160.43,2026-03-03,Portugal,public
+9c96809b-2c13-4eba-a33c-017fb3cdcf51,web 2.0,1461.78,2026-03-05,Palau,public
+dc6ce897-b806-41c2-9889-1e6e778acdd1,TV,1490.9,2026-03-02,Djibouti,Internet
+147a4150-3133-4d2b-a1e5-4f94dff0c3cb,web 2.0,1803.83,2026-03-03,Faroe Islands,Tablet
+0a568fa2-9735-4f23-9b5b-ea2ec9835d15,networking,1519.66,2026-03-02,Slovenia,Tablet
+cd214224-c709-4617-9122-c0c13c93b6ae,TV,403.52,2026-03-04,Tajikistan,Internet
+b7f8e1be-b0fa-440e-a560-0cc40626994a,networking,826.13,2026-03-04,Timor-Leste,Internet
+406669bf-3604-447c-8ffa-428eb3ee1908,TV,145.73,2026-03-06,Kyrgyz Republic,Tablet
+8cf880d0-f5ff-42f5-a0eb-ca40cd6dbcf7,Internet,1902.79,2026-03-07,Saint Martin,TV
+4fe3849c-80fc-4e64-9fc1-4ee240bbadc7,Internet,515.61,2026-03-05,Niue,TV
+030e1e0c-05ab-4d99-85e3-2aa22ae4510d,networking,1139.96,2026-03-01,Bahamas,TV

@@ -1,0 +1,1001 @@
+user_id,hospital,price,admission_day,city,areas_hospital
+ae19ce28-f7fe-4345-9952-36da39bfa48e,disease,1293.17,2026-02-20,Brownside,waiting room
+ae99727c-c103-47d2-bedc-5faf7b31a45e,area_hospital,1828.2,2026-01-03,South Suzanneshire,operating rooms
+cdbfcfac-6a22-4046-b627-e2a3a7c354e8,Address,1818.26,2026-02-25,Samuelborough,waiting room
+1f021039-f242-4e9e-918b-d877867ddd2d,Address,699.28,2026-01-12,North Johnmouth,nursing
+0a77bf9d-fe32-47a3-9110-65e8fe0ac4d1,doctor,395.82,2026-02-26,Hurstmouth,operating rooms
+004735a7-2311-4a38-ad8b-9a6f1dd36b47,Address,704.51,2026-03-07,Danielmouth,waiting room
+ed48b27a-c4a7-4163-974b-c8b00e2460d5,area_hospital,82.91,2026-01-14,Port Amanda,waiting room
+7f69bdb5-8abd-4036-9496-5955a009c776,disease,1833.52,2026-01-06,Mccoyside,waiting room
+f7c16c3c-4a3c-4065-9cbd-a2344aa3468f,area_hospital,528.74,2026-02-26,Lake Mackenzieburgh,waiting room
+48db69e3-2403-491b-99c9-434a68ac4c6e,doctor,1670.86,2026-02-18,New Anna,waiting room
+0cf723b9-133a-46b7-9738-9e3ffe97dbd5,doctor,1413.32,2026-02-19,North Jessicaville,waiting room
+c3b97f0f-f148-4346-9183-47627d716030,doctor,906.57,2026-01-08,East Elizabethton,operating rooms
+a58e3d84-c779-4f59-885c-127c9ba2eb25,Address,464.67,2026-01-26,North Robertland,waiting room
+57403e20-7fa4-4dab-9723-a84d7e84144d,area_hospital,1247.73,2026-01-04,Lawrencemouth,nursing
+e6eb3b3d-5f71-45a7-8cd6-f3626f476f66,area_hospital,1767.19,2026-01-15,Harrischester,nursing
+6f877bdd-1df0-401d-93f2-aeacee6dc701,area_hospital,946.41,2026-02-26,Simmonsfort,nursing
+3ae8a703-ea89-4ee3-a8f2-7a540c98176a,doctor,861.64,2026-01-29,East Ryanchester,nursing
+a7737c05-4902-4403-87e6-2b96abe7b5eb,doctor,1442.04,2026-01-29,Horneshire,waiting room
+62d7a13a-3f47-4dc3-8fe8-a3ca53d3a419,disease,1867.55,2026-02-01,West Kirstenbury,operating rooms
+9c77cd83-7655-43fd-ae7f-c8c5b64590ef,doctor,618.27,2026-03-01,North Spencer,waiting room
+cddcd1b6-a28e-4851-b395-63518bb9f677,area_hospital,1362.37,2026-01-19,Port John,waiting room
+b0f69176-6646-4bbf-93bd-d2f2eb0f0c64,doctor,938.72,2026-03-04,Benjaminhaven,nursing
+73f41a3f-58a6-4ee0-ab60-d9ac3d9e4ca8,Address,834.02,2026-01-24,Ashleymouth,nursing
+941d295c-20ef-40f8-bcd1-9c213a3c7313,disease,1428.93,2026-02-03,Mollychester,operating rooms
+69921155-13f6-439b-9690-58b63b0ebaa3,disease,73.69,2026-03-05,Lake Michael,waiting room
+d4c29075-b329-4dc9-912f-013138489e53,doctor,578.51,2026-03-03,New Laurenview,nursing
+dffa1ca6-cc5b-4651-9f03-182714f8a0e5,doctor,530.25,2026-02-18,Grantfurt,waiting room
+0c812e59-31ef-4aba-97e5-8b6637b8ac43,disease,1388.97,2026-02-26,Baileyberg,nursing
+05511221-ca1b-4bf2-9656-5fcfc8c97550,Address,1141.17,2026-01-11,Jesseberg,operating rooms
+0b66a15b-1db7-44a6-91c4-06464b87d68b,area_hospital,486.65,2026-01-22,Alyssaport,nursing
+b613fbcd-dce4-45a0-a8e8-6300a08874fb,disease,1109.83,2026-03-06,East Lisaville,nursing
+20dec2bc-1f63-4ff3-bfb2-bd17f6813d91,disease,299.7,2026-02-01,Port Joshua,operating rooms
+237555bc-76c6-4cc3-91d3-e82ab0a2e0fd,disease,485.7,2026-02-18,South Josefurt,waiting room
+8c846d36-0fa6-41a5-b535-3e9db42b7b43,disease,1627.93,2026-02-19,Kevinshire,operating rooms
+f1bafd00-2268-4d17-a917-d47fd210b013,disease,1710.5,2026-01-10,North Eddie,waiting room
+2998c257-09c7-443f-9036-ef637f4899d6,disease,287.67,2026-01-07,Jameschester,operating rooms
+2482e3d7-adcf-4ffb-b815-a6be2c57ce74,doctor,1849.35,2026-02-02,Lake Sarahbury,nursing
+65473e49-c1f0-4e15-bc1f-3195390843fc,disease,1922.39,2026-02-17,South Matthew,operating rooms
+f66ba694-f8d3-47bd-bfb9-5015c56b2ebc,doctor,560.29,2026-03-05,West Tonyhaven,operating rooms
+b3d7aa52-c4a4-4214-8670-2c3b22a59ef7,disease,493.84,2026-02-02,South Leebury,nursing
+39d953f1-fd5d-4c64-87ba-d9c1f6d485d1,disease,851.27,2026-02-09,Kerrborough,waiting room
+c05138f3-0236-4ddd-aebd-1778764f1dfa,Address,1865.33,2026-01-27,South Lauraborough,operating rooms
+a694c67d-7684-44de-8167-7369e7050d99,doctor,53.81,2026-02-24,Nelsonborough,operating rooms
+313f1065-d235-4040-9979-84a39779214f,Address,391.09,2026-01-09,Chrisside,waiting room
+25291cfc-a91f-401e-b30c-e025d0a3f095,disease,223.69,2026-01-04,Anitatown,nursing
+7e5217cf-7a27-456d-889c-dc5c1254515d,Address,927.24,2026-02-18,South Kathrynburgh,operating rooms
+6ed0c97c-3a39-48bd-bbe3-ca1b0c89934e,disease,1667.85,2026-01-01,North Courtneyberg,nursing
+632e0f74-d1d8-4744-8a26-23d8eeb2c3cc,area_hospital,1388.86,2026-01-06,Port Donaldton,waiting room
+e66414dc-04a4-42b5-9ced-a14b132c59ea,Address,1140.64,2026-01-31,West Dustin,waiting room
+56e476cc-16eb-4b54-9a59-e647a797164b,doctor,1423.28,2026-01-05,Katherinemouth,operating rooms
+6ad9ba10-e853-4fad-8f97-35e25e45a938,Address,1308.2,2026-01-30,West Daniel,operating rooms
+25f9323a-6422-467d-a2b2-fd35661e0bf0,disease,1340.34,2026-02-07,West Philip,nursing
+e5bffea9-7b32-40ef-8fbf-ae13b2030659,doctor,713.34,2026-02-03,Nicoleberg,nursing
+075b55a1-3ede-4d9a-b348-bc8d17968173,Address,803.08,2026-02-18,North Michelleville,waiting room
+1cdffd8c-25b2-4d48-89d8-b85063bf9e65,disease,700.48,2026-01-08,Kimmouth,waiting room
+44d7d600-2515-47c2-9b29-419db4da1912,Address,771.59,2026-01-12,East Jillian,waiting room
+00e50a29-c29f-40f3-a34e-5ab9e0206907,Address,92.64,2026-01-04,South Paigeside,waiting room
+0258a133-31b1-4ee3-a1c7-cd7377572002,doctor,1350.97,2026-01-27,Bryanberg,nursing
+4e67daae-b94d-41bf-b862-84e08f9f6bf7,doctor,1072.91,2026-02-17,East Robinshire,waiting room
+cd19efcb-8134-44f6-8c57-1bd4f887605a,Address,128.95,2026-02-01,Lake Jennifer,waiting room
+a7ea71c8-31b5-4a0b-a5e6-6c3db35593db,Address,1815.64,2026-02-15,Evansport,operating rooms
+fd584864-127d-4ca6-840c-544533abe6d9,Address,1506.14,2026-02-27,Dylanland,nursing
+f769c8cc-71e6-4ba1-bb2b-6ce6128beff0,Address,131.86,2026-01-24,West Adam,operating rooms
+dde1f0db-18c5-4642-a8ea-7c900826a2b4,doctor,1340.67,2026-01-14,Bowenville,operating rooms
+648c3471-60f5-45fe-9fd3-f24ec4d06e84,disease,427.36,2026-03-04,South Jessicafurt,nursing
+54d07824-cb7e-41b4-901f-484c20471ed7,disease,855.46,2026-01-27,New Davidchester,waiting room
+1003cbb6-5ef5-4371-b670-4794a1d107f7,Address,1248.64,2026-02-20,East Jenniferville,nursing
+bb4b474a-1f79-4125-a045-67dc6203590f,disease,1944.03,2026-02-13,Rickyhaven,waiting room
+3727da1c-327c-4df9-8bc3-06ab2856588a,disease,1921.62,2026-01-02,North Benjaminshire,waiting room
+182ba49c-b62f-4c93-922f-136f549793c9,doctor,766.86,2026-01-01,Baileyburgh,waiting room
+b8ab30ed-b9ad-4c1c-9637-8c5f99aae842,disease,792.36,2026-03-05,Kaitlynberg,operating rooms
+a354fc65-850b-43af-bc09-757360979b98,doctor,1029.41,2026-01-20,North Meagan,operating rooms
+f6cd2066-2bb0-46b6-b72f-e0693c196096,disease,30.06,2026-03-02,Jamesville,waiting room
+237e4afc-7b34-443a-ac7f-21dfbd9746cc,disease,186.03,2026-01-19,Martinezstad,waiting room
+3d81b882-32b9-4486-b1b5-2fed34a90d1f,area_hospital,950.21,2026-01-31,Hollyburgh,waiting room
+b653c670-91db-40a3-a313-df2b4401e9f0,doctor,1755.84,2026-02-12,Hayestown,operating rooms
+f4c6d61c-7d5f-4283-b2a3-0f19ac2ea823,Address,939.59,2026-02-05,West Shannonfurt,operating rooms
+690affa3-9985-421d-8344-5b2d50053fee,Address,1921.09,2026-02-07,West Julian,nursing
+96b6572d-2e7b-4872-939b-eb30b49081fe,doctor,1578.51,2026-01-25,Jessicamouth,waiting room
+6e405321-ae6f-4031-a2af-5820f6e2acfb,Address,1912.31,2026-02-09,Montoyabury,waiting room
+b5bb933e-8a36-4809-8dec-e0f416d842af,doctor,685.81,2026-02-03,North Gabrielfort,operating rooms
+dd776e6c-e128-49c6-bf0c-8d90e4597a95,doctor,1803.68,2026-02-10,Lake Mary,nursing
+e471b5f5-277d-4710-a861-801df3d8c419,Address,1936.84,2026-02-26,North Elizabethhaven,nursing
+d2e95f6a-3ce8-482b-8b35-eeea3ee3a627,doctor,295.24,2026-01-09,West Michael,operating rooms
+1d10a636-0528-4eac-a6e7-11d74c0f9acc,disease,1092.23,2026-01-04,North Emilyside,nursing
+2b5c8b78-865e-4d70-a147-5c12ff264295,Address,1459.99,2026-02-10,Sarabury,nursing
+93f74a54-3566-4f42-bc01-88e40d16b3e0,Address,1724.97,2026-02-27,Samanthastad,nursing
+667d415c-3eb3-4009-b3bd-7cbe9b35d24b,area_hospital,1283.65,2026-01-07,Kathryntown,operating rooms
+6e81cce0-ad34-4109-b9e5-e17b31e78237,area_hospital,1203.93,2026-03-03,Lake Elizabethhaven,nursing
+3edbfadf-460d-4db2-b94f-ea0979aae419,doctor,908.06,2026-01-17,Port Juanmouth,nursing
+f434dca5-5386-41b2-b29a-54bfbabdd0db,Address,1786.57,2026-02-18,Lake Lisa,waiting room
+c6406408-5894-4da8-972c-44d2b16238a6,Address,837.11,2026-01-11,South Teresachester,nursing
+813513e8-0f9c-4a7f-8df8-50e6585f563a,area_hospital,633.89,2026-01-20,New Philipberg,operating rooms
+51c422cb-874a-44b8-9a9e-326d17b2f9f5,Address,528.38,2026-03-02,Antoniobury,operating rooms
+2e7a67a9-1b69-48fa-aa81-93d6bc5f7dc2,disease,1102.97,2026-02-24,New Andrebury,waiting room
+a9a10e99-f8c2-4969-96ff-2194bbf23a35,doctor,1738.51,2026-03-05,West Jonathanmouth,waiting room
+45226e88-87d9-47f4-b3f5-45544f46c072,doctor,1663.34,2026-03-05,Johnville,waiting room
+32156e68-83a6-49c6-992c-24feb70845d2,doctor,1089.9,2026-02-13,Howardview,operating rooms
+bc8183db-777c-4c83-8758-311c66bdef0e,doctor,786.26,2026-01-08,Port Nathan,nursing
+701e2aab-270f-4ded-b636-572e3b5e8411,Address,903.88,2026-02-18,Amymouth,operating rooms
+c4313720-4038-44c5-869c-921ec523ab4d,doctor,328.87,2026-01-17,Rickymouth,waiting room
+107df191-de75-4c3c-9457-9bbf2534d4ad,doctor,1559.42,2026-02-11,Lake Jonathanville,waiting room
+95e39a63-91dc-4c49-aec2-5dd126f88e34,doctor,463.77,2026-02-12,Fordshire,operating rooms
+533688ec-3d0c-4c89-99e7-cd3ab886aa5a,Address,1626.72,2026-02-24,Scotthaven,waiting room
+e8bd48b9-4eb0-4736-836a-e1907d2b791f,Address,243.25,2026-01-28,West Kathy,operating rooms
+37df0cb2-f2b9-4a61-8974-44e6dc7b0301,area_hospital,1608.78,2026-03-06,Keithfort,nursing
+d46a93ea-f2f8-4239-bb35-9aa23f8caba1,doctor,249.76,2026-01-03,North Richard,nursing
+06c8968e-4429-4c2e-9c98-e14c523285bd,Address,1318.55,2026-01-05,Desireechester,nursing
+8ec74c93-e71c-4f5e-8554-13de16fae154,disease,935.83,2026-02-23,Johnstonfort,nursing
+67d0bd84-88ac-4034-a8c9-337cf4117092,area_hospital,1440.39,2026-02-28,Lake Michael,waiting room
+f4bb3ff6-8450-49bf-b948-c97f93a59595,doctor,1131.58,2026-01-13,Gilesland,operating rooms
+0831d1f4-2fa8-4a8e-a552-ced73ab04984,area_hospital,1436.18,2026-02-16,North Christiestad,operating rooms
+0ab94643-54d8-4785-97bb-14e5c94dc294,doctor,986.31,2026-01-06,East Melindaburgh,waiting room
+f7e51914-e2c2-418f-8bbd-aa0733f48672,disease,779.92,2026-01-05,North Jessicafort,operating rooms
+9c5f604f-0e71-4734-b371-85e68c26c7d1,disease,211.46,2026-01-26,South Seanhaven,nursing
+4e5f6f2d-d585-47bf-b56a-7bdff56e3f04,doctor,875.51,2026-02-17,Johnnychester,operating rooms
+4ef38fa8-5e24-4358-a094-090a937f2a17,Address,1362.85,2026-01-26,Port Kevin,nursing
+09c64761-d15d-4dbb-b492-1da0ba5be388,Address,1987.3,2026-02-25,Robersonside,waiting room
+355963ed-d6af-4e29-9fbe-b6e0ce0ccee8,Address,33.76,2026-01-07,North Michellemouth,waiting room
+5dc08db5-b508-46a0-961d-eaa7b5d38eff,area_hospital,613.84,2026-01-20,Stephanieborough,waiting room
+17bd1e79-52e7-4e91-b837-6bcf143808c6,doctor,247.0,2026-01-04,Aguilartown,waiting room
+5a18b8db-59df-4130-a320-7369ab91ecb0,doctor,706.18,2026-01-13,North Sherry,operating rooms
+f7f55ff4-e945-4bc3-ac0c-7c145693af3b,doctor,417.68,2026-03-01,Stevenburgh,waiting room
+29d5b30e-63e1-47d7-aeec-26b563b640b6,area_hospital,1737.63,2026-02-13,New Taylor,operating rooms
+7cb6451d-45b2-4c5c-8d1e-fbff3dce645e,doctor,1668.8,2026-02-25,Brewerton,operating rooms
+ce78db3b-b42b-4563-af4b-c6c8d3cce3c6,doctor,662.39,2026-01-08,Combsland,waiting room
+078be811-0066-417d-970d-c0d139926176,doctor,693.37,2026-02-23,Escobartown,waiting room
+fab12637-402a-48b9-9c78-5e1914491dc3,disease,1216.82,2026-01-26,New Raymond,waiting room
+0e571488-421d-4c6e-aafd-0308b4fda14a,doctor,1629.71,2026-02-21,North Kathy,operating rooms
+4902edbe-aa5a-4d18-8ffc-07a69ef2e765,Address,1610.45,2026-01-11,New Mary,nursing
+537f3455-3704-464a-9fe6-8ea699fdb86e,Address,1463.42,2026-02-16,Port Kimberlyville,waiting room
+0975ae0d-04b6-4e3a-b50f-10e0e36e22bc,doctor,1985.54,2026-03-05,West Michael,operating rooms
+46d4fc80-97f6-4b61-bfa4-e14bb43338e4,Address,111.08,2026-02-17,Moyerport,operating rooms
+4a564e8e-77b1-47a2-98af-c5258c758d37,area_hospital,1320.28,2026-01-20,Stevenmouth,nursing
+5de72ebd-f104-4c7c-8588-0cfee3b63530,disease,897.2,2026-01-12,Johnsonfurt,operating rooms
+a03a70a0-942c-4a3a-a72e-4f4a8e244cbe,doctor,1042.14,2026-01-20,New Denise,waiting room
+537d5a4b-b3d1-46d0-a294-db98cc388f37,area_hospital,1166.58,2026-02-23,North Daniel,nursing
+f7854645-22df-4dd7-b533-4c5a3bfa116f,area_hospital,786.51,2026-01-05,West Sarah,operating rooms
+8f8a5bee-0902-4888-89ae-77980bbd6348,disease,1374.91,2026-02-25,New Lindastad,waiting room
+61d2bce4-aeba-44fd-bcb8-483d48842fb9,area_hospital,1997.61,2026-01-29,Piercechester,waiting room
+7aefe963-c877-4226-bffc-e0341bf01f0b,area_hospital,533.09,2026-03-04,North Theresatown,nursing
+21247d9f-b5d0-4d01-9451-4b84313e2f34,Address,1455.66,2026-01-19,Tarabury,nursing
+7ebac8f3-e23f-4ab6-a271-beba3b91b687,disease,704.21,2026-02-15,East Stephanieshire,waiting room
+b72a3d70-9669-462e-8937-f22da44f866f,disease,167.15,2026-01-13,New Jackberg,nursing
+89474d1c-fd6b-4f8a-b1b2-0e5eb8861ce5,disease,341.17,2026-03-05,West Terriborough,waiting room
+1263fa0a-7c7d-4cc6-937c-5c5b03bcc613,doctor,630.54,2026-03-03,Zamoraview,nursing
+68818879-f22b-4a43-b947-8d87a2224672,Address,1172.94,2026-01-31,South Dawn,nursing
+3f5cd5fe-2c93-4d89-bab1-bb1be4590193,doctor,1058.99,2026-03-06,Lake Anthonyfurt,operating rooms
+0d285160-074e-4aa7-b8bb-a206e8135918,disease,1201.65,2026-02-02,West Haleyport,waiting room
+49963c0e-a34b-4df2-b79a-69ff0380f75e,area_hospital,776.8,2026-01-14,New Victoria,operating rooms
+6878b914-ef96-423f-9098-98cbec34994e,disease,904.48,2026-02-04,West Markfort,operating rooms
+ec4bd551-49f8-45c7-a36d-4cc447a04dde,area_hospital,717.64,2026-02-26,Jacobview,operating rooms
+4f400430-a401-4f13-a1da-88bd5c739c4c,Address,1781.22,2026-02-08,West Douglas,operating rooms
+3321448c-a8d0-424e-a063-705e6595c964,doctor,456.42,2026-01-01,Terryport,waiting room
+5ea3e154-b88d-420e-9f63-d751ff2d641a,doctor,1322.12,2026-01-18,North Brandon,operating rooms
+7d77acf6-75b7-4674-9997-f96f6ec627e3,Address,1323.61,2026-03-01,Raymondstad,waiting room
+56498041-6cf8-47c4-8845-75fcf48ee338,area_hospital,834.47,2026-01-05,Lake Mathew,operating rooms
+46222dfe-dc84-4980-bb54-7ccbca2bff8d,area_hospital,906.69,2026-02-11,New Derek,nursing
+8c2c2e50-72e4-4837-9fba-17587238ece6,doctor,287.28,2026-02-23,Hesterview,operating rooms
+0e24d66d-8d99-4124-91ba-ba8a32eafbc8,doctor,1470.18,2026-01-23,South Bruceburgh,nursing
+33a501f6-ee10-4dbc-84c0-7f41fbf27389,doctor,1064.54,2026-01-16,West David,waiting room
+ff6ea9bd-5d97-4b66-a147-1de4ed78f4b8,area_hospital,696.24,2026-02-03,North Nicholasshire,nursing
+a130d5a1-b20a-4dae-9a97-eef858f881c2,doctor,14.16,2026-01-12,New Derrick,waiting room
+b78250bb-3bd8-4253-b6ad-8ac71e1a7436,Address,1092.22,2026-01-24,New Marystad,operating rooms
+0038a4e8-b21b-4201-a89b-9788ae38d6bf,disease,1332.94,2026-02-17,Jordanmouth,operating rooms
+ef34ba59-bbf2-4293-a003-37e070107164,disease,471.33,2026-02-01,Sanchezfurt,operating rooms
+76257192-380c-481a-8a1a-6f24a9f51715,area_hospital,224.95,2026-02-19,Port Jasonhaven,nursing
+80a59b22-f53e-41e8-ba47-b8bbc1ebbe0a,disease,52.78,2026-02-08,Kellyview,operating rooms
+a0ca29cc-8342-4d98-bb15-6149c76f6045,Address,1821.41,2026-03-01,West Danny,waiting room
+cd416af4-4911-4d2c-92c7-90fb7684b86e,disease,1727.77,2026-02-18,Lopeztown,operating rooms
+96edd264-93bf-4311-ab01-0de658473110,Address,1557.1,2026-01-06,Stevenfort,operating rooms
+25e562e1-6508-4a9b-a15b-e8b7d30c5f02,Address,403.03,2026-02-13,Dannyville,operating rooms
+a3ae33fc-cd84-4d68-8f46-c99cf983f5e7,doctor,318.34,2026-01-31,Westside,waiting room
+c8dad50c-8644-40a9-bfed-762f42046e89,Address,780.96,2026-01-17,Caseborough,operating rooms
+ea8e7f40-f2d4-4326-9611-11e50b872ab4,doctor,321.99,2026-02-05,Riverastad,waiting room
+eb738f58-34b8-46cd-9c77-08c516c7d328,area_hospital,1815.01,2026-01-13,Port Frank,waiting room
+5345c524-40e7-4810-aa00-c1770caa8b84,disease,1678.17,2026-01-13,Ortegafort,waiting room
+4645aa40-16f6-45ab-ad46-56225198efaa,area_hospital,808.45,2026-02-19,West Nichole,nursing
+5dd84ac3-1bb6-4688-936e-1096cab14cde,Address,692.45,2026-02-06,Tammystad,waiting room
+4b3992a1-d56b-4837-8969-13dadd319ea9,disease,1757.41,2026-02-13,Lake Roy,waiting room
+5ffba537-f928-4852-8add-c2a5ad0ed2cf,area_hospital,919.09,2026-01-11,Thompsonburgh,waiting room
+3dd14566-a2cc-46bd-a98c-290c8ad22398,Address,1214.89,2026-01-15,Lake Joseph,waiting room
+79b2af66-c8f3-468d-98f8-2dfc013493e1,Address,1421.53,2026-01-05,Hillchester,operating rooms
+c63de6d6-06f8-4c17-ae2c-6e71b7d5f044,Address,409.13,2026-02-14,Port Amy,nursing
+4e96e98b-fd65-4eeb-80be-a903cc7f0c3d,doctor,925.76,2026-01-06,South Richardmouth,nursing
+35301003-6a7d-4852-859d-8d0128cc7ffd,doctor,1899.24,2026-01-03,Murilloland,operating rooms
+504f4772-152d-4114-8f8f-9923416b8595,area_hospital,46.0,2026-02-07,Smithmouth,waiting room
+4dab2163-aa90-4e95-a2be-67467b0730f1,Address,277.77,2026-03-07,East Nicoleburgh,operating rooms
+da1d9cfe-621c-40ae-9f53-640c88645154,area_hospital,408.47,2026-01-02,Jonesmouth,nursing
+5103749e-57b9-4a36-9f84-bc64140c59d2,Address,571.66,2026-01-03,Lisaport,operating rooms
+fbfb3bb2-6956-4d93-a935-724631b8655b,doctor,153.09,2026-03-02,Rodriguezburgh,waiting room
+d234edc8-a28c-426b-bcef-6d3928a3aa51,area_hospital,1316.87,2026-03-01,East Karen,operating rooms
+6d684f7a-8d1f-46ad-a95f-3a1e11f91849,Address,346.53,2026-02-14,Esteston,waiting room
+f930018e-738d-40ea-866f-d2c3478fe28e,area_hospital,152.78,2026-01-02,Williamfurt,operating rooms
+e979b371-fbb2-4d62-b504-bc0c9c486409,disease,338.36,2026-01-30,Lake Kelly,operating rooms
+8f51e950-d351-4589-8471-d022fc700faa,Address,371.76,2026-02-23,Johnsonside,operating rooms
+53cdfa66-db77-4bd2-b093-e53cfd016dfd,area_hospital,100.58,2026-02-22,Smithside,operating rooms
+6a5a3beb-b6be-49c2-af73-876345560a7e,disease,1080.22,2026-02-17,Lake Miguelbury,operating rooms
+40c972ac-acd3-4023-9403-475f114c9996,doctor,1030.04,2026-01-20,Edwardston,operating rooms
+9e528b04-9334-4f7f-b57f-f70b4531145e,doctor,1148.78,2026-01-16,Port Rachaelmouth,nursing
+65891613-253b-4005-bd21-4abafcec1b06,Address,291.0,2026-01-24,North Marcusborough,operating rooms
+06f72f30-7f68-4455-8ec3-5662c2b51ca5,disease,1281.69,2026-01-20,Derrickton,nursing
+7aeb6372-60b7-40dc-bf05-6c1d0d505758,area_hospital,1045.51,2026-01-03,Banksmouth,waiting room
+49ffc2e0-cc80-4a24-923d-58b7acc9c0ee,disease,406.05,2026-02-04,Adamsport,nursing
+b597bb4f-9ad8-4617-aea4-e4dc4d649e61,doctor,1852.57,2026-02-18,Miabury,nursing
+fa2cf687-663c-4af9-a748-1faecc643b41,disease,1127.03,2026-02-05,Leeborough,operating rooms
+c2d0adca-80c6-42a9-a993-4b7c94d7d81b,doctor,196.39,2026-03-03,Amandachester,nursing
+abd81b65-2147-4be2-905a-7fe679cc3f3f,doctor,1286.7,2026-02-21,Diazbury,operating rooms
+06063750-982c-4ba2-b32d-4a90952ae4a7,Address,1500.6,2026-01-24,Darrylmouth,nursing
+106eb53a-336d-4a42-9c56-08f0e9771765,doctor,1473.88,2026-02-21,Michellebury,waiting room
+e62fae0d-00de-44be-9aee-476f74810fea,Address,1041.64,2026-01-10,North Christina,nursing
+f291d955-4547-4d6d-b5c8-29147eb8941e,area_hospital,1633.99,2026-01-15,Ricardomouth,operating rooms
+6e45b7c1-2430-46eb-b86d-c7c66355fa1a,doctor,1541.43,2026-02-18,Craigchester,waiting room
+92be74ba-e2e8-4e4d-9f2d-02922b8892e6,disease,392.43,2026-02-19,Gonzalezchester,nursing
+4ac4652c-0c31-4d68-ab1e-928b85ba3035,doctor,425.6,2026-01-28,North Alexander,operating rooms
+dd72525d-5f27-4b9c-81d7-2c07db5d1817,Address,699.31,2026-02-10,Stephanieland,waiting room
+28b03716-c9ee-4b5a-b924-ddd87bcb9670,Address,417.65,2026-03-03,West Travis,waiting room
+cf42da04-3c8c-4993-8501-958799bf3e84,disease,382.07,2026-01-01,Greenchester,operating rooms
+fd098cc8-9148-41d9-a763-3b09831919ba,disease,280.74,2026-01-24,Christineland,waiting room
+5b076fec-f854-42a1-8ff4-afa02c9d229c,disease,1437.39,2026-01-14,West Andrew,waiting room
+6428e40e-e8a5-4203-9816-206daba36c97,Address,571.15,2026-01-08,Williamstad,waiting room
+04779d61-75a9-4a62-87df-f2e9dddcaa75,doctor,912.9,2026-02-16,West Tony,operating rooms
+060e01ac-06e1-4020-8c49-4aa02ec1181b,doctor,1598.88,2026-01-21,Bradyhaven,nursing
+749093c8-6919-4eea-ae28-fc983deb6957,area_hospital,1358.46,2026-02-01,Sherriville,nursing
+3b62c625-6a55-45e8-beb1-1b8aae300c4e,doctor,495.95,2026-02-25,Lake Linda,nursing
+79507734-c67d-471a-b6a6-51b239ea05b7,area_hospital,1269.25,2026-02-23,Heatherview,waiting room
+0ed3633a-936b-4292-a1bc-088e14af69a4,disease,1455.01,2026-01-11,Seanburgh,waiting room
+034d3b9d-c700-41f9-9818-22a043184720,disease,672.05,2026-02-21,Christophertown,waiting room
+a28324bc-1eee-43e4-a927-85e29d54b04c,Address,1723.77,2026-02-18,Lake Lindseytown,nursing
+8eeac21a-9f02-494f-9e75-b6ca56dfda0d,Address,239.75,2026-01-30,Juanmouth,nursing
+c547cda0-4df4-440c-95e9-3df5a2b0fa77,disease,839.74,2026-01-09,East Andrew,waiting room
+19177630-08b5-46a2-9290-dfe74d0b7041,Address,510.75,2026-03-05,Gillland,waiting room
+add12b4b-b764-4b42-ad69-0ea204117621,doctor,1594.79,2026-02-02,South Megan,waiting room
+b05da4d4-656c-458c-bf4f-15eda64bc5bc,Address,1480.0,2026-01-03,Deleonmouth,operating rooms
+3098d8fd-2d9a-43ea-a2be-610f1c85c804,Address,1138.31,2026-03-01,Crystalton,waiting room
+1ee3503f-248c-4584-a78a-a1ece55cfaf9,doctor,1025.07,2026-01-14,North Kimberlyborough,nursing
+89286eab-ef50-4336-ae9c-e27799d19c76,disease,1301.25,2026-02-28,South Alan,waiting room
+10eeb41b-fc04-42b3-a43b-e15553584ae8,doctor,196.8,2026-01-05,Harriston,operating rooms
+3b094974-1cd1-434d-b990-6cc497702687,doctor,911.33,2026-01-06,Port Sandra,nursing
+d79808cd-a4b1-45cc-9625-9d9a92a748eb,disease,1650.76,2026-01-01,Bradleyland,waiting room
+359044fd-22e1-40ea-8a2f-5d51e38f1417,area_hospital,1663.31,2026-02-14,West Darrylmouth,nursing
+4193ffe5-1e5b-46fa-8bed-d0d662790df5,doctor,428.83,2026-02-07,Sullivanbury,operating rooms
+87631ee6-7f1a-4901-957b-b990289c2e00,doctor,1958.84,2026-01-12,East Alfredland,nursing
+b3e449de-bca2-482c-9cb4-a0ed1b82c583,doctor,162.73,2026-01-12,East Lisa,waiting room
+72168ca2-61d4-4c58-9d71-d23d45d4ce10,disease,1526.72,2026-01-14,Reynoldsborough,waiting room
+a101f412-cf40-42b6-823e-8f01e3a11ce5,area_hospital,1261.78,2026-01-08,West Ernestmouth,operating rooms
+565cfda2-ce99-4560-9414-fec43a43b978,area_hospital,1131.76,2026-01-11,Beardside,nursing
+a5463819-2f45-4b7d-b17d-855a62cd3620,doctor,179.71,2026-02-19,Brownside,waiting room
+ec6a6398-efed-4c2a-9d22-73ceff3651d8,area_hospital,745.5,2026-01-13,New Denisefurt,operating rooms
+47cc9344-b927-41ba-8c7d-a4925b0c147d,area_hospital,1592.46,2026-01-12,West Matthew,operating rooms
+057c3535-5fb9-4f26-8967-01f072a29070,area_hospital,882.12,2026-01-18,Stevenland,operating rooms
+81904277-2f1f-4012-a98a-6866e77b2af1,area_hospital,566.94,2026-02-05,New Traceyport,waiting room
+d045b04b-cdb8-4a84-b76a-e1e0b47aa825,Address,1172.59,2026-02-04,East Michelle,operating rooms
+8e1ff5bb-826a-4ab1-a374-2e2df4c89128,disease,1533.16,2026-01-29,Cooperchester,waiting room
+beec0e45-2f99-48ca-ad32-29c77700de74,disease,101.33,2026-02-15,Waltersmouth,operating rooms
+c9a678da-a159-4845-886a-9fcc5f3ef756,area_hospital,1044.36,2026-01-23,Youngburgh,operating rooms
+26651061-a121-481e-ba03-a9750f26af09,doctor,1269.79,2026-01-24,Huffmanshire,waiting room
+87d8de15-eda4-4ded-b1d5-2df07a3bac9c,area_hospital,100.48,2026-01-13,Aprilmouth,nursing
+b150aebd-053b-4790-b3bc-9ebe9eaf7a7d,Address,1946.45,2026-01-30,Lake Andrewburgh,nursing
+78b795e1-f253-4489-8444-6af0fdb9c8ed,doctor,107.67,2026-02-11,Goodmanville,operating rooms
+c55c9304-d102-4321-812c-d1acf29134e3,doctor,1298.49,2026-01-05,Norrisview,operating rooms
+2b864371-ae67-406d-981f-dc8d1cd6eaf0,doctor,1869.64,2026-01-23,Jordanhaven,nursing
+0bef275b-7fb8-4198-913f-cf00f34fe5e4,Address,1979.65,2026-03-07,Jamesbury,waiting room
+1a95213e-c28b-4e08-a1a4-ca924aaa0cdb,doctor,1881.68,2026-01-18,East Robert,waiting room
+8bb69833-de75-42bc-b868-2f3fc5491c1d,Address,393.82,2026-02-11,Kelleybury,waiting room
+676e99de-4cd7-4d49-ba81-1c4a6469a0a8,disease,984.44,2026-01-20,Leshire,operating rooms
+df3b040b-3af6-41af-a539-32434eb0ae91,Address,1763.1,2026-01-19,Middletontown,waiting room
+6a714332-fc42-4a8d-8145-eb0ef042510c,doctor,1478.67,2026-03-07,Port Michaelview,nursing
+2cc33a0c-cd58-4fce-bff7-3002e606d991,disease,1130.23,2026-01-25,Karistad,waiting room
+c8f67bad-9906-4ca3-85ff-1f8ac866b4f4,area_hospital,1593.24,2026-02-16,West Juliehaven,waiting room
+c0948579-c382-47a6-8309-e567cb4dfa97,area_hospital,1573.61,2026-02-05,Townsendchester,waiting room
+983c3117-6150-4f93-8a36-6eec3b5a1882,doctor,1708.27,2026-01-31,Lake Brianville,nursing
+e2f1727a-1250-4797-9b26-59092a2094b7,Address,669.54,2026-01-15,Conniestad,nursing
+9baca642-aa84-4e3b-8489-c521d2e14dd6,Address,1117.94,2026-02-17,Kennethville,waiting room
+12dae439-20c1-4341-a752-1a0907f46e51,Address,1380.53,2026-01-19,East Richard,nursing
+bb6119b5-eedc-44a5-8352-708ac2a2030f,doctor,1460.15,2026-01-20,Ramosmouth,waiting room
+703203f3-d562-4411-b26f-5cc5da74ba31,area_hospital,1771.15,2026-02-05,Kimberlyland,waiting room
+11f6e4e8-b84c-44b4-a19f-ef3df78aba58,doctor,1476.53,2026-01-07,Christopherburgh,nursing
+df1e0ffc-cb90-4167-9b20-29f55658a58a,area_hospital,681.81,2026-01-09,New Alyssa,nursing
+76aba4d7-8565-4120-9f4f-4028ac6367af,doctor,887.91,2026-01-04,Lawrencebury,nursing
+40390153-1fac-47cb-9a1b-38ac7cbea349,area_hospital,207.2,2026-03-06,Jenkinsburgh,operating rooms
+621fbea5-04fd-4624-adf8-6d3bc42b0042,doctor,157.36,2026-01-07,Roberthaven,nursing
+31235200-cd9d-41f4-9d3e-fff20c5d3158,disease,995.68,2026-03-03,Zacharytown,waiting room
+c7421a04-153c-45c0-bca3-76a7c44f29f5,doctor,432.22,2026-01-27,New Josephville,nursing
+03129d2a-ea86-4ce0-9287-5b65d48c778e,Address,106.51,2026-02-17,Craigview,operating rooms
+98da2d0c-4175-4754-b706-488a62e69a8a,area_hospital,1378.73,2026-02-14,New Heather,operating rooms
+5761576e-22a1-4c92-98ce-c8ec06f0673c,doctor,515.31,2026-01-21,Port Catherinemouth,operating rooms
+79e78bae-441b-490e-9a00-2852fb7ba7e1,area_hospital,313.52,2026-02-19,Johnsonberg,nursing
+a5c37a7e-e1a2-40c4-ba98-a501e2266cd5,Address,1697.45,2026-02-20,Joycestad,nursing
+db966945-4a45-4c0f-8097-e82303d6e2fe,doctor,1647.1,2026-02-28,New Katie,operating rooms
+9b206a00-0398-4671-97ba-c34b8c0e3171,disease,478.68,2026-02-09,New Derekfurt,waiting room
+952b7fa0-5132-4a27-b643-4495e0b453d5,doctor,323.6,2026-01-13,Margaretburgh,nursing
+3ce3612e-64c1-4e4b-bd8d-ebd9ba2f7191,area_hospital,1021.55,2026-01-01,South Ruth,nursing
+efc6a4b8-c125-4191-b3e4-e713a57637de,doctor,263.33,2026-03-04,Martinezshire,operating rooms
+fe46ba85-6512-488b-9e44-cffd8bdad8ea,disease,76.2,2026-01-20,Christinaville,waiting room
+906a4811-5d82-490f-8a73-a973d553bde8,area_hospital,1868.43,2026-03-06,Yvonnefurt,waiting room
+dab8fb6d-bc97-4b2e-8d4c-ceb3f00edfe9,area_hospital,1979.81,2026-01-24,New Robertview,nursing
+e9d66e5c-442f-467f-bfc8-41c24941456b,area_hospital,1340.65,2026-01-06,Wongtown,operating rooms
+9c262439-5783-4942-b14c-42e62e3422ad,area_hospital,1972.12,2026-01-29,Bradshawburgh,waiting room
+621b35b1-30e1-4a41-b4fd-d24d567a6485,doctor,1734.36,2026-01-11,Liuchester,waiting room
+3ff4a67d-1e44-42cd-b2d6-5ff8b45ae3b1,area_hospital,964.89,2026-02-25,South Gregory,waiting room
+27d5156b-3b55-4320-ab52-7cd92172f6a7,disease,334.45,2026-01-07,East Angel,nursing
+689a9e57-8981-4a83-be38-3eb1415cf855,Address,943.41,2026-01-06,South Taylor,nursing
+0768f4db-8f75-43a2-ba0d-1fecb731f768,doctor,947.51,2026-02-16,North Justinview,waiting room
+a4c57a40-2b87-4ca5-8dc1-e877b81870a2,doctor,548.66,2026-01-03,Stonemouth,nursing
+171cb55d-2c60-491d-a719-40d4d3cd989a,disease,164.78,2026-01-17,Richardhaven,nursing
+d06d2d33-0279-458e-acd9-6ad99fb7275e,Address,1803.25,2026-02-26,South Dominicstad,operating rooms
+40c410b9-5c58-41d2-bf68-c8a9c6a61d57,Address,326.65,2026-02-17,West Travis,operating rooms
+9b6a3e05-40ec-47d7-89ba-caa21e0b7e21,area_hospital,47.27,2026-03-05,Mckinneybury,operating rooms
+7c10bb7a-3e48-4c15-9b2d-0fe8598ffc52,Address,601.76,2026-01-13,South Karenshire,nursing
+58bb2f56-bade-4141-a523-5587314cde54,area_hospital,445.17,2026-02-23,Sharonmouth,nursing
+8e082a3c-62a3-44d5-a7d1-584683aeba4a,disease,1370.02,2026-01-31,Lake Jessica,nursing
+fc08e7c6-680b-42a3-94e8-2cb222f1ccb6,disease,1353.08,2026-01-21,Mcgeeville,operating rooms
+dd0133e2-d713-4d08-baa0-57cdd3c011a9,area_hospital,1799.31,2026-01-21,Glenport,operating rooms
+c3bc0892-a332-446d-93d3-129d8558c647,doctor,1727.45,2026-02-16,East Thomasburgh,waiting room
+53421f51-2f84-4194-ac35-935ac7566e70,disease,244.65,2026-01-09,East Carolshire,nursing
+c70672ce-0137-44f0-b612-82998f69a022,doctor,987.98,2026-02-04,Jonathanmouth,waiting room
+93c15ca2-2bf7-4e4d-8276-d7dc56051370,area_hospital,1309.39,2026-02-23,Brianstad,operating rooms
+1ce2a252-f302-4ccb-aa37-afb4ee5e7bc1,Address,1108.42,2026-01-22,Robertsonview,nursing
+cba0dae2-d2e9-4085-a24b-69186366f150,area_hospital,777.13,2026-02-17,New Erikastad,waiting room
+62b318d9-5ee3-4b23-8d46-1d4843c74239,doctor,40.65,2026-01-31,Clarkmouth,nursing
+477aecd5-5e28-4338-b45e-260a3df91880,area_hospital,1703.55,2026-02-25,Port Stephanie,waiting room
+4130898f-1c06-47a9-a020-b662c72d3950,doctor,1235.17,2026-01-20,Torresland,nursing
+12ed12a8-b4e8-4134-b1af-1dd30f4beed6,doctor,1055.38,2026-02-07,North Louis,nursing
+a756ed53-0e34-4962-aeae-f26d4017fc4c,doctor,658.62,2026-02-09,Jeremychester,operating rooms
+352bae24-2c4b-4595-be98-63fe8a5dff38,doctor,1808.84,2026-02-09,Dixonhaven,waiting room
+3a7f583b-e20f-42f9-b740-524f6608d252,area_hospital,212.13,2026-02-15,Lake Valerieside,waiting room
+0ddb1049-f947-42f3-8394-2936cdfd7417,area_hospital,684.08,2026-01-22,Jordanton,nursing
+66bce9a7-7b9a-4a34-9b73-67bbdbd921a1,disease,126.79,2026-02-20,Pearsonshire,waiting room
+23d6eb17-d45f-451c-a4c1-a744388c9224,area_hospital,1675.62,2026-03-01,Port Annettestad,nursing
+2766063c-568e-4bf0-b001-ba830319b918,disease,923.46,2026-01-05,Smallbury,operating rooms
+7215fae7-a8c8-4472-ad52-52ed067f9ee1,disease,1177.98,2026-03-05,Russellside,nursing
+619209ca-6dc4-491d-8c55-1f19ee164969,Address,1039.81,2026-01-31,Beardfurt,waiting room
+4c9ed1e5-d88a-4796-89bd-fb48515c3591,doctor,1110.78,2026-02-01,Jenniferbury,nursing
+375934b3-67df-4140-bd2e-e772c59a2a1d,Address,1444.22,2026-02-06,Autumnburgh,nursing
+ef132d2b-3527-460d-a8fe-a125bca5ff93,doctor,1535.78,2026-01-04,Simsstad,nursing
+06af399a-5dca-413e-8dbf-9d94a61c51ed,Address,771.6,2026-02-16,Reillyton,waiting room
+89f24da9-bd1d-4617-988a-87aced3b6932,doctor,1157.88,2026-01-12,Douglasstad,nursing
+a5c2058e-d035-43f6-9d9c-4d277ec1a397,disease,1987.33,2026-02-03,Laurachester,operating rooms
+c383aa08-11eb-4fb4-b258-809135b617cd,area_hospital,485.67,2026-03-05,Espinozaberg,waiting room
+469874f9-eac8-4646-a824-33e3e0eb248c,Address,1954.05,2026-02-19,Hernandezville,waiting room
+4a3bad3c-1176-4fce-be56-9bb207749d7a,Address,89.25,2026-02-09,Frostchester,nursing
+82b84f67-111e-4972-8844-c671547c85f6,doctor,465.91,2026-01-19,North Robert,operating rooms
+9453847b-5350-41be-9deb-1b225fb272f2,area_hospital,1314.18,2026-02-22,Port Dennis,operating rooms
+fe8e588d-89f5-40ab-82ba-9537ecaac097,Address,611.6,2026-02-15,Josephchester,operating rooms
+f6a59726-8041-4cc6-894b-accec764b419,Address,1305.49,2026-02-04,Beckerbury,nursing
+4da4940c-79f5-41b9-b04b-946ea6378d54,doctor,73.97,2026-02-26,Maloneshire,waiting room
+d3c21367-5ebb-44d0-866a-19ab13597ee7,Address,1914.45,2026-01-30,Tiffanyport,nursing
+04f85c7e-0eeb-46d1-8148-959718711fb7,doctor,1477.55,2026-01-21,South Annettestad,waiting room
+d0843221-1500-487d-b09c-3dc808f5f232,Address,1610.14,2026-01-23,South Angelafurt,operating rooms
+83134b53-0031-4cf1-825c-cec497da0a84,Address,182.25,2026-02-07,Douglaschester,nursing
+da053e46-22c8-4e38-b3c3-586c60e93cb7,disease,1869.4,2026-01-02,Pittsmouth,waiting room
+bbe374ef-1e13-4a2a-9e4a-656bf3a24c54,disease,1330.89,2026-03-06,Michaelland,nursing
+867e568f-a9c8-44e9-9d33-991c58f6e13b,doctor,609.49,2026-02-19,Bettymouth,operating rooms
+78fb58ca-0c36-4d63-85bf-6b373bcda3cf,area_hospital,1364.32,2026-01-12,Lake Douglashaven,nursing
+6d45e77b-030c-4a5d-a5f8-c8c79cec072b,Address,1138.59,2026-03-05,South Breannamouth,nursing
+8b798546-50b3-4a8a-a955-e318b9fac878,Address,703.25,2026-01-03,South Patrickmouth,nursing
+58c6e16a-c62e-457a-b24a-fe68aa228194,area_hospital,234.91,2026-02-06,New Gene,operating rooms
+ca979f75-e934-494a-aea4-1b534946959d,disease,894.46,2026-03-04,Fordfurt,nursing
+c1ac23ed-fa78-40a2-abe8-531d7be48f0e,disease,20.62,2026-02-07,East Jessicaburgh,nursing
+03a88171-0fcb-4232-ac86-7e54b4076a3a,disease,691.67,2026-01-14,Kennedymouth,waiting room
+3408d5e7-6a90-4771-9b1f-9ab3443e0a44,disease,1071.86,2026-01-05,Hernandeztown,waiting room
+1be5ec3e-8cf9-42b8-8365-7845ae7e65b6,area_hospital,566.45,2026-02-05,East David,nursing
+a8142133-85da-4629-bc8d-709a52ccd10b,doctor,553.52,2026-01-04,Lake Victoriamouth,operating rooms
+03e48051-1ce6-49ea-88e2-2549278a4f3f,doctor,967.79,2026-01-29,New Lorifort,nursing
+d6ea4969-3788-42aa-994f-bf66c2126f4a,doctor,355.42,2026-01-31,Kingfurt,operating rooms
+feb7395d-d66b-45d2-b2b6-35cbaa8ecd73,Address,918.06,2026-02-07,West Natalie,waiting room
+012c8343-6a7b-42be-88c7-1c925cf60979,doctor,1640.58,2026-02-28,Port Joshuafurt,operating rooms
+85d23fee-e7c4-468c-9c33-344434f03faa,area_hospital,1657.07,2026-02-03,Garciaville,operating rooms
+cc2f6403-d209-47ea-a2b4-04d3243217f9,area_hospital,1710.1,2026-02-22,Howellstad,nursing
+20ad6c66-3d51-4108-a1c1-052ddb5f52f1,Address,101.02,2026-02-24,Smithstad,waiting room
+2c405ce3-b9b1-4321-81e3-b4c5fd9db429,area_hospital,574.23,2026-02-05,Wilkinschester,waiting room
+871b8025-048d-4e37-a522-a11a47cde952,Address,681.53,2026-02-22,West Mariashire,nursing
+1aaaeca1-5a79-4354-b810-bcc6cb6efb18,area_hospital,1284.54,2026-02-22,Justinberg,waiting room
+e9d4508a-a68e-472d-9caf-e0de0e3a5db2,doctor,1972.83,2026-02-14,East Kennethshire,nursing
+f978a0d5-f2f6-4f89-b048-9a7902ef9bf9,Address,1472.03,2026-01-28,Mccarthyton,operating rooms
+c05c8af6-bd96-4a7d-ba8a-c254a57bbf49,disease,1397.07,2026-01-19,Phillipstown,operating rooms
+2351111f-91e9-44f7-b1df-ac6f1eb11238,doctor,1382.21,2026-03-03,Dylanland,waiting room
+710bacf1-dc9d-4244-98a4-51d9dfd1a58e,area_hospital,1218.58,2026-01-31,Melendezborough,nursing
+5b73075d-109c-45f7-a002-7774d8e3dd84,doctor,1181.32,2026-02-03,New Vanessaview,operating rooms
+32cd5aff-4379-4ecf-ac30-b9d16df1d892,doctor,1179.46,2026-02-12,Briannastad,waiting room
+d9cceb4b-6f6c-4abf-9c7f-a9f500e17b6c,area_hospital,1373.6,2026-01-17,Sanchezborough,operating rooms
+d0850a25-4edc-42f7-9e32-793e8d33bd2e,doctor,379.33,2026-01-28,Eugenestad,nursing
+1e10eb43-71b8-4c7a-bb30-b7acfb2b2e2c,Address,1208.74,2026-01-17,Susanberg,waiting room
+d14100ae-dd7b-4600-a5a2-df5daffbdbca,area_hospital,718.79,2026-02-18,Port Brian,waiting room
+1ad5ce28-9c40-44a7-8a41-a0b279bdf5bf,Address,1993.21,2026-01-01,Medinashire,waiting room
+ea322868-7b6d-480d-abba-dad9fa8abb71,area_hospital,520.15,2026-02-05,New Jasonport,nursing
+a215fbd1-e460-4045-b17e-295c12398b8b,area_hospital,884.21,2026-02-17,East Robinhaven,operating rooms
+f8196bc0-2353-47da-afb3-9d9b2db7f86f,doctor,486.9,2026-01-21,Courtneyfurt,nursing
+eaf8b324-b54b-4811-b285-d416eb6c7341,disease,1071.13,2026-02-27,Cooperchester,operating rooms
+977694cf-1e56-4a9a-afaf-9627f728235b,area_hospital,852.71,2026-01-21,Lake Kyleview,operating rooms
+039e1a12-03ae-4066-8dbd-f3dfa4e9870b,Address,1089.9,2026-02-01,East Ryanton,waiting room
+3b5afd1d-cf4f-4165-8af1-b28cbc2f77a8,area_hospital,1668.65,2026-02-06,Suzannetown,operating rooms
+40667128-2a3d-4637-a581-e59bb6830d2f,doctor,977.66,2026-01-30,North Shawnburgh,nursing
+7532db2b-6a88-409d-9393-ec2ce5582417,area_hospital,1910.39,2026-02-21,Alexanderburgh,waiting room
+d97ae052-97ff-434a-924d-b12636032ae9,doctor,289.97,2026-01-10,Lake Pamelaburgh,nursing
+d4dbc8f4-33c1-4d55-8e60-6bf5d4a8841b,area_hospital,1392.08,2026-01-01,Alyssaville,nursing
+86869f75-e62c-45c4-921c-10607b273058,Address,349.61,2026-03-02,West Jamie,nursing
+3b2a7894-72ab-48b5-97e3-c5848700eb65,Address,661.43,2026-02-17,Kevinfurt,waiting room
+23517b1f-6ff0-4a48-95c8-00cbc014406b,disease,1045.83,2026-02-08,South Nicholasmouth,nursing
+5110674f-97ff-4e42-90a9-95351081c748,Address,1842.8,2026-01-27,Acevedofurt,nursing
+60d3633e-28c6-4008-a5a1-8ce1b191dd78,doctor,597.01,2026-01-30,Jamesberg,operating rooms
+dd1782e7-dd19-4197-b0cc-24276acfa731,doctor,1232.15,2026-01-21,East Yolandafort,waiting room
+41faade8-c638-491a-957f-15bd3c5e8507,Address,566.36,2026-02-17,North Angela,operating rooms
+bf29c9cc-e675-4997-96df-af311781bea5,area_hospital,19.4,2026-03-01,Stewartport,operating rooms
+b7a0ee07-bcc7-4a0d-b23a-453ea0301f0b,area_hospital,26.15,2026-01-30,Port Jacobbury,waiting room
+907adfdd-932f-47a3-b6b3-d97d5f6de2eb,disease,137.25,2026-02-22,New Bradley,waiting room
+94bc4132-5954-4ecb-8ef9-5eff524e809e,disease,1495.2,2026-02-22,Port Joseph,operating rooms
+66866299-6d9a-4cff-9a20-86cba5b088ef,disease,1504.24,2026-02-25,Leefort,waiting room
+54f50180-257b-4bf5-bb6d-115fdfff60c9,area_hospital,1154.55,2026-01-02,Joseborough,operating rooms
+db1489fe-00d5-4e5e-aa24-776ed99f8d8d,disease,1388.15,2026-03-03,Lake Ericaborough,operating rooms
+934539ea-74ca-436a-a175-07a607020df1,doctor,507.1,2026-01-08,South Jeremyshire,nursing
+a358a2fc-25e0-4727-ab53-2342f479f949,disease,962.07,2026-02-02,West Stephenhaven,nursing
+8b81b6a2-224c-4326-9811-93a5c1683730,disease,1800.39,2026-02-28,East Tina,nursing
+22dd890f-014e-4fda-bb0a-46135cf8c911,Address,1737.93,2026-02-12,Port Melissaview,nursing
+11292b0c-7ddf-4169-9b6d-ca8f99c16cf4,area_hospital,1680.35,2026-02-15,Port Dorothy,operating rooms
+1419600a-7816-46e5-9305-f04d5c130347,disease,386.38,2026-03-02,North James,nursing
+6c2887c0-455d-40b9-afdf-6f6fa49966c8,Address,1474.14,2026-02-03,Stevensville,waiting room
+5bdfeb2d-ecf1-4ded-a8c0-fa532564857f,area_hospital,1726.81,2026-02-22,New Cynthia,nursing
+d0046eb7-67c1-4eda-814c-80a2c5b63488,doctor,1378.44,2026-02-08,Garciafort,waiting room
+fc7daf70-2b91-4a83-b4ae-6a175ffb8264,disease,678.45,2026-01-27,Lake Susan,operating rooms
+0e5ff172-4f16-45f9-9d7a-d189207c1cf6,disease,1395.88,2026-01-06,Erikside,waiting room
+b99107d0-5f83-4343-ba50-e217ccaff762,doctor,1697.37,2026-01-31,New Audrey,nursing
+a1617c5f-0902-4351-a06b-3e219de297cd,disease,369.77,2026-03-04,Hernandezberg,waiting room
+427011b1-4348-4651-8811-cbe5b13d2f66,disease,1377.47,2026-02-12,Port Dennishaven,waiting room
+94ce3727-21d4-4349-96c1-2c409892a4a5,doctor,1361.74,2026-01-11,Antoniomouth,waiting room
+b9d67acc-46a4-45a9-b0c7-eab90f470310,doctor,307.19,2026-01-11,Davishaven,waiting room
+247bd1ab-4239-4c31-ac64-5c01da69442a,Address,1120.49,2026-02-08,Pottermouth,waiting room
+a323588b-0e3e-434f-849c-c626da917fbd,Address,1092.91,2026-01-08,Lake Michaelmouth,waiting room
+2e1a2cd5-d94d-40be-a709-0171598156d2,doctor,1305.3,2026-01-18,Amberstad,waiting room
+cbb2073b-d592-422e-95b0-ca53bbb3d036,disease,1540.9,2026-01-21,Port Joshua,waiting room
+6db46005-33f6-432e-9ee4-854dc5cb39fa,disease,1507.63,2026-01-24,Shirleyport,operating rooms
+a94c351c-866e-40c9-a1b1-1cbac5a17bae,Address,1030.32,2026-02-03,North Angelachester,nursing
+681f01c5-3e07-460a-bd91-6570af183194,Address,361.37,2026-02-08,Lisaville,nursing
+6eae9b4d-f33f-4a1f-9bed-a4faa305ce85,doctor,1088.4,2026-01-23,Lake Zacharybury,nursing
+4fb461ae-98f9-4be4-9bef-cc1ec01fdeef,Address,221.43,2026-01-31,Port Dawn,waiting room
+cc564a3d-8fdb-4c31-aefa-ba1416683bf1,Address,1362.92,2026-02-13,Stoutborough,waiting room
+63e5ad16-4437-481f-b7d6-119441599778,doctor,1110.12,2026-01-02,Danielsmouth,nursing
+3b8ca45d-d5fd-465c-8096-f1bc55fed43f,doctor,1462.85,2026-02-23,East Amberbury,waiting room
+efca398d-a1cf-4dc9-8370-ae8a2cee77d3,area_hospital,370.32,2026-03-02,Kellyberg,operating rooms
+449e67a3-7236-4478-b527-4c5c473c6f27,disease,946.25,2026-01-07,Donnaburgh,operating rooms
+204608bd-2d6b-4244-ac5c-f927e0786c39,disease,873.4,2026-01-31,South Sandra,nursing
+77f71cb3-4e1f-4c26-8abe-ab31754fdd67,disease,364.66,2026-01-08,Bergerburgh,operating rooms
+597edb35-43ab-4fc5-8e58-ea3eee76b831,Address,990.05,2026-03-04,New Michaelaton,nursing
+7993566f-f647-4b7e-8920-a12fc65de5eb,disease,1875.62,2026-02-07,North Austin,waiting room
+d78a0192-0378-4503-8ffe-36710f2a8665,area_hospital,1348.06,2026-02-11,Fordview,nursing
+60c6f678-5c64-47df-98c6-d83753da4591,disease,1732.03,2026-01-16,Nicoleshire,waiting room
+237401e8-abcd-41aa-8d87-971c5e70bea6,doctor,1346.03,2026-01-13,South Tracytown,waiting room
+1ae35402-4de5-46db-b9cc-c18a37056dde,area_hospital,1247.47,2026-01-18,North Johnside,nursing
+0217f349-5fff-42a9-9955-12ad77e8a0c7,disease,1084.22,2026-03-03,West James,waiting room
+9d31bc9b-4adc-4675-a210-5c1ce500671b,area_hospital,438.8,2026-02-23,West Stephanie,nursing
+f8450b06-8d3e-4d2b-9efe-2a6ccd38ebd0,doctor,1190.49,2026-01-01,Barnettburgh,operating rooms
+b5a94f36-3052-4d12-bbfb-bdfacc2efcf6,area_hospital,1075.03,2026-02-21,Gonzalezton,operating rooms
+55254d35-7e5b-4a94-bfda-79ee69580808,doctor,1763.02,2026-01-14,Lake Brett,waiting room
+6a9b4ed0-ced6-42d4-976a-031d68545f3b,Address,990.1,2026-01-01,Nancychester,nursing
+790cae17-5d12-4c05-8cf9-b878407d256f,Address,329.18,2026-02-19,Bullockborough,waiting room
+be6f9cc8-2999-4c3c-9577-29dcbca57152,Address,1428.62,2026-03-07,West Mistymouth,nursing
+1feb72dd-d1ee-49c5-9649-b3279cb9923f,disease,12.82,2026-01-10,Bakerside,operating rooms
+626a9797-aa3d-49c1-b1db-23eb0b62aa26,area_hospital,1650.31,2026-01-18,Walkerbury,waiting room
+96b6eef0-3e88-4eaf-8868-a00ceb7516de,doctor,1321.39,2026-02-03,Shawnaburgh,waiting room
+62b5af1b-3563-4740-af5f-1ad173bd5a30,doctor,1028.34,2026-02-25,Sanchezbury,operating rooms
+65b7830e-d041-4c15-ae19-bf3d4716a81c,area_hospital,1955.61,2026-03-05,South Alexandermouth,operating rooms
+d3d2df06-5340-4d12-a67a-5207703d48bd,disease,1459.49,2026-02-18,North Travis,operating rooms
+5f872f40-04bb-4dae-bae0-3ca5f81a637b,area_hospital,23.7,2026-02-02,East Kristen,waiting room
+2a1c949e-4dd6-4ac7-a1c1-327227c72fcc,area_hospital,97.6,2026-02-01,West Rodneymouth,nursing
+00d437e0-27c1-49a0-ae25-8e2212350115,doctor,848.78,2026-02-16,South Marktown,operating rooms
+8a3d83aa-2d09-4316-9d82-df982dad2ec8,area_hospital,1792.71,2026-01-23,Port Austinfurt,operating rooms
+ebc72f3a-a5a4-4874-b723-27eb0ec5d38f,Address,1112.43,2026-02-07,Smithmouth,waiting room
+369b8260-5ab7-410b-aa3c-2f15ddd8bfd9,Address,1625.0,2026-01-12,New Elizabeth,nursing
+c101bb81-f662-4936-91b2-2ac64b374f47,doctor,212.07,2026-01-27,East Courtneyview,operating rooms
+8d422025-d38e-4591-85f5-29a9a49f7602,area_hospital,129.03,2026-01-15,New William,nursing
+4186b38a-6966-4918-864f-81fedd33e936,area_hospital,1413.82,2026-02-01,Whitneyton,operating rooms
+96688561-e782-4c7d-9c6c-4f7e50aba8c3,disease,1788.36,2026-02-09,Jonathanstad,waiting room
+e998904f-e8e7-4bae-a1b5-ecd17d224fa7,area_hospital,1024.2,2026-02-02,Reyesberg,waiting room
+f27c44c4-ab35-4bac-88a3-4faef864a27d,Address,1789.58,2026-01-03,West Maria,operating rooms
+889c81c5-678d-479b-8cc6-3cf202dbdda4,Address,1397.14,2026-02-12,Ramosmouth,waiting room
+25b5a9eb-b22b-4be1-bb56-172fc9930a01,disease,770.72,2026-02-25,Port Natasha,nursing
+03267f80-3946-429a-a9be-fea26238cc82,area_hospital,862.66,2026-02-27,Petersonview,operating rooms
+da14b5e7-ac9d-4057-a76b-fa38c7c3acc7,disease,410.88,2026-02-16,New Tinaland,operating rooms
+644d8855-5a49-4d52-b806-bcca8deaa37d,doctor,1262.37,2026-01-19,East Andrea,nursing
+1ed2ba29-eab7-4638-8b73-9b4f2485ce71,area_hospital,1302.58,2026-03-04,Westhaven,waiting room
+d7801597-962e-4d55-9577-4c6be82b780f,Address,1597.94,2026-01-09,New Gabrielstad,waiting room
+359df78b-1e18-4855-a5d8-a3f527e17b9c,doctor,559.97,2026-01-06,Thompsonchester,nursing
+7099cfdf-21fe-423d-8ed6-3e8df33a198c,doctor,1762.43,2026-01-21,Ericachester,nursing
+11dc31c0-f276-4b0e-a0a1-10023f67007b,disease,656.29,2026-02-13,West Nathan,waiting room
+9b236afe-578f-495a-9bfc-b92dc5e8fe05,disease,515.29,2026-02-22,Omarhaven,nursing
+95dc6b05-f6ab-4030-a089-46d2b952f9bd,disease,1814.35,2026-02-17,South Debrahaven,waiting room
+40749135-e5a5-4bea-911d-d1debc5bc19d,Address,299.24,2026-02-28,North Anthony,nursing
+1cf4e2e5-680e-40e0-bc06-2d920fc9c07b,Address,1985.87,2026-01-05,Josephbury,operating rooms
+fd2e1006-41ba-498d-9be1-c3e0fccc4a28,Address,1375.32,2026-01-08,West Mariah,waiting room
+e108aa41-eb9f-48cf-8f92-482a9bd0423a,doctor,426.84,2026-02-08,North Kenneth,operating rooms
+4a0782ee-2090-4b46-bacf-010cb1bc2e39,doctor,728.4,2026-01-25,Adrianabury,operating rooms
+3e3c9e7c-30d3-4a62-a800-e502dcd58dc2,disease,1662.25,2026-03-04,Port Steven,operating rooms
+c68b2887-c3cd-4202-870c-383b84808bcc,Address,503.78,2026-02-12,East Richardland,waiting room
+2dd981ac-0d5a-4d6a-9e1d-048df36f8c6a,disease,872.53,2026-03-03,Roberthaven,nursing
+995c7fbe-4d40-40c5-9fbf-3b95559c297c,area_hospital,635.31,2026-01-03,Lake Judith,waiting room
+9580631d-cc9b-48fb-b38b-e1a4fd2d2891,Address,946.93,2026-01-23,Floydview,nursing
+c3138385-4310-44cd-9b6f-cb2a84b9c5db,Address,105.22,2026-01-25,West Wandahaven,operating rooms
+c2fe404b-0c18-41ba-8ef6-c128e0a1bb35,Address,1965.21,2026-01-27,Port Carmen,nursing
+d8dc86ae-e6c8-4a45-ba23-303bb2558971,disease,1330.81,2026-01-14,Guerraport,waiting room
+f286c38b-3ae5-46e3-8846-2792dd1cb379,disease,1235.56,2026-01-21,Port Sabrina,waiting room
+dab086cd-d090-43d4-9928-2a82b2fd4f18,Address,449.98,2026-02-10,Kimberlyland,operating rooms
+2dd57e5c-10ac-452f-8958-09e5edd15ac8,area_hospital,458.04,2026-02-23,Ballardtown,waiting room
+1a4e23c9-e2c3-4a41-9bb7-78286fb387e0,doctor,1457.59,2026-02-13,Andrewfurt,operating rooms
+0b0c1c19-98be-4272-8c56-c6d67698397a,doctor,10.26,2026-02-08,New Robert,nursing
+a0c29cc4-a4a7-4bd0-8be1-5c1d6b2f6318,doctor,841.04,2026-02-04,Reidfurt,nursing
+599d1b1f-07e5-493f-915d-e03dac1723bf,Address,831.43,2026-02-03,Lake Cherylborough,nursing
+bb0ebc73-b02a-4e2d-99e5-8826fd417f54,doctor,283.31,2026-02-27,New John,operating rooms
+d372534c-3209-48ca-85ae-479f7f85a33b,disease,596.63,2026-03-07,Ryanstad,nursing
+4ef26c79-afcc-4247-a669-4c08daa51b46,doctor,457.8,2026-02-03,Joneston,waiting room
+ca1a1d37-a3fd-466b-9fae-f1b29d13b4de,disease,782.18,2026-02-23,Lake Davidhaven,nursing
+14b11a83-25b2-4115-a0d5-4fc060b0c2ac,disease,719.47,2026-01-24,New Keith,nursing
+a1e39f20-4e89-491a-9b44-8774ff404d48,area_hospital,174.06,2026-01-23,Port Jennifershire,operating rooms
+c9d08131-9fca-465d-b1ed-2843ccdf92f0,doctor,189.9,2026-01-31,Christineville,waiting room
+97e74741-25a6-413d-a5f2-cb637781c21c,disease,1508.52,2026-03-05,Swansonfort,waiting room
+8944f15e-d7c2-461d-b031-0d31a14ff293,area_hospital,713.85,2026-01-14,New Sylvia,nursing
+65f5e0c8-7c23-4d6f-8957-d4fd344f51a6,doctor,1001.41,2026-02-20,South Kelly,waiting room
+3eff210b-c0fc-4309-b302-d318756d0ea7,doctor,1127.75,2026-02-24,Brandonberg,nursing
+f4250283-f92e-4943-81e4-2920b0bf4949,doctor,247.05,2026-03-04,Lake Robert,nursing
+5d63e735-7a3d-4025-885b-35f621682beb,doctor,1429.47,2026-01-31,Hallport,operating rooms
+bee4df2a-dab6-4f12-8506-e8eec4ec7e41,Address,672.5,2026-01-16,Burnetttown,waiting room
+95be67a9-80f5-402d-ab2d-dd8e5b323015,disease,1106.35,2026-01-27,Burnettburgh,nursing
+8b3d79ee-2994-42b0-af68-f87413c79d17,disease,1956.92,2026-02-27,South Kathleenstad,operating rooms
+ae07402f-de14-48f8-b380-f5e962b6549a,Address,955.63,2026-02-25,Michelleshire,nursing
+b3df90ac-e86d-442b-8a7f-02a82cc86892,Address,758.02,2026-01-22,Erikaville,operating rooms
+bf148e33-be03-44ba-b0b2-49cc42ec0deb,disease,1535.16,2026-01-22,Port Mandy,nursing
+c8055ab4-d8b5-412a-8880-c8113c865d16,disease,279.52,2026-02-28,Jessicamouth,nursing
+9dc591bc-451b-48c1-8639-853f980ebfa8,area_hospital,1941.87,2026-01-06,South Stephenberg,operating rooms
+d9ae71c8-792c-44f0-8371-81e45359b4b4,Address,1750.93,2026-01-26,Smithport,waiting room
+991ff963-2cc8-4868-8e66-f7e4a4306904,area_hospital,1864.5,2026-01-17,Danielsborough,nursing
+ac8194ff-877a-47ae-99be-23ef76093c46,Address,1180.1,2026-01-13,North Davidborough,operating rooms
+dc5c8e41-5a2d-435f-b3a3-b5ed5af98d35,doctor,398.03,2026-01-02,Samanthabury,waiting room
+62dbd99b-7c2a-43dd-82b9-9caa1b9915de,disease,818.71,2026-01-30,Lake Daniel,operating rooms
+5265bc6e-b0a4-4ea9-9fa5-4aa498e84be3,Address,57.73,2026-02-23,Brandyborough,nursing
+e933614a-7abc-4aea-8898-1b5e1b79630b,Address,966.05,2026-02-12,Tinahaven,nursing
+e9667cae-82fe-42fa-9eeb-3282164fae1b,area_hospital,937.9,2026-02-02,Lake Virginiafort,waiting room
+17b9c973-e323-4104-91de-6f54b181ea45,Address,153.53,2026-01-08,Lake Kayla,operating rooms
+e56085d3-512f-4e61-977a-ef13a84bf358,doctor,1450.3,2026-02-21,Christopherhaven,operating rooms
+f294899f-e34c-44ec-b3de-f066e148b9e0,disease,1329.63,2026-02-24,North Feliciamouth,operating rooms
+8be195d2-79b6-43ab-bde3-77734e53007f,Address,53.97,2026-01-18,West Richardshire,operating rooms
+b2114df7-52d0-42d3-85a1-1b2034994fa1,doctor,1321.43,2026-02-26,Bartonstad,nursing
+6c36a031-594c-4f8e-8a3b-b3647e2199db,disease,468.91,2026-01-21,Woodsville,waiting room
+41e1af8c-b41b-4002-a25e-e1079ab63358,Address,1156.4,2026-02-19,Martinezborough,waiting room
+4a52b8c3-f164-4f1e-ba35-43b140cc21b0,disease,450.67,2026-01-03,North Jacobville,operating rooms
+1c24f371-3ac6-4405-8341-12a4a39de495,Address,517.25,2026-01-01,Jessicachester,operating rooms
+f84cc3d1-9793-48c1-9547-18d4afa5f305,Address,43.44,2026-01-01,North Brian,operating rooms
+216b2b3d-5105-42f3-a36e-5376069a10cb,doctor,483.88,2026-01-22,South Michelletown,operating rooms
+5b947358-9462-4ea6-8dd5-b31c8f45cf12,area_hospital,214.17,2026-02-19,Valenzuelamouth,nursing
+c399a036-cd58-4ac1-83f6-850defe38733,Address,516.67,2026-02-05,North Chelseabury,nursing
+4f40ff5a-d26d-433c-8887-115e96f4b046,Address,276.77,2026-01-23,Stevebury,waiting room
+8887c533-8496-4a83-b541-54cc9505fc29,disease,1020.09,2026-02-21,Shelleystad,operating rooms
+6d4fb7e2-834b-4be5-962c-fed67c73d6cd,area_hospital,785.02,2026-02-15,Aprilburgh,operating rooms
+1eb564b1-ee5a-4fb1-82d9-49fc4184b764,Address,419.76,2026-01-08,New Kimberly,nursing
+51e2cd8f-d8ab-4f59-b0e5-039e6ca3d6fc,Address,1946.13,2026-01-13,West Phillipborough,nursing
+99bdce47-f7b1-4707-8097-5bba1ab2a928,disease,304.38,2026-01-22,New Howard,operating rooms
+88422674-fce9-451c-83a7-45b622d7e165,Address,1752.72,2026-01-19,Caldwellfort,nursing
+78659f0c-71a0-4fea-8b69-10bd22a51fb7,doctor,571.59,2026-03-04,West Davidshire,waiting room
+61470ad1-3178-4d71-a413-0bcebd31f3fc,disease,1469.57,2026-01-15,Normanburgh,waiting room
+a2eee16c-aa76-4bf3-8793-311d259b9117,disease,1756.16,2026-02-14,East Michealview,operating rooms
+1fd377fb-37d0-4ec4-a8a4-6bdb07d7e71e,Address,1660.69,2026-02-13,West Wendyberg,nursing
+714d9e6a-00ae-4aa3-9c08-61ebac527280,doctor,1668.18,2026-03-06,Lake Amyport,waiting room
+8f55c0b9-f6ef-45c1-aa4f-5326351cc0d7,disease,1790.93,2026-01-23,Lake Jay,operating rooms
+3d9c3d2f-8a80-480a-81b5-64ee47564bad,disease,888.64,2026-01-25,East Rachel,operating rooms
+f7a7afe5-28af-4d60-9449-061aafe1ff20,Address,1299.69,2026-01-07,Kevinville,waiting room
+39fb8f90-b63f-461d-ab29-ff47296b5bd1,Address,791.0,2026-01-19,Whitehaven,waiting room
+d7236f98-60db-4792-b591-0bb8a4c4fd9e,Address,431.18,2026-03-02,South Valeriefurt,waiting room
+215290c3-bbaf-4a83-a664-acfe995192b6,disease,1847.74,2026-03-06,Patrickmouth,waiting room
+0438e53d-5e19-43e7-b5f7-93ddffa65f60,disease,1641.57,2026-01-08,East Wendyhaven,nursing
+cf9b24d4-e5c6-4f29-a9e9-120a15dc6922,disease,649.31,2026-01-03,Owensland,operating rooms
+48bbcd9a-be57-4455-a304-49b4017609ae,disease,853.04,2026-02-25,East Shane,operating rooms
+992cc4a5-e576-4380-ac27-40fd4c41ab5e,Address,1932.15,2026-01-30,Alanland,waiting room
+d9153621-11e7-4167-a257-0acd65cdedff,Address,1526.91,2026-03-04,Snydermouth,waiting room
+03da9902-4c3e-4355-b779-aeec37c669c4,area_hospital,714.37,2026-01-23,Robertsburgh,operating rooms
+55d496ed-3ba9-4c84-b6d7-bc86a93e86fb,disease,1945.31,2026-02-14,Kellyhaven,nursing
+6f7d0056-ab84-4e61-b502-f4ccbed6aeab,disease,1009.11,2026-02-28,Port Joseborough,waiting room
+45270b36-fa58-4c60-89ce-e5494e57995c,doctor,1486.28,2026-01-22,New Dawnfort,operating rooms
+afddf119-3938-4059-8b22-0fc66e433784,area_hospital,991.26,2026-02-15,Walshshire,waiting room
+5d3461eb-31ce-4b1c-a533-86ff87977b13,disease,1093.97,2026-03-07,Changside,waiting room
+1b7ae003-f710-45f2-b082-cd4b574f6aff,disease,257.17,2026-02-07,New Sarah,operating rooms
+5819cd6c-1e79-40ee-95d5-cafa9d6a229a,doctor,861.52,2026-01-22,Smithtown,operating rooms
+51a7464b-cd71-4610-ac67-e9cd81a45c36,doctor,347.89,2026-01-02,Joannaside,operating rooms
+854fcb6e-8859-4a57-a263-847c7148da3f,area_hospital,1755.82,2026-01-04,Griffinton,operating rooms
+4725622a-0751-4b79-aaec-30d5e2a37d5c,area_hospital,902.88,2026-01-26,New Michelle,nursing
+9a0c4d01-1218-414a-a633-e77ea0a6cdd8,doctor,1386.88,2026-01-03,Thomasberg,operating rooms
+0715626e-9cc4-41bd-ad6d-610ef6f7bf42,disease,656.36,2026-01-15,Brockstad,waiting room
+43cf3f53-cba6-4fa9-9189-c64d122d5ddf,area_hospital,987.19,2026-02-11,East Tom,operating rooms
+38b37679-8ef7-4474-9512-fed396132526,Address,116.69,2026-03-01,West Jasonfort,waiting room
+de68880a-2c6d-459f-bb93-1dfbabd23b69,doctor,1022.29,2026-01-11,Debraview,operating rooms
+5c2aef66-da21-4c2c-a2a6-02e92a0ac232,disease,1930.47,2026-03-03,South Christineview,operating rooms
+fa6c9026-54d2-4972-9a8d-2093b0eeaae4,disease,109.7,2026-01-31,Millerberg,waiting room
+28fbd410-6c09-4898-b5dc-c0c1dd561db1,doctor,1368.94,2026-02-27,Lake Kimberlyborough,waiting room
+52500fd5-b085-40d5-a8ca-f7e3020cd576,area_hospital,446.01,2026-01-17,Joshuaborough,nursing
+aa81a08f-d3ee-46d3-acde-3b5b59f5119a,area_hospital,235.24,2026-02-01,West Katherine,operating rooms
+cecf5a73-43bb-422d-87cf-563dbc597c26,Address,338.05,2026-03-06,West Sydneyland,waiting room
+ad2410ff-c070-4100-bfd1-5fbe15957309,Address,1585.09,2026-02-12,South Amy,waiting room
+14a2131a-0455-4b1e-87c7-61d2b56ba0ba,area_hospital,1237.99,2026-01-01,Josechester,operating rooms
+351c9666-92ef-4add-b6a2-dcdeb77fd20b,disease,103.27,2026-02-15,Ericksonberg,waiting room
+13edfd17-1d41-4269-a918-0ec503eadc91,doctor,1650.96,2026-02-02,Robinsonberg,operating rooms
+79537f74-5ef3-452b-9d30-aff8cac3816c,doctor,269.45,2026-01-02,Melindashire,operating rooms
+f759dd9d-d88a-4ab6-a72e-1d6cf738dfdc,doctor,1714.07,2026-01-18,South Juliaside,operating rooms
+cbf92521-cf43-43e7-a3b9-1626cf526808,doctor,28.88,2026-02-26,New Kevin,waiting room
+cd4536fc-7499-4525-a8cd-4151c6f9dd9c,disease,1799.02,2026-02-08,Welchburgh,operating rooms
+ebc29ce9-de46-4a81-812d-0134a526a112,doctor,1206.79,2026-01-29,Lindaborough,operating rooms
+62f757a0-dd08-4667-a96a-4fe1b00fd46b,disease,1723.5,2026-01-22,Port Jacobtown,waiting room
+c4fc90b4-4b25-4cd6-b1bb-7c15fc99bfbc,disease,955.54,2026-03-01,Port Erica,waiting room
+82737448-b394-4513-b915-462053bc838c,area_hospital,287.87,2026-01-12,Donaldsonshire,operating rooms
+b3a939be-5fe9-4da5-b8da-2be66dbdc47a,Address,1817.81,2026-02-01,Manuelside,operating rooms
+28edaefb-9dc0-418c-b365-0ea13ae2a98e,area_hospital,1494.27,2026-01-11,South Taylorland,operating rooms
+30de73e7-611c-4e56-9ad3-4e4146db663a,doctor,766.35,2026-01-13,West Maryberg,nursing
+c329a007-b56b-43d5-8cf8-48e1863ea0bb,disease,935.16,2026-03-03,South Nicole,operating rooms
+4a43a16e-b27a-4c56-b031-84355dee48ba,area_hospital,1977.24,2026-01-10,West Pamelaborough,nursing
+b3c435d0-b8f1-40e8-90f2-e96789897023,Address,487.22,2026-02-18,North Jennifer,waiting room
+ae26614d-8f37-48c0-ab0c-263866a7a2b8,Address,1369.22,2026-01-06,Nicholasstad,operating rooms
+25ed885b-753d-49fc-8d71-ab13edd8f34e,area_hospital,733.19,2026-02-22,Jenniferview,nursing
+96e9ae14-593d-4cd6-98dd-735d623016a5,doctor,1299.03,2026-02-25,Hernandezfurt,nursing
+45be5202-b640-4d5e-8c85-97fd48765584,doctor,1342.01,2026-03-03,Marystad,waiting room
+f875fd27-3957-4a67-bc43-cbf0b63ec4a2,area_hospital,1890.22,2026-01-20,Jonathanhaven,operating rooms
+f61c44fb-2f73-4f0a-872e-c59745f4f982,Address,633.07,2026-02-26,Trevorville,waiting room
+58855e51-e210-4769-9e11-e38df4ca98b3,Address,635.44,2026-01-21,Frankport,waiting room
+eb999094-f077-4d80-9f34-bcf9a2f128e6,disease,301.26,2026-01-18,West Josephside,operating rooms
+bbfcc20b-3ecf-42c8-8f02-423c43bdb3e2,doctor,1767.97,2026-01-14,East Stanleymouth,waiting room
+3ef13578-b14f-4dc0-a1d4-fac5209cb764,Address,1764.38,2026-03-02,Jonathanborough,waiting room
+e60fcf48-67e7-4bb8-ad29-028e79fd6b98,Address,1457.87,2026-01-23,Port Deborah,waiting room
+d4026c5b-979c-4ca9-bb88-b644124e3cf8,area_hospital,30.23,2026-02-27,South Taylorview,operating rooms
+ff328f40-6942-4d65-bd56-9815f5e1a855,Address,1360.93,2026-02-06,West Helen,waiting room
+11eb1584-0b06-4d5f-84b9-0465a3c64a83,area_hospital,782.67,2026-01-10,Walkermouth,operating rooms
+e9a2e7ae-530e-4828-84f6-9b4c8a203fb3,doctor,552.87,2026-01-04,Jacquelineport,operating rooms
+7847ffae-3d7c-4264-8260-ef7494d5b2ca,doctor,96.42,2026-03-02,Lake Jonathan,waiting room
+e14f075c-d0e1-444b-8e54-fe988854a692,disease,896.09,2026-01-07,Barbaraville,nursing
+9b995ed7-239c-4a28-b820-541433898a44,Address,735.83,2026-02-27,Gonzalezmouth,waiting room
+f7b1d13a-032b-467a-858d-5c5b11bd5926,disease,848.11,2026-02-08,Chambersfurt,nursing
+4c54afb9-3271-46ba-a563-304cabb7fd35,area_hospital,349.47,2026-01-15,South Todd,operating rooms
+610ebef4-b4a7-4ac6-b6bc-07ecec0f08e9,disease,1052.54,2026-01-28,Scottberg,waiting room
+bff9de57-ed42-46cf-b7b9-4cf1b0e055f5,Address,249.65,2026-02-08,East Kaylastad,operating rooms
+18afd57a-49ee-41c1-a06f-8ae50422ce2b,doctor,1908.44,2026-01-11,South Keithport,nursing
+74bacb17-3b22-4431-8f89-974fbc8d9fc7,doctor,1593.43,2026-02-13,North Robertmouth,nursing
+ccf43565-a063-42d6-8cb7-2393cfdcea00,area_hospital,1192.56,2026-01-16,Potterland,waiting room
+34fe9572-70e0-4cf8-a713-c12fe697dbe9,doctor,371.84,2026-01-05,Martintown,operating rooms
+3055e4fc-9e4d-4b5d-82a5-969da595b8c1,area_hospital,532.71,2026-02-06,North James,operating rooms
+3334765c-5576-4fd7-a5c3-14cb1393062e,doctor,1184.08,2026-01-17,Laneborough,waiting room
+c48b3e73-fe53-49a9-903a-42d8881ae865,disease,1379.66,2026-02-07,Herrerabury,waiting room
+d903d623-bccf-4d6e-b2de-6d91d5b0cb94,doctor,716.84,2026-03-06,Justinside,operating rooms
+fefda1dc-fb54-4514-95b2-cfe86f5372a4,Address,13.57,2026-01-13,Michaelton,operating rooms
+b85643a1-7b4c-47e1-8117-8153cc90a273,area_hospital,552.09,2026-02-08,New Justinshire,operating rooms
+37f8c808-d603-4440-8490-a60b0908026f,Address,1110.56,2026-01-15,Gonzalesborough,operating rooms
+bc88b59c-cc5e-4ebd-8365-c7b0a8d9fdac,doctor,592.13,2026-02-14,Morrisonside,operating rooms
+5b1ac0e6-a059-4778-bf1d-c4964da6f648,area_hospital,43.78,2026-02-17,North Andrew,operating rooms
+6e4f6a7f-d9b8-45df-aaa4-5929b4b33d29,disease,1247.69,2026-01-16,Lunaport,nursing
+4e1d3d21-a1f4-41af-b952-393e4cfba768,doctor,840.41,2026-01-28,Nielsenton,nursing
+2d818314-6199-4b31-900b-96b9aa07aa93,Address,35.65,2026-02-12,Rachaelside,nursing
+e9730238-f78d-426c-8b02-a60675ac1098,Address,1565.62,2026-03-02,Thomasmouth,nursing
+c7f0a06b-a5d6-4cf0-808a-1f28f6d89bd8,doctor,1608.25,2026-01-23,Joshuaview,operating rooms
+ae4c00b6-92ce-472d-8ef1-d99e7fb0b49c,area_hospital,1283.55,2026-02-11,Lake Loritown,nursing
+7f0d4284-52d8-4edd-9164-7c382a8cdd03,area_hospital,1862.44,2026-02-24,Brandontown,operating rooms
+f8ecb0f3-855c-4776-910c-8884cc7f1ec7,area_hospital,1364.85,2026-02-25,Santosshire,nursing
+0d2ae56f-94b0-4760-b0f6-b2371a8b14e0,doctor,1196.71,2026-01-05,Nathanfort,nursing
+c5796000-f26a-4ea0-9ac4-21da7a553ca0,disease,787.76,2026-01-18,Draketon,nursing
+95ba483d-1985-4332-8d2c-373b69f56eba,disease,428.0,2026-01-18,Lake Eileen,waiting room
+4bb352c5-d082-4a94-a520-54b249b88555,doctor,1405.48,2026-02-20,Philiptown,waiting room
+81491203-7b74-495e-8908-6612506f2069,doctor,1193.26,2026-01-03,South Diane,operating rooms
+e982b92c-c19d-4fba-a3a3-50ad3c4d5b1c,disease,1110.26,2026-02-06,Craigchester,nursing
+6b1adbab-90c1-4292-ab4a-fb413cb2e645,Address,1621.7,2026-02-03,Smithbury,waiting room
+dbeb812d-472d-47e0-83e8-fe0fa8f817cb,disease,1325.77,2026-02-20,Port Sarahmouth,operating rooms
+5ad1d20e-8350-423e-b720-caf98f553038,area_hospital,1151.11,2026-01-06,North Christopher,nursing
+facf6ef6-916b-4c75-8c35-4ee06514d954,area_hospital,1407.62,2026-02-03,New Katrina,operating rooms
+916ab537-eb94-42a2-881a-3879ff274a07,area_hospital,762.4,2026-02-24,Wardside,waiting room
+e37674ce-8f5a-4288-9b08-d27c54ff3a37,disease,1342.6,2026-02-13,Lake Lindamouth,operating rooms
+83d76b95-d0c8-4beb-b422-14aa092d9d03,area_hospital,778.02,2026-02-08,South Alexanderberg,waiting room
+79080844-d463-43ad-94b8-39929fd9a847,area_hospital,1509.73,2026-02-17,East Brianmouth,waiting room
+8fcf80f1-bb94-4980-9903-47125a8bb182,Address,1575.26,2026-01-16,Davisside,nursing
+dce2cbd6-1ea8-440f-b271-99bfd22de525,disease,1445.9,2026-02-17,Alexanderburgh,waiting room
+a2362a51-c01a-4099-9657-bf722cfde490,disease,210.3,2026-02-19,Glennchester,operating rooms
+827a71b8-8a00-4b0d-be64-c46e198c921f,disease,244.66,2026-01-29,Tracyborough,waiting room
+2dccdc8a-2235-411b-a7e1-4be1f7dac9e8,Address,1846.65,2026-01-11,Jeffreyton,operating rooms
+adffe070-c135-49da-b227-84e55fa722f9,area_hospital,77.33,2026-01-27,West Brian,waiting room
+c366ee9c-18ee-43a9-a8ac-78354dc0e82c,doctor,220.05,2026-03-07,Marytown,operating rooms
+0ca6a862-6db8-4ae9-af17-698c4198305f,doctor,760.84,2026-01-27,Lake Vanessa,operating rooms
+30c4729a-ac97-4723-825e-ddccbb832442,doctor,1822.0,2026-02-02,North Thomas,operating rooms
+d20eff9c-4456-48a2-b41d-85b6ec95180c,area_hospital,1925.0,2026-01-11,Port Lynnborough,waiting room
+ee6fa1e6-5317-44a0-aee7-28b3012425b3,area_hospital,730.88,2026-02-01,Lake Bethany,nursing
+b71d8771-035d-445c-8ae0-b3d2c6c9d634,doctor,218.85,2026-01-04,East Erika,waiting room
+032a7b76-9668-480e-b4a3-0b09f784df46,Address,400.3,2026-02-18,South Nicholasside,waiting room
+c76b45d6-f668-409a-af48-768ef387981e,disease,1951.0,2026-01-06,South Brendaborough,operating rooms
+5541a049-cdc0-4ecf-855b-f5f78a29b6de,doctor,1278.35,2026-01-21,North Jennifershire,operating rooms
+db8e10c7-8cbf-4358-b86d-c461a4a2e332,disease,1152.7,2026-01-08,West Nicholas,nursing
+c004abcb-afce-4838-ad7c-da62a43fd04e,Address,1114.68,2026-01-17,Port Stacy,waiting room
+eed33426-fdce-4be8-98ca-dff6b18d797e,doctor,1511.11,2026-02-09,West Billberg,operating rooms
+8b131c32-7566-432b-9484-3c0ee4b63f9b,Address,1164.12,2026-01-21,Jessicaberg,operating rooms
+66642396-f1ff-4b20-b671-cb162606dc20,doctor,1538.5,2026-01-17,East Trevor,nursing
+ae200e8a-fc7a-455e-9bb6-88a4f993a006,Address,1295.2,2026-01-18,Jeffersonhaven,nursing
+514c6920-e661-4898-b352-1279e2fe9d02,doctor,411.28,2026-02-03,Port Walterton,nursing
+fe95943b-e081-42fd-98bd-52f14e9bd625,Address,294.5,2026-02-28,New Gerald,operating rooms
+23de6d54-a809-48d3-9cce-31fd8d50e08a,area_hospital,1595.73,2026-03-03,Carrfort,operating rooms
+c8c97689-d199-4976-92fe-ab90ba1b8c3a,disease,216.08,2026-01-26,North Carolmouth,nursing
+a2cf0f88-fdff-4c46-bc58-616002e34133,doctor,370.8,2026-02-12,Robertmouth,waiting room
+98a3a62b-e36e-472b-ac4d-c7ce8821c1b0,disease,793.11,2026-01-09,North Dalemouth,nursing
+e0cc9992-2524-4f2e-b4c2-ebe437d5b76f,disease,331.45,2026-01-03,West Danielle,waiting room
+d367e4de-ec61-4aa6-86ac-609eb9aa9892,doctor,579.99,2026-01-05,North Michaelberg,operating rooms
+0d95eac2-cdee-4f6c-bb4f-d220baaae53b,area_hospital,1135.0,2026-01-30,North Carla,waiting room
+2372dfda-9e0a-4040-b2cb-9306d5025d45,doctor,540.95,2026-02-25,West Angelaview,waiting room
+f5bc5ccb-186a-4577-9a24-b56cb301c08c,doctor,247.2,2026-02-02,Lake Garytown,operating rooms
+4fbe4599-91e6-4356-ae2a-b9228bc4c5a9,disease,720.07,2026-02-12,Wendyville,operating rooms
+ec1ba402-b043-4696-8d8e-22f2b33cf6f4,Address,102.81,2026-02-16,East Paulburgh,waiting room
+a8e31c9c-d4cf-41dc-8728-71ed6bb67ac5,disease,255.77,2026-02-04,South David,operating rooms
+c710456d-7881-411a-89da-8f66eb2a7258,doctor,763.77,2026-01-21,South Anthony,operating rooms
+70e90ed9-8547-4463-a2e7-b122f0c6342a,disease,1185.71,2026-01-20,Yatesside,nursing
+74110569-8cda-4c3f-a8dc-47669d402424,doctor,417.67,2026-02-09,West Jessica,waiting room
+c6c6d645-ec0e-4323-a2c3-6b4eb9342ee5,Address,1690.89,2026-01-24,Stephanieberg,waiting room
+563d739f-bc27-487f-907e-10a37231fa38,Address,821.24,2026-02-15,West Kylestad,waiting room
+c28eb704-e5e8-4222-98c9-a457e200feda,Address,1006.2,2026-02-15,Lake Brenda,waiting room
+ae5fa4b0-31bb-44ec-9d54-4bc8a91f1ef9,doctor,945.66,2026-02-08,East Angela,waiting room
+e5c218f2-e26e-488e-9dc4-869c31ef4182,doctor,430.38,2026-01-01,New Russellside,waiting room
+05cabe15-7573-4227-af3c-b1f2c7cb4d06,doctor,1696.2,2026-01-15,Brandonshire,nursing
+81ffdd70-abe5-43f6-93b4-5929e78f2782,Address,1509.57,2026-02-15,Lake Christina,operating rooms
+c86f03a0-df76-4f2e-af66-d9065a95454d,doctor,1279.62,2026-01-13,New Brian,waiting room
+b4fbabed-4529-4e36-87ba-57ec2bb58adb,area_hospital,1460.32,2026-02-19,West Shanemouth,nursing
+d096e4e3-f2d8-4035-81a5-0c42a9cf4bf3,area_hospital,1664.07,2026-01-04,North Jessicafurt,nursing
+5eaecae8-9b2e-42e4-99d7-c743cf4234ec,disease,1877.54,2026-01-23,East Ashleybury,operating rooms
+e47c0a6e-2853-457b-b2e8-6b2c21810007,doctor,1577.14,2026-02-27,Port Lucas,waiting room
+3d7b5d1c-2233-442d-999b-a9fe41bc1d52,doctor,714.96,2026-01-24,Cainberg,waiting room
+8c377207-960c-41ef-ab6d-93ee98d8d602,doctor,1370.9,2026-01-12,Jasonview,waiting room
+22afb578-9d5c-4042-b16e-e0eb670ed6d3,disease,605.95,2026-01-02,Kellystad,nursing
+a5136915-341f-4139-a087-3d01e70062f2,Address,36.21,2026-01-01,West Damon,operating rooms
+bb1e49e2-4107-407a-8dcf-fa51dbd02d7e,Address,1259.1,2026-02-06,West Angelica,operating rooms
+e05f7c47-329b-4b75-b690-38cc2d44c5eb,doctor,1526.84,2026-01-12,North Latoya,waiting room
+b292e2e9-b189-4ff0-8a1c-24efee100c08,Address,267.84,2026-03-02,Salinasshire,nursing
+0336afcb-db7f-48d7-bdc7-a3c89e3c4b5d,doctor,842.61,2026-01-23,Port Heathermouth,waiting room
+ba06a5cb-7fad-4daf-8bcc-b634fb2f9318,Address,1986.59,2026-01-29,New Joshua,operating rooms
+295b0219-98e9-4ddf-b75e-76b8f71e9300,doctor,1176.92,2026-02-23,Evansshire,operating rooms
+7c7a24c9-779e-4b2d-acc8-e13ae5430928,disease,172.71,2026-01-04,Susanberg,operating rooms
+f9471a30-9f08-410a-bdc5-10eb5a712258,doctor,1045.77,2026-01-25,East Benjamin,operating rooms
+c6553579-63d4-4b3c-b8f7-3849aa5edff6,Address,570.38,2026-01-30,Port Jenniferton,nursing
+a42a7b64-9231-4dfe-9194-74263b48dc78,area_hospital,1058.69,2026-03-06,Karentown,waiting room
+d1163b7d-163f-43f1-8fac-4d87afece755,disease,454.37,2026-02-18,West Tammie,operating rooms
+041036d7-0b6b-41b8-9734-3a194fa57b24,area_hospital,928.53,2026-02-18,Wernerton,waiting room
+d5313aaa-f83a-44c8-8b27-9f040a332b08,Address,1274.89,2026-02-16,Victoriaburgh,operating rooms
+9316f852-5f4f-424a-a084-a3ca8a7f7d21,doctor,1950.38,2026-02-20,Bauerland,operating rooms
+5530a403-3cfa-4509-8f33-e55677e97797,area_hospital,1637.05,2026-02-24,Kurtstad,nursing
+26f166d6-104d-4503-9a09-e51584c14b0a,doctor,757.88,2026-02-25,Rushborough,waiting room
+69359b95-93c2-43e7-aa69-e8cf1944c230,area_hospital,740.49,2026-01-29,New Austin,operating rooms
+e1766862-336e-46f4-9c53-523dd485f11a,disease,480.25,2026-01-27,Blackburnville,operating rooms
+fe8bc3f9-5bea-4ed3-969a-fc13f7b7f079,doctor,147.67,2026-01-12,West Kimberlyport,waiting room
+a216584f-f159-420b-a39f-df361deabc8d,Address,910.46,2026-02-18,Cummingsberg,nursing
+21bf3a88-694b-4348-8018-d566d9044832,Address,1480.72,2026-02-22,Ballton,waiting room
+a6f0e5fe-85d7-4a45-9541-7be367ea7afb,Address,38.8,2026-03-02,Wattsview,operating rooms
+4cd59fa2-4dfa-4488-ad85-be9324241575,disease,46.84,2026-02-07,Port Bradleymouth,nursing
+cc4405de-b693-4792-a8b3-19b5f9cd2fdf,disease,1067.82,2026-01-21,Christinatown,operating rooms
+d939d3a5-e1db-4e40-bc90-be89864847b9,doctor,143.72,2026-01-05,Deborahport,operating rooms
+db7b1b2c-c40f-48cd-9226-4b071efad745,disease,1388.25,2026-01-01,Jenniferside,operating rooms
+fb561acf-7168-48a7-a59d-cda2627f5ffd,disease,1692.77,2026-02-08,South Paulview,operating rooms
+9af1e46c-b631-406a-aa4e-6d9c58ebd2af,disease,1145.84,2026-01-18,North Jacquelinefurt,waiting room
+6f1295de-b48b-46ab-b8ac-56e2edba933d,disease,1463.81,2026-01-08,South Laurentown,nursing
+f056db1b-50ca-43fc-a7f5-17100e789833,disease,1648.56,2026-01-30,Sanchezstad,operating rooms
+4936c652-13f4-4210-bb08-6ba9a67124a4,area_hospital,420.29,2026-01-11,East Shelley,operating rooms
+9d3c8230-3d1f-44ac-8a09-d3a90d21d9b2,disease,629.89,2026-02-28,Russellton,nursing
+9561a5e6-01da-4a77-8ef6-1b06bcc3997e,disease,54.01,2026-02-15,Lake Omarside,operating rooms
+1ed03612-a376-442e-bcf5-bdc97ddd8b54,disease,1638.56,2026-02-11,Elizabethborough,waiting room
+1d7b3c5a-29bb-4369-a5e2-129db351170e,Address,461.25,2026-02-03,Sheilaland,operating rooms
+fe00144b-fedd-4e56-879a-45fecb19d0a1,doctor,1001.24,2026-01-14,West Brandonfort,nursing
+bc7b768e-5794-42b6-8050-35180ca4ca4b,disease,413.74,2026-02-26,New Bobby,operating rooms
+5be92341-6e70-4479-a679-73eb3fb1f6fe,area_hospital,288.86,2026-02-07,New Whitney,operating rooms
+f1c40637-a6b4-40ba-b4a2-b810d00c75c5,disease,1779.71,2026-03-01,Tinafort,operating rooms
+224bf1a0-0d93-4e46-b153-ecfa42b7d4f9,area_hospital,701.74,2026-02-12,West Michaelview,nursing
+e6e01c07-9c87-423e-8ba3-3ab9878fb0f6,doctor,841.46,2026-01-29,Fowlerport,nursing
+1ab9f809-e07e-4b56-9628-c8b7f4e0f14f,doctor,281.21,2026-02-12,Lake Sarah,nursing
+1940ca19-06e0-47eb-912a-760aa9326172,area_hospital,949.47,2026-01-06,Ashleyport,nursing
+88c844fb-cf70-4613-b889-6f81b1cee736,doctor,1813.15,2026-01-14,West Arielhaven,waiting room
+0c219d9d-9eb7-4584-acda-6c51ad651eff,Address,1409.01,2026-02-06,Lake Mary,nursing
+2f31713b-1cc7-4c66-aca9-abbcd7849621,area_hospital,1259.52,2026-01-14,Port Michaelburgh,waiting room
+df7591e9-33ef-424d-89f1-66bc0ded3e11,Address,1652.83,2026-01-26,Christopherville,nursing
+b13ed7c0-6d1c-417d-bc27-9ad351b46896,doctor,1260.21,2026-01-31,Hollowayside,waiting room
+b9a7151f-14fc-4204-891a-19fffa3c1173,disease,166.39,2026-03-03,Morganton,nursing
+11b3e9e0-47f7-4f6d-9dc5-a2bda895f896,doctor,1917.8,2026-02-10,Chelseamouth,waiting room
+1c93d226-6e45-44e7-bf27-4141bd3ab70b,area_hospital,308.86,2026-02-19,Whitneyland,operating rooms
+fc07db62-23fe-429b-a78a-d713724102d1,doctor,96.07,2026-01-25,Christopherview,operating rooms
+db003027-218a-4427-8091-c17440b87e9f,doctor,784.96,2026-01-28,Port Rebecca,operating rooms
+bba1ce40-cb8a-4333-befb-70fb0c9ddfec,Address,1143.24,2026-01-11,North Nathan,operating rooms
+d14b5403-d87a-4490-a08d-dafb5424e72b,disease,346.03,2026-02-26,Markberg,waiting room
+a04f99f5-edd4-44fe-ad3a-711230e02193,Address,1369.62,2026-01-15,Scotttown,nursing
+e07151c9-8435-4410-8581-04d70a73ef4b,area_hospital,391.72,2026-02-24,Lake Tracitown,waiting room
+f73cc0d9-8edd-45a8-8181-3dc35bd19d54,area_hospital,1889.68,2026-02-25,South Kristenland,operating rooms
+7f4d6b99-f253-4159-8ea1-3601d40a89df,Address,665.0,2026-01-22,New Stacey,operating rooms
+fc331265-e751-41ad-bc46-a70d53c2cb98,disease,1669.76,2026-01-27,Oneillbury,waiting room
+e4abfead-21c5-40ca-b22b-ea8e15af901d,disease,1784.61,2026-01-12,Lindaport,operating rooms
+813adfdd-7b37-4f9f-9718-97e07320073c,disease,1442.52,2026-01-04,West Michael,nursing
+face977c-96ee-4cba-9f9d-75d218dee23e,Address,536.92,2026-03-02,Lake Joseph,operating rooms
+3e113b83-4005-437c-b089-35bb0e046d34,disease,764.76,2026-02-18,New Elizabeth,nursing
+bd1c7cb0-37c5-4b3d-86fb-8ecb403dff28,doctor,785.04,2026-03-05,South Michael,waiting room
+efb929ae-940c-486e-9e78-5401df04d46b,disease,970.47,2026-02-16,Williamsbury,nursing
+4e80f178-d45c-48a3-bbcd-4d99b5295b77,disease,1341.55,2026-01-01,New Renee,waiting room
+d1b3b96b-4bfc-438a-af94-17fe4369a521,disease,416.27,2026-03-05,West Michael,nursing
+80367c68-4034-43dd-bec5-825180c09fd0,doctor,1888.81,2026-03-02,Ashleyburgh,operating rooms
+49905545-1813-4c02-a545-8b261ad0f9ad,Address,963.67,2026-02-21,North Drew,nursing
+31e6c847-07ef-4f71-91dc-bb057ed40221,disease,58.78,2026-02-07,East Monicachester,operating rooms
+6b58d0fd-d519-4a22-bae0-f30ad5c209d6,doctor,1576.2,2026-02-24,New Amanda,nursing
+e1bba742-fcaf-4f57-b6c6-76df77e91d8a,disease,804.42,2026-01-31,Weissshire,waiting room
+ff13bea3-de7a-4ff6-96a8-a106712283bc,disease,289.33,2026-02-16,Samanthaport,operating rooms
+8c7f6695-4ba3-4725-9012-d003b27c96be,Address,1938.43,2026-02-12,New Casey,waiting room
+27599b87-e8d4-4d2e-9ea3-c034c95378f4,disease,1888.57,2026-01-11,Lake Valerie,nursing
+9f8b64f4-b416-494a-94a5-4e06e9cb2428,area_hospital,197.05,2026-02-08,Tammyville,operating rooms
+0cd0eba4-a099-48e2-9d4e-c63458880d45,disease,1045.38,2026-02-18,Patriciaport,nursing
+39ff6f2e-ce4e-4517-8426-34aaf1529a74,disease,438.88,2026-02-07,Richardsonborough,waiting room
+4f8195df-f35a-4fed-b70f-9b58cc0c417c,Address,411.64,2026-03-06,North Ashlee,waiting room
+19e9cf2c-3ece-4ee1-bf1c-cfc7ba20225a,area_hospital,685.91,2026-01-21,West Caleb,operating rooms
+4040d414-6f1c-493b-b61a-5aac4851b55d,Address,288.62,2026-02-04,Lake Michaelhaven,operating rooms
+24398b01-72e4-46e1-8ffc-9b30c333e872,disease,263.39,2026-02-06,East Michelebury,operating rooms
+57aaf59d-6f99-456e-a8f9-6f2049eb1347,disease,1639.51,2026-02-19,Williebury,operating rooms
+01c505e2-ca63-4736-917d-c406f959ac07,Address,1348.68,2026-02-08,Dawsonshire,waiting room
+b72c4bce-5afa-4285-a43a-a035e89ccafb,area_hospital,1782.37,2026-01-14,North Robinbury,operating rooms
+677af0df-590b-4de1-b244-effbfa5f1117,Address,1997.3,2026-02-22,North Maria,nursing
+a80ce126-804a-4028-9efd-b7a89fff1fd4,disease,893.12,2026-02-25,Nicholsland,operating rooms
+d2a97576-3c48-4a51-b030-381c18be6a30,disease,55.57,2026-02-17,North Michael,nursing
+380330ac-e714-4135-987b-ef413beeaf46,Address,1385.17,2026-03-03,Jacobport,operating rooms
+0deac26c-67bd-4413-b9af-c9391e66aeef,disease,1382.36,2026-01-12,South Andrewfort,operating rooms
+2ad02837-70d6-4bb8-8a48-2f2dc80d757f,Address,697.2,2026-02-07,Port Thomas,waiting room
+8e342694-1a00-4ef3-9f21-79d96ff94812,area_hospital,318.97,2026-02-08,West Shannon,operating rooms
+0d9af5cd-8c91-4233-b7be-9696dfb3bf2a,doctor,320.64,2026-02-10,Alexandrachester,waiting room
+62363967-e6bb-4245-8d94-a3d8f52ca4c7,doctor,1006.17,2026-02-17,Loriland,nursing
+d3b7f7db-f59a-4459-b180-c6d910151cc7,Address,1766.02,2026-03-01,Angelaport,operating rooms
+65152845-2f26-47b9-b42f-dc72f9ea5a26,Address,996.15,2026-02-08,Lake Brittneytown,operating rooms
+3e489c76-5664-477c-bdfd-20e6ecd442d3,doctor,976.39,2026-02-22,Port Paulbury,waiting room
+1ff44961-ef51-4e38-b73b-ea4abae3fce2,Address,336.78,2026-01-10,South Virginiaborough,operating rooms
+38680284-0441-41fe-bfd0-a74c8ce7737e,doctor,82.94,2026-01-09,West Tamarahaven,operating rooms
+9c999960-6639-44a1-945c-ea08586a04c2,area_hospital,1790.44,2026-01-27,Michaelchester,waiting room
+75293e5c-90e4-4e58-9b7c-3652efa6e617,Address,1066.35,2026-01-19,Melissahaven,waiting room
+7734de65-e7b0-44f1-a095-6fc648e2b544,area_hospital,498.86,2026-02-08,Weissberg,waiting room
+67a78ddf-cb85-4e48-b48c-60affad2670c,doctor,1255.74,2026-01-28,Peterview,waiting room
+d4d9ab8f-d8fa-4bdc-8413-2269abd805b4,area_hospital,459.92,2026-02-14,Joshuachester,operating rooms
+1949b929-343c-4202-8ddd-984c78ebcb5b,disease,226.4,2026-01-03,Nuneztown,nursing
+f070103e-74d6-4ead-b0e9-2690a69be22d,disease,849.78,2026-01-09,Kathryntown,waiting room
+bd2cc6a5-909d-4504-bb22-d99aabc2b103,Address,114.33,2026-01-04,North Stacey,nursing
+4220bea0-dd8b-43a2-8922-4b23062bd690,disease,136.74,2026-01-21,Victorbury,nursing
+91ae74c8-261e-47d6-9131-e5680952d859,doctor,899.99,2026-02-15,Port Michaelland,nursing
+68d50cf0-ed6b-4b40-9c7c-357beb1aef64,area_hospital,1858.83,2026-02-01,Johnsonbury,nursing
+d0a8a44d-0ee3-443d-8bda-aaae3ab7b7d6,doctor,1929.26,2026-01-29,Michaelton,operating rooms
+6deb5243-617e-4e6e-9222-945628cc5a87,doctor,610.36,2026-01-26,Simsmouth,nursing
+e8c902db-0828-4307-94e9-5eb9f5ab1874,disease,1217.98,2026-02-04,Rodneyview,nursing
+42a86ba1-8299-4f03-936e-951be36d2e85,Address,834.1,2026-01-21,East Johnside,operating rooms
+7217954f-e18d-48c4-9a29-2c39ed37e8b2,disease,392.85,2026-02-12,North Jaime,waiting room
+1baa422d-57d4-4f67-aee0-6304ac1d1321,Address,1711.23,2026-01-01,Lake Laurenstad,nursing
+d027e6bd-fa4e-4301-b4b0-5484a5ce3a12,disease,1263.82,2026-02-15,New Samuel,waiting room
+cc91d328-b8ee-4a2f-9774-0fda02adb148,area_hospital,1530.44,2026-01-20,Laurenshire,waiting room
+bb73b567-c13c-467a-b8ec-c5f699d8fa09,doctor,1763.38,2026-01-23,South Katiebury,waiting room
+cabf3f66-e7a9-41ac-a1ea-464e1b06f3cc,area_hospital,41.05,2026-01-29,Dunnhaven,nursing
+4d9d13fb-2eab-4ef9-8b4e-52b12061b4e2,area_hospital,1351.53,2026-01-10,New Johnny,nursing
+6679115f-e789-40d6-ba6f-d9ba00fda392,doctor,1686.08,2026-02-13,Port Jeremyfurt,waiting room
+c15bb3ce-1d17-476a-a39e-eccbc88edd70,Address,1638.58,2026-01-21,Port Veronicafort,waiting room
+f77837e8-0bf5-48e3-ad55-9d6991278e8b,area_hospital,1532.51,2026-01-26,Lake Travis,operating rooms
+efacdce1-6183-4a7f-8d49-46d54a690afe,Address,1420.02,2026-02-18,Dawnhaven,operating rooms
+5d06ba72-3967-4db6-ba44-2f927fdfa99d,disease,713.89,2026-03-07,North Ashleyland,operating rooms
+1d795e18-25a7-4b75-9359-5609ce245818,Address,354.93,2026-01-19,West Nathaniel,waiting room
+ad033d63-08cb-4cc7-a0a9-ad212a8a2012,doctor,851.82,2026-01-22,West Nicole,operating rooms
+5645f376-8f84-4f42-a545-c2fc2d5d9400,area_hospital,392.75,2026-01-16,Brownmouth,waiting room
+23658f48-6bb0-4e80-acae-8200facb5abd,area_hospital,557.08,2026-01-06,West Christopher,nursing
+cf67cccd-e52a-4812-aeb2-60b0ca9aca72,doctor,648.0,2026-02-05,Alexistown,nursing
+97ed77a7-0120-45dd-b7f3-6e820cd0e2c2,doctor,437.08,2026-01-31,Robertsborough,nursing
+13e7c858-8fa2-40a9-bb70-7200cc446fa5,Address,1242.14,2026-03-06,Port Chelseyview,waiting room
+6a8f1b2f-9389-4668-ac37-18c92872f659,doctor,1795.0,2026-03-07,Davisfort,nursing
+9ed848d6-1670-4165-a378-18a304afbdd3,doctor,674.28,2026-03-06,Nealhaven,nursing
+8ee4ca9f-dca4-405f-af9f-298a9c4bc5db,disease,1451.06,2026-02-10,Port Beth,operating rooms
+a661a24b-3507-4fbd-b495-28d09fa02df4,Address,338.05,2026-01-14,Samanthaview,waiting room
+cb769ed8-a5ff-4e2b-8784-98b160377582,area_hospital,1996.84,2026-02-13,Joshuaberg,operating rooms
+5695f6e2-a290-4555-a3d8-33822c4b49d2,Address,570.41,2026-01-12,North Jerry,operating rooms
+001d084b-ece6-4c14-b575-2e426f16eebd,area_hospital,1816.17,2026-01-17,Lake Caleb,operating rooms
+a4e01596-bd4e-4243-b00f-0793a3a7b670,doctor,1577.08,2026-02-19,North Holly,nursing
+209c71df-8db4-4250-8c7e-f74bb4d4361b,area_hospital,699.19,2026-02-04,Port Amyview,operating rooms
+d2c8b283-7512-46a2-98fc-60bf5b123733,Address,1298.83,2026-02-11,South Charlesburgh,operating rooms
+dfe80464-f010-4af0-b804-9d47e1a41b14,disease,471.55,2026-02-18,East Christinaside,nursing
+a5edf805-6822-487d-8c3b-10cc03d6e525,disease,309.3,2026-01-16,Williamsmouth,waiting room
+14d5d789-2b3c-4bc8-9778-f81467f1b15b,disease,1878.62,2026-01-28,West Jillstad,nursing
+64be172e-ec26-48cb-a8b1-03837462e102,Address,875.34,2026-01-05,Justinport,waiting room
+960122e7-a373-4ace-b079-3e2a197005a4,area_hospital,880.12,2026-01-07,West Robertmouth,nursing
+1bf1d151-c8b0-4522-a5b7-ece70597ecbb,doctor,1178.76,2026-01-08,Jamestown,nursing
+49ad654d-84da-4b19-bdd3-f9409c412bf9,area_hospital,779.79,2026-03-02,Port Christina,nursing
+5adf709f-feb3-4a57-ac9c-dec85977ea38,disease,1501.73,2026-01-05,North Sharonhaven,operating rooms
+6abdc1a3-84bd-44e9-b68c-c41c477ca875,area_hospital,522.03,2026-01-18,Lake Daisyhaven,waiting room
+3855547b-7aeb-48a1-96c7-24b659a9e008,area_hospital,1875.59,2026-02-03,South Kevin,operating rooms
+ef2e75af-38cf-44a9-8451-3f836d8e1ca0,Address,1449.21,2026-03-04,New Reginaport,nursing
+440e21af-6f10-4e7b-83d9-8e407789a9ae,disease,706.28,2026-01-30,Martinezbury,nursing
+4bd65010-1fbd-4695-87bf-758872df66e1,doctor,1892.96,2026-01-11,Smithborough,operating rooms
+554343e5-d908-4260-8a3a-87786beab91c,doctor,977.73,2026-01-23,Paulton,operating rooms
+0c8b9fee-8698-4024-8173-f3fb472c58a5,Address,304.76,2026-01-19,New Christina,nursing
+466e4b7b-f0cb-437b-a04a-470ace1d3faf,Address,1227.74,2026-02-14,Lindashire,operating rooms
+373b5bd0-24b9-475e-bce6-0c4e44ad6c06,area_hospital,309.09,2026-02-25,Biancaborough,nursing
+5b778f18-8219-4c04-8d5d-16214f9cea5b,disease,466.45,2026-02-19,New Laurenstad,nursing
+fa915a07-3fe1-4190-8fda-25117426be88,area_hospital,978.82,2026-02-08,South Ricky,operating rooms
+a604368c-76a1-4abc-9b56-28935811ad64,area_hospital,1224.03,2026-02-16,West Daniel,nursing
+99566e99-b12c-4681-8685-d84f9f981f1a,disease,673.42,2026-01-17,North Timothyport,waiting room
+35983d96-0556-44cc-9b7f-1090523e1053,Address,1175.62,2026-02-20,New Richard,operating rooms
+b4571216-64f1-4d71-88c8-50521f5f1adf,area_hospital,710.21,2026-02-09,Lake Ryan,nursing
+fe74a7f7-64c5-4854-8f63-f76745d86de4,Address,1226.7,2026-02-27,Fergusonview,operating rooms
+74f1d67a-23c8-4cee-aa47-12f051aa4f74,Address,589.65,2026-02-06,Lake Jacobchester,nursing
+cc825ac7-8bfd-4c99-a2f9-779ec605a288,Address,1249.56,2026-02-14,East Markstad,nursing
+e85dc1c9-f9f1-4fc9-a8a2-03f14f86a008,doctor,1523.97,2026-03-03,Monicafort,operating rooms
+8d8421f0-8487-4f32-9bb6-fb01fd12783a,area_hospital,1327.2,2026-01-04,East Richard,nursing
+bab4f823-3a0d-4ca7-8ff8-40e1f906ac3e,disease,943.42,2026-02-16,East Ralph,operating rooms
+4254cca1-53c0-4bb7-a579-eb6958c46626,area_hospital,1128.33,2026-01-24,Brandiville,nursing
+9855bc6c-9f92-4413-bf34-fdcc55150661,area_hospital,1138.02,2026-02-25,New Jennifershire,nursing
+fb3b983d-8047-4edf-aeaf-93f2224addd7,doctor,286.33,2026-01-11,East Rebeccamouth,waiting room
+a88177e1-794c-45eb-a8a8-b48eb9d5e78d,doctor,1856.59,2026-02-06,Sheltonborough,nursing
+05ee9565-e906-4bd4-9cb8-90f1237062a8,doctor,1945.16,2026-02-02,Port Gailborough,nursing
+41b55915-4c0b-404b-8aaa-6a1b2d1633cc,area_hospital,1263.02,2026-02-07,East Kristinstad,nursing
+d4c7250a-5339-4704-8f86-de2a3186f380,disease,251.16,2026-02-14,Armstrongfurt,waiting room
+c94a4322-1855-49c0-9647-e9e372a86871,disease,1849.89,2026-03-07,Zacharyfurt,waiting room
+952146a6-d89c-4e71-b888-e7852beb6256,disease,1711.21,2026-01-11,Lake Cherylmouth,nursing
+b4e28fa3-1b34-4d57-a43c-da1477a52999,area_hospital,1554.22,2026-02-04,South Michaelbury,nursing
+956324fc-e5ad-432d-938c-2649771b380a,area_hospital,210.21,2026-03-06,Leeville,operating rooms
+a3586c46-2be7-4553-a976-30bd47f80279,disease,1320.79,2026-02-18,Wellsbury,nursing
+6b366567-395b-47b9-b736-60af00574742,Address,1956.63,2026-03-04,Dwaynefurt,operating rooms
+110192a8-5358-4123-b12f-ab6de7cbad4b,disease,32.34,2026-02-20,East Amber,operating rooms
+e4c11700-c6e4-4cb2-b958-2f1f2e56dba6,area_hospital,750.14,2026-02-19,Leblancchester,nursing
+8dc11948-4a4a-4998-a130-ce2793198fb2,area_hospital,1918.37,2026-01-17,Brianland,nursing
+161c16fd-5abc-4e22-a6a9-73f8ab49071b,Address,186.96,2026-02-24,South Erica,operating rooms
+a7ad5395-c76e-4bea-928c-7829049b163d,doctor,1410.18,2026-02-20,Pattonbury,nursing
+73349335-e921-4c5e-a5f9-05665c41d35e,disease,330.93,2026-01-06,North Michaelton,nursing
+bc5c96f8-7691-4034-9ef1-da1dbd318573,doctor,1327.02,2026-02-06,North Jessicachester,nursing
+5eb4232d-68a4-4416-b0a5-f70bf3824aa8,Address,72.67,2026-01-18,South Patriciafurt,waiting room
+057dbeae-b660-4f5e-9212-a16453b39bc7,Address,1167.75,2026-02-01,Adammouth,waiting room
+8f398eb9-1e45-49fa-a216-ce67247397df,doctor,1122.62,2026-02-23,Joshuaborough,nursing
+c973dad9-ae4c-42dd-b23a-fac7fb8ca963,doctor,1421.51,2026-01-29,Connieberg,waiting room
+99ee21d9-9c54-45df-addb-8737677cd048,Address,552.07,2026-01-28,Millerbury,waiting room
+db13d898-3b61-4352-b2c3-d3ffe2b21e12,disease,256.94,2026-01-25,West Erica,waiting room
+a9460c59-ac1e-4409-bbf1-99459c20bf5f,area_hospital,292.28,2026-01-14,Nicholasburgh,nursing
+efbf9277-e9d9-4b7d-8d4a-a64c1deb2b31,area_hospital,764.78,2026-01-18,Lake Allen,nursing
+213d2bb6-6444-4ec8-a377-cdf9d10ff614,disease,1771.19,2026-02-16,Elizabethchester,nursing
+fecb0cb2-340a-4d58-bf33-d2584af4a617,doctor,1152.43,2026-01-18,New Kathleen,operating rooms
+76cc5801-7fa7-44ab-a70e-ed865d1a4452,area_hospital,60.21,2026-02-03,Shelleychester,nursing
+06052e12-35b9-4352-87ae-863709cd1825,Address,842.76,2026-01-17,West Coreymouth,nursing
+a38326c0-703c-4aff-8c93-f867858dfb35,Address,1223.03,2026-03-05,Gravesville,operating rooms
+67a8bcf7-3ee0-41b7-baa2-e7ccd1144564,Address,131.09,2026-02-12,East Tinaview,nursing
+44624045-cb2b-429f-b0d6-58890e16b230,doctor,1090.85,2026-01-16,Adamview,nursing
+71d1f243-48e9-4d97-b891-5472217d3faa,doctor,611.3,2026-02-14,North Joyceview,waiting room
+55286667-a1b2-4573-847d-aa389d5799dc,area_hospital,1459.73,2026-02-12,Jacksonside,operating rooms
+8b0ca2bf-dfc7-4ea6-82e4-3bf2098a8e9e,Address,210.71,2026-01-05,Randytown,waiting room
+da418223-e579-4561-9458-da7b0b253b0f,area_hospital,572.32,2026-02-11,Branditown,nursing
+9dce38d1-cbd5-4727-946a-a2d97008795d,doctor,1995.13,2026-01-25,Mcclainmouth,waiting room
+e5efac73-283c-4807-94eb-743926978593,doctor,899.99,2026-03-03,Lake Thomas,waiting room
+cee6b021-fd64-46a1-90b1-6b3edc59d153,disease,937.47,2026-01-15,Middletonmouth,waiting room
+3795aaf1-97d7-46e3-bc0d-c5634dd08ed0,Address,854.92,2026-01-19,West William,nursing
+6cceae27-142d-4f04-953c-9455c7cb11be,Address,133.27,2026-02-23,Calhounburgh,waiting room
+d71b2e5d-ea0e-460a-8ef7-1888b7a94442,doctor,1611.96,2026-01-14,Whitemouth,waiting room
+9ae0e3a7-fe3f-45df-95e1-173c1bf7cf25,area_hospital,779.09,2026-01-19,West Nicholas,operating rooms
+f6486c1b-431b-42d2-afb8-7d559f143753,disease,492.11,2026-02-22,New Mason,operating rooms
+94d1e555-90f8-43a3-91ff-0f89ebfbd359,area_hospital,1204.34,2026-02-09,Derekburgh,nursing
+284f8d21-6726-4439-9423-00c916dcdb6c,doctor,1906.6,2026-02-27,Marymouth,operating rooms
+6e99cb94-940e-440b-b89b-1b90bd49182b,disease,1931.37,2026-01-22,North Jonathan,operating rooms
+6edb1435-af2d-4a02-b734-b551d6881f12,doctor,249.57,2026-01-09,Hurleymouth,waiting room
+3e715715-4508-4f74-99ce-ade3c751fa63,Address,211.61,2026-02-03,Ashleyfort,waiting room
+0084b7dc-720f-4d60-851b-3c98612565f9,Address,997.75,2026-01-14,Robertstad,waiting room
+09ba90e2-54c1-496c-a63f-b55dc52cab73,Address,1036.22,2026-02-07,East Amanda,waiting room
+7a59dcd6-324b-4440-9615-849702817d41,disease,877.18,2026-02-08,Andreatown,waiting room
+5c3e99bc-e713-48b5-8283-7385f80f2146,doctor,882.11,2026-02-09,Lopezberg,operating rooms
+10cccf97-7312-4600-9bc2-11c93f328616,disease,341.38,2026-02-28,Lake Hannahbury,nursing
+3f67dec6-6cac-43e4-9e29-4703bd84627f,area_hospital,696.24,2026-01-07,North Lauraside,nursing
+909326d0-18f4-4d41-97db-335b879cbb03,disease,1386.59,2026-01-08,North Bethside,nursing
+9f8029af-10b1-42af-8aee-ae32913af9c3,Address,1762.02,2026-01-14,Murphyton,operating rooms
+b8c0a0b1-773e-47fc-8932-adcc5d200909,doctor,1345.08,2026-03-03,North Jennifer,waiting room
+f34adec1-b26c-424d-a10a-135983e79c86,disease,439.97,2026-02-16,Port James,nursing
+ab196b1b-7e17-4dfc-b256-e38b7e8e68ea,Address,818.85,2026-01-25,South Sandrashire,waiting room
+27f60384-18f2-4dc6-bf3d-7e7e2cb89cd8,Address,538.83,2026-02-18,Shieldston,nursing
+504ca668-53c5-4c52-9bb3-1ed7b1eb72da,area_hospital,981.09,2026-01-22,New Allenview,operating rooms
+66210e73-7445-4625-985d-3d550bda6a85,doctor,21.42,2026-01-16,Johnsonport,waiting room
+76dab367-2125-437a-8aec-8b63a3f74c13,disease,934.49,2026-01-14,Changport,nursing
+d2db7d9a-7402-4225-b042-7f3580c9fdf1,area_hospital,1326.11,2026-01-25,Danielstad,operating rooms
+b93a26fe-4e30-4d2c-a508-686486fd9204,doctor,1027.4,2026-01-12,Jacobberg,waiting room
+e7965c84-2f7f-4c36-af17-52893aeb7245,doctor,620.84,2026-02-09,West Bryanside,nursing
+78fcc66e-ce3c-4960-9744-c0400e307d49,doctor,86.54,2026-02-26,West Jennifer,waiting room
+a2f3dd3a-244d-42fa-82c6-6d0d3115490e,Address,328.83,2026-02-03,East Todd,operating rooms
+7f3530ea-2835-4ebd-a11c-9cd2ae9ad4f3,area_hospital,256.49,2026-01-07,West Lisaton,waiting room
+18c97a4f-87d1-4895-9b95-22ecdfbee973,Address,1173.39,2026-03-04,Mackenzieberg,nursing
+e4e6ba41-6094-4e80-a956-24949c8afa83,area_hospital,934.95,2026-03-02,Rossshire,waiting room
+289692fe-a914-4cbc-9644-ff22bd6d2dec,doctor,442.08,2026-02-04,New Stephenberg,operating rooms
+a913acb8-8715-488b-8f57-b37c0c005e05,disease,380.7,2026-03-01,West Patriciaton,waiting room
+69217fa7-2b09-456c-bfd0-1ab5ddee449e,Address,143.0,2026-02-25,South Sherri,nursing
+fb9d24c0-57e7-4110-ac64-4e4569d5e854,disease,811.55,2026-02-21,Joneshaven,operating rooms
+494a258f-0f36-4f9c-84f4-ef912bba3910,doctor,243.63,2026-01-30,Snyderport,waiting room
+4bbc2e33-a19f-4be4-97e9-552a1f5335fd,disease,1105.14,2026-01-17,North Kristen,operating rooms
+0748e4cc-d64c-4e2c-8119-6228a928a8af,doctor,1726.7,2026-02-13,South Jennifer,nursing
+702b7d43-e43c-42e0-ac0c-7feee58d8ad5,doctor,1180.83,2026-02-12,Thomasview,nursing
+34a39c3a-2a1e-4255-8c64-9d54841a3d66,disease,1837.75,2026-01-16,Lopezchester,nursing
+82c89ab7-26ec-4640-b7e7-f533ec955936,Address,1510.76,2026-01-16,West Kevin,operating rooms
+09d17b14-325e-4c91-9e32-9817e48aca08,doctor,1613.85,2026-01-29,East Cherylton,operating rooms
+4d4133a6-4b83-41a2-b57f-8255cb1d7f49,doctor,1273.21,2026-01-25,Ashleyside,waiting room
+0756305f-1665-41d0-bf6d-423f1ae42ef9,doctor,1134.5,2026-02-27,Willisburgh,operating rooms
+8023b7aa-80e1-4adf-ae58-0d34b1fbaf58,doctor,1342.44,2026-02-24,Katrinamouth,waiting room
+a73638c3-c735-42d6-9b18-763d86e59ee9,doctor,1447.34,2026-02-18,North Emily,nursing
+5a246ade-2cb3-4deb-9fbc-88e21c40f172,doctor,879.47,2026-03-07,Jacksontown,waiting room
+8a1b9cb9-360e-412f-a7d2-0376ed3f3250,disease,1537.18,2026-02-03,New Kathy,waiting room
+25b8d82e-bbe9-465c-a567-7d00dad5a1f3,doctor,1548.61,2026-02-09,East Paulafurt,waiting room
+fd2ad703-aac1-49fa-9c0f-4adc04152454,disease,1272.27,2026-01-12,Jennifermouth,operating rooms
+c799aad0-61a1-41b6-b69e-c739ded090bd,doctor,496.14,2026-02-11,Gutierrezburgh,nursing
+b3f02127-3a5c-4965-8225-5ff6d00b3543,disease,1554.88,2026-01-10,Raymondville,nursing
+f63fc0f7-93f5-4383-a30c-62f175f66b27,Address,1317.74,2026-01-04,South Jennifer,operating rooms
+055c92d2-c901-4b06-a502-3971e0762134,Address,83.17,2026-02-21,South Daniel,waiting room
+866fa35a-4f69-445d-aba2-e37c3c7ef071,doctor,487.52,2026-02-07,West Zacharystad,nursing
+8bb7e121-f7e9-4491-814f-39b1936732f3,area_hospital,583.48,2026-02-16,East Jose,waiting room
+8cc6894c-7b2d-40e3-bdf0-7637acc2bb25,Address,1634.02,2026-02-02,Michaelshire,operating rooms
+e7f33a8a-b467-4eac-a94a-4334a09ca305,Address,915.19,2026-03-01,West Christinaland,nursing
+e5cd52b5-7dcb-4099-a21e-b736b1fc94cb,Address,29.71,2026-02-09,South Danielside,nursing
+fd8edc89-10a7-4e5b-9854-e3f5beec613f,disease,1595.73,2026-01-15,Matthewmouth,nursing

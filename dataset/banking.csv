@@ -1,0 +1,1001 @@
+user_id,banking,money,take_money,country,payment_method
+50d72866-003a-4299-b93e-0e8533839ccc,money,554.46,2026-02-13,Mauritania,debit card
+f9430914-372f-4333-a55e-4bceb381a633,money,518.27,2026-01-09,Somalia,debit card
+dfab4116-563c-4a64-8010-7ad526332975,money,1011.8,2026-01-12,Indonesia,paypal
+f8750d13-1c49-454e-bd5f-18f29d3e5f57,salary,1998.1,2026-02-12,Solomon Islands,debit card
+9c353fba-56bd-4e8a-a9bf-16c5ac5fa507,bank_branch,1319.57,2026-02-15,India,bizum
+15c1a86f-2b89-4dc2-bea5-d16ab16c3e79,salary,1392.71,2026-02-06,Dominican Republic,debit card
+e6dde1e1-aac9-4937-9d68-a2f3b0c45038,salary,1738.41,2026-02-24,Suriname,debit card
+031509b1-c97c-4b4b-966d-55407376aa6d,money,858.22,2026-02-03,Algeria,bizum
+34bd9a68-e836-40a6-af1e-bb1860e78714,salary,12.19,2026-02-22,Puerto Rico,bizum
+e956a683-fccc-4a0e-970d-a54f96bd7813,bank_branch,468.52,2026-01-12,Turks and Caicos Islands,paypal
+b1c12a98-167c-4b92-80ab-31aacb45e0c0,salary,875.14,2026-02-13,Albania,paypal
+b6219bbf-48f8-4a0e-8c8b-131b31db2147,ATM,609.33,2026-02-15,Djibouti,bizum
+dde04660-6e41-44cc-b7ae-c684ae3daa31,bank_branch,693.98,2026-01-17,Mauritania,debit card
+91a63988-5f9c-4b00-b5e3-d0dd7086ee69,money,572.36,2026-02-17,Turkmenistan,debit card
+bed29cd9-9212-4801-93b2-10c4243f1f34,salary,1059.45,2026-02-22,United Arab Emirates,debit card
+d2af872e-aea0-4944-8cf9-2e83b4e0ae31,bank_branch,1207.45,2026-02-18,Tonga,paypal
+cf2df314-578c-4d3e-9790-7a373019e83b,ATM,420.46,2026-01-23,Tunisia,bizum
+c8c1190b-6ab4-4c3a-abaf-7a6ff66ad507,salary,420.09,2026-02-28,Uruguay,debit card
+c5a0baa7-f597-4c27-98f3-ffc36847c00d,salary,1531.7,2026-01-23,Slovakia (Slovak Republic),paypal
+9378bdf4-8403-46ed-9a88-d2bff410241f,salary,689.42,2026-01-31,Kuwait,paypal
+355b19d2-bf12-4287-aaf9-3252f37b3081,bank_branch,803.66,2026-02-14,Egypt,bizum
+1a4bd0aa-f126-40f7-bb7d-8da0c748ba6f,ATM,775.83,2026-03-01,Korea,paypal
+3f409b36-86a1-4042-837e-886ea43b29d2,salary,1868.54,2026-01-16,Turkmenistan,debit card
+fc5198ff-00af-49ff-94d5-3f0b0bfea4d9,money,444.55,2026-01-07,Holy See (Vatican City State),paypal
+76f044cf-bd6c-48a0-8470-df0204474ecf,bank_branch,408.41,2026-01-21,Saudi Arabia,debit card
+53279fda-f384-4073-9491-8f58d3fa7bf0,ATM,1332.83,2026-01-08,North Macedonia,bizum
+d24a8d27-5514-486f-9010-12470d5ca787,bank_branch,1037.28,2026-02-09,San Marino,bizum
+c48a0bf1-5cb6-4064-8675-80dad4e385a9,ATM,363.26,2026-01-04,French Polynesia,debit card
+1a09c89b-2439-4735-a07f-714c72ac4852,salary,992.98,2026-01-02,Benin,debit card
+5093ffa8-df10-401c-93c7-f9b20df59e72,bank_branch,1620.06,2026-01-16,Costa Rica,debit card
+8cad6e6f-e0e1-40b9-994b-76a7a7c22385,money,177.14,2026-03-02,Iceland,paypal
+082a04e6-afbc-459d-acfe-aa07fe736a71,ATM,890.55,2026-02-19,Russian Federation,debit card
+a0f12e2d-7b8e-4c72-949b-70aaf43d8f72,salary,1197.13,2026-02-04,Romania,debit card
+45069ab6-8f15-4c0f-b5cc-66796bfebbff,bank_branch,1984.14,2026-02-18,Greece,paypal
+ea8cf128-db36-43c4-b86d-a0523053d57a,salary,844.17,2026-01-25,Guinea,debit card
+175e4ac6-a5d5-424f-bf4b-f943e3635ee9,salary,1890.08,2026-01-31,Cote d'Ivoire,debit card
+bfd96580-ba0b-47ee-bae1-a554e1a1194f,salary,608.6,2026-02-18,Marshall Islands,bizum
+5247cd1b-12c8-4baf-807b-e64636c0b183,ATM,333.26,2026-01-19,Bahamas,debit card
+ab38ea07-640e-46da-8211-8185c18b7461,salary,1692.39,2026-01-30,Puerto Rico,debit card
+ad04d370-65f9-49fe-ba59-6fc2b7eec705,ATM,151.64,2026-01-20,Rwanda,bizum
+9756894f-84b6-4278-9d05-cb40f121d14b,bank_branch,1303.68,2026-02-19,Swaziland,paypal
+250d8b19-409c-450b-8d6b-12ce9ff0ffe9,money,1718.12,2026-01-05,Pakistan,debit card
+74960cb8-93be-4446-847a-9ccf003a3b6a,bank_branch,143.97,2026-01-29,Oman,bizum
+d3a022d6-a520-4a7e-aa0f-39c2fc58516f,bank_branch,622.65,2026-01-14,Saint Helena,paypal
+18ee03e7-019e-4909-a637-b76ca4421545,salary,1287.51,2026-01-26,Central African Republic,bizum
+6aec23c4-b72b-43d5-9d1e-7364d18f634c,money,1472.45,2026-01-08,Netherlands Antilles,paypal
+b77507d0-faea-4ea1-94ab-4cc08ed62ff5,ATM,1353.27,2026-01-25,Greenland,paypal
+54633fe8-6c77-4ac6-992e-207e3e723c0c,money,1560.18,2026-02-05,Uzbekistan,paypal
+f81b6f0e-470d-48bc-8bb0-d6edde6586e2,salary,1901.72,2026-01-01,Dominica,paypal
+d2c0721a-0bc8-42ef-bcc1-122e8b118931,bank_branch,346.83,2026-01-01,Belarus,paypal
+e30150fe-4b02-48cf-aed4-159c190b00d4,salary,114.41,2026-03-05,Armenia,debit card
+a8b64d92-674b-411b-93d4-f88e715b2f69,ATM,882.11,2026-02-24,Suriname,bizum
+191ff563-dc7d-4d15-8819-6550cdf77f33,salary,1924.94,2026-01-27,India,debit card
+c9f72994-c480-499d-9b02-bade7a893b03,money,584.28,2026-01-13,Cayman Islands,paypal
+94ff429d-c489-4a1f-a317-573f3d35643e,salary,929.01,2026-03-04,Dominican Republic,debit card
+9e7ce21a-62c2-499b-bcc0-8688eca8c056,ATM,1727.15,2026-02-20,Saint Lucia,bizum
+bc0d79c1-a534-4a83-a9a7-6c516209a88d,ATM,107.71,2026-01-26,Hungary,paypal
+2f067d61-86c0-4845-96ab-15ac68a642c7,salary,955.72,2026-03-07,Serbia,debit card
+fe666364-89af-423e-b24a-a8f61f5e097e,money,300.44,2026-02-06,American Samoa,bizum
+ff72df11-f8fb-4907-b572-d6ef6395b645,bank_branch,543.03,2026-01-21,Indonesia,debit card
+ac4d5f68-bb07-4f92-a4ea-954d1149a523,salary,84.0,2026-02-23,Central African Republic,bizum
+e0bb377f-20b3-4e4e-936c-a1054f293fcc,bank_branch,1076.87,2026-02-13,Lao People's Democratic Republic,debit card
+fa7e00dd-e655-43ef-ae4d-b2ae6cb1abf3,bank_branch,1335.67,2026-01-18,Falkland Islands (Malvinas),paypal
+9ed1a185-eaa0-4916-8614-2a8d05cc90d2,money,1268.04,2026-01-24,Indonesia,bizum
+bb575f52-6866-4613-87a7-11fd772691b8,salary,1774.49,2026-02-24,Saint Lucia,paypal
+063424f7-1e42-4e44-ac9f-be57f23b9310,bank_branch,388.19,2026-01-15,Mauritania,debit card
+28377b6b-9335-46f1-bb44-ae5ed412b63f,bank_branch,352.9,2026-01-26,New Zealand,paypal
+1a75b746-48a2-408d-bb2a-d88ccda997f7,money,595.84,2026-02-20,Togo,bizum
+d897056a-2ec4-40d5-83c6-683cc6abb510,bank_branch,1753.67,2026-02-05,El Salvador,bizum
+fbdae057-6193-498a-96da-c5f37d36d4bf,salary,534.73,2026-01-12,Dominican Republic,paypal
+2460233a-d637-406d-8899-f0236ffccc6c,bank_branch,892.66,2026-01-19,Venezuela,bizum
+5b776aa0-4373-4a29-9179-0f5171061a2f,ATM,840.0,2026-03-07,Cape Verde,debit card
+55a9e95d-4f6f-4f9b-8dfb-28d33032cfaa,money,1616.74,2026-01-03,Cyprus,bizum
+05c0f288-75fa-4c50-8a2e-7ff165343d5c,salary,328.97,2026-01-16,Nigeria,bizum
+5ecbc483-0ebb-42bb-b528-0d6d8f01cce0,bank_branch,879.42,2026-02-03,Liberia,paypal
+e66935d6-2d19-4e80-b71e-6c9a526c547e,money,1342.67,2026-02-18,Timor-Leste,debit card
+886af41a-201a-4798-af90-35f17ee9d676,bank_branch,1319.52,2026-02-10,China,debit card
+0f44edd1-25d0-4860-aa03-87767f3a03f8,bank_branch,856.17,2026-02-14,Guatemala,paypal
+4a873944-8e7b-46a3-b417-44971f2d5e85,salary,832.21,2026-03-04,Nicaragua,paypal
+6b9e5f6e-a4e6-4d2c-bf9f-5dbdb9b73137,ATM,1495.67,2026-02-25,Chad,debit card
+6d0f04a3-3f54-43bd-9fcc-73e313602a88,money,1742.54,2026-01-03,Georgia,bizum
+109d3726-0142-4ea4-b553-4138b4bc0623,money,1234.05,2026-01-23,Malta,paypal
+51c4a76f-239b-4b3f-8dcb-f1d60920fa3a,money,876.24,2026-02-19,Djibouti,debit card
+d5acf761-9d79-4e9b-83ff-7465d9c4deb2,money,1548.04,2026-02-21,Djibouti,debit card
+d8d0d264-caf7-45e0-98a8-4e61a7f8bd47,salary,275.19,2026-02-18,Fiji,paypal
+51b875cd-5823-4c2d-af94-7525474278dc,money,828.3,2026-02-25,Dominican Republic,paypal
+5efa0467-f680-48d9-9905-cd68ef982ded,salary,1770.57,2026-02-05,Monaco,paypal
+f64c3299-7866-4167-a358-0439bc6f3063,bank_branch,991.18,2026-02-03,Estonia,paypal
+90d3425a-ea1b-4014-9380-8fd6fcf50b60,money,1979.71,2026-03-07,Gambia,bizum
+eba15671-bd19-4906-becc-7b4c894da337,ATM,1440.38,2026-02-08,Lithuania,debit card
+2d32fd9a-3fe9-49c3-be0d-34e463e36bb9,ATM,857.18,2026-01-30,Dominican Republic,bizum
+a60e731a-fd2c-4dcf-aa9a-5db693a05fa0,money,1588.56,2026-01-27,Kazakhstan,bizum
+f6d91ebd-a8b2-427b-a102-74d9711a7534,bank_branch,1301.87,2026-02-08,Solomon Islands,debit card
+28a40514-b66e-47a8-8a2a-b2392789cec9,bank_branch,1506.43,2026-02-11,Martinique,paypal
+d83c0678-91a7-40c4-8949-2834e1eb75d7,bank_branch,1374.11,2026-02-04,Ethiopia,paypal
+8232638b-2ecc-479d-9325-bb2f72316364,ATM,1012.66,2026-01-07,Saint Helena,debit card
+d44f0598-482d-49a8-9320-5bb4f8b48e67,money,1686.81,2026-01-09,Portugal,debit card
+9b9b0095-e054-46c1-a398-7cd5a2ef5c60,bank_branch,1196.24,2026-01-18,Honduras,debit card
+70b4974b-4864-4659-ab7f-a6b6ec67fd84,ATM,1460.88,2026-01-24,Greece,bizum
+936137b1-ecf1-4a01-9a1f-2ad28a1df2f3,bank_branch,456.92,2026-03-01,Burundi,bizum
+003d1819-b881-411d-bb54-84bd808f4033,salary,862.41,2026-03-04,New Caledonia,paypal
+609f7138-4c4f-4c30-9215-9d9d9073ac22,salary,286.81,2026-01-12,Nauru,bizum
+fb8723bc-8f58-4011-98fd-fc8b256c275e,money,1760.1,2026-01-02,Panama,paypal
+e8833d32-ed97-4684-ac75-c9d12dbf3705,salary,138.62,2026-01-28,Comoros,paypal
+30e3a62e-f28f-4d5a-a7c5-da2ca33a86f0,bank_branch,999.79,2026-02-22,Falkland Islands (Malvinas),paypal
+cb79efe2-49d3-4dde-94ab-b1262a8f5479,bank_branch,464.0,2026-02-04,Lao People's Democratic Republic,paypal
+199cd4b8-0f08-46e9-be71-109cdf7ff26f,bank_branch,1693.55,2026-01-31,Madagascar,paypal
+827967dd-31cd-433c-a981-0444d4b43bc3,money,116.63,2026-02-08,Wallis and Futuna,debit card
+5e00b53c-ab44-47b3-9c7a-521aa55e3e94,bank_branch,1974.14,2026-02-08,El Salvador,paypal
+6dd5ce9e-b3c8-4422-a43f-9b864f3de898,bank_branch,1308.63,2026-02-06,Svalbard & Jan Mayen Islands,paypal
+da30dd8b-e3f7-4ec2-ba04-f526bd0ec834,money,1669.25,2026-01-20,Vietnam,debit card
+cec2ccd8-1db5-4b33-94b8-e6f632f0206d,ATM,510.52,2026-02-20,Uzbekistan,bizum
+b50eb4d5-80e5-40f0-b569-c2f207484a50,bank_branch,199.72,2026-02-01,Chad,debit card
+503d9d55-0236-4f7f-a293-6bfdc4bad15d,money,158.27,2026-01-15,Eritrea,paypal
+08d1d8aa-597e-480e-9e15-69d1df4dd39d,money,1077.49,2026-01-09,Wallis and Futuna,debit card
+5b505bd2-c0c7-4400-8fce-949c1b86960f,money,138.89,2026-01-18,Ghana,bizum
+fa946444-0efb-4d64-ba4a-87995141f750,ATM,102.79,2026-01-05,Pitcairn Islands,paypal
+d3df7d11-e543-4f43-8130-2dc1e419c625,salary,93.51,2026-02-22,Nepal,paypal
+f1f14ab3-7ea8-44b6-98fd-3a0d846ff6f5,ATM,68.04,2026-01-05,Turkmenistan,debit card
+8b59196e-e147-41d4-b0bf-e7c3764aafb8,salary,931.65,2026-02-27,Saint Helena,paypal
+d462a8ea-28b9-444e-8863-32a43382c406,salary,671.49,2026-01-25,Oman,bizum
+1340ac86-3027-4340-aeed-be74b7a443f0,ATM,1596.82,2026-02-20,Cook Islands,paypal
+cc3af9fb-84c5-488d-a1f7-c1d10df3a5e6,salary,932.54,2026-01-18,Serbia,bizum
+2e8fd63f-d527-4d6c-beb0-1181f43a23c6,salary,534.21,2026-01-02,Niue,bizum
+0f671e82-4969-4a4b-9ef4-86a36440efa5,money,1545.13,2026-01-07,United States Minor Outlying Islands,paypal
+e58c047d-4cf8-4c56-becc-6b95138836ce,salary,804.54,2026-03-04,Eritrea,debit card
+090777a0-e7e4-476e-b778-b4af42d96743,ATM,43.18,2026-02-06,Singapore,bizum
+d58792ee-a153-4d94-b8dc-b587a69263ca,salary,1408.26,2026-01-07,Iceland,debit card
+1ce95afe-2f7f-4226-a22d-c528c6d89324,ATM,1811.51,2026-02-07,Cyprus,bizum
+36fa8b70-f8fd-42aa-bd18-546df05de4b7,money,447.78,2026-01-18,Montserrat,bizum
+e095bd99-208b-4c14-9973-f58318677b21,ATM,1480.19,2026-02-28,Korea,paypal
+5d6956d6-226e-46c7-9b83-da219cf4628c,bank_branch,509.61,2026-02-23,Libyan Arab Jamahiriya,debit card
+2c726346-b083-4f19-9948-0928b9c2c171,salary,1158.91,2026-01-22,Antarctica (the territory South of 60 deg S),paypal
+0a7f2b93-5270-4231-b0c8-2c10c060cc67,salary,553.08,2026-02-26,Marshall Islands,debit card
+399a6bf9-3413-45b1-a3a7-5bd7c28be00b,money,1914.22,2026-02-02,India,debit card
+75ddadaa-ed0a-480d-b48b-06023cad9597,bank_branch,700.61,2026-02-15,Ethiopia,debit card
+d85c440b-9a6d-4662-a8ff-eb9c930cbc1c,bank_branch,858.79,2026-01-06,Turks and Caicos Islands,paypal
+6e703d86-a1b2-4609-8590-b090221745b5,money,449.45,2026-01-10,Colombia,paypal
+7cf4af96-7d3b-43ea-b775-b591a43a9054,ATM,1345.54,2026-03-06,Uganda,bizum
+aaa5de4b-98b7-4339-bc69-836d76bac667,ATM,1014.3,2026-01-17,Turkey,paypal
+f6501e8b-88af-42c1-b4e4-d132841a7943,salary,1662.63,2026-02-24,Nauru,debit card
+fa4c3bd4-6b91-48d1-93e0-2d2e552debc0,money,263.45,2026-02-05,Liberia,paypal
+59984705-f368-47d3-a111-566c04c16e50,salary,883.75,2026-02-18,Singapore,paypal
+6985c515-cec0-4e61-8522-0aab1d607194,money,387.96,2026-01-30,Grenada,paypal
+b49b5cb0-7ddc-4903-a4d7-426cb5feab1c,ATM,507.56,2026-01-19,New Caledonia,bizum
+f90bdafa-194d-4419-9028-a2fefb3cf2b4,salary,1014.03,2026-01-05,Morocco,debit card
+43385b3b-1723-43f1-ac25-a7e36b3f9821,ATM,1567.46,2026-02-26,Jersey,paypal
+a73de47f-2f76-4b13-9e3e-ebe77b10e833,ATM,1132.0,2026-02-12,Czech Republic,paypal
+831e8257-da55-4ab7-8045-c215ac93dc61,salary,1035.75,2026-01-26,Italy,debit card
+5ee25dc6-c2d2-41b8-a7c2-1255fa09e78d,bank_branch,364.76,2026-02-26,Spain,bizum
+94981b22-0c2f-497d-bb95-349c3f1a378c,bank_branch,197.87,2026-02-23,Peru,debit card
+b9ea883c-efd9-43ee-98e5-3ced2dcdbdfc,salary,797.67,2026-02-11,Saint Kitts and Nevis,bizum
+dc080f65-76c4-4383-beb2-8482468deac3,ATM,31.76,2026-02-01,Aruba,bizum
+8b1c1ad2-ebed-475a-8908-ca7ddd235d27,bank_branch,224.88,2026-02-20,Benin,debit card
+5df1a950-a8e7-49bb-984f-aed621c1aa17,bank_branch,1519.52,2026-02-02,Wallis and Futuna,debit card
+f5d2820e-f2de-472c-a713-e3b2ba043d22,money,359.78,2026-01-16,Nauru,debit card
+603f0f39-240a-4038-9686-9d7a665f32b8,bank_branch,1487.64,2026-03-06,Montserrat,paypal
+b3f79aca-3372-443c-a67e-f24421d9e5ec,bank_branch,1693.85,2026-01-10,Equatorial Guinea,debit card
+14b6b57f-64ef-44c3-ae98-1ceac6cb3d93,money,306.47,2026-01-25,Luxembourg,paypal
+2da45562-5a6e-48ce-8ad3-fef5b1d58838,money,918.61,2026-01-04,Svalbard & Jan Mayen Islands,debit card
+5055dc0e-0aa8-4da7-8571-bfb61ac08ac6,salary,312.26,2026-01-21,Cambodia,paypal
+3caf9a20-9f8a-426f-b0b3-92e1dfd36774,salary,992.55,2026-02-03,Saint Kitts and Nevis,debit card
+4f82620d-42b4-4237-80f1-c3685dc7b27d,ATM,1070.96,2026-03-06,Puerto Rico,bizum
+32048ad8-8235-4a60-b97d-f60927388304,bank_branch,1745.78,2026-02-15,Mozambique,paypal
+98f6f7bd-1593-4718-a4a5-a09a770e7d7c,bank_branch,1224.61,2026-03-05,Aruba,debit card
+70fd6288-30e6-4a22-8b22-834ae54f1c07,salary,1554.51,2026-01-07,Indonesia,bizum
+d9d12f1b-a547-48f2-a34d-56e62a9451f2,salary,830.8,2026-01-05,French Polynesia,paypal
+d9a29d2d-fcd9-415b-8cad-482873302ab8,money,522.21,2026-02-21,Slovenia,bizum
+93259021-1290-47c7-a5cb-3c040dddd575,salary,1205.16,2026-01-13,Saudi Arabia,debit card
+fe88cfc7-a0ba-4a2e-9eec-f1a7487e727c,ATM,970.98,2026-01-21,United States of America,paypal
+199c72c3-d8e3-4d81-9354-b7eb7e1c2a82,ATM,1990.08,2026-01-08,Kenya,bizum
+fa78cfc5-934a-4780-8077-703377e681e9,money,1613.88,2026-01-09,Tanzania,paypal
+37b05372-dff2-4f4c-ba30-ad8ea32cb878,money,15.67,2026-02-15,Iran,debit card
+fae0cd1f-c1f2-4ac8-aea8-0665ef5ac443,money,1575.98,2026-01-18,Norway,paypal
+2b9ce52f-a42b-4c64-a161-a4d587daccef,salary,1222.56,2026-02-20,Turkmenistan,bizum
+dd0b874b-5342-467f-9e3d-970d5bd8a498,bank_branch,84.98,2026-02-22,Greece,bizum
+74af12fa-d3af-46df-86b1-b74d67ac5c2e,ATM,117.67,2026-02-20,Jamaica,bizum
+b019ef3a-f598-445e-bb83-011dad81ddbc,bank_branch,1956.28,2026-02-18,American Samoa,bizum
+44e51197-2d8b-4dd5-a5c5-92955a90d6ea,salary,581.4,2026-01-26,Equatorial Guinea,bizum
+268512b7-27f4-4ae5-bf60-7510b7049411,bank_branch,1270.01,2026-01-20,Ghana,bizum
+f51b0c44-502b-42b7-ab93-e01bace5038d,money,776.78,2026-03-04,Macao,debit card
+80843e2d-701d-49d1-a6d1-c047c5564f47,salary,1715.21,2026-02-13,Reunion,debit card
+f4325e40-a3c6-4556-a6d1-f1b0755d0984,money,1126.91,2026-01-12,Tajikistan,paypal
+e0d25f6a-aa3b-4d4d-a2d5-c6fc76008204,salary,1291.37,2026-02-01,Tuvalu,debit card
+737599f8-604f-4c2a-9acc-75a8c39b53a2,ATM,1499.9,2026-01-13,Madagascar,bizum
+81fd87a0-ec1c-4a00-a9e6-e222af5d1724,money,759.08,2026-01-03,Guatemala,debit card
+4513ebcf-5fa6-41af-9b68-8444ad4fb062,bank_branch,1989.14,2026-02-27,Guadeloupe,debit card
+c9c9758b-a86e-4aaa-ae9c-48ea06ea978a,bank_branch,1868.9,2026-01-29,Congo,paypal
+ad5a6879-9f0c-4944-b21d-5e52dc7f9271,money,974.44,2026-01-08,Puerto Rico,bizum
+ec547469-3401-4134-8d73-33cfe46f4137,bank_branch,1593.91,2026-01-10,Guam,debit card
+8beb2a9a-4ed6-46a2-86bc-0ad89e32d9ed,ATM,556.49,2026-02-23,Uzbekistan,paypal
+46f493ed-30c4-48c9-92ce-0ab9ab912a76,salary,144.32,2026-03-02,South Africa,paypal
+0c417792-f925-4e6c-9a59-198a5f90c811,money,986.47,2026-01-23,Ukraine,bizum
+eac61510-dfa6-4e76-9245-3bb623cddd15,bank_branch,1362.33,2026-02-28,Iran,debit card
+260ed937-ab04-4736-8f5a-c6f6260e989b,salary,535.84,2026-01-25,Burkina Faso,debit card
+830db9dc-c4ea-457b-91af-aea7c68c38d6,bank_branch,129.4,2026-03-03,Isle of Man,debit card
+7d2a2861-0f3a-4914-8b8d-a20f352f490f,bank_branch,1973.72,2026-01-02,Cocos (Keeling) Islands,debit card
+29bfd37e-d1d5-4c56-a5bc-4628e1955454,money,1221.16,2026-01-07,Algeria,bizum
+0cb80903-f3ec-4e6f-82d7-fcd839135012,ATM,1566.16,2026-03-07,Lithuania,paypal
+d23015c7-c44a-4495-8fb9-1f03325bf93a,money,1004.73,2026-03-03,South Georgia and the South Sandwich Islands,bizum
+1f0afe36-93b3-4f82-8531-ad0557884207,salary,1195.23,2026-01-23,Armenia,bizum
+80eff517-036a-4b68-b29d-1e15386e72ed,ATM,1732.93,2026-01-05,Cocos (Keeling) Islands,paypal
+1001967b-95a1-480b-a51d-5d53ba879fd6,ATM,165.15,2026-01-05,Burundi,bizum
+fc4e09ad-ab79-42d0-857c-9d8ccc0c06c1,ATM,1618.27,2026-02-26,French Guiana,paypal
+14acbd75-0e61-4c0e-b80d-ecea71f1bdfb,money,490.59,2026-01-18,Hong Kong,paypal
+27b73813-891c-433d-a2d2-94a8796342e3,ATM,353.04,2026-01-11,Vanuatu,bizum
+95305ffe-2399-4ce5-95ab-edd25c4a2640,bank_branch,1752.16,2026-01-30,Swaziland,bizum
+83514f93-4cba-482c-8bd4-41f13b9a62b8,ATM,21.58,2026-01-13,Guinea,bizum
+0db708a4-0c16-4bae-b36b-7f5a7af704da,salary,1732.28,2026-02-22,Palestinian Territory,bizum
+96a67fc7-b686-4916-ad83-957e08a129fe,money,1306.39,2026-03-01,Martinique,bizum
+87cfdf01-e9ef-44a6-a9a8-cc9796bc4ebe,salary,1903.55,2026-02-24,Marshall Islands,paypal
+ce5c2f62-55b4-469a-b6e5-b5155bce2fbd,ATM,1901.32,2026-01-08,Northern Mariana Islands,paypal
+9a77cded-d7f5-4480-a26e-7aa260a19eae,ATM,1640.69,2026-03-02,Japan,bizum
+6377473a-7588-42e1-b9d4-80efc2b4e693,salary,720.92,2026-02-27,Guernsey,bizum
+91143e88-7494-481f-a433-f5c1cd0325cc,ATM,653.41,2026-02-24,Fiji,paypal
+e377e6c5-a774-4011-bc31-9cc389f790c3,money,1458.32,2026-03-07,Comoros,paypal
+b33e9c54-7c70-4c02-a50a-454b24301404,ATM,350.01,2026-02-09,Bangladesh,debit card
+5b787f4b-4472-4031-a5d0-5aed9a034677,bank_branch,1678.54,2026-02-21,Timor-Leste,debit card
+59d1706e-081b-4104-b1f3-0c84bfaf7832,money,1358.92,2026-02-08,Burundi,debit card
+6188a78d-a1f5-4254-83b8-2e4c428d6a7b,bank_branch,1351.99,2026-01-29,China,paypal
+3a956a53-eafd-4aaa-b15a-52d67756c070,bank_branch,1132.93,2026-01-03,Congo,bizum
+d4e0310f-366a-4d35-9e9e-9889c049fed9,money,488.74,2026-01-25,Congo,bizum
+9f64661c-a46a-4b50-92ec-3a62b2ac2c77,ATM,1501.84,2026-01-11,Saint Vincent and the Grenadines,debit card
+4e7094a2-25bd-4ca9-b0dc-6502bb4cbca6,bank_branch,1545.57,2026-02-11,French Southern Territories,debit card
+b41e9287-4e2c-4f67-b7c9-92f57047a286,salary,916.74,2026-03-07,Moldova,bizum
+fc1ef32a-d50a-42bb-8c33-d68cad51be6a,salary,1077.69,2026-01-01,Sudan,paypal
+f5cac9d6-9f6a-433d-a9ca-fafa93337b45,bank_branch,396.08,2026-01-06,India,paypal
+81fdacc0-411d-484f-907a-fe39d118aa86,bank_branch,561.93,2026-01-01,Ireland,bizum
+5eff09a0-6efa-4e2f-933e-93744a2d532f,bank_branch,136.0,2026-01-30,Kiribati,paypal
+81c8c9d3-4bf3-4011-8579-b0266d214227,bank_branch,264.72,2026-02-28,Belgium,bizum
+6fcf3431-5795-4591-a186-d60d7497968a,bank_branch,798.93,2026-01-10,India,debit card
+1ae65b78-8ab4-4173-b75f-a0547ad74cf6,salary,1169.51,2026-01-13,Korea,debit card
+ab873e61-5404-489c-a657-5fd4275eb514,ATM,1956.79,2026-01-25,Philippines,bizum
+924e1da0-ffce-43fc-9a53-754c13308307,salary,1482.02,2026-02-22,Monaco,paypal
+d4bf8b56-81c4-4f93-bc35-1eac59ac9367,ATM,877.83,2026-01-10,Congo,debit card
+aecdd534-7f6c-4fc2-a6a4-5a86e3c67550,bank_branch,943.81,2026-01-23,Romania,debit card
+f7cf9e5d-0ad6-439f-bd70-65535c47d7c2,ATM,1765.66,2026-02-14,United States of America,paypal
+825f286d-800e-4a78-874c-744df33c1ed4,money,876.26,2026-01-29,Northern Mariana Islands,paypal
+7fd9e5fb-49fa-44cf-ab44-add8d51a2d11,ATM,1489.89,2026-02-26,Tonga,paypal
+6ee507b0-0a6a-4ef1-bda6-b17ba87eb6be,money,1263.67,2026-02-10,British Virgin Islands,debit card
+cd335529-8076-4160-862f-94d00e02e506,salary,373.63,2026-01-01,Cameroon,debit card
+3adce9c3-8241-4d4b-95ef-e6fa55a7e19f,ATM,1223.78,2026-02-09,Oman,bizum
+8b1db03d-5520-4940-83dc-4a26d4eb427e,bank_branch,1231.39,2026-01-18,Fiji,paypal
+03b893c1-9574-4adc-b76c-af260fe9d9c4,salary,1081.12,2026-02-17,Slovakia (Slovak Republic),debit card
+a46662e2-6e37-4602-bbf6-087d2343e9d9,money,533.75,2026-02-16,Burundi,bizum
+e543f9b9-94d0-4d17-8d8d-11a3c2e4e27e,ATM,1900.29,2026-01-22,Cameroon,paypal
+e737fe88-baee-4472-b5bd-c384b76d29a0,bank_branch,365.89,2026-02-17,China,debit card
+809731ca-0b9a-4c99-a1a5-73853126ecc9,salary,564.04,2026-02-22,Tuvalu,bizum
+d05be6c8-55a5-41ee-a2f5-e5a810462f02,ATM,218.66,2026-03-05,Uruguay,bizum
+b566a404-ee2a-4366-807f-9bca01c15e7f,salary,1149.74,2026-01-18,Cote d'Ivoire,bizum
+e3d6bdb7-2caf-4ae5-bdf3-2c6f7112957f,ATM,960.91,2026-02-26,Macao,bizum
+52d934da-0e8e-456d-8bfe-a1d26760490d,ATM,1683.75,2026-01-16,Pakistan,paypal
+422011ef-9f82-421b-9bed-a072686e0260,salary,959.64,2026-01-09,Austria,bizum
+7b2e9b5a-1e15-4fc3-a123-ff51fcd79dcd,salary,445.97,2026-01-13,Congo,bizum
+b65ae235-34c2-4998-b004-e9a508724e62,ATM,1448.26,2026-01-12,Thailand,bizum
+6612da78-4d45-450c-807e-49201910a45b,salary,1415.67,2026-01-20,Congo,bizum
+843039a2-5493-4ee3-9df1-8d93ef51b18b,salary,1121.48,2026-02-26,Niger,debit card
+d545c99b-058e-42ae-9665-4049ab84eb44,ATM,461.65,2026-02-15,Bolivia,bizum
+d8260ef2-4bdd-498f-af60-75bacdd719d4,ATM,1944.38,2026-03-04,Antarctica (the territory South of 60 deg S),paypal
+74ef97c9-33f9-4d84-b37b-5a64fb26a90e,bank_branch,722.83,2026-03-03,Namibia,bizum
+59ffea48-f22b-46a7-8244-6ee067886137,money,1548.45,2026-01-30,North Macedonia,bizum
+f7a52ef8-474f-4f00-a339-cd5f3aa07229,money,246.55,2026-02-15,Ghana,paypal
+ab3abb47-e94a-4e53-9e3f-4a9fc0223f17,ATM,894.35,2026-03-06,Turkey,bizum
+31507052-d006-4d7e-a409-17bb1d07077c,ATM,722.53,2026-02-19,Morocco,debit card
+7a9358ee-859e-45a7-8a6e-25dcd899b8cf,bank_branch,550.16,2026-02-10,Russian Federation,paypal
+91ed0cf5-39f7-4a52-ab6c-9c9245e460d6,money,1124.64,2026-01-08,Mayotte,paypal
+5e0a68ba-82e8-4464-82ec-50f530a30c6a,money,311.3,2026-03-04,Solomon Islands,debit card
+9bad93ea-8e6a-47f6-a222-b9811ae26553,salary,1628.62,2026-01-05,Tanzania,paypal
+65be1297-eb65-4848-814b-c6fc90c62a96,salary,1042.28,2026-02-11,Mali,paypal
+8e9d6449-0bf6-4af5-8725-62e11d5d26f5,bank_branch,890.38,2026-01-27,Sweden,debit card
+7eef9f36-fbfe-4369-a734-306046e9e470,ATM,1975.31,2026-02-25,Reunion,debit card
+6f9a6975-a3de-4f98-b943-9ebf4875b835,ATM,439.45,2026-02-05,Guam,paypal
+9131265a-aee9-4c01-8f5e-e64ad5d8cc8a,ATM,44.24,2026-01-10,Holy See (Vatican City State),bizum
+94ccca27-0f26-4e7c-bda9-1460aa0f2002,salary,322.52,2026-01-20,Bahrain,bizum
+f7dc003e-a801-47e9-8cd2-3953449036a4,bank_branch,1841.96,2026-01-05,Italy,debit card
+5e2783d9-02b6-4849-99d4-bb7286660c1c,money,1357.61,2026-01-24,Bolivia,debit card
+b9c8ea50-58e5-46f6-ac58-85f8f6c7f407,money,1951.55,2026-01-05,Mozambique,paypal
+e2c7a674-5ff7-43ae-83ef-745a82cbbfc1,bank_branch,34.86,2026-02-20,Switzerland,bizum
+3008e097-f41b-43ef-8606-db0b02c1641d,money,205.76,2026-01-24,Iceland,debit card
+9a51eb42-db49-4cde-a0de-a8534de9c91a,bank_branch,1487.84,2026-01-03,Somalia,bizum
+93e2a760-4865-415d-9e2b-a1a0dff56791,salary,11.76,2026-01-25,Rwanda,paypal
+bc7b0b32-bff5-4dd8-9da9-553fc5e424eb,ATM,1699.07,2026-01-27,Pitcairn Islands,bizum
+aaa8dc2a-25d3-45f9-a16f-451c5f594fd5,ATM,673.79,2026-02-06,Samoa,bizum
+ed112e29-aeac-440c-a57e-eaf19f7a3ea1,ATM,1357.23,2026-03-01,Antigua and Barbuda,debit card
+9504f1f6-6e6e-4a34-bfbd-0a80a3bfb651,money,1796.08,2026-01-12,Cyprus,bizum
+095fe5c8-fd3d-4b91-8a99-980b1baa6c3f,bank_branch,702.71,2026-01-29,Colombia,debit card
+96666a14-f630-4dee-8043-aa7b7346361e,money,1347.63,2026-01-13,Bahrain,bizum
+3277f0f6-1d75-442f-b6c0-ccf7d0ca06d9,money,1162.02,2026-01-25,Guadeloupe,paypal
+33547054-cab0-4dc7-983c-f22f6a83ff91,bank_branch,1658.9,2026-02-26,Malta,paypal
+0e5816dc-8886-48f4-80e9-3581b6ca29b1,bank_branch,584.1,2026-02-26,Togo,bizum
+24de1966-fb88-4cc5-b966-c59e568e7e5b,ATM,1972.61,2026-01-12,Moldova,bizum
+abaeba6b-ffd9-4e04-a9a4-205b7d421ac7,money,1202.54,2026-01-21,Trinidad and Tobago,paypal
+20b5112a-89c4-4fc5-bd61-424e83ebd654,money,798.78,2026-01-30,Burundi,paypal
+daedbdb3-306c-4c1f-b5d1-9daa3ed3eac1,money,466.83,2026-02-02,Samoa,debit card
+70e70204-9ee9-415b-91c7-aa16a354c6f1,bank_branch,1551.47,2026-01-03,Bahamas,paypal
+c69b5a46-7f33-4c47-a221-378f2569c9ff,salary,585.76,2026-01-25,Central African Republic,debit card
+5b90d43a-c7d0-4163-aada-570078c72fcf,money,1179.37,2026-01-19,United States Minor Outlying Islands,debit card
+e7a8dc73-36f1-4407-af11-facdca8d7d52,money,1098.09,2026-01-28,Kenya,bizum
+e566542f-b95a-4124-9c74-270f928f6c42,money,755.24,2026-01-23,Slovakia (Slovak Republic),bizum
+b43c7fa5-c7f4-44d3-90c8-b224e3e8f55a,money,827.09,2026-01-27,Mauritius,debit card
+25bbb232-915f-4cc4-b509-04d007818ca5,salary,163.49,2026-01-27,Thailand,bizum
+01ea3932-8cc2-4def-89d4-8d7e1117babd,ATM,77.46,2026-02-17,Tonga,debit card
+c3abae7d-f7b5-4763-a0f5-0c1efff9f1b8,money,387.73,2026-01-11,Guatemala,bizum
+d04cb67f-3030-499f-a8d7-002ccdb169da,salary,1082.11,2026-02-26,El Salvador,paypal
+baaadf6b-3dd1-4fbb-bcb4-eefbdf0748a8,money,904.97,2026-01-15,Chile,paypal
+057e3bac-071a-444e-9a91-29df80461ffa,salary,1788.75,2026-01-28,Niue,debit card
+1e47d242-21fa-4e92-b0ac-ecac0a7da4d7,bank_branch,214.96,2026-03-04,Myanmar,paypal
+3fda3124-489d-4781-b235-53fc84c421e6,ATM,1783.07,2026-01-01,Kuwait,debit card
+cde0bc7a-d222-4673-a0e3-aee4bf523c29,bank_branch,1777.55,2026-01-01,Iraq,paypal
+7853409b-ba19-4bb3-9e8f-e629a9bce6ac,bank_branch,1907.53,2026-02-22,Suriname,debit card
+8f12a3e0-4c66-425c-a5c0-8e48278c6890,ATM,1729.77,2026-02-24,Sudan,bizum
+dbe8cb4d-3a7c-4f04-99fe-6d37457c767f,bank_branch,1328.07,2026-02-21,Kuwait,bizum
+fed18867-3b62-4c8f-94af-485000af1782,bank_branch,256.57,2026-01-10,Dominican Republic,debit card
+2faa3cc0-d850-4098-b643-16ffbf951a58,salary,490.97,2026-01-14,Belarus,bizum
+e00e81f2-f196-48d7-bed0-6e46fb8a7774,money,294.73,2026-01-12,Dominican Republic,paypal
+07374236-3ec8-47d7-be4a-139be1abc657,ATM,1854.33,2026-01-18,Morocco,paypal
+13a7d079-ea8f-4bc9-bd0c-58da215081b0,salary,1387.88,2026-03-07,Austria,debit card
+4ec79939-018b-48de-8ba1-4d321ab2aa21,money,131.75,2026-02-22,Thailand,debit card
+6b545bc0-d5ef-4c76-a0aa-62f1cc399369,money,468.11,2026-01-15,Zimbabwe,paypal
+0c9c172c-891c-4b97-b94d-45158a0df188,money,1268.66,2026-02-11,Wallis and Futuna,debit card
+8aaa0705-0946-4cce-9951-71d8676a0d8d,money,1435.61,2026-02-19,Saint Kitts and Nevis,paypal
+e1b9b4a3-7935-4220-91df-b0653f338ee3,money,58.55,2026-01-28,Sweden,debit card
+98092379-5dcb-4cf2-876c-94acdb42ca24,ATM,363.08,2026-02-22,Bouvet Island (Bouvetoya),paypal
+35ce2f87-be0f-42c9-9035-4114b3464f2a,salary,1349.45,2026-03-06,United Kingdom,paypal
+e7ebc403-ed2f-4646-afeb-91dc22a655b4,bank_branch,1471.88,2026-01-05,Antarctica (the territory South of 60 deg S),paypal
+a1e1b68f-1d43-4872-b217-267bbb2b88dc,money,65.95,2026-01-03,Malaysia,paypal
+f766169b-ee74-4707-bf2f-2e137c46054b,bank_branch,846.27,2026-01-18,Eritrea,bizum
+821c614d-76c5-4369-92ef-51cf7247d491,money,1805.03,2026-02-19,Guatemala,bizum
+5b42f851-b08f-4440-817c-a00ab8a4cdd2,salary,1973.83,2026-01-23,Kenya,bizum
+d8dbfadf-9e06-4daf-86ff-c5c743bbdbe4,ATM,706.9,2026-02-09,Antarctica (the territory South of 60 deg S),debit card
+fa2f2f3c-03f3-499d-b1c4-03f6957079b8,ATM,1193.58,2026-01-09,Iraq,paypal
+3ac32cf5-70bb-4215-aee0-bf4810cd2669,money,460.76,2026-01-20,Swaziland,bizum
+bdee0cad-b3d5-4dff-be74-5ab51c1f4b3f,ATM,442.54,2026-01-22,Cayman Islands,paypal
+b55da6e7-4fa0-4ce5-8f2a-cf19aca13de3,money,1904.62,2026-01-19,Pitcairn Islands,bizum
+3b2dbb88-362a-4ef0-b54a-4c036ecb3215,ATM,1609.33,2026-02-03,Botswana,debit card
+ca56c543-e1e1-471a-886e-c54cdbd0e15c,salary,1071.61,2026-01-12,Slovenia,bizum
+2ecc905c-4d3e-48a3-a6fd-ca9c6661ea71,salary,1926.51,2026-01-26,Germany,bizum
+a8f7287b-d919-4468-9873-6bc896ee9a79,ATM,187.53,2026-02-02,Christmas Island,paypal
+ec3c26b0-6199-4609-a845-28b92c31876f,money,1059.08,2026-01-19,Gambia,paypal
+e43dc8f7-a1dc-4f81-b467-be4fdadd3772,bank_branch,377.03,2026-02-15,Micronesia,bizum
+c5a52680-09eb-409f-a53f-2a70e5a58831,ATM,1570.49,2026-01-05,Afghanistan,bizum
+0c945cc2-eba8-4579-ac12-21885229d766,ATM,1574.56,2026-02-02,Tanzania,bizum
+4675ba41-7cb3-4dc5-ba18-76d704f7709b,bank_branch,321.42,2026-02-03,Equatorial Guinea,debit card
+912ac88c-6a6f-465e-8ae6-0dbcf8952032,ATM,393.97,2026-03-07,Solomon Islands,paypal
+6d6e9f24-e42c-4fd9-86bb-df7331d241a9,bank_branch,855.64,2026-02-04,Bangladesh,bizum
+3a3ebda6-1e08-4fc5-a37b-4a1594487b17,ATM,679.46,2026-02-15,Malaysia,debit card
+9fec2e20-7434-4c00-861b-794474419179,salary,1333.07,2026-02-23,United States of America,bizum
+f1e86bbc-0c40-4354-a7b1-c0c82579c81f,salary,129.97,2026-01-27,Norfolk Island,debit card
+b2ee40de-3914-41e8-a3b9-194c618e4e05,bank_branch,1798.76,2026-03-01,Bhutan,debit card
+e40d2d6e-a752-48b2-9f69-fc796f21106e,ATM,93.1,2026-01-15,Peru,paypal
+633ba426-3aff-4ea1-9a59-c328c32c0098,ATM,1551.45,2026-02-14,Andorra,paypal
+fa985b8d-7ce4-4b84-8021-56fb87e37cab,salary,1661.08,2026-02-24,Ireland,debit card
+3f3bf551-4db0-4248-b9ed-566137b784df,ATM,30.55,2026-01-13,Svalbard & Jan Mayen Islands,bizum
+eb9652a7-e1ac-40c2-8f0d-ed7fcce3c4f3,salary,1090.01,2026-01-08,South Georgia and the South Sandwich Islands,paypal
+656c8751-02a2-4813-8d03-d3e4fd1cf3dc,bank_branch,121.39,2026-01-23,South Georgia and the South Sandwich Islands,bizum
+a33aaccb-7104-4db8-baf5-1e13973dbe20,money,756.95,2026-02-26,Liechtenstein,paypal
+0c93a9f7-ce30-4170-82f0-0fd82abd384a,bank_branch,1894.73,2026-02-07,Guernsey,debit card
+3c1268f9-fc14-42fa-a1c6-09b1a872b0aa,bank_branch,686.79,2026-01-15,Antarctica (the territory South of 60 deg S),paypal
+a6b24d05-6235-45fa-a5cb-35478a8019ec,ATM,541.85,2026-02-12,Central African Republic,debit card
+ed3accca-0d49-4238-be1a-5b00d6056cfb,money,1694.23,2026-02-06,Saint Kitts and Nevis,bizum
+7bfb4bde-32c5-40f7-920b-9a220d0ef82c,ATM,1931.28,2026-01-23,Bahrain,paypal
+3b4f527e-3fcc-4787-abb6-9b94b1c662fe,money,30.1,2026-01-25,Dominican Republic,bizum
+2c17dcb0-b6f3-4ee9-92f9-cdb632142255,salary,1901.81,2026-02-03,Tanzania,paypal
+a42e155d-3e0f-4973-a767-454bb5d33c68,money,1343.73,2026-02-10,India,paypal
+7d0c83ee-cd63-408f-9267-1ab3737d1133,bank_branch,661.06,2026-02-21,Antarctica (the territory South of 60 deg S),bizum
+5c820d1b-7006-45e2-bd46-3aa9f25c4bf4,bank_branch,610.57,2026-02-03,San Marino,bizum
+d637c8ef-a420-4baf-8d8a-40d0d7e6ab7e,ATM,148.33,2026-03-04,Costa Rica,bizum
+3733aa91-3372-4f82-b3d1-8b1b78638697,ATM,490.66,2026-02-14,El Salvador,paypal
+d7048cfb-d213-455a-8b23-f657519b52e4,ATM,282.54,2026-01-19,Jamaica,paypal
+21e9f39d-28b7-4aaa-946f-85f04a2c9da5,ATM,935.58,2026-01-10,Kuwait,paypal
+2ce122c6-7e29-4d9a-a660-0cc5f440bd3a,money,662.58,2026-02-05,Saint Vincent and the Grenadines,debit card
+e23255b5-2b3d-4efb-a049-efdfac896b75,ATM,1288.34,2026-01-22,Jersey,paypal
+fdc96a05-9a77-4d79-b141-ca16a81323a4,bank_branch,1595.84,2026-01-06,Jersey,debit card
+4f58587c-8c83-4fd7-864b-4c54d48b953b,salary,1268.31,2026-01-20,Togo,bizum
+1285cf2c-19a9-400c-ba2a-704dd2a12346,bank_branch,1838.15,2026-01-24,Paraguay,debit card
+f8111406-e11e-4937-bc4b-7852f6d4a5f2,salary,221.13,2026-02-08,United Arab Emirates,debit card
+8f12126a-973a-40d3-af06-b136a5e5a514,ATM,434.13,2026-01-19,Lao People's Democratic Republic,bizum
+9c175bdf-5a50-4e57-ae69-3a4370f92b10,money,1995.6,2026-02-10,Saudi Arabia,bizum
+f7c07847-9d5c-4bc6-a39a-8015bfac7d66,bank_branch,1180.72,2026-01-12,Martinique,bizum
+4a7ea0de-e42c-4d06-b0b7-549154eb07be,bank_branch,1533.63,2026-01-17,Bhutan,debit card
+122653b1-7cf1-4568-b0f8-452357a710ad,money,188.88,2026-01-25,Canada,debit card
+6b3e7ee4-7ddc-42f0-80f6-1bb9e635cf42,bank_branch,236.06,2026-01-20,Seychelles,debit card
+a450bbd2-36b7-4d38-9939-b9ecca199376,bank_branch,1528.98,2026-02-25,Greenland,bizum
+942a4126-c5f7-4363-a8cf-2425dee86733,salary,1204.83,2026-03-02,Peru,debit card
+fffbb1d0-18f1-439f-b63b-415da938cf53,bank_branch,1508.92,2026-03-04,United States Virgin Islands,bizum
+da3390c7-daa2-4c7a-bb67-8be99564bf8c,salary,47.14,2026-01-16,Dominica,paypal
+155274a9-8dd2-49ef-82e1-b871023eabd5,ATM,1665.43,2026-02-09,Saint Pierre and Miquelon,paypal
+aa7586fe-99b4-438f-8eba-14f3f66ceef6,ATM,611.65,2026-01-29,South Africa,debit card
+a0aeab71-57ad-4001-8577-01729b0c2a03,ATM,1735.23,2026-02-11,New Zealand,paypal
+ea93664b-6ea1-4adc-b79b-7b344d3944ba,salary,1267.51,2026-03-01,Lao People's Democratic Republic,paypal
+0f3e7d18-b3ba-4cbb-9741-eb9e409c2f4f,bank_branch,438.51,2026-01-14,Denmark,paypal
+2163ce06-017f-45e9-b58b-9407a2b89840,money,719.96,2026-02-11,Myanmar,paypal
+c391384d-7950-4b46-99d2-5e12ec0ec848,ATM,382.84,2026-02-07,Saint Kitts and Nevis,debit card
+51f8421f-d304-4f3b-87d7-f522c3509934,money,957.42,2026-02-10,Togo,paypal
+b3466692-8aa1-4f1b-8f37-fa0bff213d2e,money,234.53,2026-01-16,Pakistan,bizum
+9d997b74-07d8-49c1-b13a-a02eb52ad26b,salary,671.03,2026-02-19,Paraguay,debit card
+91d73fec-87f5-48b0-b1d6-c295f4b1da17,money,802.2,2026-01-11,Lebanon,paypal
+5bf394cd-0886-4077-ba1f-da1f215be4c8,bank_branch,1806.89,2026-02-16,Turkey,bizum
+a3608c32-57f8-4988-b35b-39296286ad0d,money,1052.77,2026-01-16,Congo,debit card
+5f5d1df5-473b-4eb4-b682-f49207e6b1ac,ATM,1536.42,2026-01-28,Guinea-Bissau,debit card
+e05f7d6a-3de5-4fea-9c29-2a588a105075,bank_branch,132.82,2026-03-02,United Kingdom,debit card
+6cdf1c5a-7e2f-4073-bc42-857fd778c5b8,money,386.71,2026-02-18,Belize,debit card
+9f478e13-3d63-4845-823f-13f75f9cfea1,bank_branch,356.79,2026-01-28,Jordan,debit card
+69531873-5913-4f06-bc85-de6f322dcc2e,ATM,144.35,2026-01-02,Cape Verde,bizum
+ae1190ae-4a6a-4238-adaf-1154ec032b98,ATM,369.51,2026-01-24,Ecuador,debit card
+dc238886-09b9-4abf-a45a-4af403fdb715,salary,1971.32,2026-02-25,Mozambique,bizum
+78ca5b68-8633-46f5-a7b7-916e9f786f8f,money,1427.61,2026-01-21,Palau,paypal
+c9c94f74-aa15-47a3-b9c3-c05fbdd2a5f6,money,949.92,2026-01-05,British Virgin Islands,paypal
+2d6f11db-0ed4-4b4a-b2ac-0ba90f7e7fdb,salary,183.57,2026-01-24,Guatemala,bizum
+e732f053-2938-4cd9-8f0f-12eee9125020,bank_branch,1579.74,2026-02-18,South Africa,bizum
+20d9c268-11ee-4254-a1b4-3d1e513b50cf,salary,1390.94,2026-01-28,Korea,debit card
+fafa7032-df08-4343-b9db-daa67fd0c3ca,salary,1062.3,2026-01-20,France,paypal
+34771249-a475-458e-b9ea-8b5c782e57f1,salary,218.81,2026-01-13,Chad,paypal
+60f6f808-18a9-4cf2-b366-cbc2c7aaf307,money,1569.0,2026-01-23,Belgium,debit card
+a0aabca3-23c2-4a70-9369-c0af02469727,salary,766.01,2026-01-22,Congo,debit card
+328d613e-8bbc-4334-9505-abef064c56dd,salary,273.53,2026-01-30,Greece,debit card
+3f5c6591-0478-44c6-8e60-726dc75ac8b1,money,426.25,2026-01-05,British Virgin Islands,paypal
+934eb10a-389a-4811-84a1-91884168d6ca,ATM,1863.12,2026-03-02,Estonia,debit card
+c251a597-84c3-4676-9ec5-6a9274108dad,money,340.92,2026-02-09,Lao People's Democratic Republic,paypal
+7329bdf1-be74-4a98-bd6e-d445f1f240d9,money,1689.55,2026-01-08,Tuvalu,bizum
+fd6d1e1c-3a6a-4506-aa6c-6292fcca0739,salary,69.75,2026-01-23,Saint Vincent and the Grenadines,debit card
+a49240c5-5bb6-49a7-9672-72bfbfee3015,money,1607.09,2026-02-27,Dominican Republic,debit card
+2ea3f039-5505-40a7-9517-013970075deb,money,134.26,2026-01-07,Germany,bizum
+ba712590-84bc-47fa-8ab9-30634f26c3b2,money,1279.85,2026-03-07,Cocos (Keeling) Islands,bizum
+25c26f64-cd51-4b0b-bda1-ee3e1cd3ae9d,ATM,131.67,2026-02-23,Barbados,paypal
+f4159a8e-83e6-4eb0-9a53-6f5a551034c1,bank_branch,1341.58,2026-02-06,Lebanon,bizum
+c17c770e-90e7-4d09-852f-c34fcdcff5d1,money,383.94,2026-01-14,Sierra Leone,debit card
+aea2522e-d528-4837-a0d2-92c6e1785fca,bank_branch,1451.97,2026-01-24,El Salvador,bizum
+5af44d25-2344-4fdb-bc3c-e8971f61d75a,ATM,666.84,2026-03-06,Libyan Arab Jamahiriya,paypal
+c6ce05a1-f5ab-44b2-861a-d50c3a9cbb9c,bank_branch,1637.72,2026-02-26,Chile,bizum
+70ccac83-c1ff-44d9-bef1-e51a8df66bbc,ATM,263.23,2026-02-07,Kuwait,debit card
+7a81c649-058c-4706-9f3f-ec122098b3f5,bank_branch,815.91,2026-02-08,Sao Tome and Principe,debit card
+a20c36da-eabd-4c8f-9c60-2b25ef95484c,salary,1580.55,2026-01-13,British Indian Ocean Territory (Chagos Archipelago),debit card
+d625e295-9b45-460c-94cc-05b367458d7f,ATM,815.94,2026-02-22,Greenland,bizum
+bb6824fa-b890-4491-8a3a-cb57e3b80bf4,salary,216.32,2026-01-28,Mali,paypal
+630ea6fa-dac8-4538-8df7-22ba014be3f1,salary,1309.09,2026-03-02,Montenegro,bizum
+d7fea253-4354-49c3-8d6e-fdc14092aea0,bank_branch,362.22,2026-01-07,Belgium,paypal
+9e4572a4-6fb0-4820-b794-d15cd1b62266,money,1792.09,2026-01-05,Slovenia,bizum
+16120a65-f9f5-4f20-b306-53c35037f905,ATM,381.17,2026-01-07,Czech Republic,debit card
+50a3daa5-a593-48f2-a7a5-2bbe9799e42d,money,1915.99,2026-01-12,Morocco,bizum
+c6efae89-91c6-48b1-8c82-374142e468e1,ATM,488.2,2026-01-19,Comoros,paypal
+d4800f85-c9de-4fae-b6e2-825c7d2624b6,ATM,1590.38,2026-01-29,Mauritania,paypal
+ff0930a5-478c-41ec-80f1-89a7b252b451,salary,1880.0,2026-02-02,Latvia,paypal
+aee73124-294d-449a-8ff7-79502a48a6e2,salary,737.97,2026-02-13,Bangladesh,debit card
+a058ceb3-c78a-4a4b-9b99-b9e5a3afbb17,ATM,1980.34,2026-02-27,Malaysia,debit card
+0d3d528e-7b3b-4ea3-9eb2-dcb716b3b5e2,money,1181.09,2026-02-17,Greenland,bizum
+04c7ccd1-8247-4634-91ca-b3e17cf4840b,money,1594.41,2026-01-02,Germany,debit card
+a1be0d23-09ce-4727-be2a-2c645a844cee,ATM,994.45,2026-03-05,Slovakia (Slovak Republic),debit card
+c8c16ec8-87e4-4b1f-97af-a3c92b90d0ec,money,857.74,2026-03-03,Monaco,paypal
+f5173004-d89d-472e-bfb6-eeb1625a06a4,money,1373.26,2026-02-25,French Guiana,bizum
+94ab1432-6ead-49bd-9a22-7d864fce4284,salary,816.44,2026-01-11,Oman,bizum
+79fe7b08-48e0-4fb4-b6ae-63f1d88013e3,bank_branch,551.36,2026-01-17,Belize,bizum
+6969f30e-96ff-4f79-936c-2d7a6d120def,bank_branch,1270.01,2026-02-26,Equatorial Guinea,debit card
+2d27af3c-efd3-4852-8c67-9f0d8e63ed83,bank_branch,1614.66,2026-02-09,Netherlands,paypal
+c7b01a92-01c8-4bc9-8094-654d48a11e6d,money,987.58,2026-02-23,Netherlands,bizum
+8628b77d-329e-4fed-b68d-7fbe678fd293,money,66.87,2026-02-11,Togo,paypal
+09d91f22-259f-436e-86a0-73fc161c7665,money,408.3,2026-01-05,Martinique,bizum
+050148b1-764f-4cff-b4f7-ef02103eb7d0,ATM,1819.7,2026-02-28,Senegal,paypal
+54ab9274-b88f-44c9-8ea8-a2699d4014a7,salary,433.19,2026-02-08,Netherlands Antilles,debit card
+f3439e1c-5a3f-46ff-b8c7-e0f45a452b2d,ATM,604.15,2026-01-17,Kyrgyz Republic,paypal
+104e86cd-5f41-4d29-8e92-b8acada98bc1,ATM,1904.13,2026-01-30,South Africa,bizum
+f37157be-638f-4ed0-8016-fea02b3de274,money,1889.67,2026-01-18,Vanuatu,debit card
+d1425169-86c4-414f-8337-c34c3abcc72c,ATM,1257.65,2026-01-19,United Arab Emirates,bizum
+dc72fadd-9ea5-44a2-bdf2-f066950cbc58,salary,1719.45,2026-01-11,Isle of Man,bizum
+771067bb-d4f1-48d0-baaa-f4ef42798d5f,money,1789.76,2026-01-06,Saudi Arabia,paypal
+b8834dc9-2316-41ae-bb84-ef13d0ba86ae,salary,1227.84,2026-01-31,Croatia,bizum
+f56551b5-5e66-4015-a62b-7bdc12ad3ef5,ATM,179.56,2026-01-16,Greenland,debit card
+375e7668-21ef-41f6-a5b3-4dc810f81435,salary,970.33,2026-01-17,Saint Lucia,bizum
+eadf7310-7783-4099-92da-feb7d467c283,money,441.66,2026-01-04,Botswana,paypal
+9cd10bc2-43f2-47a8-ae47-6626ae396640,ATM,1190.94,2026-02-15,Saint Barthelemy,paypal
+84e36c56-bb9a-429f-ad28-f6bb4662d0c0,bank_branch,346.04,2026-03-01,Svalbard & Jan Mayen Islands,debit card
+8f4f04ad-2a9a-41e1-8f7c-e3d165411cca,bank_branch,635.71,2026-02-02,Turks and Caicos Islands,paypal
+7bf9b9db-c7ed-43db-98ae-4107a4658a1d,salary,1318.69,2026-01-19,Cape Verde,bizum
+e3e37433-1e28-4002-ae2e-fc97bd122a07,salary,271.22,2026-02-08,Jersey,debit card
+27685296-1b4e-42b3-8fd9-dec1cf2a2078,bank_branch,1858.49,2026-02-18,Gibraltar,bizum
+ce1ab125-525f-41ad-835a-79e6d36518be,money,166.2,2026-02-17,Cocos (Keeling) Islands,paypal
+e0076bc4-056e-428d-8316-067f53ea8747,salary,545.14,2026-02-07,Hong Kong,bizum
+bb7ed0d8-493d-42a0-87f5-0fb90e3881a5,salary,1893.56,2026-02-14,Norway,bizum
+d8de85c3-9837-433c-b4e5-ae4aac14096d,salary,1855.46,2026-01-23,Maldives,debit card
+013ef5f1-72bd-4bef-bbd6-f5ea9b68792c,salary,1443.09,2026-03-02,Bouvet Island (Bouvetoya),paypal
+2235fd79-809e-40d7-8544-cfb736266c24,salary,49.96,2026-01-28,Congo,paypal
+cc988717-1c3d-4c8d-b7d9-7b9a0d8a2dfb,salary,971.83,2026-01-26,Uganda,bizum
+c0eabe11-56bf-464c-9fae-a5a752b9efe2,money,109.65,2026-02-08,Georgia,debit card
+9cc16aee-85f0-4cf9-ba8f-c45d082b3598,money,1788.27,2026-02-14,San Marino,debit card
+837d8c49-8b21-45a1-af7d-2e794b52ff4b,salary,353.06,2026-01-16,United States of America,bizum
+d748becb-9d1d-44ff-9e8b-06076b1453b2,ATM,1188.05,2026-03-01,Venezuela,debit card
+1e09d2d6-c733-4ae7-8b75-ee7aa2e32cd6,money,1316.94,2026-01-17,Vietnam,bizum
+d46df342-6274-40cf-b52d-e1a2c0232e07,ATM,1722.78,2026-02-23,Antarctica (the territory South of 60 deg S),debit card
+7cb993ff-77b9-4d51-beea-877720184faa,bank_branch,376.68,2026-03-07,Gabon,bizum
+641b213f-47e8-4efe-ba50-a1fc17c0d398,bank_branch,1392.93,2026-03-07,Saint Vincent and the Grenadines,bizum
+cc4a0bcb-66c2-4f7c-bf43-eb105499ac81,ATM,433.79,2026-01-01,Palau,debit card
+b4a1bfb8-a8c0-43d6-b13b-d8e0bf33a0fe,ATM,1204.11,2026-02-28,Israel,bizum
+cd2ea623-bc5c-47e5-b02b-0b42d9363680,salary,1004.51,2026-02-20,Germany,debit card
+9a64ebe7-d492-4aee-aed8-f804220370b4,salary,1856.14,2026-01-30,Senegal,debit card
+d378026b-389e-46f2-b176-0ac48e55ed4a,ATM,1268.4,2026-02-21,Trinidad and Tobago,bizum
+bd3a1d97-6dc6-4e8a-b9f5-bcf38433ff81,salary,440.82,2026-01-16,Romania,paypal
+7aef17b0-7668-48c9-be4b-98ce3d2e3b86,money,883.52,2026-01-26,El Salvador,debit card
+03639f56-f3e2-4309-99be-0ac86844347e,money,934.41,2026-02-23,Luxembourg,debit card
+cdd18ade-f08a-4420-bfbf-01ac58d254a2,salary,1293.21,2026-03-03,Wallis and Futuna,bizum
+510adc0c-c944-4fda-be71-be32a16f920a,salary,381.61,2026-01-22,Grenada,debit card
+60028e4b-8ea4-4a62-937e-6be8f4684e35,salary,1571.39,2026-01-12,Germany,paypal
+dcb01dfc-4a9d-4567-84ca-6b8ccd2b9423,money,433.71,2026-02-14,Bahamas,paypal
+cc90eee7-5b6d-43d9-9b99-8326b872dec3,salary,1441.15,2026-02-28,Ghana,debit card
+a1d9f3ad-7685-4a48-82a3-056f5328f517,money,612.78,2026-01-27,Qatar,bizum
+3b4418a4-21b5-4009-9c40-b8c03a274f37,money,1942.95,2026-02-28,Pitcairn Islands,paypal
+a3ce8fc3-b952-4b61-9dac-3565bcf2e825,salary,605.59,2026-01-24,Kiribati,debit card
+db893f06-752c-4d40-870b-dbc339f5e0f7,ATM,572.23,2026-01-31,Saint Helena,bizum
+9c4a7fca-8c92-4e92-b976-e997311a0f99,salary,117.35,2026-02-13,Barbados,paypal
+de240aae-fb36-47ba-a2af-7a6f5680371a,bank_branch,1787.59,2026-01-03,American Samoa,bizum
+060a3d51-3c62-4c79-9e2d-59a8410ccf26,ATM,244.83,2026-02-28,Venezuela,bizum
+00679eae-30e1-4e29-b9a0-43e48705a73e,ATM,1910.4,2026-03-03,Somalia,bizum
+8455c52e-9113-4269-abe9-40694fd75ba7,salary,1055.79,2026-01-11,Papua New Guinea,paypal
+1933728b-7712-409b-9d26-764226aa9446,salary,1806.25,2026-01-07,United States Minor Outlying Islands,paypal
+5c3ad818-c29e-4405-b7db-9c5f5d319598,salary,981.67,2026-03-02,Puerto Rico,paypal
+bb5cbf94-27f4-48aa-a1e3-48f0c21ebeb1,money,59.3,2026-03-03,Afghanistan,debit card
+b1d56bfe-caa5-4f88-b154-4acea0334d30,salary,1110.9,2026-01-28,Taiwan,debit card
+debdca8f-e3d6-4553-8d13-c63e9c2497d4,ATM,1788.96,2026-02-23,Palau,bizum
+5c993639-7ea4-4c16-b081-79e0645723bb,money,81.53,2026-01-24,Morocco,debit card
+a2127b6b-ba06-450d-b52f-70f23c8ce7fe,ATM,207.86,2026-02-15,Benin,paypal
+7830ab5e-f860-4cfe-bb6c-1b0a0cb32140,bank_branch,13.53,2026-01-09,Argentina,bizum
+fc1cba8c-cd3f-4ced-9a05-f8c2e9168c71,money,1223.91,2026-02-21,Mongolia,paypal
+2633e150-8f13-4643-b834-9d15b637fe87,salary,200.65,2026-01-01,Bermuda,paypal
+8c42d6fb-f33f-4047-9cfc-a7acfd14c000,money,130.33,2026-01-14,United States of America,paypal
+2bb7bc6b-6a04-4d94-9e34-51d9aa4962ec,ATM,1778.99,2026-01-16,Suriname,debit card
+eb940b40-265e-4524-8687-803b5a59bca6,ATM,1588.87,2026-02-27,Lebanon,debit card
+2518f047-641b-4a93-a71c-10717d7bbbd6,money,662.72,2026-01-09,Korea,debit card
+f8577214-6cae-43e5-9787-7ba33a8fd6b7,salary,149.09,2026-01-13,Switzerland,paypal
+67aec08d-edef-4140-b9d8-799bae3e3fc8,money,406.68,2026-01-15,Saint Barthelemy,paypal
+6361c4c5-6573-4b4f-b7ae-cf220eafc5bc,salary,1245.31,2026-01-13,Uzbekistan,paypal
+44ae92e1-1d49-4c68-98ff-cd9d9fbe286d,salary,1076.7,2026-01-30,Yemen,debit card
+63aceaf8-3c02-42d1-8a90-2aba1199e977,salary,1130.0,2026-02-28,Algeria,paypal
+6ecfb5b8-3448-4b09-b5b7-771386d1b1bd,salary,102.27,2026-03-05,Sao Tome and Principe,debit card
+66ed2ebd-f845-46db-862e-fdc87199e71b,bank_branch,470.56,2026-01-01,Namibia,bizum
+4f7857da-314d-4fcc-9dde-205b758399da,ATM,1171.37,2026-01-01,Benin,paypal
+a051d727-0846-43f4-ac2c-99ea6ff4f1ae,money,1107.61,2026-02-27,Malaysia,debit card
+d2ff97b1-fa95-421f-80e7-cc17169ee5a1,salary,111.36,2026-01-29,Palau,debit card
+995857bd-4361-4643-9f9b-17f40f565f07,salary,679.55,2026-01-27,Hungary,bizum
+4da04225-5b53-4bdb-8d3b-fbac552ffd7c,ATM,258.1,2026-01-31,Malta,paypal
+370d5e16-b511-4d89-b2eb-956b152aaeaf,salary,568.29,2026-01-15,Cook Islands,debit card
+96bcab07-410b-4767-8f95-dd82c2fef036,bank_branch,1898.8,2026-02-11,Peru,debit card
+6f76754a-8e85-42af-a0c0-2cc6fcfa859b,salary,893.65,2026-01-29,Congo,debit card
+b70a6e5e-86fb-492c-a0a2-3a94565b03bc,bank_branch,940.01,2026-02-09,Russian Federation,paypal
+d973f822-bf24-44b0-b764-75bf50300bd0,bank_branch,610.42,2026-03-06,Romania,paypal
+3d3ac2eb-0c53-4761-8132-9a32d6428b55,salary,1502.6,2026-02-10,Mongolia,paypal
+4c50480e-326d-44b5-bfe7-01bb4189cb1c,money,1746.91,2026-03-05,Jersey,bizum
+ebb4f6a1-78fe-44bf-b4ce-fe3426f62fee,bank_branch,1559.64,2026-02-27,Uruguay,paypal
+d8d4b45a-7eab-472f-8f3b-c1824d688fd3,bank_branch,193.47,2026-02-18,Dominican Republic,paypal
+6e1d25d6-48ad-428a-9fb9-f3a861757cab,ATM,916.09,2026-01-19,Jordan,debit card
+3c02d89a-9a62-4d02-9611-370315962a37,salary,263.43,2026-03-06,Mauritania,debit card
+af5a7c0d-98e3-4bc6-b68c-d288258ca328,salary,647.52,2026-01-26,Reunion,debit card
+1b8fcb5c-51fc-4fe5-8edb-14081be72ac2,salary,1119.89,2026-02-21,San Marino,bizum
+15d82512-b493-4ca8-9bea-47b8b8bf4f80,money,496.85,2026-01-05,Saint Lucia,bizum
+e9e91c40-6380-4d00-8e3a-84eece5b7a79,salary,397.91,2026-02-21,Cape Verde,paypal
+abbcb274-3a1a-4fc1-b7bf-c3f5211a1beb,ATM,1717.24,2026-02-19,Comoros,bizum
+b05e3aad-8008-4536-92d3-2a6a9594ce96,salary,112.57,2026-02-02,Iceland,debit card
+c665b067-45a2-45df-9643-b2ffd59133b2,ATM,981.81,2026-02-24,Botswana,debit card
+dcc8809b-62b7-4ae1-b91c-c89b986ba8d6,salary,1794.32,2026-02-04,Taiwan,debit card
+a2f16f35-c249-4cf9-b6ac-106b730c7fe1,salary,1276.47,2026-01-14,Holy See (Vatican City State),paypal
+78229482-580b-4a1a-b3cc-62ea37821e12,bank_branch,504.95,2026-02-16,Estonia,bizum
+0b5021ce-c8a0-4af9-8ab1-0d96e23d4800,ATM,388.09,2026-02-18,Guernsey,bizum
+55a9a88e-1d8b-4347-ab4a-5fdae127c1fb,bank_branch,1510.11,2026-01-05,Belize,debit card
+79385036-9b6d-4d80-9619-9c8648d103d3,money,574.62,2026-01-26,Guinea,paypal
+29e329e9-915b-4eef-bcb2-5c9692f02eca,salary,941.79,2026-02-01,Bahamas,debit card
+fb8aae54-23bf-4a04-a7c5-53821dbe5a92,bank_branch,110.01,2026-02-10,French Southern Territories,bizum
+dbf43823-bdd9-4bdb-85a3-fae357b8e834,money,838.55,2026-02-07,Saint Lucia,debit card
+4cb11ece-8a10-4eb0-ba37-f6d84d77b896,ATM,656.8,2026-01-31,Papua New Guinea,paypal
+bf9f2d22-a194-4833-b74b-b2c9bb3df5db,ATM,474.32,2026-02-05,Cayman Islands,bizum
+e357b13e-9186-4a6a-8550-b272ebda21dc,salary,1698.48,2026-01-09,Czech Republic,debit card
+3a29bcbe-1edb-47e6-8c0b-1f281eeae508,ATM,1898.88,2026-01-03,New Zealand,paypal
+55e0a139-fb5c-40f4-b19e-fc1b301ff20b,bank_branch,1632.54,2026-02-27,Cuba,debit card
+18ad9eb5-826e-4842-beb8-e8ba47938411,ATM,1167.76,2026-02-28,Montenegro,debit card
+47d533b0-1cdb-490f-ace1-1f414eb6adeb,money,1400.87,2026-02-09,Bosnia and Herzegovina,bizum
+7f959623-f090-4aa1-bfcc-56a6e4de5f22,money,154.23,2026-02-18,New Caledonia,debit card
+f8eb7a0d-a1db-4a36-ba24-18159609ee76,money,1811.81,2026-01-25,Fiji,bizum
+096d5ede-e706-42a0-8cba-64957ec0fd4e,money,1815.22,2026-02-27,Austria,paypal
+d5c6a11b-67f6-45d9-b1d9-ac49c6be9ee3,ATM,1074.71,2026-02-09,Pitcairn Islands,paypal
+b3e6dcca-1715-4dd8-a177-1457e7e5d974,money,638.48,2026-01-07,Greenland,paypal
+9b09fb62-eaca-4fc5-a05b-f6b589c43d3e,ATM,1801.4,2026-01-26,Gambia,debit card
+8b19ff9e-b76c-4372-bd00-5ae0fd44d8f4,salary,1940.89,2026-03-06,Armenia,debit card
+590de540-30fb-412d-92a5-1531f8d973a4,money,1903.54,2026-01-10,Turks and Caicos Islands,debit card
+bf03e8c1-8a07-4ecd-844c-90860efac858,money,800.84,2026-01-03,Peru,debit card
+bad4e005-0164-4d90-a6b5-0db801e2aa3a,bank_branch,550.19,2026-02-16,United States Virgin Islands,paypal
+9301bf8e-8984-4882-967c-3310070e14ef,bank_branch,229.24,2026-02-10,Slovakia (Slovak Republic),debit card
+7c41b23a-a5d4-4a7c-9130-968eb3b064e9,salary,371.19,2026-01-11,Guam,paypal
+e8fdd017-0960-4cfb-94b8-e209ef2d17d1,ATM,386.24,2026-02-16,Suriname,debit card
+96fdd139-6f94-4199-9f82-b777eab99108,bank_branch,688.16,2026-01-13,Finland,paypal
+21a779f9-fee1-40d9-85df-c8a2f18e738e,money,1541.35,2026-03-07,Qatar,paypal
+5f8ee6a0-692d-4b52-85b2-201786836bbe,money,163.67,2026-02-08,Nigeria,bizum
+e42bd3d6-71d9-4cba-a88a-71bc69bbcf57,salary,1654.98,2026-01-19,Mali,bizum
+e1ede0af-94c3-481a-8de4-e700baa3677d,bank_branch,1791.69,2026-03-01,Svalbard & Jan Mayen Islands,debit card
+4e635cf6-1caa-4e29-8889-75daad03a5f1,salary,1992.29,2026-02-04,Gambia,debit card
+67baa585-70ee-4055-887f-55529c1c6e3d,bank_branch,1967.85,2026-01-27,Hungary,bizum
+da2e729d-ed0f-4e66-b481-4570c1ed37dd,salary,1504.28,2026-01-03,Cook Islands,bizum
+1e1f45ea-bc0d-4f7f-9a55-b26ef2248093,ATM,1913.35,2026-02-14,Greenland,paypal
+099f9329-9c69-4cfb-85e2-7c0a57d47cdc,bank_branch,170.08,2026-01-25,Thailand,paypal
+2a9ae5bb-f856-4ec1-95ca-f74529f6346f,ATM,458.05,2026-02-12,Saint Pierre and Miquelon,bizum
+97263ad7-4030-468f-9485-07d8658a7572,bank_branch,1485.85,2026-02-08,Sierra Leone,paypal
+8476af7f-6cf1-4ef6-833d-22cf8c0f58dd,salary,1738.66,2026-02-24,Antigua and Barbuda,bizum
+679e1f13-4e1e-405a-aeba-059f10e09ed0,bank_branch,1677.37,2026-02-23,Samoa,paypal
+5798f26a-13d4-4b69-82e8-fc62dcdeaaac,salary,531.37,2026-01-06,Hong Kong,debit card
+36a04e9d-296b-425f-9f81-44d1dd496a34,bank_branch,373.69,2026-01-17,Estonia,debit card
+58c9864c-ad30-48c9-a9b1-3fb55601601f,ATM,1932.93,2026-02-01,Egypt,bizum
+f663799c-0127-4fc3-b1e4-9a1621f2d0a2,bank_branch,33.99,2026-02-01,Tajikistan,bizum
+36edb3c2-fbf1-4d87-b20f-2f1cef14ef32,salary,711.63,2026-02-13,Saint Vincent and the Grenadines,debit card
+222aac04-4296-4dc7-9f0b-ea5c9c1adbfc,money,513.35,2026-01-21,India,debit card
+fb96ba0e-3d14-4ac5-a935-2b0e84069642,ATM,860.08,2026-01-19,Estonia,bizum
+06d2edac-35a6-44f8-a372-6d8c2953b07a,money,563.86,2026-03-05,Syrian Arab Republic,debit card
+682d2e7a-cd7b-4364-8deb-df198e634e05,money,686.82,2026-01-20,Panama,debit card
+4e690c89-24e8-446e-b4d1-a3915279fc90,salary,1057.67,2026-01-07,Oman,paypal
+5f2e5755-53d3-4695-a049-61a291d575a5,money,1893.25,2026-02-06,Costa Rica,paypal
+d3f756f4-7c03-493b-af68-a6544d8a0ff2,ATM,466.03,2026-03-07,Qatar,bizum
+3167661e-2bb1-4c2c-abb9-254486fe2978,bank_branch,1145.13,2026-02-23,Guinea,bizum
+0c7415cb-5843-4b8c-bfb7-d2e91cbc43ab,money,719.12,2026-01-12,Guatemala,bizum
+60367d80-0f48-497f-99ec-3fe1604bbe80,money,636.53,2026-01-27,Ireland,bizum
+add46c5f-ea53-486f-969a-5c55ace2f004,money,1830.2,2026-02-14,Timor-Leste,debit card
+9dfdf284-a6b3-4b54-af14-5ecf5e21e4ab,salary,1660.69,2026-01-25,Trinidad and Tobago,debit card
+a80128fc-b984-4625-ae46-b891bea7151f,bank_branch,144.76,2026-01-27,Sudan,paypal
+84632460-6304-4070-8660-ae3f26ba0791,bank_branch,1539.86,2026-02-27,New Caledonia,debit card
+8c41b6fc-b953-4612-b704-2b371e73ce50,bank_branch,186.44,2026-02-12,Angola,bizum
+707f9401-2ef2-4b81-83e9-ba26922a4680,ATM,1063.88,2026-01-28,Angola,debit card
+b5ab13b1-0a25-43ef-b601-cc81db350847,bank_branch,1795.95,2026-03-04,Malaysia,bizum
+b0488fe1-8014-4b28-b0b1-c3ff63826d79,money,1194.13,2026-01-19,Libyan Arab Jamahiriya,debit card
+f9e0cd0e-b6db-44b0-bd0e-3227b8813fed,money,1939.96,2026-03-04,Guinea,debit card
+8fb24d0e-1f11-4cfa-98e9-1a43dafcd6f7,money,1286.12,2026-02-05,Equatorial Guinea,debit card
+c50759c1-2787-452d-9ef7-ff94486d7a8c,salary,1141.18,2026-01-14,Tuvalu,debit card
+466e1bdd-7050-4ce7-b4c3-5084503170cd,money,603.14,2026-02-16,Angola,bizum
+4bd7bd9a-cd12-40e2-9969-bd0d351b1d6f,bank_branch,379.64,2026-02-02,Panama,paypal
+04fc3d7d-1cd7-4abc-86d8-551c7ccc5dfc,salary,1591.61,2026-02-01,Australia,bizum
+c47ef89a-0d1a-4375-a92c-478e81848a6a,salary,262.28,2026-03-04,Svalbard & Jan Mayen Islands,bizum
+d7ae274e-0e90-48cf-a740-4bd4f993f1b7,ATM,176.4,2026-02-26,Gabon,debit card
+20133fa9-a3d9-41dd-9ab5-0a6d7379e81b,ATM,293.96,2026-01-23,Qatar,paypal
+55170109-9c92-4002-8ca3-34f6776c9790,salary,260.82,2026-02-15,Faroe Islands,bizum
+defd546b-b037-4c0a-8366-2649155f6b59,money,1686.73,2026-02-23,Saint Martin,debit card
+860fdb1c-729b-422d-83c1-b097b31ea40d,ATM,103.34,2026-02-24,Colombia,paypal
+f31fd959-e9cb-4c75-8c04-a470968f6ad9,bank_branch,54.64,2026-01-10,Mayotte,debit card
+7989d539-67d9-4226-9c1c-7dce18826396,ATM,676.18,2026-01-30,Denmark,bizum
+819645d2-5d50-4df1-a394-f41afb5886f9,ATM,654.11,2026-01-28,Nepal,bizum
+711eca3b-90e9-4385-b415-100c196a0447,ATM,857.34,2026-02-11,Georgia,bizum
+eb1649db-6caf-4c66-a36b-a6e07b56fa47,salary,408.88,2026-03-02,Seychelles,paypal
+19b00a48-761d-4233-b01b-d69a8725c632,money,1608.39,2026-01-30,Sudan,paypal
+b6f67c30-2296-4f93-aed9-f835cb44de8f,salary,1122.02,2026-01-04,Andorra,bizum
+9302c1de-435b-4556-9893-17070c1bc58d,salary,1080.81,2026-02-27,Finland,bizum
+b8a5928a-a75d-45b2-9e6c-feafbf5ad81c,bank_branch,1504.46,2026-01-24,New Zealand,debit card
+d1ae14fa-64db-49b1-a7ea-ce112171236b,salary,1921.68,2026-01-19,Bosnia and Herzegovina,paypal
+da2a7d68-a49c-44d1-a77d-b2a9d9186222,salary,1561.6,2026-02-02,Zambia,bizum
+25f6c87b-0829-4d34-8a69-68d86ce659f5,ATM,1020.26,2026-02-06,Tajikistan,paypal
+9d310284-358b-4180-a6e0-7725b58ecbc7,salary,1253.28,2026-01-02,India,debit card
+1182f0d3-9c77-4dbb-9f3b-34ef66423ca4,bank_branch,722.29,2026-03-07,Antarctica (the territory South of 60 deg S),bizum
+1798053c-17c6-4fc9-a9f7-76630bb1d84c,salary,1025.46,2026-01-29,Haiti,paypal
+13a9a637-5286-4675-94d3-cd27fab53253,salary,1690.11,2026-01-13,Japan,debit card
+072ae2fc-714a-4516-a270-3b76daffbc8d,bank_branch,1682.25,2026-02-24,Hong Kong,bizum
+18eb9185-04c2-4609-b1a8-db6b26315489,bank_branch,914.65,2026-02-01,Guinea-Bissau,bizum
+baf56d8b-8018-453a-acc5-2ee17fe1860b,salary,554.87,2026-02-06,Oman,bizum
+aab2a95b-f3f1-4b77-ad51-9dfbcb736833,ATM,1554.67,2026-02-22,Northern Mariana Islands,paypal
+3243f564-317f-42f9-b311-6366d693be1f,ATM,1708.49,2026-02-09,Belgium,debit card
+0907d333-a23e-4135-9d08-493a6726832b,bank_branch,660.95,2026-02-15,Mauritania,paypal
+df828c83-3a75-4df3-9a44-11f485d8c071,ATM,1289.76,2026-02-22,Marshall Islands,paypal
+a1fa3cae-4599-4e3f-819a-5d4ef11327e4,bank_branch,1685.37,2026-02-22,China,bizum
+a532b9fd-f4ad-477f-9b90-bfb8947345ad,money,1449.68,2026-02-19,Jersey,debit card
+04b00407-5243-4e58-8bc1-a71af2d164f5,ATM,994.46,2026-03-03,Faroe Islands,paypal
+455764d6-380e-4baa-b7ec-155ab0af0785,bank_branch,616.8,2026-01-01,Cambodia,paypal
+9844e522-1ee6-4ccc-b47c-6fd84539c1c5,salary,112.55,2026-02-25,Namibia,debit card
+6e986d28-e41f-4eee-8183-ee5274b63adc,ATM,720.49,2026-02-22,Ghana,paypal
+93437a68-d21b-4d7a-a795-0c0c2ae58638,salary,1924.65,2026-02-15,Costa Rica,paypal
+7ccab3eb-95b7-45ec-847b-1cde2f0bd8e6,money,491.62,2026-01-27,Northern Mariana Islands,debit card
+64af4ca3-255f-43dd-995f-174eecde9426,bank_branch,1680.3,2026-01-29,United States of America,bizum
+5d13d39d-5767-4768-be27-7624b5abe47e,salary,786.23,2026-03-04,Romania,paypal
+8e70ef4a-e326-4d3e-a6c7-403c7b7a3c2f,money,1466.72,2026-01-12,Netherlands,bizum
+bd02ec14-fda2-4ce0-97de-b064b7aa569b,ATM,79.57,2026-03-07,Anguilla,bizum
+e4dd7850-8112-4914-8ba2-792c8bf0ee98,salary,1674.96,2026-01-14,Northern Mariana Islands,debit card
+c1c05ed6-6ee8-4688-9db9-6a6855d6f703,money,1802.15,2026-01-20,Bermuda,debit card
+e674bce3-4329-48b0-bfa3-6c7f1025b964,salary,1938.1,2026-02-21,Macao,paypal
+50e7f3c0-a374-4862-9a6c-2648c0b7298d,money,1728.69,2026-03-07,Turkey,paypal
+6e5fcfd2-ab01-4a91-89eb-d7b92a23f335,bank_branch,145.01,2026-02-16,Svalbard & Jan Mayen Islands,debit card
+f0ac63cb-94a4-4963-b1a6-7441329f3318,salary,1964.18,2026-02-22,Comoros,bizum
+77d03e07-1c8e-4f6d-b7f7-e7b39d2a4ad8,ATM,1529.52,2026-02-07,Botswana,debit card
+ee2f29a8-05dd-47ab-9e2f-1b65a4bcc0f4,salary,1064.07,2026-01-27,Bermuda,debit card
+ee20f7e2-92cb-497b-a717-0bb538bed6df,money,1672.67,2026-01-01,Guyana,debit card
+c419d62b-1997-4bf6-ba08-8ef883dbdcdb,ATM,11.09,2026-02-27,Bosnia and Herzegovina,debit card
+36ab3b9f-e107-4640-a81c-1be85267a8b3,salary,196.03,2026-01-04,Armenia,paypal
+18593082-a582-48dd-8202-b6269266ceb3,money,1922.18,2026-01-10,Haiti,debit card
+732c0886-0611-4c52-8de9-0821d7656b60,bank_branch,1279.33,2026-02-03,Slovakia (Slovak Republic),paypal
+3d9a3ca6-8391-438a-99ac-50ca2e6f1cbf,money,1933.25,2026-01-14,Turkey,bizum
+b3100080-2186-409c-9e93-d497b1cabb67,money,1714.23,2026-01-19,Netherlands,paypal
+6d4bfd10-6b3b-49a4-bf7d-c04ced621abb,ATM,1406.32,2026-01-15,Zimbabwe,paypal
+c1aece66-00d9-4284-affe-eae3dfc54831,ATM,1544.97,2026-03-04,Niue,bizum
+56d6a47d-9096-4402-a953-28bc4f22a756,money,167.94,2026-01-20,Jordan,paypal
+6626939d-0ba9-4c0e-b2d2-5c7d2e724be3,money,984.79,2026-02-16,Libyan Arab Jamahiriya,debit card
+e5b040ba-6ce1-46ed-84f7-afb936902075,ATM,1495.33,2026-02-23,Bouvet Island (Bouvetoya),bizum
+0418c9e7-3a7e-4ce2-8216-17b27c99fd7a,ATM,1500.76,2026-02-16,Armenia,debit card
+e664791f-d5f9-461a-baf4-28eb41c33459,money,848.92,2026-01-17,Azerbaijan,paypal
+c227eb87-8b22-4641-933f-ddc10177457e,salary,509.14,2026-01-06,Guyana,debit card
+02411675-2a65-4ece-baa4-3dd3adca6f63,money,1922.99,2026-01-24,Namibia,bizum
+aec098e6-6248-49f5-8a1a-977440b05bc5,salary,429.06,2026-01-26,Denmark,debit card
+07723967-41e1-4a0c-9a7b-bb7a16944a6f,salary,1243.95,2026-02-01,Sao Tome and Principe,bizum
+0bf94f9f-05f2-4ef9-8197-40307844818f,ATM,807.44,2026-03-04,Czech Republic,paypal
+9142cd0d-54f0-49b5-b596-ad851fd14785,bank_branch,723.95,2026-01-05,Heard Island and McDonald Islands,paypal
+572cba7c-0ac4-401d-8c66-e56fe7a3f5aa,money,1327.58,2026-01-05,Martinique,paypal
+b9a35413-2568-4fee-94e7-b5848ae92591,salary,868.52,2026-01-19,Panama,debit card
+f89b6c49-950c-4947-a661-dbf98b941ebb,money,1472.19,2026-02-28,Lao People's Democratic Republic,bizum
+761f5077-b46c-451f-a722-97ec54f6f101,ATM,653.77,2026-01-09,Senegal,paypal
+2b181147-35a0-4a58-bd66-ab10adbd360d,bank_branch,305.79,2026-01-05,Mozambique,paypal
+dc4bc1b0-f464-4fbc-8ba8-c8846304e115,ATM,665.65,2026-01-23,Malaysia,paypal
+eced8578-e974-4360-a242-3d8f3af99a01,bank_branch,1160.38,2026-01-01,Sudan,paypal
+879e2069-3e5d-44a0-9b2e-e71144a192d1,bank_branch,816.5,2026-02-09,Jordan,debit card
+2316b72f-0c51-4960-8ad0-4b6be0713344,bank_branch,648.04,2026-02-02,Austria,bizum
+fdb43fbb-459b-4073-b703-533ac711cf31,ATM,1847.36,2026-01-19,Netherlands Antilles,paypal
+475249ad-2518-43e8-9d28-e99c1e1c988f,money,1041.9,2026-03-01,Honduras,debit card
+9b03769c-46b9-4c82-8e6e-dbeda45ac0dc,bank_branch,288.48,2026-01-17,Guernsey,debit card
+c5d3664a-e9e4-4775-ba9d-9272d138ee50,bank_branch,1762.99,2026-02-18,Dominican Republic,bizum
+bffd7914-cd5b-4e95-9539-4c34f63ea3b3,salary,595.5,2026-02-08,Suriname,paypal
+9d8a823f-a2a5-4d0b-bd03-f1f9b912466f,salary,944.42,2026-02-12,United States Virgin Islands,bizum
+053bed96-0084-48e3-9e7b-b9f79259f264,money,1852.24,2026-03-02,South Africa,paypal
+2bf9d968-d16f-41e8-a539-580ef3cfd4a8,salary,1534.57,2026-01-14,Saint Pierre and Miquelon,debit card
+c32d3378-f74f-4deb-b21a-827727362e1a,bank_branch,1710.31,2026-02-04,Kuwait,debit card
+39ae6e34-bf01-4b5e-88e0-d6a3c12478c6,bank_branch,716.42,2026-01-04,United States Virgin Islands,bizum
+5fe43a1b-207a-438e-9187-10b3dac64e24,money,345.28,2026-01-23,Sri Lanka,paypal
+c2efb1e0-38bc-4226-92ca-ca1f64233bf5,ATM,775.36,2026-02-27,Nigeria,bizum
+3ee2c9bf-b57d-483c-960d-4fa4fe6698de,bank_branch,1739.79,2026-01-02,Korea,bizum
+71e8f36a-fc90-4c1d-a7fe-5f31ca2f573c,salary,872.11,2026-03-04,Bangladesh,paypal
+e1c7f6c5-057b-4196-bed7-24b04f0915fb,bank_branch,527.87,2026-02-22,Georgia,debit card
+60fd53f9-5550-4080-9df6-a95f4d233bc7,bank_branch,1131.04,2026-02-26,Montserrat,paypal
+fdbc546c-7269-44a1-a725-0e2083e81537,money,764.04,2026-02-03,Uzbekistan,paypal
+f6d0eb13-daa3-4e1f-953f-47e9dfa2b411,ATM,219.61,2026-01-18,Cape Verde,bizum
+5dce2450-c2e5-49db-a744-c79d7ff78762,salary,1574.19,2026-01-16,Antarctica (the territory South of 60 deg S),debit card
+3a1fe5c4-59b5-4025-933b-d416c2d7323b,salary,736.45,2026-02-04,Burkina Faso,debit card
+b791c959-fc13-4d39-b3e9-470991af789d,ATM,1218.25,2026-02-19,Turks and Caicos Islands,paypal
+cc1581bf-85cc-4c1d-b012-0d5bfd5ec757,bank_branch,809.25,2026-01-28,Tajikistan,debit card
+67d2999c-51b0-40d0-a871-74363fd2cc05,money,1267.9,2026-02-06,Guernsey,debit card
+68e2f832-085e-42f5-897c-0490998a02fb,ATM,1786.67,2026-02-12,Falkland Islands (Malvinas),debit card
+131a0f2c-7e15-44bc-b0a3-2eba4b5adbd1,bank_branch,287.07,2026-01-11,Venezuela,bizum
+5e12bc89-b328-448c-880a-5bc149991b38,salary,230.81,2026-02-20,Svalbard & Jan Mayen Islands,debit card
+296e47c9-843c-487c-93ec-a21953e0c2a0,salary,1166.55,2026-02-27,Micronesia,bizum
+b85f7e21-9bd2-4b20-aa33-f7a5f688dbd6,bank_branch,236.81,2026-03-02,Turks and Caicos Islands,debit card
+8ae7fbc3-54c8-48e5-a5b2-070baebd1d4f,bank_branch,1510.23,2026-02-24,Estonia,debit card
+b94bd45e-2ac5-4511-bae0-8f15f08e3c89,bank_branch,1619.57,2026-02-10,Guernsey,debit card
+f4b42a5e-423a-4f13-9570-cb8749998d80,ATM,1032.45,2026-01-21,Botswana,bizum
+763c9dd9-2e89-43b1-8476-967af4e995dc,money,406.24,2026-01-16,Sudan,paypal
+03fc298b-f3ec-490f-9895-953e8504e5f0,money,1606.35,2026-01-04,Malta,paypal
+c1e48f10-906d-4ec2-abd1-4564539af3d1,salary,173.31,2026-02-07,Monaco,paypal
+a26e3207-d3c6-4520-9336-82ca103e2833,bank_branch,1604.8,2026-03-06,Romania,debit card
+37962267-ddc3-42b2-bc83-185b428c2f47,ATM,201.0,2026-01-17,South Africa,paypal
+248025ba-6a5a-4f11-adc3-41e005472fb1,salary,237.06,2026-01-27,Saint Barthelemy,paypal
+9eb81084-cdb5-4fad-9509-71a12247d935,money,196.03,2026-03-01,Uruguay,debit card
+0fb53473-b6c2-49ea-b08e-944f4feff9be,bank_branch,592.64,2026-03-03,British Virgin Islands,paypal
+5d18063d-59c7-4299-8229-55c37d76cf0c,bank_branch,1297.49,2026-02-09,Netherlands Antilles,paypal
+2212ebc2-fdd2-415e-8ac5-0ce1d5a75447,salary,656.55,2026-01-10,Guernsey,debit card
+dbeedb21-7011-4e69-987b-c3e92d009bb0,salary,111.35,2026-02-23,Antarctica (the territory South of 60 deg S),paypal
+a9de025e-a7a5-4e80-970a-e7678adc91bc,ATM,1770.35,2026-01-05,Malawi,paypal
+437768df-990c-4ca8-a3a9-a980659f0834,money,738.73,2026-01-13,Nauru,debit card
+72307c5d-9038-4c92-9841-df727d0a2ad3,bank_branch,1948.24,2026-02-09,Martinique,paypal
+494fea73-1b4b-43b0-8fd4-777e0ad4a84a,salary,1410.86,2026-03-04,Swaziland,bizum
+aedfebe3-98c6-4ba1-92f8-abe8829ec354,bank_branch,362.41,2026-03-03,Croatia,bizum
+0e42436e-2ad3-4b41-9350-41b1b465c709,ATM,14.32,2026-01-13,British Indian Ocean Territory (Chagos Archipelago),paypal
+2e7a2211-ff97-4bae-ae17-1d3ca2927208,ATM,1845.34,2026-01-31,Jersey,bizum
+ff80eba0-c60d-49c6-9f19-e5224739b28d,money,1076.35,2026-01-23,Liechtenstein,paypal
+209720f2-1913-46a5-b4f0-de1a5e145256,bank_branch,1651.29,2026-01-27,El Salvador,debit card
+477c241d-0b42-433a-b35a-4b8ff341aed3,bank_branch,23.07,2026-02-18,Anguilla,debit card
+cf535518-136c-4581-8ab5-918e3df5f5b6,bank_branch,1711.31,2026-01-16,Tuvalu,paypal
+295c6b5f-f04e-438c-9ddd-8cb8eb8e5067,money,673.11,2026-02-03,Turks and Caicos Islands,bizum
+6998ac45-928a-4ad2-a119-acaa922cfe69,money,967.14,2026-03-02,Myanmar,paypal
+d17b8e88-62c5-4f8d-8442-340f004c4298,bank_branch,755.06,2026-02-25,Puerto Rico,debit card
+7c56df24-d8c5-4b5b-9189-866b0e7dfcf9,bank_branch,1038.23,2026-01-28,Sudan,debit card
+0ff67efe-850e-436e-9749-5e7998bb607d,salary,1715.38,2026-01-01,Iceland,paypal
+bf09ef61-ba99-4e2d-aa42-c9ddd3d11a56,salary,898.24,2026-02-16,Martinique,bizum
+2fda6a8d-b25d-4925-972e-800324b0a784,ATM,814.55,2026-02-14,Burundi,bizum
+9cf9b7ad-830d-42f1-a685-424b5991e1dd,money,576.83,2026-02-18,Gabon,bizum
+0681bbe1-f799-4f45-9d43-867fb465d0ab,money,1128.42,2026-02-21,Cape Verde,paypal
+416aea5e-df63-40d8-91ad-7afdb08bb994,salary,135.04,2026-02-25,Cuba,bizum
+247a1b33-82fc-4b1d-a5d1-91f80b1b6672,money,1797.84,2026-02-10,Antarctica (the territory South of 60 deg S),paypal
+909c555a-9db5-468b-9a51-60a64bd6c525,ATM,635.31,2026-02-02,Holy See (Vatican City State),paypal
+cbb44a5c-7d65-42e6-b45a-68dbcc6a281f,money,117.45,2026-02-10,Lao People's Democratic Republic,debit card
+16563ffe-d80f-4258-bd6c-9f573ed837f9,money,1139.22,2026-01-26,Libyan Arab Jamahiriya,paypal
+becdab97-be5e-4162-84af-30193bdb05c5,salary,1906.9,2026-01-13,Suriname,bizum
+522786ff-f624-4a5c-81cc-bdfbc325f235,bank_branch,1050.63,2026-01-24,Namibia,paypal
+b2fbf031-3c79-4fce-924c-f6613f1b108e,bank_branch,406.68,2026-03-07,Comoros,bizum
+c3ee1135-db9d-497a-9023-067068c13cfb,ATM,349.04,2026-01-02,Macao,debit card
+2c645046-62d8-4eed-b6a1-8a26e3ba4464,bank_branch,1983.4,2026-02-16,Venezuela,paypal
+3789cb38-fb8f-41c7-be3e-79ebdcfde120,bank_branch,1333.84,2026-01-28,Cayman Islands,paypal
+d992a537-8eb5-4eec-8bb6-38f1309e3192,ATM,1412.61,2026-01-26,Saint Kitts and Nevis,bizum
+368059eb-14eb-4ca5-bafa-2ecc7b30caf1,bank_branch,239.23,2026-02-04,Fiji,debit card
+95f6355f-b6f9-46d7-9e22-87aa0fe187bb,money,1311.34,2026-02-20,Monaco,paypal
+d14d664b-e7ae-42ed-993c-20121577a6a6,money,726.97,2026-02-14,Egypt,paypal
+3d97845e-08d4-4172-8006-ec9c17d60771,money,1607.07,2026-02-26,Cuba,paypal
+59dfa597-a675-4922-b5e0-e104482720b3,bank_branch,398.61,2026-03-01,Fiji,paypal
+f34bbe1f-d5f0-40cf-bf99-46b4825a5b9d,ATM,392.15,2026-01-08,Dominican Republic,debit card
+19b564ae-ef82-42d2-b021-c2250423ab4b,bank_branch,1670.85,2026-02-20,Morocco,bizum
+9f888942-a205-4f2a-b032-a43181adecc9,money,1245.11,2026-02-11,Mozambique,paypal
+d1212393-cfb2-4767-bc5f-1868edbf0287,money,245.87,2026-02-19,Panama,bizum
+b4342301-1344-46e8-9320-e86d3c54c2cb,money,1445.67,2026-01-11,Oman,debit card
+03ee37fc-e76f-4ed8-b8c6-5aa4b6ed34c0,bank_branch,703.47,2026-01-23,Uganda,paypal
+98deae17-a886-4de3-a907-3965d5ef599c,salary,1330.69,2026-01-01,Isle of Man,debit card
+5c1c9f0c-b63a-4fdb-9b1e-219351a57843,bank_branch,169.97,2026-02-06,Ethiopia,debit card
+9c34a274-c79c-4b7b-b654-a81ea5ff93b4,salary,752.48,2026-02-28,Holy See (Vatican City State),bizum
+abef337f-5e96-4451-996f-cee4e49452dc,money,291.58,2026-01-18,Greece,bizum
+f93cafa1-5889-479b-be4d-baf4d1231faa,ATM,1740.96,2026-01-27,Mongolia,paypal
+aeae212c-464f-417c-973d-670da8f4f5a4,salary,393.47,2026-01-22,Saudi Arabia,debit card
+08156557-ed45-4dc9-a0c8-be09af60b1d5,money,1279.12,2026-03-05,Moldova,bizum
+dd954fe0-304b-4b2e-bc47-060de955fd09,salary,489.38,2026-02-09,Kiribati,debit card
+b51643b4-843b-4ccd-b855-a8f5b8e56ca1,bank_branch,1869.4,2026-02-09,Croatia,paypal
+2e8e74a7-a6aa-424e-a4cc-21ece71573de,bank_branch,390.41,2026-02-09,South Africa,debit card
+a442bd59-d51a-4963-a192-ed913515db57,salary,1097.49,2026-03-01,Colombia,paypal
+9101e029-9066-4532-9209-92b12cf986f9,salary,1531.09,2026-01-11,Portugal,bizum
+e8aab995-c51b-476a-8651-ccac19d7f32f,ATM,1062.3,2026-02-26,Estonia,paypal
+99227b89-65a5-4c23-a54f-d99d1d99b40b,salary,1815.12,2026-01-21,Belize,debit card
+39e83ae8-5e76-46f8-b06f-4cdce26c9c4c,bank_branch,1335.33,2026-02-25,United States Virgin Islands,paypal
+0916ac59-488e-44d8-b33d-bfe8b2c8c733,money,146.18,2026-01-04,Antigua and Barbuda,bizum
+8a311ff4-6aa9-418b-a893-5b6c352c2b90,salary,245.17,2026-01-17,Bosnia and Herzegovina,bizum
+052bc3d0-ee96-4b8e-904d-ec148637d937,bank_branch,29.79,2026-01-12,Thailand,paypal
+9bd02d0d-a75b-4d01-b3e0-bf6cf6831302,money,1261.58,2026-02-14,Maldives,paypal
+93f755cb-6465-469f-aae8-8f25cd961f04,money,17.05,2026-01-28,Ethiopia,paypal
+f1361e69-58c8-447a-8cba-909e54d3675f,money,898.96,2026-01-16,Tuvalu,debit card
+95f42026-6506-43e9-893d-460d19a3466c,money,1831.65,2026-02-11,Chile,paypal
+0e8a6eea-a0be-4db2-8495-869c70d8dcf2,salary,1925.64,2026-01-09,Malaysia,bizum
+0292e582-5b3d-44aa-9265-91af2e8395f6,bank_branch,513.4,2026-01-05,Netherlands Antilles,debit card
+9ca26a71-dfad-4680-807b-e8fa9a7c2f0b,ATM,73.11,2026-03-04,Tajikistan,bizum
+0574eaf4-5f90-4798-9a65-0aeb929fe2a0,salary,1581.39,2026-01-18,Colombia,bizum
+34c5657e-d56c-464b-915d-8d92d519f356,bank_branch,86.89,2026-03-03,Korea,bizum
+d7e79cfe-418b-4f5a-9474-35c06a4b073e,bank_branch,1010.59,2026-02-04,Ireland,debit card
+6779a384-f213-47b1-8463-1dfb02633dc2,salary,1252.17,2026-02-09,South Georgia and the South Sandwich Islands,bizum
+a1177032-23c0-433c-854b-0945a578a1d9,bank_branch,905.14,2026-02-13,Tokelau,bizum
+34a3123c-8013-49bc-9904-1e84ff3063da,bank_branch,789.76,2026-01-19,Mayotte,debit card
+77b8ad4c-4d5e-4b22-8845-fbf8ce8a379a,bank_branch,1599.24,2026-02-03,Slovakia (Slovak Republic),paypal
+e9e287ba-40c1-4fb0-b111-56d559499866,ATM,717.72,2026-01-11,Oman,debit card
+2c915857-5364-4108-8643-dc5c5fd824e8,salary,667.66,2026-02-18,Luxembourg,debit card
+557ac6c4-2e0a-438e-93b7-556cd2d8aae7,bank_branch,1148.4,2026-02-27,Thailand,debit card
+e3fb507f-1982-4c56-aaff-2a40dd01c915,salary,1160.65,2026-02-27,Australia,bizum
+1d66a95c-45fa-45c9-9642-7e3c5f6cab3d,ATM,1441.14,2026-02-19,Nepal,paypal
+d59c5c8b-8cb4-4070-81d9-0cfe664cc1e1,bank_branch,1587.57,2026-02-10,Jersey,debit card
+0f70e951-f8a8-4268-87b2-7fe81f8f0c4e,money,1245.1,2026-01-31,Swaziland,paypal
+2fd2562f-0ee8-4315-8281-60a8226ef8f6,bank_branch,802.4,2026-01-04,Belarus,paypal
+bedc0db2-eb48-4f9c-a702-faeed3b9153d,salary,1891.07,2026-02-04,Togo,debit card
+b0f70043-54fc-4165-85a1-339ffab0c82d,bank_branch,1600.68,2026-01-19,British Indian Ocean Territory (Chagos Archipelago),bizum
+8b2c7e9d-683d-433a-ab7f-ae0e2784cc83,salary,1146.25,2026-01-09,Brunei Darussalam,debit card
+f5b8b960-3908-4148-b188-2a794230d21b,ATM,388.5,2026-01-17,Portugal,paypal
+4b0f0779-2f1f-4d3b-85e9-82b0f7c23989,salary,103.95,2026-01-27,Austria,paypal
+a36ae992-ed6e-4501-a596-ff4d18fb335b,money,1350.24,2026-01-09,Antigua and Barbuda,paypal
+bd0c0b75-8c5d-4a59-bfd2-fa30b56f6724,money,1332.48,2026-01-13,Saint Martin,paypal
+5d15f952-3638-4ea6-9457-ce5f95038147,salary,512.31,2026-02-03,Armenia,debit card
+b9125d36-2e07-4ada-8a35-95cf6c83a570,money,559.18,2026-01-30,Armenia,debit card
+cfbb5991-fd33-4df3-923b-bd19cf78470e,salary,559.62,2026-03-01,San Marino,debit card
+05bdd121-28de-4af3-b47d-6a8228479f04,salary,1457.55,2026-02-26,Uruguay,debit card
+a59d90d6-bb99-4475-9613-d1054fde0513,bank_branch,1112.07,2026-02-12,Russian Federation,debit card
+295c67ef-9fd1-4126-af32-a784161abb41,money,352.6,2026-02-16,Austria,paypal
+322b169f-1e0f-46a7-b5b5-e549f22cbba4,salary,60.17,2026-01-05,Pitcairn Islands,bizum
+d0c5bb8c-f4fb-486f-bbda-e1bd021c481d,money,613.36,2026-01-10,Bahrain,bizum
+7b85d444-909b-41ee-b73f-8bbdb0fd0402,salary,1863.87,2026-01-28,Austria,bizum
+d85dd960-1090-4b2c-af1f-ab6fff58ad7c,money,289.45,2026-02-21,Puerto Rico,debit card
+0fd6839d-a287-4c8d-ab0f-a2cd6ca76552,bank_branch,599.61,2026-01-16,Venezuela,debit card
+d254d1d2-9152-449e-ae88-580b3f2ac076,ATM,1180.36,2026-01-21,Luxembourg,paypal
+63c21ac3-a19f-48b1-b228-b9dfeed13263,ATM,710.5,2026-02-16,Botswana,paypal
+3f819036-5ec9-461c-9ccb-2e870161dccc,ATM,1145.32,2026-02-07,Comoros,paypal
+b12fec3d-f46e-4b92-a7b3-7099d5138cef,bank_branch,723.52,2026-01-09,Swaziland,paypal
+17fe1548-59ec-465f-b0a5-efcce4147a77,bank_branch,824.53,2026-02-25,Tuvalu,paypal
+ca61fac1-a847-4e2e-b06a-a98638002d8b,money,1647.56,2026-02-12,Tokelau,debit card
+44b96cd2-e04c-4134-82ad-76296e1a16a9,ATM,1196.69,2026-01-13,Saint Helena,bizum
+84bdde34-34cf-43e1-b743-87a1b80d0fe0,money,326.46,2026-02-17,Iran,bizum
+b7e5002d-d730-4409-9a61-b1f25d2d8a43,salary,964.49,2026-01-09,United Arab Emirates,debit card
+fbb0ea3b-215c-41e1-af3b-fef2086e5d6a,bank_branch,1339.88,2026-01-11,Kyrgyz Republic,bizum
+f939ba7e-1946-403b-9c96-70e320ec5f08,salary,789.4,2026-01-31,Slovenia,bizum
+4e375567-faac-479d-b543-c260f9c4bfe5,ATM,1984.18,2026-01-25,Central African Republic,paypal
+9bef941c-145a-46eb-a2b7-92496865efec,salary,1548.47,2026-02-22,Guadeloupe,paypal
+c957bbf2-b374-48c2-862e-37c14b690ddc,ATM,1874.76,2026-02-14,Italy,paypal
+fa75a02b-6f4d-4b48-b69c-c4d69fff621e,salary,1959.53,2026-01-09,Antigua and Barbuda,bizum
+8b7f0c23-2014-4450-81f6-f61ed4e3f48a,ATM,138.1,2026-01-11,Sierra Leone,paypal
+20a9b249-c4ef-4dd3-a378-0ca9dff5d130,salary,1192.56,2026-01-26,Samoa,debit card
+1ff661a0-e421-4a88-af87-07eb4be0a45c,money,482.65,2026-02-10,United States Virgin Islands,debit card
+2f5b8f87-07f7-4463-817b-af6b2badaee1,bank_branch,1618.07,2026-01-06,Benin,paypal
+52876f2c-f749-4506-acdb-8af33ec04ecf,ATM,1127.07,2026-02-08,Lebanon,paypal
+55ce9391-283d-4ea4-8937-2f439aae1592,bank_branch,661.2,2026-02-01,Martinique,debit card
+a0b7a63f-14e8-449c-a430-1034e3b028ad,ATM,1319.7,2026-02-12,Saint Martin,debit card
+b3c78b52-3da3-42fe-9b31-c777a894fb86,bank_branch,1873.05,2026-01-23,Ecuador,paypal
+47bac679-aae4-4647-9b54-1f949a011445,salary,1350.88,2026-02-19,Mali,debit card
+afe2e31c-b622-493a-a089-805e296e7b94,bank_branch,555.63,2026-02-01,South Africa,paypal
+cd940cf1-c730-4b15-8d33-c5691ced86ac,bank_branch,261.08,2026-02-17,Oman,paypal
+89612ed6-cb86-4093-b040-38d017d13145,money,836.34,2026-02-05,Burkina Faso,bizum
+962cce80-851a-48b9-8ee4-01877fc33b36,bank_branch,1765.98,2026-01-21,Ghana,debit card
+d1b34fdc-b0a2-43c8-b5bf-06c9d9a39119,bank_branch,728.68,2026-03-07,Korea,paypal
+00e979b2-2432-4d4c-8e24-7dce3ab2fb20,salary,1808.25,2026-01-01,Botswana,paypal
+1f5c0ae2-2bf7-4df3-abb7-8b3d76406557,money,626.87,2026-02-08,Switzerland,debit card
+6613db13-0c02-4c2f-97fe-25a147c7dc5d,ATM,529.44,2026-01-02,Lebanon,bizum
+afe8ad22-7095-453a-a060-294004a0a354,money,417.92,2026-01-07,Sudan,debit card
+532cd88b-909c-48cd-a7bc-a48e1eacea80,salary,1497.12,2026-01-21,Serbia,debit card
+176c3557-efd0-48ee-a385-5d6fda6be1bb,bank_branch,952.47,2026-02-02,France,debit card
+129d47ba-7c0a-4704-bc0f-598458144be7,ATM,1077.03,2026-01-26,Andorra,bizum
+150ff481-8ecc-4c89-89cc-2a900d8bd935,ATM,605.66,2026-01-06,Bouvet Island (Bouvetoya),paypal
+a65c447d-8c9d-4b23-9128-1fab83994a7c,bank_branch,399.66,2026-03-06,Uzbekistan,debit card
+6d8dd09a-9f10-486f-aee2-f9ae858c5702,bank_branch,1343.65,2026-01-26,Panama,paypal
+2e2a60f3-e4c5-46aa-ae58-6dd0a4f4e167,ATM,903.29,2026-01-15,Serbia,paypal
+380bb6e9-f16c-4393-8212-dff35c131b7a,salary,1562.21,2026-01-16,Korea,debit card
+5ef20285-e0ec-4d27-881c-db62cd4489e1,ATM,177.77,2026-01-21,Martinique,bizum
+bc95ee6d-5567-4fef-8102-6a5be88a3c30,salary,1333.25,2026-01-17,Palestinian Territory,paypal
+e4e1b911-1f35-4ad3-8e5f-ed270619fdc9,money,217.0,2026-01-15,Guadeloupe,debit card
+1fbf0c93-9c56-46a2-a38a-e62bacaa6276,salary,151.42,2026-03-05,Malta,paypal
+6f938c80-5eac-4d7a-88b3-0323919a773a,money,655.45,2026-01-17,Cook Islands,paypal
+04d558a2-1a0c-4032-bdc8-3054573cf406,money,386.09,2026-01-10,Yemen,debit card
+70568c1d-53b8-413c-925e-590c631d5b9f,ATM,1660.0,2026-01-10,Cote d'Ivoire,bizum
+0d5b20c2-1efc-459f-a3bc-162407161625,bank_branch,1531.45,2026-02-26,Cameroon,paypal
+c3302a34-c1d2-42b6-92fe-865931c12e7c,ATM,654.57,2026-01-29,Montenegro,debit card
+f6f2dcf5-6c17-4b10-b2fc-380d99ffebc6,ATM,1750.38,2026-02-25,Saint Kitts and Nevis,paypal
+dddd207a-b73d-4510-8b47-d9288a7bfbf8,salary,966.8,2026-02-08,South Africa,paypal
+45f31e76-9c15-4701-abc9-a7519cae7e5f,salary,1069.74,2026-02-25,Somalia,debit card
+44b36333-1721-4541-ac0c-2f3351392180,salary,544.78,2026-01-02,United States Minor Outlying Islands,debit card
+33b269f5-3437-40f2-8e0e-9c7dc1805b52,money,1991.53,2026-03-06,Gambia,debit card
+dadea614-e17e-4838-9321-beaa6dbb60e0,ATM,904.23,2026-01-06,Comoros,bizum
+7bcf758a-9f99-4269-a766-54bd13741caf,ATM,1115.92,2026-02-14,Djibouti,debit card
+71df4dea-3523-4de1-8434-bf5363e3e11f,ATM,1849.16,2026-03-07,Liberia,paypal
+ab724052-7194-4348-8ffc-f55a00434901,salary,1878.38,2026-01-22,Turks and Caicos Islands,debit card
+393247b5-2021-4785-bcfd-53bb40ad30be,salary,1275.38,2026-01-24,Brazil,debit card
+c0ce51ac-ce8a-48ec-8797-92c8472d0b94,bank_branch,1841.0,2026-01-31,Guinea,paypal
+1ddae9b6-8e5a-4b94-956c-91c713775de0,bank_branch,83.37,2026-01-05,Tonga,bizum
+219f64ac-5855-45ed-b905-fd71128c79df,bank_branch,692.94,2026-03-07,Finland,bizum
+d38dc1b7-0da8-40b8-8003-d5b149b8b27e,bank_branch,88.78,2026-01-03,Lithuania,paypal
+6aa9f05e-6854-43f9-b699-54aa1992dfb0,bank_branch,24.01,2026-02-01,Lesotho,paypal
+b655123f-5c24-472f-a1c9-cf413412b067,bank_branch,610.64,2026-02-13,Chad,paypal
+d3e43c43-53a7-48bf-9a8f-84776e50b632,salary,1576.35,2026-02-20,Tanzania,paypal
+6405e35b-e562-45c4-aa9f-b3aed7e6d50b,bank_branch,1405.79,2026-03-01,American Samoa,paypal
+825746c2-8a59-45c5-b312-08efc4ccf31b,bank_branch,730.21,2026-01-12,Finland,bizum
+4dd39d7a-6995-49ff-a25c-8caf0b198fc0,money,1532.82,2026-02-27,Malaysia,debit card
+53d64781-af7a-47e4-ad58-7ac2f12bd00d,ATM,646.95,2026-01-20,Iceland,paypal
+3c6fba36-3fb3-453e-a92e-18686bf9576b,money,915.53,2026-02-28,Palestinian Territory,debit card
+35a07398-9b75-4378-80fe-28bbd9ed93bb,salary,622.81,2026-02-01,Botswana,bizum
+f0236c16-2288-43ad-a4b7-6cec9acd8f08,salary,1666.35,2026-01-01,Pitcairn Islands,paypal
+efe93b74-2dc4-420e-a33f-f229b3bff1ce,bank_branch,1393.24,2026-02-01,Madagascar,paypal
+bc9c9653-3b85-4e33-aa42-d9764e3c6cfe,bank_branch,200.9,2026-01-21,Saint Pierre and Miquelon,bizum
+828f5682-f799-4b7e-bc2f-c179e01764c6,bank_branch,378.19,2026-02-07,Kazakhstan,debit card
+2a152ab3-5608-474e-949f-e323a146c227,bank_branch,1700.71,2026-01-23,Argentina,bizum
+8a28cc78-6253-42b5-a028-f559b38aa717,bank_branch,1450.58,2026-02-14,Barbados,debit card
+d11fb7f2-2e3e-4ef9-b83f-c4b7a07523ff,money,1062.86,2026-01-22,South Africa,paypal
+959dd9a8-aded-4496-9fa3-cd6eec8573bf,ATM,1110.27,2026-01-18,Bahamas,debit card
+be8ae414-c07d-4cbe-9b6d-755e50f44e3a,salary,1830.95,2026-03-05,Saint Helena,paypal
+57fc91ad-3dba-41e1-9490-4d4bf999c50b,ATM,416.68,2026-02-10,Wallis and Futuna,paypal
+381d425a-dc8f-4343-a027-0651ac524fa2,bank_branch,1869.97,2026-03-07,Armenia,debit card
+dd246ed3-c235-4f4b-9c90-2b2bbb89f9e5,money,1105.76,2026-03-06,Palestinian Territory,bizum
+6f3698ed-2776-4c0f-a213-58a981fd13e7,salary,909.43,2026-01-14,Honduras,debit card
+ce476aa1-1b5e-4855-b3aa-a46a185324ce,money,1460.06,2026-02-21,Netherlands,bizum
+151deff2-6287-4e4d-bb69-4f439c4114af,ATM,885.26,2026-01-22,Mayotte,debit card
+2984ca54-3d23-4e1e-87dd-f2c5356e695f,ATM,1360.74,2026-02-26,Finland,paypal
+a79cb8ae-013b-4ba4-8bcc-dead837ee587,bank_branch,647.86,2026-03-02,Tonga,paypal
+833592d1-1a4c-4fe4-8b15-343ea2b1e430,ATM,1882.9,2026-01-21,Hungary,bizum
+2e0bdc78-45a5-4ff3-9b45-f9d58ea85807,ATM,1419.01,2026-01-01,Austria,paypal
+c092da5e-457a-465b-b491-cb6e85292933,ATM,1338.13,2026-03-01,Grenada,debit card
+abf95eed-3f22-465f-9e96-cc79ac90f196,ATM,527.2,2026-01-24,Benin,debit card
+53ceebc9-db21-4731-8f77-985ea4408ebb,bank_branch,608.56,2026-01-31,Uruguay,bizum
+59cb15d9-1deb-4dc3-be3f-0f0ec6a62a42,bank_branch,312.52,2026-01-05,Congo,paypal
+25e731d9-dcd2-490b-8b70-9acad067889e,ATM,247.64,2026-02-15,Romania,paypal
+f37d9124-da6f-4d29-9bac-0e6ddede3d0d,bank_branch,814.79,2026-01-05,Pitcairn Islands,bizum
+fb598ade-0266-4635-b91c-87156cf7ae90,ATM,1736.65,2026-01-12,Jamaica,paypal
+5281cc59-3df4-4969-a5f7-8eb0e996c7aa,bank_branch,1284.41,2026-01-06,Argentina,debit card
+ed9e4496-6df5-4b19-b94c-8f7047049345,bank_branch,1730.95,2026-01-23,Netherlands Antilles,debit card
+2964df03-8432-46e1-85a4-39f9b308283c,salary,1667.66,2026-03-01,Saint Barthelemy,debit card
+62ef6bc4-fe85-41ca-8804-46acfbbb48f3,ATM,1648.43,2026-02-15,United Arab Emirates,paypal
+0c96d20a-0639-4e68-8d3d-1f62cc88b8d9,bank_branch,727.07,2026-02-27,Guyana,bizum
+03b504e9-f072-4e95-914b-09799a42a088,ATM,1379.53,2026-01-06,French Southern Territories,paypal
+1c6de1a5-0419-4a18-8c9c-1d8b10af13ae,bank_branch,462.57,2026-01-05,United States Minor Outlying Islands,bizum
+9e31ae37-b40e-455c-8377-7a64e8ab5b3b,salary,1815.78,2026-02-23,Colombia,bizum
+3a25473b-157b-4f09-bcbf-c346dedf05f0,bank_branch,404.93,2026-02-01,Uruguay,debit card
+1912a45a-cf0e-45e9-be51-3052cbf1d00d,bank_branch,820.84,2026-02-07,Brunei Darussalam,debit card
+0b40f2b3-0c29-49c6-8a40-c73e219b04b2,bank_branch,298.84,2026-03-02,Iran,bizum
+5d642beb-17b5-4320-8a8d-8fe86e363b16,bank_branch,1557.85,2026-02-26,Iceland,paypal
+415f3cf3-fc0c-4991-8403-d7432fb87056,money,1985.06,2026-01-23,China,bizum
+0ca79b0d-c53b-438d-a102-8b4d91a9b7ba,bank_branch,285.16,2026-01-12,Palestinian Territory,debit card
+f4514b0f-5084-44a0-8330-a776636b3e82,salary,940.45,2026-01-18,Saudi Arabia,debit card
+d9163d34-1ffb-456a-b561-10d2919e1810,money,1021.68,2026-01-20,Guyana,debit card
+1ca2e898-f755-4281-affa-79ce1364c387,salary,1610.66,2026-01-20,Sri Lanka,bizum
+c7af85f5-70c9-4af0-a8fa-692fbc495200,ATM,1808.0,2026-02-15,French Guiana,debit card
+08a85cb4-5dd2-4b6d-b4a6-f7fe5058a6c0,ATM,1628.63,2026-01-04,Iran,paypal
+9da8faa3-3b06-48bb-85fc-373fc22b2ad7,ATM,1248.7,2026-01-30,Philippines,debit card
+84c9ea83-8241-40f1-b884-f57e659cf30b,bank_branch,390.48,2026-03-07,Tonga,debit card
+342b68f7-d106-4822-ad4c-f56bed9037bb,salary,215.56,2026-01-23,Cook Islands,paypal
+ca577d4c-6957-481f-8b62-d46764c7b515,ATM,323.22,2026-02-26,Sudan,paypal
+d8d33256-415e-4477-a459-18c9213698db,ATM,116.49,2026-02-26,Greenland,paypal
+0e7ec478-9e0e-44f5-b4b6-7de1545ec35d,salary,1409.46,2026-03-07,Netherlands Antilles,paypal
+a152115f-bef3-4dfd-9fcc-2ba710dd192b,money,805.4,2026-02-20,Luxembourg,bizum
+dbe79a36-2848-4c9a-9463-774c2944a495,salary,735.4,2026-02-08,Costa Rica,bizum
+261908db-2cb9-43f7-a895-b0bb4a7fc016,bank_branch,432.56,2026-01-05,Libyan Arab Jamahiriya,bizum
+12e7e4de-f672-434b-8683-21a988c08a7a,salary,1657.73,2026-01-09,Jamaica,paypal
+8b3a172d-41a7-491d-8145-029067fb77d0,money,165.1,2026-03-02,Namibia,debit card
+2a0fa0a8-25ca-4789-9bbb-747d5f3b4499,salary,789.26,2026-01-30,Cambodia,bizum
+4fd74381-5612-4714-9043-8966b5acac30,ATM,301.1,2026-03-02,Brunei Darussalam,paypal
+3673acea-5a6c-4564-802c-c0cee19a2583,salary,895.52,2026-01-08,Nepal,debit card
+3b64095e-58fb-4f67-a633-00ab5babc81f,money,544.38,2026-02-21,Cote d'Ivoire,paypal
+1c5fbe5b-7587-45c1-a2ad-c878ea4f1a3c,bank_branch,1876.38,2026-01-07,Bahrain,paypal
+5b433323-dfb3-4baf-a947-940430be24b0,money,452.6,2026-01-21,American Samoa,debit card
+09cfed6c-dab3-4c4d-a4a2-6cb9c48d752e,money,1672.22,2026-01-31,Ireland,bizum
+0fe34813-8f98-4081-8866-5b81f4584f38,bank_branch,1528.72,2026-02-26,French Southern Territories,debit card
+89bde2bc-54e1-4749-9147-d08b4ddd4e22,ATM,16.8,2026-02-13,China,paypal
+0b1510a2-f8d9-46d4-b6b0-45c3f0555671,ATM,1728.0,2026-02-17,Northern Mariana Islands,paypal
+03cf04a9-0e8b-41b7-a315-d5ab57c9c632,money,1033.24,2026-02-11,Germany,debit card
+cac71825-1fa5-4b3a-944c-2aea9ac42ff1,money,295.38,2026-03-03,Mongolia,debit card
+3463643b-cbca-4013-ab2e-bf7e835e3426,ATM,1881.11,2026-01-11,Chad,paypal
+5dc13e24-45eb-4f11-b58a-1ac3dcfdadcc,bank_branch,1339.07,2026-02-13,Belize,paypal
+34fc866e-c44f-403d-81cb-f06146941223,bank_branch,300.06,2026-02-22,Austria,debit card
+fd5ee235-91fc-49dd-af9e-865710762d9c,bank_branch,506.75,2026-01-17,Liechtenstein,bizum
+6fc2b66a-c9b2-4792-9c07-34067374d4a5,money,15.27,2026-01-01,Macao,paypal
+be5277cb-8578-422c-b965-9006447f270e,money,900.09,2026-01-21,Tajikistan,debit card
+ba4adb20-b68e-4189-a1e3-f5ebf6469330,bank_branch,1057.03,2026-02-24,Madagascar,bizum
+93ac228c-16de-4e5f-af01-79209b7935fc,bank_branch,658.86,2026-01-27,Burkina Faso,paypal
+2a573bd9-0888-4e3c-899c-eb12307fcff2,bank_branch,1237.33,2026-02-15,Cambodia,debit card
+241985bb-cbf3-4dbd-92c2-32650fde60e7,bank_branch,666.91,2026-03-02,Kenya,paypal

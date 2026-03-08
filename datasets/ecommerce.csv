@@ -1,0 +1,1001 @@
+user_id,product,price,purchase_date,country,payment_method
+4ef39bcc-c707-4af2-a585-e6d471e49c93,Phone,164.75,2026-01-05,Martinique,crypto
+f71e7a2c-0529-45d2-ac79-72120a392579,Tablet,1508.57,2026-01-09,Reunion,credit_card
+272e08f8-a784-4c0f-8e74-4f78636df7d1,Laptop,275.6,2026-02-15,Argentina,credit_card
+8c94c96f-8426-4ebe-a9a7-e0a25f815067,Laptop,1293.34,2026-02-12,Cayman Islands,crypto
+aa4d1baf-e8b4-46ab-a02b-6cb09923a27a,Camera,16.99,2026-01-04,Greece,crypto
+5eada59e-52c5-4de6-bd98-10676837f793,Tablet,1526.31,2026-01-02,Mongolia,credit_card
+ed03a813-6939-4a20-8e6a-bb818e3b6d49,Laptop,1564.99,2026-01-01,Sudan,crypto
+f012b2f5-f565-4da8-b82c-7a434cafc741,Camera,288.16,2026-01-22,Comoros,credit_card
+05412167-a2cd-41db-a8f7-2b775d983d91,Tablet,972.72,2026-03-03,Thailand,crypto
+360c2aca-5850-4756-95e8-aae392e0251c,Phone,144.28,2026-01-24,Uganda,crypto
+10406933-077c-4c7f-ab59-26a53e5682ac,Camera,988.38,2026-01-08,Burkina Faso,paypal
+8aaabefb-faeb-4eaf-a55c-6d9a52a15bc9,Phone,76.22,2026-01-27,Brunei Darussalam,paypal
+06f73829-0e2f-4abd-9309-d5cf2b92eb66,Laptop,71.87,2026-02-26,Western Sahara,paypal
+45462158-4b38-444b-98ab-18f83e2450e7,Laptop,765.19,2026-02-16,Korea,credit_card
+040cc2e4-cf1c-4ba7-bd40-f01497112b7c,Camera,1109.15,2026-01-08,Cape Verde,credit_card
+f40292e0-d1df-4331-834b-1254a25fdd89,Tablet,1343.1,2026-01-14,Guinea-Bissau,credit_card
+4d4ca674-4d3c-4172-95be-5187856db004,Camera,1136.81,2026-02-21,Chad,crypto
+dedb004d-8d2e-43a5-b4eb-be0d5a8bf9b3,Laptop,1123.7,2026-01-28,Malawi,crypto
+658aca0e-3541-4238-8097-6601c88df4e2,Tablet,1746.35,2026-02-24,Burundi,credit_card
+1381c943-44a1-4b1d-8a5d-67b760862766,Camera,370.24,2026-02-27,Bolivia,crypto
+2946e29e-d1df-4620-b9cf-fe2980912157,Tablet,787.99,2026-02-07,Guinea,credit_card
+84ae9f82-0ead-41e7-9c48-97ace6bb3ad2,Tablet,204.56,2026-02-19,Sweden,paypal
+668a04c4-7a04-4d3f-924c-ffa078d59e09,Phone,27.79,2026-02-24,Djibouti,paypal
+b7b46c18-a87c-4b04-aeee-95bbb0872e49,Tablet,915.9,2026-01-06,Mauritania,credit_card
+494b0514-3691-4495-a7a2-c25bd6a3623c,Laptop,1700.5,2026-02-12,Kuwait,paypal
+69e8d570-9a70-4179-b6a0-b07c437890a7,Laptop,432.69,2026-01-21,Slovenia,crypto
+fd2b3f80-ce52-487a-9929-a12a7e4cdce7,Phone,1032.21,2026-02-03,Vietnam,paypal
+960fdc11-5696-4faa-9bc3-f1db1a7c2508,Camera,1864.26,2026-02-07,Yemen,paypal
+455999f7-af7e-4699-b0eb-db3b27c3d059,Tablet,1058.7,2026-01-07,United States Minor Outlying Islands,credit_card
+d0f8caf2-b452-4f7e-a759-317ebd6132ab,Camera,37.96,2026-01-11,Thailand,crypto
+9abb332a-cb3a-44b5-b234-9455b9291664,Tablet,1995.94,2026-02-04,Fiji,paypal
+821de3ae-21e9-4c11-87d6-f33487200385,Tablet,1091.35,2026-03-05,North Macedonia,paypal
+a272c80c-857b-4b07-b0d4-34ea6ec5640c,Phone,1429.92,2026-01-13,Mauritania,credit_card
+99b4d20c-9a8f-4911-b0a2-197c391ab4ae,Camera,1805.37,2026-02-17,Latvia,crypto
+410340f2-e8f6-4e70-899e-d1ac230856cb,Camera,651.14,2026-03-01,Nauru,paypal
+2c93d5ad-6db6-4761-b0a0-8852f85a616b,Tablet,1065.68,2026-01-09,Greenland,credit_card
+2817d448-1247-479d-9d5b-282c37d4495b,Phone,1164.71,2026-01-08,El Salvador,crypto
+f3df97c4-289a-4af9-bf0c-33c54106689d,Tablet,585.3,2026-02-05,Cambodia,paypal
+a22911d3-59f0-4896-86d2-23b6255264d9,Laptop,383.83,2026-01-09,Iraq,crypto
+05d8886a-3ffb-40e9-b0f9-31c8871c3b05,Tablet,1584.22,2026-01-28,Nigeria,paypal
+2156803e-70ef-451a-bc39-030cb4213edd,Camera,1187.01,2026-01-16,Sao Tome and Principe,crypto
+6c62f801-a9d7-4ecd-87c9-60ff503fb9e6,Phone,309.88,2026-02-14,Marshall Islands,paypal
+be7c8033-6e9e-49e4-ac9c-b1426dd300e6,Phone,1328.21,2026-02-23,British Indian Ocean Territory (Chagos Archipelago),crypto
+a8d3c694-f0e2-4d9c-bf33-bdc52474d8ec,Phone,487.61,2026-02-02,Belarus,credit_card
+32cc5aa4-d598-4d09-bdba-ffcb11aa2e0c,Phone,967.81,2026-01-11,Gambia,credit_card
+d24cdf1c-9952-4f49-ba8b-86cf181abcbf,Camera,153.75,2026-01-18,Angola,credit_card
+c9b0353f-0f4e-4fda-8949-bcc4a8688528,Camera,657.79,2026-02-07,Greece,crypto
+98fde29f-5010-46d6-9b18-8872aeaeba50,Camera,1605.76,2026-02-25,Western Sahara,paypal
+c0fc3900-4965-4912-b980-2b1121b09739,Phone,1521.96,2026-02-11,Heard Island and McDonald Islands,credit_card
+2ce270e7-8db3-4632-a699-732ce607eca1,Tablet,1399.4,2026-02-14,Mauritania,paypal
+636b6afb-8a92-49cb-ae41-c695ea050b39,Phone,1224.87,2026-02-17,Mali,credit_card
+04e0982a-99d4-4c73-96e2-4a40ad6be259,Phone,1533.56,2026-01-29,Solomon Islands,paypal
+3d1431f4-54c4-4cfc-bcdf-d5bd91fa1d22,Laptop,1724.8,2026-01-31,Mongolia,credit_card
+8c208c46-8161-4fe4-ae03-d1fe7af2a573,Phone,381.96,2026-01-08,Portugal,paypal
+3c37630e-53aa-46a9-8313-06ad87d99811,Camera,1619.56,2026-03-04,Mali,paypal
+a3b36a5d-e980-4de2-b2c2-5d02c45ad80f,Phone,444.29,2026-01-16,Angola,crypto
+07934686-f96d-4c2e-bbb4-1d95b8bea341,Tablet,21.53,2026-01-26,Ghana,paypal
+c3c314da-ecc7-412e-8eb9-0a2944cb5a0d,Phone,961.15,2026-02-27,Martinique,paypal
+010b356e-c44a-458c-aecb-80ef215e6613,Phone,1296.75,2026-02-13,Kenya,paypal
+7143a605-d67f-4230-b805-9b7ec401dced,Camera,836.35,2026-02-22,Ethiopia,paypal
+f53dfe25-7e1f-4553-8306-1533cfc909ff,Camera,1836.55,2026-02-13,Finland,crypto
+43cb8059-dd8f-4eb5-a02e-1a81cc6a16b8,Laptop,1188.62,2026-02-16,Turkmenistan,paypal
+3c14d768-933b-4177-81d3-31cc8d1da9a3,Phone,286.69,2026-02-24,Yemen,crypto
+c5380730-5f8f-40e2-8a89-dc506e0e4513,Laptop,1133.06,2026-01-03,Syrian Arab Republic,credit_card
+f8ad0e91-c1d8-4842-8f83-054b4e57eb74,Phone,1244.35,2026-02-05,Moldova,paypal
+25de2499-b23c-4d38-b286-c0bfac71c234,Camera,946.71,2026-01-01,Norfolk Island,crypto
+4940fee4-43bf-43a5-bb4a-12ac84fafbba,Tablet,137.84,2026-03-05,Saint Kitts and Nevis,crypto
+80bbceaf-4e95-4bd0-bf54-fc28059a40e9,Phone,1389.99,2026-01-08,Cambodia,credit_card
+24a957b8-52fa-4b8e-823f-a02313af6ede,Camera,83.46,2026-01-05,Somalia,crypto
+126d3727-c67b-4241-a08c-23978a5db769,Tablet,720.63,2026-02-08,Finland,paypal
+58a42eb1-0f20-40bb-b8a8-383217672f7b,Camera,69.43,2026-01-21,South Africa,credit_card
+233c10d4-fa52-4195-841e-41ffc1f98422,Camera,361.35,2026-01-11,Saint Pierre and Miquelon,credit_card
+b82630f2-75fa-44ea-abc3-e617f3bf202c,Laptop,1118.55,2026-01-16,Guinea,paypal
+aaf4e62c-e573-4c7c-874a-49f9a8432080,Camera,968.83,2026-02-11,Taiwan,paypal
+3702fbc8-6aa8-4be9-8488-d1a957596ded,Tablet,251.53,2026-01-06,Saint Helena,credit_card
+2aef8199-7e17-4fde-8f9d-12e629c76985,Laptop,1584.41,2026-01-18,Trinidad and Tobago,paypal
+1800d027-ec3c-473e-8809-a82075641a56,Laptop,1150.64,2026-01-25,Cook Islands,crypto
+b488c98f-f086-40a5-af12-b6a393e90eeb,Camera,632.41,2026-01-08,Guinea,paypal
+d2d4a29e-74c7-4c75-8f63-24878e7741b5,Camera,1788.06,2026-02-17,Cayman Islands,paypal
+7bccb3a7-8c7b-420c-8dae-d2d88ec8d189,Phone,536.08,2026-03-01,Isle of Man,credit_card
+1403dcdb-2d78-451c-b99a-11f1770ab46e,Tablet,928.67,2026-03-03,Romania,paypal
+59b52ded-f580-4c80-afb7-e474db8883fa,Tablet,1137.05,2026-01-15,Turkey,credit_card
+09d25873-158f-4546-9199-78e7cd3e9c53,Phone,1174.37,2026-01-01,Norfolk Island,crypto
+317d13cf-7bd3-4418-aa70-b6da1c10bf68,Tablet,432.78,2026-01-18,Lao People's Democratic Republic,paypal
+8a7d4a79-82ff-4a0c-a6a6-68f4aac2523b,Camera,292.75,2026-02-04,Montenegro,credit_card
+bb86181b-f4db-49d1-a354-c68b47a89c8e,Camera,744.98,2026-01-13,Lithuania,credit_card
+33901706-dd21-4ed8-b211-f6f5ce2ddb81,Laptop,1567.22,2026-01-09,Isle of Man,paypal
+27c02917-4551-4e7a-b429-93f7eab7a066,Camera,618.01,2026-01-20,Cameroon,credit_card
+2f3c448d-fbe9-446a-b3fe-df7656c73740,Laptop,1284.47,2026-01-16,Spain,credit_card
+d3912e14-7081-4896-a937-4804973274e3,Phone,1534.25,2026-03-02,Benin,credit_card
+99ad806b-75a8-4635-a1ae-3851e469592a,Tablet,1098.99,2026-03-01,Costa Rica,crypto
+5ea51d72-8445-4b24-a6fb-e2bdba86daac,Tablet,265.33,2026-02-27,Bangladesh,paypal
+d2ac285e-a279-4a1a-ab49-773c1e854861,Laptop,1530.81,2026-01-08,Maldives,paypal
+cf003667-94ba-4bdd-a1b1-1ae6f2cd6374,Tablet,1389.54,2026-02-19,Timor-Leste,paypal
+717678d2-5878-47e8-912e-880a4a304624,Laptop,1731.4,2026-03-02,Cameroon,credit_card
+a6cc9737-4f19-46ad-a943-e9067080b988,Phone,1830.82,2026-02-26,Bolivia,credit_card
+f0ba62be-f617-4889-ae4e-b5e8f2bdc135,Tablet,1635.61,2026-01-04,Greenland,crypto
+5bdc0c64-13f3-4702-806d-f6da7637a515,Tablet,877.1,2026-02-07,Italy,crypto
+329f1f14-1f89-49d8-a0d2-dfb4f3059942,Tablet,139.96,2026-01-30,Algeria,credit_card
+aabbb747-26aa-459c-a7f0-61f1d30abc1e,Camera,56.15,2026-03-07,Belize,crypto
+d3673079-a132-4485-8250-f67f2f6dbc98,Tablet,818.98,2026-02-10,Nigeria,paypal
+496a779a-a3be-4582-b548-d3f47458ea18,Camera,985.52,2026-02-21,Kazakhstan,paypal
+dfb68c30-a65f-49af-b88f-4b931106c43f,Laptop,281.71,2026-01-10,Uganda,crypto
+99270894-cabe-41eb-860b-7ba96a1d385f,Camera,607.9,2026-01-05,Saint Lucia,credit_card
+7dd5a49d-c793-4582-ba79-a8f138093f48,Laptop,238.77,2026-03-04,Sudan,crypto
+0eda6473-11da-48bf-a1f1-944c2a9b1924,Tablet,1930.31,2026-01-10,Syrian Arab Republic,credit_card
+1457a49c-421a-4f94-8ac4-458b4f47bf44,Tablet,1062.53,2026-03-04,Taiwan,paypal
+04794f01-ddbf-48fb-a61d-516a8434a30d,Phone,1830.23,2026-01-02,Portugal,paypal
+08f2d1ee-cee1-4853-8c34-3a80e13ab62e,Phone,295.66,2026-02-27,Burkina Faso,credit_card
+e7efb2d8-4ba7-47a4-998e-eb03d1fcb7a8,Camera,1446.51,2026-01-11,Afghanistan,paypal
+ec42ea15-ae38-4aa5-98b2-9cbad140ac38,Camera,323.99,2026-01-21,French Guiana,crypto
+d3884592-ef03-4d09-b8e6-e6d4819a85b4,Camera,1037.8,2026-02-09,Luxembourg,crypto
+5e91b6ec-1a4f-4cc8-ab0a-ddaead515483,Tablet,1610.88,2026-01-16,Brunei Darussalam,paypal
+e31db391-e43d-4d70-ab69-d7bbd0c954d7,Phone,686.42,2026-02-17,Cote d'Ivoire,paypal
+1aebd9cb-889e-419e-8120-e782e38b851b,Laptop,1993.5,2026-02-24,Congo,paypal
+bff3e88e-7863-4578-a239-1cc9bd66092a,Laptop,665.67,2026-01-12,Samoa,credit_card
+b36f1ffc-d73e-4e49-adf2-76dba3dfc5cd,Laptop,1190.38,2026-01-20,Algeria,credit_card
+03497404-492c-48a9-98ab-7bc78538fad0,Phone,842.45,2026-02-09,Saint Helena,crypto
+f8bb0b5c-4bff-4eb9-9b7e-f187e2e16f37,Tablet,626.89,2026-01-08,Guatemala,credit_card
+0a6f3478-97cd-4f2d-bbb1-d6a6c892619b,Laptop,1746.76,2026-01-18,Cyprus,paypal
+3c946828-59d4-4457-b129-a4bde8b8c774,Laptop,376.92,2026-03-04,Cote d'Ivoire,credit_card
+5ea54668-20a9-49d3-becb-c9b252d28794,Laptop,794.82,2026-01-16,Belize,crypto
+18b99414-0abe-4b31-b3eb-846c9d0f2547,Laptop,1800.93,2026-02-08,Turks and Caicos Islands,paypal
+4c12b235-02c9-49cb-ad5f-9a97a2434073,Tablet,1550.79,2026-03-01,Italy,crypto
+c451b7a1-d23b-4cbc-b8f3-bbec96d36a7f,Camera,83.44,2026-01-19,Canada,credit_card
+f6d3b860-6168-42d4-a865-12453ab5ba28,Camera,257.57,2026-03-05,Moldova,credit_card
+294abdcc-2932-4cb4-9e2a-f6d505632f63,Camera,831.46,2026-02-13,Pitcairn Islands,crypto
+d3e52d32-cb80-448f-9d82-9636a1b72ff0,Phone,1522.0,2026-02-17,Armenia,credit_card
+60661940-aba6-4d17-b3b6-863ab62be136,Laptop,1822.96,2026-01-18,Ukraine,credit_card
+59fe78cd-3ff0-4593-a530-4da2e3276e22,Phone,739.19,2026-01-18,Liechtenstein,crypto
+33f8ecc7-2124-4a95-81d1-99d20f19821b,Camera,235.79,2026-02-24,Luxembourg,credit_card
+ac741d2c-e7cd-4c5f-b7db-f25113868a4e,Phone,1899.09,2026-01-06,Cuba,paypal
+df5e34af-0844-452d-b2a1-d59c2549f6fd,Phone,373.34,2026-01-20,Cameroon,crypto
+bd8b13f3-6e82-42af-9cb7-25df0ac092b6,Laptop,112.55,2026-01-22,Turkmenistan,credit_card
+f6dbbfcc-8383-4368-9bed-81a72616936e,Camera,1810.11,2026-01-23,Kuwait,credit_card
+d0378389-0596-4fd7-b1da-2c7c4d034be8,Laptop,228.14,2026-03-04,Cyprus,paypal
+26f0ba50-7de3-4ec0-93b2-55f9b3f35bc1,Tablet,1179.79,2026-01-23,Uganda,crypto
+123bd20d-f668-4b30-8d27-a7826904e2c4,Tablet,737.6,2026-02-19,Vanuatu,paypal
+0ba13a8f-1f20-4da5-8336-74d908ec8fd6,Camera,116.35,2026-01-31,Sri Lanka,credit_card
+568db8f7-6999-409c-b012-a19851ccd16b,Laptop,1962.22,2026-01-08,Philippines,paypal
+ff65d12d-e578-4895-b1b3-7576ab2dff88,Laptop,550.89,2026-01-03,Ukraine,crypto
+d5a855d2-a015-4f89-9577-d7da636f0a32,Phone,1738.62,2026-02-14,Honduras,crypto
+968e0f14-ebaf-4cd6-bc88-4a73d8dcbdf4,Phone,19.32,2026-01-03,Netherlands Antilles,credit_card
+c67f93a3-dcdd-43bd-8b70-764191aa3ea0,Camera,1547.13,2026-02-13,Cameroon,crypto
+13472596-79ab-4168-9029-3d74f08b76b5,Laptop,1559.98,2026-01-16,Madagascar,paypal
+43eb75a9-6c92-46bb-9d2d-8d83f3a04ce6,Phone,967.81,2026-02-20,Cote d'Ivoire,crypto
+8b9b0c2b-50ab-4140-a707-4a6f1332e12c,Tablet,628.03,2026-01-17,Saint Vincent and the Grenadines,credit_card
+f9f5785f-253e-460e-b3ea-82209e47504f,Camera,896.34,2026-02-23,Egypt,paypal
+5187b3fc-20d4-44e4-aaf2-9c08fb6e4ddc,Camera,278.95,2026-01-24,Bulgaria,crypto
+f7cb7f1c-4e81-494f-bb67-704ee52e3e66,Laptop,1269.5,2026-02-25,Poland,credit_card
+5e33c107-20e0-4abe-aadc-906c2f19e081,Phone,1062.79,2026-01-17,Grenada,paypal
+c253c60a-cfcd-485c-8852-8b77ca9379ce,Tablet,858.0,2026-01-30,Martinique,credit_card
+f03d7ddc-bf00-4e57-90ee-921949f91ba6,Laptop,1770.72,2026-01-31,Lao People's Democratic Republic,crypto
+0f492048-9c6d-45c5-8a49-5d57022fb68c,Tablet,15.06,2026-01-26,Holy See (Vatican City State),crypto
+90b52ff1-335a-48a6-8588-3b80810b35bd,Camera,760.41,2026-02-25,Cook Islands,credit_card
+26a0ac7c-11d9-4672-bcd9-59e2d497b7e4,Phone,1036.82,2026-01-09,Anguilla,credit_card
+8d257bea-5ead-4c76-bf2a-aad82e82a511,Laptop,1530.95,2026-03-04,Guinea,crypto
+312e5a49-951f-448a-ae8c-dcd80bfc5a3b,Laptop,1364.83,2026-02-04,Benin,crypto
+d2756882-c8f1-4332-849a-9754bc2abdb1,Tablet,1904.99,2026-02-07,Botswana,crypto
+9a39cd45-8d52-4dcc-96ee-b6ee91a3dc4f,Phone,1374.32,2026-02-26,Austria,paypal
+b578db5b-2c66-4f59-829b-f3329a44ad58,Phone,84.99,2026-01-21,Liechtenstein,paypal
+40ec7edc-64c1-4490-9759-1e352a097d1b,Tablet,177.13,2026-02-04,French Southern Territories,paypal
+378a0bb0-14dd-42ef-84b7-f667d8e884d3,Phone,182.81,2026-03-02,Tajikistan,paypal
+46e20379-d536-465d-9ae3-d03ce8964105,Phone,1058.38,2026-01-18,Comoros,credit_card
+cd952172-88cc-4748-b713-243306217979,Tablet,1693.68,2026-01-25,Belize,credit_card
+16f3115b-095b-41ec-89a0-db14a6621f3a,Tablet,1524.22,2026-02-15,Poland,crypto
+e13f964e-5a9d-4407-880d-a53cc61074d1,Phone,1340.9,2026-02-04,Andorra,paypal
+da8c6952-008d-4b9e-937d-2245fe37d5c2,Tablet,1722.01,2026-01-04,Gibraltar,crypto
+d3e00b03-655a-4f27-88fa-6d8b7ea6916d,Laptop,809.87,2026-03-03,New Caledonia,paypal
+2572f1bf-4380-453d-81f4-9c0d98ef962d,Laptop,756.39,2026-01-29,Western Sahara,paypal
+1d4a1d29-ab0c-4208-aac1-64dc8060372c,Tablet,501.97,2026-02-19,Falkland Islands (Malvinas),paypal
+d08d2aae-ef52-44a4-b62f-c18f30934abd,Phone,1165.32,2026-01-28,United States Virgin Islands,credit_card
+5e603774-5496-4415-bd2f-b1d896f5c5e0,Laptop,742.0,2026-02-04,Marshall Islands,credit_card
+84e2429d-4c75-4266-bbd6-4da33e96a53b,Tablet,889.82,2026-01-14,Honduras,paypal
+a5b1e865-508a-4a43-a42f-33bd64e93e99,Laptop,339.74,2026-02-08,Guatemala,crypto
+3165b770-8c25-48a5-a080-9d75d23f8219,Tablet,517.93,2026-01-19,Faroe Islands,crypto
+670b9398-3997-4ffe-9401-79792cc8324b,Laptop,405.15,2026-03-04,Libyan Arab Jamahiriya,paypal
+d46e0120-d87c-43da-86c7-40a75d96e5ed,Laptop,954.97,2026-01-03,Kenya,paypal
+f7d8580d-c49c-473b-a3bb-1052c342d7da,Laptop,1980.52,2026-01-16,Mexico,paypal
+27f3b8c4-5066-44a1-94db-eebb09369150,Tablet,1752.42,2026-01-19,Malawi,crypto
+6d1cc873-8830-4b2b-9ca2-f2dc630919d8,Laptop,1958.39,2026-01-19,Nicaragua,paypal
+fe33e3f5-48a0-49b8-97d2-0cf5275a26cd,Tablet,1617.96,2026-02-28,Argentina,credit_card
+389891af-71cc-43d1-9cbc-713db464214a,Camera,1161.25,2026-01-10,Malta,crypto
+90583fb0-7afc-40e7-bf46-bd3c3c8f96db,Tablet,1748.63,2026-01-03,Tajikistan,crypto
+9ed9c528-3fb6-4b85-ae13-adabf2fdce22,Phone,549.68,2026-02-11,Mauritius,crypto
+602f0e93-ac7a-4a71-a248-41487c99b2f0,Laptop,1701.22,2026-02-06,Northern Mariana Islands,credit_card
+7c48f511-097a-40a0-8140-47de4a900705,Tablet,777.13,2026-01-05,Ecuador,paypal
+966592af-0d48-4c8e-8fb4-b161ce671d31,Phone,657.46,2026-01-05,Antigua and Barbuda,credit_card
+754e0d0e-6829-4e70-aa2e-21b11795c8e9,Camera,124.93,2026-01-06,Somalia,credit_card
+08961285-51a0-4197-bb9c-d874795c55aa,Phone,1880.24,2026-02-22,Angola,crypto
+39a4edc9-f80f-4cca-94ec-6e58c55ae7cf,Camera,326.37,2026-01-19,Martinique,credit_card
+f41ed8ca-250a-40d6-b0e2-9b066b23d0a9,Laptop,76.32,2026-02-10,Azerbaijan,credit_card
+26805206-eb36-4247-8985-94896e4bc05c,Laptop,606.43,2026-02-03,Malaysia,credit_card
+f3e5979b-b0f0-486f-a5ce-4c1b977ec356,Camera,1096.27,2026-01-02,Mauritania,credit_card
+c5b39c34-9624-44dd-ba8e-20f4081c0e45,Tablet,109.04,2026-02-17,Somalia,paypal
+e468b9a0-6113-4559-a38c-049d934abfc3,Camera,1409.17,2026-01-14,Sweden,paypal
+db8602b2-540e-4c1f-90c4-14809bba680e,Camera,1420.78,2026-02-11,Algeria,crypto
+d2aab100-aaa4-4fb6-99a6-2365b71d03f9,Laptop,505.27,2026-02-12,Guinea-Bissau,crypto
+c85594d2-701b-48e8-a157-577095dac90b,Phone,1138.33,2026-03-05,Sri Lanka,credit_card
+278a2674-bea9-41b9-bb50-3065194f64b7,Tablet,1050.02,2026-01-17,Haiti,paypal
+df26c94e-d6b7-46a9-835e-bb12d0d62d12,Phone,1644.13,2026-02-23,Latvia,credit_card
+10c2e562-cb2c-4c55-aa15-6e75f39458bf,Laptop,171.87,2026-01-22,Hungary,credit_card
+317c51fb-1e2f-4ed0-9814-9ec403f137e7,Tablet,557.61,2026-01-10,New Caledonia,credit_card
+6292d3ad-6290-4ca7-b16e-f992b7a0a113,Camera,1932.87,2026-01-28,Puerto Rico,credit_card
+200bef92-451d-4cd9-81af-c9ab94d25bcf,Laptop,109.01,2026-03-06,Senegal,credit_card
+171bdf41-0796-4b1b-9c76-dc27a2d25a2e,Camera,1279.31,2026-01-13,Saint Kitts and Nevis,crypto
+5cf13958-202b-4d9f-bf4c-e985e1dfd1ca,Camera,723.55,2026-03-02,Uganda,credit_card
+e3897a8e-afa9-4f25-8019-02ab82183280,Camera,894.51,2026-02-20,Cote d'Ivoire,paypal
+acaf513f-50cf-4f96-9c7b-046365bbd5f5,Laptop,1656.72,2026-02-21,Wallis and Futuna,crypto
+2e49585f-d809-4f7f-b718-602973f25dfe,Camera,1580.39,2026-02-08,Peru,credit_card
+1240968a-259c-40c1-8564-fad74e3f5a4c,Tablet,1503.76,2026-01-29,Romania,crypto
+b7f931a7-5870-4add-a46a-17cabff17a81,Tablet,1545.78,2026-02-11,Malta,crypto
+76f0c3de-1dbb-4c63-a87d-f7601bad51d4,Tablet,111.21,2026-01-25,Botswana,crypto
+7cded43c-a381-4196-aca8-8438e8fccbf1,Phone,1157.12,2026-02-03,Guinea-Bissau,credit_card
+47682129-72e6-43e0-b55d-937ea7d83854,Phone,1003.35,2026-02-18,Bolivia,paypal
+04df17ac-05fa-4b23-ac45-cfd2fc859df4,Phone,1357.94,2026-02-24,Nigeria,paypal
+5a343e7b-c597-42a1-8bae-45f17e4c0eb0,Tablet,1544.61,2026-01-10,Georgia,paypal
+9074d802-92cf-416a-b816-35eca5ae6e8c,Phone,1732.02,2026-01-24,Latvia,credit_card
+f5aeba69-b3cc-465d-b12e-1e51ea3de7c8,Laptop,1971.72,2026-02-02,Mayotte,credit_card
+8a5ced80-95f3-4313-b581-149a202682f5,Phone,472.04,2026-01-24,Burkina Faso,credit_card
+eec9bb43-cf5c-4aa5-b631-3c33aafb21b1,Phone,1133.19,2026-03-03,Cyprus,crypto
+2c286087-e64f-4a43-831b-bc4a4528135c,Laptop,93.93,2026-01-02,Chad,crypto
+f1faa951-6d15-423c-a0ea-35d323db6a5c,Camera,928.14,2026-02-12,Puerto Rico,paypal
+64ce31c2-b3d6-408d-ae3f-384b26022791,Laptop,1145.26,2026-03-03,Azerbaijan,crypto
+bd57ee5d-71f0-4618-808d-17ecc337bb5b,Camera,380.64,2026-02-17,Tanzania,paypal
+c678968b-6501-4128-bc87-8d0b5014dc66,Camera,1856.36,2026-01-31,Niger,crypto
+69123772-0fb5-4b0f-bc17-c9d0bcce80a0,Laptop,1300.28,2026-03-06,San Marino,paypal
+9c1150a4-c6a2-4420-ab48-aa07de25a806,Laptop,1742.79,2026-02-28,Nigeria,paypal
+77aff26b-e7a0-4d5f-9d93-df0c93b3f9ad,Phone,841.58,2026-01-16,Belgium,crypto
+d805ccd7-1d63-402b-a8b6-de7d47805982,Camera,1059.04,2026-02-07,Portugal,crypto
+8a18636e-da2a-42b6-b2fe-29b8678d1976,Phone,1362.97,2026-02-16,Sierra Leone,credit_card
+f330112b-157b-4b35-8809-f646070ddcf5,Laptop,1355.19,2026-02-08,Cambodia,crypto
+133e6b1c-4897-4a84-b62b-ae2f1880fdb0,Camera,452.95,2026-02-06,Comoros,credit_card
+b695e895-351b-4c77-b267-c4c0e88e0a2a,Tablet,1606.14,2026-02-19,Saint Vincent and the Grenadines,credit_card
+43d51ec3-9155-4104-a708-4001073ea446,Phone,244.87,2026-02-23,Togo,crypto
+4879fca1-5d7b-45c7-8a8e-fc8ba4e8eb1a,Phone,1724.78,2026-02-21,Barbados,paypal
+99151c1b-ae01-4ac4-9013-a0b803d7a9af,Camera,1881.05,2026-01-09,Burundi,crypto
+0b0f22d0-ca07-4555-86a3-6e642a01065c,Tablet,943.36,2026-02-06,Israel,crypto
+8e67bd5b-7f4e-4573-98ea-d7040b11a489,Laptop,450.3,2026-01-01,New Caledonia,paypal
+e324673f-d8df-4a77-8f0d-7aefbf397c5a,Tablet,1933.39,2026-01-08,Antarctica (the territory South of 60 deg S),crypto
+861e8d70-b3c6-4b5d-8fe5-556549d75fbb,Phone,942.09,2026-02-14,Israel,credit_card
+3eeb27b2-6638-4707-b822-d84929a72093,Phone,1352.53,2026-01-06,Kenya,crypto
+e2795159-0627-4938-ae41-1cabeb3a92ef,Phone,62.68,2026-03-04,Austria,crypto
+065eda3b-7104-42af-ad21-d41242b1004d,Tablet,262.96,2026-02-12,Svalbard & Jan Mayen Islands,crypto
+70e1df66-636b-487e-b085-23ed627d8935,Camera,1392.8,2026-02-24,Northern Mariana Islands,crypto
+3d54803b-a5fc-4b16-8336-742b2484b8e4,Tablet,78.34,2026-02-26,Zambia,crypto
+319a3e55-068d-40a9-8920-b02e16b1e7a2,Laptop,1672.33,2026-01-06,Iceland,paypal
+84688f31-84b3-4bd0-9619-3a927d39798d,Camera,1463.31,2026-02-26,Estonia,paypal
+9d89c1d0-f65a-4ff7-8afc-9fe074ccb1f5,Camera,764.37,2026-03-07,Panama,crypto
+21a66e8e-ebb2-4c2e-9437-94fb687d095b,Phone,391.44,2026-02-23,Burundi,paypal
+c37545f7-0ec0-4c11-9928-ead825153a7c,Laptop,1377.8,2026-01-11,Gabon,credit_card
+7818c9c6-b6b1-43d9-b303-8bb3ccd8e52a,Tablet,1832.95,2026-01-10,Libyan Arab Jamahiriya,crypto
+681fd12a-80b3-46b6-8fc5-eeefe2b5f661,Phone,1767.66,2026-03-02,South Africa,crypto
+ddb9aa4a-597e-4baf-bc1d-8c9f69c66238,Tablet,1535.84,2026-02-15,San Marino,crypto
+88687ef1-ebba-49ca-a03f-798d21119a51,Tablet,518.81,2026-02-25,American Samoa,paypal
+177f3fd1-426f-46ef-80a8-b9bcd462adf7,Camera,1483.81,2026-02-12,Monaco,credit_card
+402cd8d3-5de3-4a5e-aff1-5e1e1f0ca0a8,Phone,1229.87,2026-01-03,Madagascar,crypto
+74949dc4-b7e1-4794-afc4-8ff1d302e8bd,Tablet,1890.28,2026-02-01,Zambia,paypal
+7c65c7dd-8ad4-402c-8778-0f837ebd738f,Laptop,1827.46,2026-02-20,Pakistan,credit_card
+a2711ef0-07d0-40f2-a522-1a86b220b47b,Tablet,1727.24,2026-02-08,Lao People's Democratic Republic,credit_card
+7d67ceee-505e-416e-91a2-0529ecaaf8ef,Phone,1758.53,2026-01-01,United States Virgin Islands,crypto
+b3b6e084-35ec-40f4-8a80-bd35f9ff52b2,Camera,1226.97,2026-03-02,French Southern Territories,crypto
+bcd88d8e-701b-49ef-90ed-c4adfdf51bd9,Phone,13.63,2026-01-21,Montenegro,paypal
+fee4a7bf-081e-4958-a825-f8def1ef7f73,Laptop,830.72,2026-01-21,Taiwan,crypto
+c50c465a-3f2d-4276-a0ee-5c1f381badf8,Phone,231.65,2026-02-10,Ireland,credit_card
+a800b25d-44a3-46bf-bece-a7cb93f47a9d,Phone,1966.55,2026-02-25,New Zealand,paypal
+cd18b2a8-037d-4c43-bc3d-95685b524c7f,Laptop,752.98,2026-02-26,Slovenia,crypto
+aeec6612-4ca1-45b1-a5d1-dc1349e1345c,Laptop,950.28,2026-02-06,Serbia,credit_card
+38e054d5-c582-428d-9123-c56427a9f14b,Laptop,809.47,2026-02-10,Tunisia,credit_card
+b17f0836-4284-473f-b0f9-dee9d0359f11,Laptop,1231.31,2026-01-12,Montenegro,credit_card
+960b370f-8dc4-4bc4-a2a2-c85cce9b37ba,Laptop,1828.92,2026-01-08,Croatia,credit_card
+ef49bc73-e2d8-4f26-a61f-887b6f13bbe6,Laptop,340.14,2026-01-31,Grenada,credit_card
+ae52a161-5c7b-45d1-be9f-94a0953cc5c6,Phone,1513.08,2026-01-04,Fiji,credit_card
+6d26b64a-082a-4910-ad74-424462a796f8,Laptop,1182.24,2026-01-01,Puerto Rico,crypto
+0152d36f-de6d-4c56-95f4-439daef8b417,Tablet,60.57,2026-02-08,Anguilla,crypto
+9adc011e-3cd3-4f21-a4e0-71de0149601d,Tablet,1274.92,2026-02-18,United Arab Emirates,paypal
+e24cc97a-d3d6-43c7-9c11-7dc45333350c,Camera,133.29,2026-02-24,Slovakia (Slovak Republic),paypal
+75e67a08-7acd-4628-96c4-03473ea05269,Tablet,362.21,2026-01-08,Greenland,crypto
+03fcaf93-985f-428d-a187-4331ff8f1751,Tablet,536.1,2026-03-01,American Samoa,credit_card
+f5979551-45c6-4597-9a86-ca61fe9f9644,Tablet,1950.27,2026-02-03,Liberia,crypto
+48ccec05-d92c-40f3-8881-106aeaefdbb9,Laptop,1006.29,2026-01-17,Martinique,crypto
+0cab4914-0853-4260-97e5-966359e4789e,Phone,1681.96,2026-03-07,Vietnam,crypto
+086cb6fc-d67e-41a9-9e16-b61969815880,Tablet,959.71,2026-01-08,Austria,crypto
+1dcf6d95-b234-4c23-89e2-ee964482f6a5,Camera,149.46,2026-01-05,New Caledonia,credit_card
+faab7996-3f89-4db7-9253-7a4e5f28abc0,Laptop,1736.51,2026-01-02,Svalbard & Jan Mayen Islands,crypto
+9b7356b2-5f5f-4543-ae08-e720e950d9b6,Tablet,165.0,2026-01-19,Ukraine,credit_card
+ebe28d2e-1452-4580-b0d0-69e4137e55e7,Tablet,566.43,2026-01-17,Iceland,paypal
+d2c4feb8-528b-40e4-ab71-00a8feac0035,Camera,1659.57,2026-01-24,Malta,credit_card
+e7ca2752-0b50-474b-8b13-dcde80bd7b3b,Camera,520.21,2026-02-15,Solomon Islands,crypto
+450ed6fc-a66b-4e53-87d9-67170d44b323,Phone,236.65,2026-03-02,Bolivia,paypal
+0c74603c-6396-4727-9159-5d816163d228,Laptop,23.76,2026-01-15,Venezuela,credit_card
+8a3fbd9a-7971-401e-ba0b-2d2e5cb15592,Laptop,1981.52,2026-01-30,Hong Kong,credit_card
+ec415b7a-079e-4661-b954-bdfe4251ce52,Laptop,86.56,2026-01-09,Svalbard & Jan Mayen Islands,paypal
+d19f6840-ebcf-4f35-8860-e00f5ceda539,Phone,881.66,2026-03-04,Belarus,paypal
+fd08e745-c6ae-4240-bfb8-81910a22a1f8,Laptop,596.69,2026-02-10,Nauru,paypal
+32682fdd-b088-4c07-87a0-7a5a67bc259c,Laptop,852.92,2026-02-20,Iraq,credit_card
+1a825855-5506-4b43-8c43-75cd2a5fc553,Laptop,342.75,2026-01-07,Nauru,credit_card
+302434f2-7f62-4a15-b4c8-76aa429e9c06,Tablet,1632.45,2026-03-02,Jamaica,credit_card
+b5a395c8-1d51-4fc9-9b75-f7b0e866a71b,Laptop,1925.61,2026-02-24,Saint Vincent and the Grenadines,paypal
+e5171fd3-54b1-49ca-9081-2cc29a1ab164,Phone,180.63,2026-02-07,Madagascar,paypal
+5b50a1c8-0d08-44a4-9ee8-6b1aa86b53f3,Tablet,379.15,2026-01-27,Western Sahara,paypal
+ce77b45f-aa20-48b1-8690-16734aeffece,Camera,1122.23,2026-01-02,Dominican Republic,paypal
+44040ab3-b05d-4f38-8585-4328b450f19e,Phone,1513.28,2026-02-14,Saudi Arabia,paypal
+0751dab8-18bb-46c4-9255-469eb2712d05,Camera,590.68,2026-02-19,Turkmenistan,credit_card
+9c29df8a-a32d-4f2e-87d6-edd841a1dcab,Laptop,644.05,2026-02-18,Swaziland,credit_card
+543aaa34-aa76-4bcd-8beb-fc01b6460b57,Phone,614.48,2026-02-13,Netherlands Antilles,credit_card
+b922cc8f-509a-4acb-809e-affac5522e23,Tablet,598.58,2026-01-03,Mongolia,credit_card
+2c0c61f8-0d6f-40e6-b852-901056bc3c47,Tablet,1467.28,2026-02-08,New Caledonia,crypto
+1a4af8fe-6dca-413b-b520-a3101bceec57,Camera,1555.27,2026-02-04,Colombia,paypal
+843fe597-ab21-4b25-9bb9-0c0bfa9bf207,Camera,343.05,2026-01-03,Jordan,crypto
+998dc781-ec94-435e-99b2-ae6f4e284451,Phone,1572.51,2026-02-28,British Virgin Islands,paypal
+e81d61f4-e7eb-48af-81ed-71d1caa70f2f,Phone,304.08,2026-02-11,Slovenia,crypto
+b3ddee55-3e43-4aa6-981d-42f15986690e,Tablet,976.24,2026-01-25,Nepal,crypto
+f6036d4c-ebbb-4b27-8ff7-e2376cd17f44,Phone,1893.1,2026-02-19,Fiji,credit_card
+60d3b88a-9649-4a6c-947d-9a095c2a6f64,Laptop,766.08,2026-02-24,Greece,crypto
+face32bc-5b12-45cf-acae-b211fc605250,Phone,1779.64,2026-03-04,Uruguay,paypal
+54c9d1bb-ceb5-4565-b4d8-cd90a6f2fb67,Laptop,38.33,2026-01-09,Guyana,paypal
+cb0cd6dc-0bf1-4cc3-9793-6052ee97bc55,Tablet,179.29,2026-01-08,Afghanistan,credit_card
+12d4d39d-cb8e-4631-96a2-7a352a9d6f97,Tablet,495.91,2026-01-08,Aruba,credit_card
+6694c476-cef5-464f-98a9-6874abe19eca,Phone,213.3,2026-02-18,Mozambique,credit_card
+2553022b-aa8c-43cc-9693-8a748f52f41d,Tablet,1828.61,2026-01-06,Haiti,credit_card
+3fd73a29-efd9-48ec-9563-2d1d391034c6,Camera,1125.22,2026-01-09,Northern Mariana Islands,credit_card
+31528640-e2e9-4e3f-8d3a-d2fa51c6312a,Phone,1919.47,2026-01-06,Burkina Faso,paypal
+13ef87fd-e765-404e-ab83-d197a4ac901d,Laptop,46.39,2026-03-03,Grenada,credit_card
+333eecc6-e04c-4169-87a0-98e73be5d8e9,Camera,1344.19,2026-01-17,Aruba,paypal
+4de3e3c3-5cb6-40d2-a366-3b51920c1fff,Laptop,1544.49,2026-01-08,United States Minor Outlying Islands,paypal
+ecb0a53d-3c29-4aaa-840b-190c41c15700,Laptop,749.47,2026-01-12,Uzbekistan,paypal
+cd383a9f-a6a9-4dd0-bd60-7a9243b06f36,Laptop,1695.14,2026-01-22,Wallis and Futuna,crypto
+b11221a0-b831-4daa-841e-ba49ff79154e,Camera,1800.98,2026-01-31,Ghana,crypto
+59d68649-ecd8-4645-a52e-9ea5aa209cdd,Tablet,1316.05,2026-01-18,Cameroon,credit_card
+687217df-7fa2-437d-812d-1af57c16b25f,Laptop,967.9,2026-01-17,Jersey,credit_card
+5ec275ab-72e8-4012-b9dd-fc2c356ec64f,Phone,361.98,2026-01-24,Burundi,crypto
+1f8a6f6d-db18-4016-9727-1725096f37bb,Camera,1089.45,2026-02-08,Liberia,crypto
+4f72e74d-268d-4b64-b459-4b50966ede68,Laptop,78.31,2026-02-05,Benin,credit_card
+b02362ce-0609-4941-9f31-267563bd1280,Laptop,1031.04,2026-01-31,Mauritius,paypal
+850ab01e-9d44-43c3-96c5-ee81b35aa315,Tablet,1364.32,2026-02-27,Indonesia,paypal
+2d5373c8-a9e2-4899-b52d-d05f7df7d30a,Laptop,666.68,2026-03-05,Mauritius,crypto
+c082b5c4-fb29-4040-9222-a9137170268e,Camera,937.62,2026-01-08,Montserrat,paypal
+fe41d22d-5242-41ba-a32d-34fa609c449d,Camera,774.48,2026-02-22,Uruguay,credit_card
+bdd0e103-dd5c-46d6-bea6-43b4e77f7fe8,Phone,989.35,2026-01-06,Cape Verde,paypal
+58035d5a-e516-4f2d-a10f-b7f5988d688d,Phone,537.19,2026-01-02,Vanuatu,crypto
+669c4374-a3d4-4346-a67f-81c821d59e0a,Phone,1688.25,2026-01-19,Mauritius,paypal
+3ac57ed8-c2f5-42f5-9f4e-74e922323baf,Camera,1461.07,2026-01-10,Guinea-Bissau,paypal
+3e9b5b56-271c-4bf0-a7b4-a876e32271cd,Laptop,1338.06,2026-01-17,Gambia,paypal
+7c127f1a-e98a-4f8a-89bf-d5a4991b8e09,Tablet,699.76,2026-01-26,Kiribati,credit_card
+87384879-7564-4c47-9d37-39383153acb3,Tablet,1835.53,2026-02-24,Jamaica,paypal
+06578379-70c1-47d6-9e53-809623fe5d4b,Phone,1994.38,2026-01-05,New Zealand,paypal
+1853ec0e-4ba9-4951-8d36-f127b2774ffb,Phone,1305.69,2026-01-02,Austria,paypal
+6d8ea5b3-0057-45f4-8528-1e2a9fb0745c,Camera,596.21,2026-02-27,Cape Verde,credit_card
+5e8730eb-d781-47a4-ab41-3385d7e5c6d1,Laptop,268.69,2026-01-26,Bouvet Island (Bouvetoya),paypal
+8a89d354-eaa2-4583-9660-ce1aec7aface,Phone,47.99,2026-01-23,Venezuela,crypto
+e2468ee8-d7ce-4755-ab34-ebde0fad9741,Phone,1707.01,2026-01-22,Tuvalu,credit_card
+db739cfd-7830-4555-9e65-1dba20022208,Laptop,195.56,2026-01-02,Syrian Arab Republic,paypal
+8a8bbf3a-27fd-4610-a5f2-8d2a1a71afc9,Tablet,554.7,2026-02-13,Zambia,paypal
+055534c3-c5c9-4ba7-857a-3459238c777d,Phone,1893.28,2026-02-08,Paraguay,credit_card
+baac98fa-d645-490e-b7ce-452c6dc50112,Camera,366.28,2026-01-16,Cote d'Ivoire,crypto
+f31d4f7f-7df0-4cba-a45d-96415417dc50,Laptop,896.02,2026-01-26,Antarctica (the territory South of 60 deg S),paypal
+4dad62c8-a663-4293-8b9f-4e015089f650,Phone,714.97,2026-01-09,Costa Rica,paypal
+d2aec66e-bc2f-4e1f-8c4c-6acba0922725,Phone,889.85,2026-01-27,Faroe Islands,crypto
+c829034d-e5a5-4bbd-a596-aba769a8b069,Phone,984.49,2026-01-17,Cameroon,crypto
+668cce63-4a06-4896-b5af-67170ebe5048,Tablet,1183.78,2026-02-17,Anguilla,crypto
+bad7f032-4627-4d73-9a34-d9a8ca352454,Laptop,1901.12,2026-01-15,Saint Vincent and the Grenadines,crypto
+da41e1e1-6ce5-43e5-bae4-24e43a9ed3b3,Camera,866.61,2026-02-20,New Zealand,credit_card
+33bd0002-b86a-42f2-8648-db10da33f022,Laptop,1994.19,2026-01-16,Fiji,crypto
+0babb870-190f-4bb6-ab72-a545c362f9a2,Phone,167.55,2026-01-21,Antarctica (the territory South of 60 deg S),credit_card
+d9c27a0e-bbe9-4659-9465-07110f361701,Camera,580.48,2026-01-15,Bermuda,credit_card
+dce7f40f-b5fa-4551-88de-4a255a3e22f3,Laptop,1662.09,2026-02-05,Russian Federation,paypal
+62e3a8a6-39f1-4bdd-818d-adfb93cb9914,Laptop,1310.31,2026-01-10,Kiribati,credit_card
+bf7408c3-1819-4a5c-a238-da6c3b5dabfd,Tablet,1401.13,2026-02-05,Ukraine,paypal
+a2d84906-62a3-4f09-859f-58e4b6f67a3c,Camera,1488.95,2026-01-18,Costa Rica,crypto
+52b031f6-ad33-42ce-9662-87b9dbdf3fa4,Laptop,1888.21,2026-01-14,Indonesia,credit_card
+aebed2d4-09f5-4362-9996-f7e4deb2fe86,Laptop,1486.04,2026-03-01,Sao Tome and Principe,crypto
+633ca882-24e6-49be-a2b6-609beaa98ea5,Camera,1272.88,2026-01-24,United States of America,credit_card
+34b44b79-ce52-4fa9-8b3b-3d9c1d3dae08,Tablet,327.09,2026-01-02,Georgia,credit_card
+dce94194-62a3-44f0-b6ad-1da0b80027cf,Phone,1217.51,2026-03-02,Trinidad and Tobago,credit_card
+2a7823a1-3a8d-493a-bf51-f056f984e9ad,Camera,1845.25,2026-02-01,Reunion,credit_card
+943d82c3-8df5-4708-a513-ed94b0f123f7,Tablet,1700.47,2026-01-26,Georgia,credit_card
+ad1158f4-afa4-4fa0-a6a5-0c0361a6835f,Laptop,877.18,2026-02-25,Burkina Faso,credit_card
+27cbc450-7fab-48cc-b90f-39bdf3ab09f0,Tablet,1785.52,2026-01-04,United States of America,crypto
+53c38e3d-c938-4e8f-88f1-71b303643b7e,Tablet,85.93,2026-03-04,French Southern Territories,paypal
+a83a0125-246d-4cbe-bad2-b9c7dc810e84,Phone,1151.57,2026-01-08,Switzerland,paypal
+6731b70f-06e6-4a80-ae85-71aac9f0b555,Laptop,1845.16,2026-01-01,Saint Lucia,credit_card
+40d83a52-8f6d-4a61-bb12-c81fa54093b6,Tablet,519.2,2026-01-12,Serbia,paypal
+c5503804-81f4-4917-9205-40a810ef8b6b,Tablet,630.92,2026-01-02,Australia,paypal
+9d693abd-436c-4b15-add9-fb700a022ff3,Tablet,1621.37,2026-03-02,Australia,credit_card
+f6590365-dc9e-40b7-9447-d042cbf362fe,Laptop,242.22,2026-01-26,Luxembourg,paypal
+dfbf89b7-b2f1-46b5-8edb-dc5fb2b0cd6a,Camera,553.15,2026-01-08,Palestinian Territory,credit_card
+30826aea-b43c-41f6-9dc6-bb6dbefcb4c9,Phone,1194.37,2026-01-19,Israel,paypal
+96f5096d-b9c7-4aa0-bcdb-3fddd5e24980,Camera,1002.53,2026-02-05,Northern Mariana Islands,credit_card
+441ab580-a47f-4e18-8564-e13db7641d3c,Laptop,65.94,2026-02-27,Saint Martin,crypto
+2e6d09bb-0870-45c7-9b91-dc063ec81aae,Tablet,693.68,2026-02-02,Italy,credit_card
+591af19b-22eb-4eb5-a397-e34979800a04,Tablet,132.47,2026-03-07,Cuba,credit_card
+876bbab1-ad68-4336-9eac-38e62af81c11,Phone,1381.11,2026-03-06,Ukraine,credit_card
+7001302a-00f2-45ad-8716-f344a7d49817,Laptop,201.02,2026-02-18,British Indian Ocean Territory (Chagos Archipelago),paypal
+b9092d8e-2633-4a79-835f-150d819b729d,Laptop,935.28,2026-02-09,Malawi,paypal
+048cd4ac-1184-4b77-a809-33edec26fb22,Camera,823.76,2026-02-05,Seychelles,credit_card
+4cf4d6fd-e037-4592-9f26-1ed9912d06b3,Camera,230.25,2026-02-27,Jamaica,credit_card
+248394d2-d6c8-466e-871d-2e9283424996,Tablet,173.27,2026-02-20,North Macedonia,crypto
+1c668d9a-aa20-4278-950e-cbef8d7536e5,Laptop,366.19,2026-03-07,Palestinian Territory,paypal
+8e06e31d-6738-4649-86bf-6359ae31a58b,Phone,1556.38,2026-02-20,Burkina Faso,crypto
+1823312c-b61f-41e3-98f0-77fd02539bc1,Camera,1662.92,2026-03-03,British Virgin Islands,credit_card
+6ce93e8f-19c7-41c8-882b-16d6dad4a68b,Tablet,1749.85,2026-01-09,Falkland Islands (Malvinas),crypto
+3720d12a-c363-4d4a-99ff-ea7d16d77f62,Tablet,1134.8,2026-02-26,Qatar,credit_card
+f36659b2-fe68-44f6-a5b9-ec6c15e44b9e,Camera,1464.17,2026-02-27,Saint Vincent and the Grenadines,crypto
+2a8a2366-6e6c-4b03-89c5-caad161848c3,Tablet,266.19,2026-03-06,Iraq,credit_card
+6553e1ad-d02a-4d72-aca5-43b4067393cb,Phone,1988.79,2026-01-22,Iraq,crypto
+3d99ba8d-6d5a-4524-8f57-6051be1d2d88,Tablet,1514.63,2026-01-21,Trinidad and Tobago,crypto
+b501660c-9de1-4f12-954d-b21847c78778,Laptop,1790.5,2026-01-20,Philippines,credit_card
+c03ddf3f-1c95-4e01-ab94-bd2085d3b549,Laptop,340.18,2026-01-02,Saint Pierre and Miquelon,crypto
+019e9009-b0eb-4e84-a6f8-53eec0a225bd,Camera,439.84,2026-02-13,Swaziland,credit_card
+2d0076c9-7bd5-49c7-a38a-36ed421b5e36,Camera,736.11,2026-01-23,Greece,paypal
+2c3d3a8b-2ad3-43db-a186-3ee112e50bf7,Tablet,1448.34,2026-02-15,Andorra,credit_card
+169798eb-a0ef-4174-aec5-dcb42626df8b,Camera,1112.81,2026-02-06,Libyan Arab Jamahiriya,crypto
+5571d364-9c43-4c6f-b45a-0ab3bb970553,Tablet,389.98,2026-01-30,United States Virgin Islands,credit_card
+be1ace38-e397-4f1a-8f61-53ee46f3bb88,Camera,836.32,2026-02-07,Kyrgyz Republic,crypto
+f4d9948c-4440-4cfc-b6df-961f41570938,Phone,1062.05,2026-01-28,Western Sahara,paypal
+2c7b6357-9e04-49c5-bafb-31895d313fb7,Camera,579.3,2026-01-08,Cameroon,credit_card
+4f18a7aa-2e9c-4837-b4b2-4d6c2c6c0680,Phone,1916.97,2026-01-10,Saint Lucia,crypto
+6fb97b50-afca-4ee5-9537-3ed90322176d,Laptop,1218.09,2026-01-08,New Caledonia,credit_card
+924ecf57-010c-4d3a-971a-9756ff8ea25f,Tablet,1952.41,2026-02-28,Greece,paypal
+cc93a6dd-6551-45b9-8b7a-37960964f4c3,Camera,767.69,2026-01-08,Canada,credit_card
+9ab742d7-495b-4910-8b18-660d7c43c2d6,Phone,305.5,2026-01-04,French Guiana,crypto
+a0b11bf4-bcba-413d-afbf-844922c82b0c,Tablet,1636.67,2026-01-07,Anguilla,crypto
+05f9a503-9920-42bc-b30b-68c51b7bd81e,Laptop,1564.39,2026-01-06,Brazil,crypto
+0cf37663-df98-4d25-82a2-c5434ebd7fed,Laptop,217.64,2026-02-19,Yemen,credit_card
+1c63caaf-c509-4dee-925c-ac35a2103fd3,Camera,1100.44,2026-02-21,Niger,credit_card
+d1925fa1-f27f-4605-96b4-f8b367c2b508,Laptop,1737.34,2026-01-22,Maldives,credit_card
+0cb98eb6-c8f3-453e-8591-000f7a948a0d,Laptop,1546.4,2026-03-05,Burkina Faso,credit_card
+720a3d3b-f3e1-427e-9360-1c3e9d977b67,Phone,1724.02,2026-01-01,Niger,credit_card
+9523c00a-348a-4324-930e-da198271aa82,Camera,358.59,2026-01-01,Honduras,paypal
+e99c510d-dcc8-4e2d-a60c-f0edc6e0134d,Phone,1374.45,2026-03-03,Ukraine,credit_card
+00dfb42c-b26f-47b9-8153-5d5d3c09667a,Camera,342.82,2026-02-26,Namibia,crypto
+0ce372a4-681e-4ad9-9e5a-878ad1da721b,Camera,73.09,2026-02-10,Poland,paypal
+e59fabcc-fba3-4f29-9e30-7af2cce4ffc3,Camera,1152.23,2026-01-24,British Virgin Islands,credit_card
+a2f094f1-cbdf-4335-ad56-21a06b4e9ca6,Tablet,964.15,2026-01-15,Angola,crypto
+816c0090-4e85-45f5-9961-af2f1570b347,Camera,1805.82,2026-02-24,Marshall Islands,paypal
+37cc127f-ba57-414d-806e-a3422851b3eb,Laptop,1864.61,2026-02-08,El Salvador,credit_card
+37e4d2cf-f287-442d-8bfc-1fbafadedd67,Phone,517.87,2026-01-05,Sri Lanka,credit_card
+7f8940d2-6617-45ff-b1f4-740ef9c7f9fd,Phone,1048.88,2026-02-06,Azerbaijan,paypal
+ee7ebec5-acf2-4dd4-9768-5df9b987696a,Camera,1279.59,2026-02-22,French Southern Territories,paypal
+cdd33679-ba1f-4fb5-b80a-9fbb0e35ea10,Laptop,1665.84,2026-02-10,British Indian Ocean Territory (Chagos Archipelago),paypal
+eff441d8-ee49-425c-9fc1-0070c85892cd,Camera,664.26,2026-02-25,Rwanda,credit_card
+8a028ed7-5d76-4976-915b-38c03fc2e615,Phone,1725.92,2026-01-05,Uruguay,credit_card
+ff7af004-dcba-47b4-9cff-42159708ee47,Camera,1763.63,2026-02-23,Falkland Islands (Malvinas),credit_card
+69e7dc7c-52fd-4440-bafe-c72108a53891,Laptop,95.75,2026-01-06,Hungary,crypto
+460495f3-d16f-4f9b-b7b5-4666525ecf14,Phone,1052.03,2026-01-19,Cocos (Keeling) Islands,paypal
+48f38776-b3a2-4079-bf45-0dd05b1b7946,Camera,619.58,2026-03-04,Congo,paypal
+97c567f0-73bd-4bf5-80f2-f8161214d937,Laptop,925.05,2026-01-29,Liberia,credit_card
+64e77340-7f9c-4aee-967a-4de38ff3c79f,Tablet,287.62,2026-02-10,Kiribati,crypto
+445c085d-85cf-4cbd-900f-f133c16862e3,Tablet,1228.85,2026-01-03,Gabon,credit_card
+2fdf6d99-229f-44d3-a390-4a503c15cea1,Laptop,1253.2,2026-01-03,Uganda,paypal
+90f7e7f2-e27c-44ab-b1b8-1cf89fafb243,Tablet,649.72,2026-02-22,Pakistan,crypto
+c0f7a5bf-15a6-469e-856b-94d4aaf6a4c9,Camera,1013.77,2026-01-02,Argentina,credit_card
+1eb4752c-3cea-4a8a-bc4b-d7dc80cb90b8,Camera,425.58,2026-02-04,Israel,paypal
+a1aab6d2-7897-4d3f-9858-5a068d43aaa4,Laptop,167.17,2026-02-24,Yemen,paypal
+05cf681d-5d2e-4fed-b1be-8cb9f4391130,Tablet,966.17,2026-01-30,Cook Islands,crypto
+d1176a8c-a23c-4653-a25f-b9131d33c32a,Camera,1932.45,2026-01-10,Bhutan,crypto
+624d597f-efc3-4b9e-9448-f8f049847a52,Camera,220.91,2026-02-18,Gambia,crypto
+dbdaa477-d058-4e4a-b121-f8cebcb0ad16,Tablet,1710.02,2026-03-01,Mongolia,credit_card
+3257045c-e6d6-43f0-a917-0ffb4bfff058,Phone,392.84,2026-01-24,Iraq,crypto
+e878c20a-f63a-4f5c-abae-b9d322018f48,Tablet,1054.69,2026-02-04,Burundi,paypal
+c7af3eab-5948-4767-a769-bf96c53d6479,Tablet,553.18,2026-02-08,Armenia,credit_card
+dcd852ba-4a1d-4851-9298-2cc8d80f670a,Tablet,493.21,2026-02-13,Holy See (Vatican City State),credit_card
+19dee966-f942-48fc-8a30-e00ec313682f,Camera,1777.12,2026-02-19,Paraguay,paypal
+cdbb6b7f-b4ac-4d6a-a831-90ff934c9648,Tablet,1747.78,2026-01-12,Serbia,credit_card
+28209bff-33d3-4c19-b6f4-d591a6350776,Laptop,1675.34,2026-01-17,Dominican Republic,crypto
+3de84138-c76e-48b9-8da4-27d7ef9fd324,Camera,1138.82,2026-02-15,Hungary,credit_card
+4e63ae3d-f97d-4b5c-abca-ffe4b1e25315,Phone,1392.37,2026-02-12,Saint Kitts and Nevis,crypto
+5c7ebbb9-4c3d-426b-8326-b21f1b347a43,Phone,339.78,2026-02-11,Ecuador,crypto
+fd9d2c1f-cae7-4644-9a05-93b66dc01b12,Phone,1711.41,2026-03-05,Myanmar,paypal
+36ad343a-3d1a-4a24-b28a-3397c42b27eb,Phone,1107.66,2026-03-03,Turkmenistan,crypto
+ec63613f-1c2d-4e94-ba7d-fd3a46d19cef,Camera,1012.52,2026-01-27,Latvia,credit_card
+0245a14a-fd99-4dc4-8373-492b237b7c44,Tablet,1086.71,2026-01-08,United States Minor Outlying Islands,credit_card
+1d5f8a76-18e5-4cc7-a2a5-af0f8c2326e2,Tablet,313.9,2026-02-24,United Kingdom,paypal
+8179a670-d1ba-4b9f-a352-dd1a4f472daf,Phone,727.06,2026-03-01,Vietnam,credit_card
+d5d3d0de-32a0-4aa4-b7dd-25e9d3a44238,Camera,1343.39,2026-02-23,Timor-Leste,crypto
+65a9cd2e-324c-486d-afd4-4d4208b2c07e,Phone,1064.01,2026-01-26,Bulgaria,paypal
+49160c3b-b1b8-411e-b278-bed842730193,Phone,1871.51,2026-02-12,Kazakhstan,crypto
+5ab05e92-055d-4d7f-820a-20b87fa32839,Tablet,733.22,2026-01-18,Guernsey,crypto
+d17ee1f4-e930-4fe9-b6a4-6a199d8d62db,Tablet,1831.46,2026-01-29,Uganda,credit_card
+4de7c1dc-3e5c-48de-869d-7e06edf41428,Tablet,972.35,2026-02-17,Liechtenstein,paypal
+810781f9-ae6f-469a-8dca-58bea8ba888a,Laptop,541.1,2026-02-21,Slovenia,crypto
+1214f2ca-67e9-4c45-8cac-33a820130d79,Laptop,1049.34,2026-02-05,Syrian Arab Republic,crypto
+be541c83-ac90-4c29-a965-7514ed05df07,Tablet,512.17,2026-01-21,Georgia,paypal
+3f948bbe-7971-477a-8c9d-ac1e6bcdf98c,Phone,1354.39,2026-01-17,Cape Verde,crypto
+3816b108-00e9-4f9a-8143-a19ff8cc9f42,Laptop,1284.89,2026-01-24,Palau,credit_card
+f6f2d1a5-0a39-4dee-be70-0de071afadf9,Laptop,1076.75,2026-01-08,Pakistan,credit_card
+97546903-e19d-4dd6-9dea-96e09ad556d8,Camera,1440.97,2026-02-27,Germany,crypto
+6b9455d9-3b3c-4329-98b6-43741bff41b6,Laptop,395.63,2026-02-01,Qatar,crypto
+3bf1a779-c744-4ecb-bb50-ccd4dd6425e4,Tablet,1014.5,2026-01-10,Portugal,credit_card
+790087c3-2a5f-41a6-af0e-8971e977ef39,Laptop,310.82,2026-01-10,Costa Rica,paypal
+681efb99-bea7-4e53-8357-492f9067c6ab,Phone,1663.19,2026-01-10,Oman,credit_card
+fd376c41-c2b8-4686-85ca-5151adb13b6a,Phone,791.55,2026-01-28,New Caledonia,paypal
+f9c72654-7150-443c-b121-6498aa3b0553,Camera,193.59,2026-01-06,Palestinian Territory,crypto
+72c0fe8d-001b-43ee-af79-2fa5ca5d79a4,Camera,1195.06,2026-02-24,Vanuatu,paypal
+d3695cc9-c07a-4186-bf8b-fd68f46a5c11,Tablet,467.9,2026-01-19,Burundi,credit_card
+20b45516-b79f-493b-a160-d3b7aedea205,Tablet,746.97,2026-02-21,New Zealand,credit_card
+1c10505d-4d22-4bb9-9308-9c7a8c28474b,Tablet,1800.23,2026-02-02,Andorra,crypto
+918a55ce-483d-460c-9887-f661da7c15ce,Tablet,1745.2,2026-01-05,Bermuda,paypal
+a706df84-1de0-4fe2-bbd3-548dfd764fb4,Phone,928.36,2026-02-10,Equatorial Guinea,credit_card
+ead9b38e-2127-4765-bbb2-fbe0a864f224,Laptop,1096.13,2026-03-01,Isle of Man,crypto
+8a010f21-2c17-4f01-9b48-33821cc30f3d,Tablet,1334.82,2026-02-03,Benin,paypal
+496fde4c-009c-40eb-972e-c9aaba7fd457,Phone,1577.1,2026-02-21,Christmas Island,credit_card
+5ea6d1bd-e802-4309-825c-87047b38c8d2,Tablet,1328.03,2026-03-01,Samoa,credit_card
+85b2c392-ddbe-4cf0-b1f8-856a10fc442c,Laptop,507.24,2026-02-01,Sri Lanka,credit_card
+9536e067-e9fe-4d82-81f3-8cd2d9224be1,Tablet,1507.35,2026-01-15,Slovakia (Slovak Republic),crypto
+631c889c-80fd-47fc-afd9-94943335a183,Camera,1866.06,2026-01-11,Jordan,credit_card
+5799330c-84c8-4f25-848e-1b36125254e3,Laptop,1366.75,2026-01-26,Aruba,crypto
+264ef5b4-f7fc-4234-8dcb-f88a4697232a,Phone,152.59,2026-02-19,Gabon,paypal
+eb4140c5-ea7b-4cbb-998e-87540a7678cd,Phone,1160.99,2026-02-01,Suriname,paypal
+2ea77b65-2d72-4597-9bf6-ff67e9e8e58a,Laptop,1820.46,2026-01-17,Nigeria,crypto
+7b6a7a74-6be8-4b7d-8ab9-60c9c92fdd7c,Phone,1094.19,2026-02-13,United Arab Emirates,paypal
+f42ee137-a5c0-40c0-bf19-62e089264f53,Laptop,382.16,2026-01-04,China,paypal
+c78d6e3c-4b00-4529-b050-ac907ff12d8c,Laptop,503.11,2026-02-18,Iran,credit_card
+23e65bf6-18e5-4803-9ff5-c0c5a48cce04,Phone,1007.16,2026-01-01,Zambia,credit_card
+31150918-2c72-4448-aeed-c07e91f07bbc,Camera,1067.96,2026-01-25,Rwanda,crypto
+cc18164f-a56a-415c-a9ed-def4ccc08e59,Camera,1980.95,2026-02-13,Saint Barthelemy,crypto
+66e73e61-b3d3-45a9-a6a4-325ba7e873d2,Tablet,1101.23,2026-01-31,Mali,paypal
+73633370-38ee-4abf-a401-7b15af596308,Tablet,1107.58,2026-01-01,Sri Lanka,credit_card
+6cb04d74-36b7-48a7-9616-90702140edf7,Laptop,363.78,2026-01-11,Netherlands,credit_card
+12e83bf2-8dc2-408a-b757-cf4c9be6ebbb,Phone,76.38,2026-03-02,Liechtenstein,crypto
+10ffc915-4e44-4b9b-a001-1dbd34994b51,Phone,1318.1,2026-02-06,Barbados,paypal
+a6f05bc9-8773-4463-828e-a358fcdf1c61,Phone,718.71,2026-02-08,Solomon Islands,crypto
+b480d0c0-78c3-492a-b7f6-cd6a296318cc,Phone,1646.75,2026-02-08,Mayotte,credit_card
+d3d304fe-0408-42c0-84b2-2d86fdf981e2,Camera,1360.42,2026-03-05,Gabon,paypal
+a08361c7-1433-4d9c-943e-0c1f52272df1,Camera,1009.29,2026-03-03,Saint Helena,crypto
+c893574e-658d-4158-aa4c-3ec330903e8e,Camera,1010.9,2026-01-22,Mongolia,paypal
+0af5a7a3-2c6e-4460-917a-0987acbc4643,Laptop,1254.7,2026-01-07,Mali,paypal
+b43881d5-cd8d-4e26-a9e7-a96c7f404f0f,Camera,231.42,2026-01-04,Afghanistan,paypal
+c25f5832-f475-4477-913f-8c35fe980c95,Tablet,1336.08,2026-01-06,Djibouti,crypto
+d921284b-5ca9-40b2-8ea0-cf92f846ef1c,Laptop,1621.29,2026-01-29,Chile,credit_card
+d34237e7-d21a-4e62-a077-4f7530db80df,Phone,745.4,2026-02-25,Bermuda,credit_card
+e2470597-ff0e-4e39-8c9d-f2d1f8db1054,Phone,988.77,2026-01-01,Anguilla,crypto
+96113e9a-9294-43f7-a035-625209b32df0,Camera,1886.47,2026-02-10,Malaysia,crypto
+73537010-c287-4d14-9829-e8e649dd836e,Camera,1138.66,2026-02-05,Guinea,credit_card
+517f92e2-2987-4108-a8d6-9ad7ae463c1c,Camera,556.87,2026-03-02,Guyana,credit_card
+fd6ccd7c-2d07-424f-b0c1-da2cf923ef5d,Phone,450.16,2026-01-12,Namibia,paypal
+aece79a1-fa56-4992-90a7-e1c689d2592c,Tablet,362.84,2026-02-08,El Salvador,credit_card
+5c2182e5-0ced-4c6e-8479-858ec34cb1c6,Tablet,1465.83,2026-01-30,Bahrain,paypal
+d814d313-f1e7-4f83-b421-7d8a9012b5dd,Phone,697.66,2026-02-11,Congo,paypal
+32ce8eea-8847-4c00-abee-115571a729e8,Laptop,729.53,2026-01-12,Jamaica,paypal
+f06a9323-6c6c-4734-8f96-94a7eea6fb07,Laptop,1193.07,2026-02-18,Jordan,crypto
+e9208d1e-26f6-47da-b272-989912fa3419,Tablet,1477.33,2026-01-08,Nauru,paypal
+557b63d4-94e8-4475-ac28-1b24d741af2e,Laptop,1288.8,2026-03-02,Comoros,crypto
+fc8feac5-4f04-483b-bd8a-9b306418ebf8,Camera,1803.96,2026-01-03,Cambodia,paypal
+5da4d106-0d53-4029-bf14-c5b7240e3188,Phone,1879.36,2026-02-08,French Polynesia,crypto
+7388cbfb-b701-4416-8ae5-599ae5843982,Camera,1264.3,2026-01-07,China,paypal
+d8342a9c-fd4d-41f7-8b7c-25175e7235de,Tablet,1218.77,2026-01-02,Korea,paypal
+d004e91c-4781-4e8e-bae3-24c685e0c839,Phone,314.25,2026-03-06,Bosnia and Herzegovina,crypto
+e5212212-7942-47d2-87f2-969d63ae09ae,Camera,1362.94,2026-03-06,Belgium,credit_card
+90e78053-5cc0-4111-9875-fc97396e2b30,Laptop,489.64,2026-02-28,Colombia,paypal
+72f73e0e-092f-4b94-a0ca-7ee12e06fb30,Camera,1894.5,2026-02-22,United States Minor Outlying Islands,crypto
+284f3642-8246-452a-aba4-125f4fe72488,Camera,1083.39,2026-02-13,Portugal,paypal
+63e59595-327a-4c5b-8477-3937ab643137,Laptop,1730.68,2026-02-16,Nicaragua,crypto
+9b52ae4b-f088-4dbb-add6-fc29099d0a55,Phone,327.2,2026-01-01,Cape Verde,crypto
+1d7e1325-1498-49eb-bd4b-6a7f88c4f3e0,Tablet,496.47,2026-01-27,Turks and Caicos Islands,paypal
+20e3f207-974a-4c4c-b4b9-8a784027de28,Phone,575.36,2026-03-07,Netherlands,crypto
+85b0e8a7-8706-49f6-a98e-9ebf08af3a57,Camera,1704.98,2026-01-06,Jersey,paypal
+df6ad840-4905-44ca-a700-9054337db4fd,Phone,192.76,2026-01-16,United States Minor Outlying Islands,paypal
+03e7b10f-d956-483a-9b25-323b057af590,Tablet,1437.97,2026-01-01,Slovenia,credit_card
+46f237ff-bd2c-45a1-8411-006f184f78c6,Laptop,856.42,2026-02-17,Congo,credit_card
+20e5968e-8a91-485f-8160-19c46df1d6fd,Phone,1993.76,2026-01-29,Mongolia,credit_card
+28d1280e-367e-4dd9-b5fa-da33087dcb1f,Tablet,66.72,2026-02-15,Malawi,paypal
+19edbd9b-cb20-4946-9c84-5b0b9f52231a,Tablet,1485.98,2026-02-02,Ghana,paypal
+fdb48d5d-f909-4033-aa8c-2e12fae8cf87,Camera,920.02,2026-03-04,Kyrgyz Republic,credit_card
+aa1cfd7d-a41b-4444-ab3c-8be70173e02e,Camera,561.09,2026-01-21,Eritrea,paypal
+53d1dc2a-e6cf-49e0-b1b6-639516a8bb84,Tablet,1590.8,2026-01-17,France,credit_card
+3bf22461-fe30-4b5b-9f37-69b68fe39fb7,Laptop,405.66,2026-01-07,United States of America,crypto
+b6e77f52-715c-4434-8776-55c058f61f08,Camera,1436.53,2026-01-16,Antarctica (the territory South of 60 deg S),crypto
+8b122949-0104-4812-a137-37d93813653c,Tablet,1911.57,2026-03-07,Liechtenstein,crypto
+031079e6-ac02-4040-86ea-32da90c9887e,Laptop,97.29,2026-02-17,United Kingdom,crypto
+e8a70414-5377-4a2c-a757-b99f1efdce0e,Tablet,994.77,2026-01-18,Maldives,credit_card
+7b7f1635-2e96-429d-915f-e2c1a8684b07,Phone,1428.98,2026-01-20,Ireland,crypto
+81a56390-0a2c-4143-8f0c-68fbfe03155a,Tablet,800.7,2026-02-24,Italy,paypal
+82b5be29-5b0e-47a8-a65c-62809d7cba24,Phone,1049.8,2026-02-28,Bahrain,crypto
+d3907184-4fc8-424f-b5a4-09a1919c986a,Phone,199.65,2026-02-15,Iran,credit_card
+c85d17bb-12bb-4a38-9a3f-f7bb4738e5a9,Tablet,831.26,2026-02-05,Norfolk Island,crypto
+c6ea9389-8b0e-4fc3-93c0-1a16b571b3ee,Camera,135.23,2026-02-24,Portugal,paypal
+42655876-cd8b-4caa-9b2e-180ba50622c0,Camera,1823.43,2026-02-02,Korea,credit_card
+83c3b637-57a6-43ab-8ed7-5d5cfafa0930,Phone,752.83,2026-02-17,Chile,crypto
+10a0c99a-beeb-4201-a4e5-b9d2ddf9539b,Camera,899.09,2026-02-13,Kenya,credit_card
+f84150c3-c674-4847-bf26-de5d72f5dff2,Tablet,1159.74,2026-02-05,Saint Martin,paypal
+d217bc83-4eb6-42fd-bb5b-30d961dfddc4,Camera,102.18,2026-02-12,Nauru,crypto
+094d6e09-5cd3-40f5-8480-8db11cfe71a6,Camera,1344.66,2026-01-01,Suriname,credit_card
+c4261150-fa18-4985-b3e2-f16fe8223e72,Laptop,1647.92,2026-01-25,Guam,crypto
+35ff153c-c6b4-4c0c-85d3-3912c9c0aed0,Camera,493.7,2026-02-21,India,paypal
+faf4f572-e1d5-4345-84a7-1363303c7d20,Phone,249.41,2026-02-22,Liechtenstein,credit_card
+4119b770-f8fe-4526-b281-b03daf724205,Laptop,1738.48,2026-02-28,Poland,crypto
+550fe50b-0295-4b3e-a445-cdc6b60a932d,Phone,1879.88,2026-01-20,Lebanon,paypal
+6b4e6716-5d3d-4439-b502-d03700e87ccb,Tablet,681.85,2026-01-03,Myanmar,paypal
+ab91f49f-09da-4002-9d93-bc6650af08a4,Camera,67.23,2026-01-05,Rwanda,paypal
+d9214552-0efd-4af2-aada-13572c5ec64a,Laptop,1300.78,2026-01-05,Sri Lanka,credit_card
+2e67e16c-57ad-40e0-adfa-e778683e1201,Tablet,189.66,2026-02-19,French Polynesia,credit_card
+b5e94e77-ef01-4789-a41d-077e573798c0,Phone,1066.49,2026-02-25,Puerto Rico,crypto
+e2b773d9-fc95-4d5e-baf3-33b72caccc81,Phone,936.66,2026-01-24,New Caledonia,crypto
+f0dc164f-08e6-4db4-be2e-2b5f574fa698,Tablet,328.92,2026-01-13,Estonia,credit_card
+a97898ff-e338-4aa6-b749-29ba4f5707d9,Camera,144.81,2026-03-05,Kyrgyz Republic,credit_card
+83f61523-663c-468a-b28e-58d2af2277e9,Laptop,365.32,2026-02-17,Saint Martin,paypal
+605c6fb7-f94f-46c5-92df-2494e16f64b6,Laptop,1336.74,2026-02-28,Malta,paypal
+3d121b83-ca62-4bca-8e2f-c69db66a3364,Phone,1479.59,2026-02-02,Hungary,crypto
+ed10104f-361f-4644-8bb8-edffec5a35b0,Laptop,1540.2,2026-01-25,Belgium,credit_card
+498095fd-d9ff-4159-8f61-321fa7bc7500,Laptop,385.63,2026-01-16,North Macedonia,credit_card
+3f0ce708-177d-4c6d-b1a6-c1dea1a581fb,Laptop,1188.63,2026-01-26,Jersey,paypal
+1f666092-370e-43eb-8792-edb4798875ab,Laptop,209.37,2026-01-31,Australia,credit_card
+fba2b7fe-b342-4713-a582-f187b8355157,Laptop,1274.23,2026-01-21,Indonesia,crypto
+2beae4ca-2f1c-464e-b87f-f32385549eb2,Tablet,1672.06,2026-02-23,Bhutan,crypto
+3aa9dccc-165a-4a2e-b8d6-d5fa9d60c421,Tablet,915.55,2026-01-27,Isle of Man,paypal
+ec423748-fd57-481f-8d4a-47f37d450df3,Camera,138.37,2026-01-27,Ireland,credit_card
+8c26360c-5ad1-4ff1-a76e-220f37e2b6ea,Tablet,1677.6,2026-02-18,Micronesia,paypal
+2e4edeaf-b2be-4105-b5d3-c182541599e6,Tablet,932.2,2026-02-14,Swaziland,paypal
+3a0aa825-13fa-4510-927c-c4491c0e21c3,Phone,887.75,2026-03-07,British Virgin Islands,crypto
+dfc23ed2-e5b4-4ff4-9c56-def190b269c2,Tablet,989.18,2026-02-20,Belarus,paypal
+d430b0f3-24be-4071-ac1a-a634b84b609b,Laptop,534.95,2026-01-24,Mexico,credit_card
+4738d8c3-bae8-4935-b2b2-38f12ad00277,Laptop,1557.01,2026-02-09,Guam,paypal
+98d991a0-0186-4041-9c65-7b09659348a1,Phone,1081.94,2026-02-15,Bolivia,credit_card
+5eb5421f-8b72-478d-b215-ed25e5e2d472,Tablet,1550.6,2026-02-19,Barbados,credit_card
+b6629d60-3203-4073-84a4-51d5b27b83b9,Phone,193.44,2026-01-15,Costa Rica,paypal
+47f20230-2db4-4927-a72a-80aeaa556821,Laptop,656.2,2026-01-28,American Samoa,credit_card
+17680750-314b-478b-b69c-e3145941d640,Camera,1108.2,2026-02-04,Tunisia,credit_card
+017ed133-db96-4e0a-bec0-73450e520cca,Laptop,941.02,2026-02-05,Saudi Arabia,credit_card
+764ec328-e5c9-4956-9f94-438e912df66c,Laptop,1544.01,2026-03-06,Germany,crypto
+57012180-31c7-46c9-8275-fbe669bbfea8,Phone,1758.28,2026-02-25,Trinidad and Tobago,crypto
+df47a6b5-0f2a-400a-9c5a-b161e565a621,Phone,1227.46,2026-02-15,Poland,paypal
+c1776bcd-e9c4-43af-9a12-a2947841fc14,Phone,498.13,2026-01-18,Germany,credit_card
+5025c925-041f-40f2-9a0b-bb3ae53e4dee,Laptop,1113.53,2026-02-19,Bolivia,crypto
+b8459e79-b244-449d-91ca-443df3fd4259,Tablet,250.09,2026-02-21,Norway,crypto
+4ec4835b-785f-4c99-87fc-8630f7720108,Laptop,292.35,2026-01-24,Cuba,crypto
+2a1079c9-ff44-41b7-921d-e2ea795b47aa,Tablet,460.5,2026-03-05,Ireland,paypal
+3cb67250-bf4c-4b73-9970-fefabe0ec7c0,Tablet,1317.63,2026-02-05,Indonesia,crypto
+ad748402-831a-4c45-8e8a-6ab417943d64,Camera,289.96,2026-02-05,Saint Pierre and Miquelon,crypto
+d3004013-a5af-4888-9532-7cf8dec4c312,Laptop,571.59,2026-02-11,Costa Rica,credit_card
+1f874bea-c37c-4adf-a209-71ea09fec9c7,Phone,1868.49,2026-02-26,Falkland Islands (Malvinas),paypal
+cc7eb44c-e3ac-4156-8a0f-8297b3646641,Tablet,19.98,2026-01-10,Malta,credit_card
+837641b0-a64d-4e21-a8af-c8ed95a9e66a,Phone,1552.08,2026-02-28,Saint Vincent and the Grenadines,credit_card
+6bce5e5b-9a37-4306-9f23-cd13559bcac8,Camera,1383.04,2026-02-02,Dominica,crypto
+c79f7307-5118-46e8-bae4-13d24e88a158,Camera,166.09,2026-02-20,Greece,credit_card
+b557aae6-1b3d-4266-a2de-5ba546bea516,Camera,528.85,2026-01-24,Cook Islands,crypto
+80bcc333-0c16-4553-b758-c614372aa58d,Tablet,770.15,2026-01-16,Saudi Arabia,paypal
+e8c04b41-bfae-4933-8856-87c9226dab0a,Camera,445.08,2026-01-17,Netherlands,credit_card
+623c6709-ff88-48a0-a0eb-d06cf60119a2,Camera,1350.85,2026-01-05,Cuba,credit_card
+0fd3185e-0364-4bbc-8286-acd149a57368,Laptop,1339.73,2026-02-18,Nicaragua,paypal
+3203ea64-4676-4ce4-b726-eaf5e7592f11,Laptop,586.58,2026-02-16,Bahrain,credit_card
+0948c3bf-05ba-4b09-abae-9703c3955172,Camera,659.19,2026-02-14,Guernsey,crypto
+11218bee-94d4-4228-8f32-bc7256be460d,Laptop,1758.01,2026-01-02,Vanuatu,crypto
+0adf5897-f178-47f6-b7b0-9b934be5f7c8,Laptop,225.87,2026-01-04,Uzbekistan,credit_card
+af66e73f-e001-4501-8aa9-081a96ce1360,Phone,1189.21,2026-01-22,United States Minor Outlying Islands,credit_card
+8f29f8af-0c16-41cb-8633-6c55baace969,Tablet,447.14,2026-02-20,Niger,paypal
+0236d062-b023-4f40-ab47-f2dc4c6f9549,Tablet,340.15,2026-01-16,North Macedonia,credit_card
+6f037fd4-79fb-421c-9e48-1dcbb94d7807,Laptop,1420.61,2026-01-18,United Kingdom,crypto
+40f56441-5200-4ca0-ac8d-7f686194d8e0,Tablet,538.05,2026-01-22,South Africa,credit_card
+5bf557c3-c3b3-4e5a-8e0a-9ff28fc90c24,Phone,1094.2,2026-01-29,Tonga,crypto
+448a53b5-8527-466c-8745-98cca782ea2c,Tablet,746.89,2026-02-23,Faroe Islands,credit_card
+79cb8b95-5f0d-4ad9-885c-2d2fc8b73430,Tablet,96.75,2026-01-12,Guernsey,credit_card
+018ed19d-8ddb-49b2-9ec2-2a15616f3555,Laptop,321.0,2026-02-24,French Polynesia,credit_card
+afa40100-d701-4ce5-b914-9621bbfd4358,Laptop,349.36,2026-02-12,Zimbabwe,crypto
+36bdf66c-38ef-4460-af19-5c0b836b7de2,Laptop,1621.07,2026-01-05,Palau,credit_card
+5ae5070c-8800-4d84-9ced-666a9da729e7,Tablet,1740.27,2026-02-03,French Guiana,paypal
+733a9b89-1fb8-4719-90d2-549815900e2b,Phone,1462.92,2026-02-12,Kuwait,credit_card
+14234c7e-8bc0-4fae-ac42-5709c669c08e,Camera,1618.12,2026-01-28,United Kingdom,crypto
+17a22318-0247-4283-b606-68165dec2a1d,Camera,1271.69,2026-02-23,Mauritania,crypto
+a81c8fb1-7265-45b8-8ac3-7511e419f533,Camera,82.19,2026-02-19,Aruba,paypal
+701eb51d-207f-41f4-b548-90c4c28c596f,Tablet,1041.27,2026-02-18,Niger,credit_card
+a5a97262-82ee-476d-99d3-167051b8e4fd,Tablet,646.02,2026-02-05,Hong Kong,crypto
+f2e821df-e3b4-4efc-a2eb-de3a54d14b3a,Tablet,1508.8,2026-01-03,Trinidad and Tobago,credit_card
+41d79087-c657-436c-8842-8a012169e84a,Phone,121.32,2026-01-21,Fiji,crypto
+3f765c42-62f9-45f0-b724-83d0bfa792df,Phone,347.06,2026-01-26,Holy See (Vatican City State),crypto
+4471b6dd-859b-4609-bee5-ef4bd933eb6a,Laptop,838.22,2026-01-15,Chad,crypto
+791a608f-fc2d-4509-9daa-85d55ac4d794,Phone,1455.55,2026-02-25,Luxembourg,paypal
+70baebd5-7ae6-47c1-b81c-b1a15f7ca5a3,Laptop,389.48,2026-03-03,Cayman Islands,crypto
+7e523b30-2c57-4310-be38-fed036d46683,Phone,1194.69,2026-01-22,Rwanda,paypal
+5f6d239d-e08c-4082-973a-c31922679f45,Tablet,1327.98,2026-02-04,Mauritania,crypto
+fe89adf0-1d50-4dfc-a4f4-8d5384a16458,Laptop,686.02,2026-01-28,Latvia,paypal
+31a9e2ef-b17a-44cd-a52c-c24f860d4f07,Camera,352.1,2026-02-03,Colombia,credit_card
+1af5b304-acb8-40d7-ab6a-a062e3a2b58a,Laptop,1650.43,2026-02-22,Serbia,crypto
+5aa26349-f04e-47d5-a99c-7e1e33c0bb95,Tablet,1138.27,2026-03-06,Cayman Islands,paypal
+b81a40ed-8be1-4ffd-bbfa-8b0efb01ea4d,Phone,557.29,2026-02-10,Sudan,paypal
+499a82eb-0e47-4f0f-b4a3-7e50d35db4b7,Laptop,1215.49,2026-01-14,Tuvalu,paypal
+c2fdec7a-1761-4318-bf85-55b85790d438,Laptop,1639.97,2026-02-17,Armenia,crypto
+50f014db-3a88-43fa-a0d4-4fc667df1967,Camera,716.91,2026-02-11,Myanmar,crypto
+b7fc437a-0cf9-4a15-8ca5-e63c3bbb691f,Phone,93.67,2026-02-14,Switzerland,crypto
+a2ca3263-49e0-4421-9644-64c4fb6cc0c3,Tablet,471.41,2026-01-25,Rwanda,paypal
+9dfd5d82-8485-4a4a-9ef3-ee7b53bd8a82,Phone,928.6,2026-02-20,Netherlands,paypal
+7d682b30-cbf3-4ff3-8a48-9a33d569f53b,Tablet,1842.71,2026-01-14,Syrian Arab Republic,crypto
+6bb07abc-ec1b-4d86-a511-a0c3e3dedb50,Tablet,62.16,2026-02-25,Saint Barthelemy,credit_card
+38c650a1-8b06-4286-bf6e-1480f9c77802,Camera,392.03,2026-02-13,Norfolk Island,paypal
+02555d2d-bf0a-478f-be0f-617d4d21c5f6,Tablet,622.56,2026-01-25,Cuba,crypto
+d8adfffd-ce78-41a6-95e0-5eed42525f2e,Phone,1731.61,2026-02-11,Vanuatu,paypal
+ddc251af-d6e2-4753-8a03-7819851fdeb1,Camera,873.55,2026-03-05,Botswana,paypal
+a7a6a4dc-fe96-4d27-87f3-2cfe241de439,Camera,1758.33,2026-01-24,French Southern Territories,paypal
+35152718-a83d-4026-b19d-5a1f6c15e84b,Camera,1574.83,2026-01-01,Korea,paypal
+ca802b40-27b8-4ad0-9cbb-ab82b50027ac,Laptop,1464.56,2026-02-01,Marshall Islands,paypal
+e0d60619-5212-4445-8d1e-b2fd2bb98777,Tablet,1365.07,2026-02-17,Ghana,crypto
+968d0396-4486-4abc-938b-29fdd7da82d7,Camera,191.66,2026-02-01,Iran,crypto
+fabd6634-d6d6-4c70-9a9f-6e049207f814,Tablet,445.15,2026-01-27,Swaziland,credit_card
+3ee90204-0d06-412c-8a35-926e784c3a3c,Tablet,1380.4,2026-02-19,Aruba,crypto
+13911b2d-d8eb-49c7-842b-9c167503836e,Laptop,1011.23,2026-01-17,Aruba,paypal
+5ac9d47e-15c2-40d6-ad19-cc4cacf8554c,Tablet,1369.27,2026-01-20,Pitcairn Islands,credit_card
+82279e7f-d002-4f81-9671-d2c40ff1d2c3,Camera,608.59,2026-01-22,Guam,crypto
+2fa97915-10b0-4e31-8101-70afd6ced360,Camera,1505.02,2026-01-03,Micronesia,crypto
+32dca7df-5aff-4a64-a8d1-5c678c6adc22,Laptop,1419.44,2026-02-12,Colombia,crypto
+2a3e6960-b3f9-4b5c-af15-f69156f3ccdf,Tablet,1073.22,2026-01-01,Uganda,crypto
+d8b83740-cb16-4a5b-851e-77f4878f1090,Tablet,710.3,2026-02-18,Colombia,paypal
+66fb8bfe-1de9-46ec-a16a-faeb6cdacaba,Tablet,1767.05,2026-02-22,Vanuatu,crypto
+46bc82a7-10b3-49a6-b1b8-e07ef501550e,Tablet,673.53,2026-02-21,Tonga,credit_card
+b6ea38d1-31fa-498c-a9c9-cfcf92d86062,Laptop,1015.3,2026-01-20,Vietnam,paypal
+7b73c911-01e9-40ac-babe-26276b8a7ddf,Tablet,1794.75,2026-01-28,Indonesia,crypto
+6fefdead-0b32-4dec-9b04-57bd57a94d60,Camera,699.2,2026-03-04,Antarctica (the territory South of 60 deg S),crypto
+de2e151e-c4f8-40b4-ad43-b3075c3bda2b,Camera,493.77,2026-01-17,Taiwan,crypto
+f4ffaf62-f030-4326-ba6f-d3d03b36474c,Laptop,1944.09,2026-02-10,Papua New Guinea,crypto
+edcfbd2d-afca-4836-8040-4dcea482961e,Phone,575.32,2026-01-06,Yemen,credit_card
+45c5e67c-a382-44b2-a0ef-52b39c8533fa,Tablet,527.32,2026-01-22,Malawi,paypal
+6ea85ed7-2977-445a-b95e-d603aca70d2e,Camera,1282.67,2026-02-09,United States of America,paypal
+8dc189b6-bf19-4965-8914-e3a3093af431,Tablet,481.22,2026-03-03,Cote d'Ivoire,credit_card
+3ce245f7-d7d3-4317-a822-cc21de508f2d,Camera,481.22,2026-02-11,Cameroon,credit_card
+9c84579c-c842-41b6-98b5-9ac4e89c1532,Tablet,266.12,2026-02-16,Myanmar,credit_card
+8be26195-0d08-44eb-b6b8-d8810461e5c8,Camera,138.71,2026-01-19,San Marino,paypal
+1929fd29-6400-42f9-9edc-3374918d0161,Phone,1917.39,2026-01-03,Portugal,paypal
+d60301f8-ce76-4b44-bbba-17d30f7529d2,Phone,1863.26,2026-02-09,North Macedonia,paypal
+6a426a8b-462a-4259-a5a0-483076d51500,Laptop,1386.47,2026-02-15,Bulgaria,paypal
+b905de67-e0d1-4ad5-8779-f30907252562,Laptop,1370.78,2026-01-11,Sri Lanka,paypal
+dcb6aa09-7225-4e4e-a034-aa93e58cd5a5,Tablet,1211.35,2026-02-03,Mongolia,crypto
+8ff1356f-2f76-4d80-aa86-7f7ebbbe8f45,Laptop,46.78,2026-02-15,Botswana,paypal
+b4ddc769-da3f-4e17-a976-590b26501099,Tablet,1305.62,2026-02-17,Suriname,crypto
+6e1a0837-2da5-4168-a161-caa6b4f0d3cd,Phone,944.24,2026-01-15,Guinea,crypto
+d2f9d25c-25f0-4ed3-98e0-658a927cb9e3,Laptop,223.46,2026-03-01,Saint Helena,crypto
+5d580fa0-d8be-4ec1-9e7f-f43a2f5699b2,Phone,636.66,2026-02-02,Cape Verde,credit_card
+bf05ef31-c628-49ea-a31c-1286e8d3c722,Laptop,1095.19,2026-02-05,Peru,credit_card
+2302e7e4-db8c-4fdc-9a87-2bf962371892,Phone,567.96,2026-02-01,Benin,paypal
+177e58da-9b49-4254-891d-5ceb7ae1eacc,Tablet,1309.52,2026-01-14,Venezuela,credit_card
+c1a63ae9-9511-4218-bcfb-6d25c903e5a1,Phone,1559.49,2026-01-05,Cape Verde,credit_card
+e70c8ad3-6d5a-4ff2-89f8-844ef27ad152,Phone,1552.63,2026-01-15,Philippines,paypal
+c37f0d3c-a179-4a01-a34a-bb8e05934e36,Laptop,1403.88,2026-01-16,Greenland,credit_card
+8d7a893d-0e57-45f9-948c-e14385892d80,Camera,1338.62,2026-01-06,Guam,crypto
+3a703951-fe57-46d8-97ca-7383cf4e3765,Laptop,1524.05,2026-01-31,Papua New Guinea,credit_card
+df5276c7-cdf5-41f0-9330-6d81d64186a5,Camera,1282.46,2026-03-02,Senegal,paypal
+99742ff7-3150-4db8-aefd-78d5cef79ec9,Camera,333.73,2026-02-03,Philippines,crypto
+1fa85917-8ca0-4c9c-834f-88210096bd29,Phone,1568.39,2026-03-04,Seychelles,credit_card
+a0e1c40b-cf57-4743-aa61-8a2cfa12830a,Tablet,276.85,2026-01-08,Estonia,crypto
+7b0161e8-cd2b-4d5a-b425-72875f2cc3f6,Tablet,532.96,2026-01-18,Netherlands,paypal
+0bcd7300-da48-4ef8-86a5-8aedb290cdec,Camera,737.63,2026-02-13,Syrian Arab Republic,crypto
+178ea599-5454-488f-913f-8d7f079e64d9,Laptop,1787.11,2026-01-08,Brazil,crypto
+4a57cd4b-abdc-4d68-82c0-2fe039d6548e,Laptop,1976.67,2026-01-04,French Southern Territories,crypto
+5e2a4f6f-2406-4765-9ea5-3f35e907bc76,Camera,206.25,2026-01-06,Nicaragua,credit_card
+8d8a1f0b-4523-4fd2-8e50-e0d734394b87,Camera,577.0,2026-01-11,Cook Islands,paypal
+b5918eb5-cb6a-4884-a4b0-952e03f06f17,Tablet,563.88,2026-01-16,Niger,paypal
+72ac6ef4-7ffc-4d0e-a5ec-407f34575965,Laptop,762.58,2026-02-18,Tanzania,paypal
+89164d2c-a546-4593-88cd-d0feba0ae0ab,Tablet,721.1,2026-01-30,Honduras,crypto
+64bb20e6-c3d7-4625-9169-8997f8e8a208,Phone,209.47,2026-02-27,Thailand,credit_card
+13f0a346-8e16-4160-9f09-c519c42f5864,Laptop,1665.63,2026-01-26,Guatemala,crypto
+fd041fc3-2e6f-47e5-8419-96f2d6c6f52c,Laptop,494.47,2026-02-02,Djibouti,paypal
+720fa344-b4bd-4470-bbff-e8a03ce1289b,Laptop,784.35,2026-01-26,Denmark,paypal
+092390f7-44b3-428b-928d-a56a09bfad5b,Laptop,789.13,2026-02-21,Barbados,credit_card
+a4b1fe98-23e5-4a73-b294-d17f52b34350,Tablet,357.72,2026-01-07,Jamaica,paypal
+8d14c667-5d3b-452f-b74f-d6f9cc522e17,Camera,1429.61,2026-01-30,Namibia,crypto
+e19cdc4a-4abe-4eca-acdd-cb8329e3862a,Tablet,1202.25,2026-02-08,Lebanon,credit_card
+6438698a-0fad-4d6e-adee-b012f6f42aaf,Phone,50.52,2026-03-06,United States Minor Outlying Islands,credit_card
+3f5bd14c-2b1b-4c76-a9ef-01c54b1ed81d,Laptop,313.79,2026-02-03,Benin,paypal
+1041320a-e1bc-4775-9809-2a4eb1a26bfd,Tablet,1012.78,2026-01-13,Afghanistan,crypto
+6deb01e6-84b1-4a53-aec6-b0a6903575c6,Phone,1534.36,2026-02-19,Bangladesh,credit_card
+731e818e-f76f-4165-93ae-343772c8751c,Tablet,1078.2,2026-01-21,Pakistan,paypal
+34a68b8b-fb37-47c9-b130-ad9401e40196,Camera,112.39,2026-01-02,Marshall Islands,crypto
+5cb9d68f-41c2-4235-a89b-7aef6e777f3c,Phone,44.93,2026-01-13,Malaysia,credit_card
+178a09ac-d405-4732-b4aa-e08c0f01254d,Tablet,965.98,2026-02-26,Chad,paypal
+cddefc2a-aa61-4f50-a753-a719a377ab13,Phone,717.52,2026-03-04,Estonia,crypto
+f413e5e7-540e-4601-aee5-fa44fb2afbb5,Tablet,1165.74,2026-02-17,Bhutan,paypal
+99d0e2b9-6247-46e4-b98d-a169cb1fa31d,Tablet,1389.97,2026-02-28,Macao,crypto
+848e71f6-2340-47e6-a9ca-f5dc158cf1d9,Laptop,474.56,2026-03-04,Wallis and Futuna,crypto
+b6dd3077-a658-44f8-a49d-220a7bfe3a62,Phone,1453.39,2026-02-24,Korea,credit_card
+cb23a597-151a-4c2f-862d-76c0424ade94,Camera,185.93,2026-01-15,Korea,crypto
+803d5cea-24c2-4c84-89bf-cf894649770a,Laptop,1904.79,2026-01-23,Burundi,credit_card
+9bb43eb1-1495-4e3f-9133-c48a10a8a475,Camera,777.48,2026-01-09,Nicaragua,crypto
+aeaffcee-fba4-4285-aec8-4efa9f2385b1,Camera,15.87,2026-01-21,Syrian Arab Republic,crypto
+e57e2dc5-c7ab-44e1-8953-eafe2ba4c32c,Tablet,1199.67,2026-01-23,Mongolia,paypal
+4baca404-96c5-4902-868b-e997c26cb091,Laptop,1774.6,2026-02-20,Nicaragua,credit_card
+fcffb5b9-58ef-4e55-8e1d-4915e5606eba,Camera,318.88,2026-01-12,Macao,credit_card
+85f8f928-0d0b-41d5-a480-729bd243a2e8,Laptop,118.16,2026-01-09,Greece,credit_card
+713ab1de-deac-4cec-b848-f0f862709104,Camera,586.38,2026-02-01,Falkland Islands (Malvinas),crypto
+faa6623d-087e-454c-96a5-8b50fe16eb91,Phone,1836.25,2026-02-28,Eritrea,paypal
+41504c03-5fe4-43b1-b151-8ee55da0e66e,Phone,1261.98,2026-01-09,Bolivia,credit_card
+5caadff0-2aea-4dae-98c7-f89f2ce9db8a,Phone,481.11,2026-01-10,Turkmenistan,crypto
+6b34a182-8c49-4d53-a5ac-fc8bb1dc11fb,Phone,1408.77,2026-01-26,United States Minor Outlying Islands,crypto
+917028fa-ac5f-4770-9373-22fd62375070,Laptop,603.88,2026-01-22,Bhutan,paypal
+dc82361d-0811-4f97-8002-023435422cd3,Laptop,1873.84,2026-01-11,Central African Republic,paypal
+b707310d-2b01-4422-8f09-a92113a42b5a,Tablet,961.13,2026-01-24,Papua New Guinea,crypto
+2154b9d6-c807-40f5-93e9-a8d875de9ac9,Camera,1742.48,2026-01-04,Egypt,credit_card
+d683bd39-9c06-41af-9aa6-95714c73ed15,Phone,146.67,2026-01-05,Gabon,crypto
+437830b9-6130-46e7-aa9a-b0390c7751ae,Camera,1519.19,2026-01-01,Central African Republic,crypto
+12bc857b-bcd1-4bbe-89ab-0691f2b88df4,Camera,1200.92,2026-02-21,Hungary,paypal
+d2e58603-9d43-4a17-9c36-93f7ae3087ae,Phone,284.14,2026-02-16,Montserrat,paypal
+cfd81e89-74a6-4201-9bc6-2a6d6ec99c00,Laptop,777.21,2026-01-12,Togo,credit_card
+d83cdf6c-4ee9-421d-8619-6cf7a9455038,Tablet,672.62,2026-02-10,Tunisia,credit_card
+913fe685-11e5-4680-bb42-4649093e0cb3,Tablet,191.42,2026-01-18,Sri Lanka,credit_card
+8cfa76fa-b0b8-42f5-a93b-cb77078dd502,Laptop,1337.85,2026-01-14,Saint Kitts and Nevis,credit_card
+fbf1cea3-f56f-4087-ab05-5feab45e4395,Tablet,259.53,2026-01-24,Equatorial Guinea,credit_card
+d95b10c6-69b8-429a-9703-31c3d3af7b0f,Camera,292.63,2026-02-22,Austria,crypto
+eb7251ef-0268-4364-9f12-0237c41d6ee0,Laptop,789.42,2026-01-08,Panama,credit_card
+014f3e09-d023-44e5-9bb7-983184d8af9b,Tablet,1241.95,2026-01-22,American Samoa,crypto
+d8e26db5-f22e-4d07-b73b-deee4bfd5ac0,Camera,760.01,2026-01-29,Gibraltar,credit_card
+ef60ca0d-3ba4-487e-9238-7d56a180e3f8,Tablet,662.63,2026-02-26,Thailand,paypal
+4eaa319b-495a-46cb-a237-c10d9914de54,Laptop,1741.05,2026-01-30,Hungary,crypto
+8cfe20cc-8e61-4ce9-b350-a72af3382f1a,Tablet,1210.08,2026-01-08,Serbia,credit_card
+cbabfb54-651c-4025-b9ee-fcc72c61d5b4,Tablet,326.38,2026-02-19,India,credit_card
+03b6a122-cd61-4f2b-92ac-ac0b63301ddd,Laptop,148.44,2026-01-09,Austria,credit_card
+fad4ddf9-860c-4a30-9a12-3f96bf017852,Phone,1423.67,2026-01-26,Macao,credit_card
+205d0467-4ad1-4a87-984c-30b1f0c113b0,Laptop,141.78,2026-02-26,Slovenia,paypal
+8efce0c2-998d-486b-8fb2-83236ecaaaaa,Phone,1828.47,2026-02-27,Central African Republic,crypto
+d85a1326-947f-4b85-9407-2191004b5a61,Phone,263.55,2026-01-28,Iraq,credit_card
+4a980f53-0d2e-4103-936b-ce91ffa559c1,Phone,1521.51,2026-01-06,Saint Barthelemy,credit_card
+0635de3b-651f-4bbb-8f33-11bec5dfdc1c,Camera,658.81,2026-02-13,Saint Lucia,paypal
+0af801f3-3dd7-4299-b05f-068fcae30f63,Camera,245.08,2026-01-22,Azerbaijan,credit_card
+8096da93-4e25-493a-999e-ed4fadd5cb9a,Tablet,1398.84,2026-02-03,Venezuela,credit_card
+78acd2c0-e204-42b9-9544-e94ff2dc6314,Phone,1668.98,2026-01-09,Ethiopia,credit_card
+639be10a-a1a4-4ae6-8e5a-a555223cec86,Tablet,1246.79,2026-01-30,Argentina,crypto
+7aa66d98-0faf-4e87-8ba6-8beac6375f7b,Laptop,312.99,2026-03-06,Kiribati,crypto
+c9971b54-2b66-4c5a-ac27-8430147c4dbc,Laptop,115.38,2026-02-20,Oman,crypto
+db93ff24-1411-4c3a-8f20-e14eac23fca2,Tablet,830.54,2026-02-27,Luxembourg,paypal
+a60bb1f1-a93d-4a35-b52c-83ce6a78567f,Phone,816.26,2026-03-02,Faroe Islands,credit_card
+7576c9d1-ccbf-4ce4-970b-5997df1bc55d,Laptop,568.92,2026-01-15,Greenland,crypto
+0a7a96c8-4716-4eb7-a0d8-dc142022943d,Laptop,347.22,2026-01-17,Finland,crypto
+83648500-da59-4702-bd15-a1a04fafcefc,Phone,200.82,2026-01-12,Cuba,crypto
+d150ecce-0e3e-4ccd-9bb7-33e943e27792,Tablet,942.04,2026-01-06,Anguilla,credit_card
+66f48f6d-930c-4b4f-ba95-6437110c53ea,Phone,684.75,2026-02-20,Singapore,credit_card
+2a92bac0-c570-447d-9244-5b14483dda84,Phone,813.03,2026-01-10,Swaziland,credit_card
+39445c61-19b3-4618-ab47-d78649282333,Tablet,320.12,2026-02-03,Guinea,credit_card
+06602014-9be6-4239-897e-21c783c1be3f,Laptop,949.48,2026-02-15,Portugal,credit_card
+0096f4ce-aec5-4944-805e-ef37586cbedd,Laptop,1283.1,2026-02-11,United Arab Emirates,crypto
+12620063-8a1c-4c91-89dd-9b098eb60b31,Phone,968.42,2026-01-11,Bolivia,credit_card
+e12ad536-07b5-4049-904d-971adc335d1c,Phone,1006.28,2026-01-04,Portugal,paypal
+b5e9cf49-c912-4fc0-913f-75b599e60b70,Tablet,1162.24,2026-02-10,Switzerland,paypal
+67cc4c48-0c90-4ac1-86b2-da921b052a5f,Camera,1607.59,2026-02-26,Lithuania,crypto
+0dd924f4-4cc6-4d78-a439-89a920e27a56,Tablet,492.97,2026-02-05,Benin,crypto
+88d3706d-d697-4d52-b0f0-365d9f22e7f0,Phone,1805.65,2026-02-24,Namibia,paypal
+029501b8-9065-44b1-acc7-e0e8b9ac47b1,Tablet,740.21,2026-01-06,Kenya,crypto
+af6750ef-b20e-4113-a27e-5c822c7c4cb0,Tablet,612.94,2026-01-29,Argentina,crypto
+89df1f83-c98e-4d27-ad35-60482634ec54,Camera,602.61,2026-01-24,Kuwait,crypto
+50cb2ce7-035f-453a-8769-94ef62f2b946,Camera,1991.39,2026-02-02,Czech Republic,paypal
+e10df4b4-d2cf-4613-8e42-c77135538f85,Phone,1616.19,2026-01-02,Afghanistan,crypto
+221b13ca-c767-479d-a2e2-5942520f9987,Camera,1280.36,2026-01-20,Colombia,crypto
+dc63273b-d758-49de-aeab-4071355db108,Phone,1933.41,2026-02-22,United Kingdom,crypto
+fe83fa98-f66b-45e4-975a-05a5662ded1d,Phone,1728.92,2026-03-03,Aruba,credit_card
+661d841c-6136-4e40-9f6c-9393f3ef914c,Laptop,551.61,2026-01-26,Timor-Leste,crypto
+649aca98-cec8-4f32-be3e-5d58f78dbad2,Phone,1242.35,2026-01-03,Mexico,paypal
+c9ec275c-e4ef-48ea-9038-05e624e62f20,Tablet,1693.4,2026-02-02,Brunei Darussalam,paypal
+8e50b11b-001d-427a-8711-eca5af534110,Tablet,928.19,2026-01-14,Mayotte,paypal
+29070a87-e04c-4db4-89cb-2a958816c745,Tablet,1876.24,2026-01-12,Equatorial Guinea,paypal
+a46e5715-c0c4-472c-82da-39c4fd9c2abc,Phone,1582.67,2026-01-04,Norway,crypto
+04a205c3-5d6f-4afc-b84b-5e79a4736323,Laptop,718.56,2026-01-28,Papua New Guinea,credit_card
+554adfce-85ab-42a7-8e1e-4f0fb08893b5,Phone,1442.39,2026-01-14,Equatorial Guinea,crypto
+9da84f88-3239-49fa-9c98-c6dd92093146,Tablet,1649.36,2026-02-18,Cuba,crypto
+20145f0d-5dfa-4707-a0ca-0a3927580383,Tablet,1043.38,2026-02-06,Paraguay,credit_card
+088273d1-a944-4832-9f63-8dd21169257f,Camera,772.14,2026-01-13,Romania,paypal
+e0b86b50-48f0-4d62-9059-aa37fb8e610f,Tablet,912.11,2026-03-03,Egypt,credit_card
+679cac82-817c-41c8-acc7-36df9c950cc1,Phone,455.49,2026-03-02,Kyrgyz Republic,credit_card
+afe6b51a-72d3-45f5-ac80-105890541032,Phone,1478.4,2026-01-30,Benin,paypal
+f66579b0-3c15-4575-82b2-3cab6ae07b16,Laptop,868.47,2026-03-04,Afghanistan,paypal
+a6997458-25c9-40f8-a4cf-f66782acaf43,Tablet,505.01,2026-01-01,Sierra Leone,crypto
+d7e2dabc-b197-4153-a149-fb53054f1b9a,Phone,1188.06,2026-01-21,Austria,paypal
+9402226a-70bc-43e4-88c7-21cee29274bb,Phone,318.62,2026-02-01,Portugal,credit_card
+2f9f284d-f6b9-4e39-8d2f-08ca8c7292c6,Tablet,82.55,2026-02-20,Australia,crypto
+51fab5dd-4d81-46a2-b616-64ed3e490e1a,Laptop,1452.86,2026-02-17,Grenada,credit_card
+4f954204-e552-449b-adf4-c6baec5903eb,Phone,278.33,2026-02-14,Hong Kong,paypal
+2e5ba783-2a7f-4df0-9f3b-32a2d6421bfe,Laptop,786.66,2026-02-26,Marshall Islands,paypal
+075100c1-bacb-460b-aee7-24822a0bd24c,Camera,1099.72,2026-01-08,Turkmenistan,crypto
+3cd56d10-ae63-4e8a-9337-a07d62ffa635,Camera,280.0,2026-03-06,Malawi,crypto
+c0b9e742-7c2a-42a0-99cc-d484c0f8e8c8,Camera,779.87,2026-03-01,Mauritania,paypal
+ddc72feb-a82c-4464-be6f-88bf6f82b3ea,Phone,1246.22,2026-02-06,Bouvet Island (Bouvetoya),crypto
+32570d78-3fce-4127-942c-32e13b061c01,Camera,1827.1,2026-02-22,Gambia,paypal
+21288cbc-9700-48fc-9e1d-ee9215f25086,Tablet,751.51,2026-02-18,Australia,crypto
+90e3fb55-7764-43c7-a0f4-f6f45efd14de,Tablet,1237.98,2026-02-22,Iceland,crypto
+2d2f7387-1d22-4c2e-b8d7-1a8de90ed53f,Phone,1140.17,2026-03-01,Nepal,paypal
+fa3e29bb-e37a-4b67-8c79-c67548e71d5f,Camera,1248.56,2026-01-12,Guam,crypto
+3474bb80-b51b-498f-b1ad-4b08c9e667e3,Laptop,1286.24,2026-01-26,Italy,credit_card
+68e2c373-adac-4272-9253-3a54fd9658dd,Phone,554.41,2026-03-06,Cayman Islands,crypto
+9f07d4b0-7a58-4280-8ce4-468bcf9720d1,Laptop,741.03,2026-02-02,Anguilla,paypal
+d6cf3e13-1c00-42c2-bda0-e806f246e43e,Laptop,454.76,2026-01-08,Belarus,crypto
+efacb77d-7aae-40a7-9d91-33658209a3d1,Phone,1984.62,2026-02-03,South Africa,credit_card
+be8fc88f-2b8a-45f7-a6e3-d3a29f0d1e83,Laptop,377.44,2026-01-02,Saint Vincent and the Grenadines,credit_card
+2ebd3a7e-d1dd-4963-8a46-0185e42bf93f,Camera,252.55,2026-02-18,Uruguay,paypal
+896d3c15-8117-4196-9c44-9f40b9858c86,Phone,1034.17,2026-01-04,Gabon,credit_card
+fb122095-b70e-487a-a8b4-b3d2e49556c0,Camera,17.1,2026-02-17,Iraq,paypal
+de11d99b-bb97-42a1-b2c5-3a4fd81a46e9,Phone,40.71,2026-01-03,Switzerland,paypal
+4b6436f1-8800-47d3-82eb-03b64d467a9c,Tablet,1894.93,2026-02-01,New Zealand,paypal
+6c010f04-4e96-4cd4-8556-f3eda97de257,Tablet,171.85,2026-02-23,El Salvador,paypal
+b647f969-fa96-4dd7-8e11-e785c2f9ec6e,Camera,1080.62,2026-02-26,San Marino,paypal
+90a2c5f2-0907-4700-812c-796259b2c8c4,Tablet,1145.59,2026-01-05,Saint Pierre and Miquelon,paypal
+c29fc9bb-909c-4682-bb40-b562eaf041df,Camera,780.17,2026-01-28,Nicaragua,paypal
+9f4333fb-ed3f-4e7a-9ed3-90c4415d69af,Laptop,1177.41,2026-02-04,Azerbaijan,crypto
+21ccde9d-0003-4d2b-b249-74978e8e571d,Phone,167.39,2026-01-03,Latvia,paypal
+bef3bc6c-58d6-4895-b2c1-01fdcc8b8869,Laptop,1190.49,2026-02-15,Sweden,paypal
+e29e034f-3a6f-42dd-9707-b99f1d545330,Laptop,1140.41,2026-02-24,Georgia,paypal
+d7abe591-b042-43e0-a665-72b361112eef,Camera,707.12,2026-01-02,Bolivia,crypto
+4332d0df-8417-45bd-87be-c3a7fb00b0c1,Camera,1934.64,2026-01-20,Ireland,paypal
+bfca071e-867f-4193-966a-4091cb2bcb4d,Camera,1177.6,2026-01-12,Serbia,paypal
+33977cc4-a103-4b87-a67c-9a60dde99516,Camera,1531.77,2026-02-08,Trinidad and Tobago,crypto
+15f80bc9-7fb5-44bb-a33c-a8a0333ab154,Camera,1931.7,2026-02-07,Mozambique,credit_card
+6ae6a8b9-5bbe-4446-a609-e5c712028f26,Phone,376.05,2026-02-07,Sudan,paypal
+b103c265-5582-4d66-aed8-f7aefafa9c1a,Phone,370.05,2026-01-13,Belarus,paypal
+62be7437-fa76-4945-a123-4503466fda3d,Phone,516.12,2026-02-13,Liechtenstein,crypto
+7362ee81-fcb7-4725-a191-36110378064d,Camera,1473.26,2026-01-08,Tonga,paypal
+fd56f0fb-2079-42a6-b708-ab7a6ea334d5,Laptop,232.43,2026-02-23,Belgium,crypto
+5d342d37-7851-415f-aa08-a662b52ea5b3,Camera,1835.57,2026-02-03,Australia,paypal
+e4f4dcec-d198-4383-a30e-c09bbbac671f,Phone,875.47,2026-01-18,Benin,paypal
+a62d414a-93f1-452e-ba9b-5c185bd219f9,Camera,1895.57,2026-02-09,Gibraltar,paypal
+f0e307af-4551-440a-85bf-efb02123c789,Laptop,1390.56,2026-03-04,Ireland,crypto
+1479b401-c287-423f-bd03-570951086a3d,Phone,352.72,2026-02-09,Montenegro,credit_card
+f89b2a93-caf3-4dab-a39e-4f27f1cf2d6f,Camera,1125.15,2026-01-22,Saint Pierre and Miquelon,credit_card
+f28a3c0b-bd01-4792-89a6-f4b985781db0,Camera,430.28,2026-03-02,Puerto Rico,credit_card
+99389e59-36a2-40ef-9745-f2dc27717b6b,Camera,449.36,2026-02-28,Bahrain,crypto
+21cd91ad-a4be-4bbe-b752-3d72ad1ea2a7,Phone,116.32,2026-02-25,Italy,crypto
+f107614c-b737-43bc-9bb9-c29ce048bd41,Laptop,1654.86,2026-01-28,Russian Federation,credit_card
+0220556c-3538-4d5a-9e9a-095bf6f35b68,Tablet,186.11,2026-02-10,North Macedonia,paypal
+d1320b51-c74f-4e05-ac4b-2f816fc19005,Laptop,810.1,2026-01-22,Ethiopia,paypal
+8b1ec3b7-3563-413e-bf53-ed49cf2ede26,Tablet,616.83,2026-02-24,Cameroon,credit_card
+7cb905d9-2c47-4123-9283-63f72d2591dc,Camera,872.68,2026-02-13,Mexico,paypal
+2cf915a5-b64e-4b4e-9e55-832686d48a7c,Laptop,833.74,2026-03-06,Tajikistan,crypto
+3f3b0694-84aa-4a03-9f75-24e0ebe4cfe2,Laptop,1579.81,2026-02-03,Ethiopia,credit_card
+32ca883e-52d1-4adb-bac7-23fc6b8c9acf,Phone,1791.12,2026-02-05,Oman,crypto
+657c9477-3e7e-41e0-b1e7-1b4a70f0ac25,Phone,1549.03,2026-01-20,Korea,crypto
+03f0ff0f-b678-4fd2-9319-8924ced71ca8,Camera,424.13,2026-01-04,Holy See (Vatican City State),credit_card
+a181e0de-7bdc-429a-bc93-01dda1cf9a2e,Phone,1038.63,2026-01-11,Armenia,paypal
+33aa452a-b5ce-47fc-9613-7113c4e011f8,Camera,1006.72,2026-02-20,Norfolk Island,credit_card
+31db880d-3d39-4904-be3a-dfa99d9bd835,Tablet,1883.52,2026-01-02,Italy,paypal
+0b137bae-6302-433c-af3b-1c3534595b0f,Tablet,319.33,2026-02-04,Montserrat,credit_card
+d328d9e7-8a9f-4532-b402-60f544d3b826,Phone,71.63,2026-03-07,Marshall Islands,credit_card
+e5a7e7d7-ac92-44ad-8f59-4de978fd8f0c,Camera,465.47,2026-03-06,Holy See (Vatican City State),crypto
+bbaf69a4-133f-4cb5-87b4-c0cf7bfe1f17,Tablet,11.24,2026-02-22,Haiti,paypal
+90f70d2e-ffa7-48b1-9819-b2e73be27a79,Tablet,1598.19,2026-02-12,Italy,crypto
+9d5372ee-838e-4048-adf8-dbc6678a6842,Laptop,137.45,2026-03-01,Singapore,crypto
+5632934f-ec50-4c35-8f6a-c3309defba6e,Camera,407.62,2026-02-25,Liberia,credit_card
+e9fdb38d-765c-4c38-b149-45079a627c3e,Laptop,21.64,2026-01-18,Mauritania,crypto
+08b7be83-d885-490c-b90c-1ab689cb771d,Laptop,1637.98,2026-03-07,Swaziland,credit_card
+cf853426-1cd1-4161-af7c-12b22e9ef94d,Phone,569.18,2026-01-21,Reunion,credit_card
+85968e8e-65a7-4c1e-a0c3-e0830fb60adb,Phone,1993.65,2026-01-06,Spain,crypto
+bf9dc2cf-9ea2-41df-93f8-4e918d8b71ea,Tablet,1940.86,2026-01-03,Denmark,crypto
+ea6e6e2e-85cf-473b-a1b5-6a0ea05ea9f6,Tablet,337.66,2026-01-09,Sao Tome and Principe,crypto
+9e3cd255-c907-4f8b-95c2-d6d0ae2cfdf1,Tablet,1792.77,2026-03-04,Faroe Islands,paypal
+07a7ed57-0d4f-433f-9977-66f469c2fbe7,Laptop,1553.77,2026-01-27,Northern Mariana Islands,credit_card
+fdaffc64-f08f-4212-af6c-9b222b06672f,Phone,1452.57,2026-02-20,Brunei Darussalam,credit_card
+17556125-47c1-4b7a-9fed-89df34eadac4,Tablet,1234.04,2026-01-13,Palestinian Territory,paypal
+b9016953-1a1e-4156-9c2c-8dacfda1390c,Tablet,436.35,2026-01-22,Montenegro,credit_card
+768546a6-5464-4e71-90f2-4d1fa5e11293,Camera,149.23,2026-01-13,Greece,paypal
+182718e4-209d-4fb7-932f-fc537c02d567,Camera,156.05,2026-02-14,Fiji,crypto
+2bd40093-f028-4820-b900-3dac88f8e6e1,Camera,1410.74,2026-01-11,Gibraltar,crypto
+7ad2db9f-95e1-4985-8f81-0c3c720d57b2,Camera,449.8,2026-02-26,Falkland Islands (Malvinas),crypto
+7098ca71-01a2-44b7-a981-e5f4e937ddec,Tablet,1335.85,2026-02-03,Djibouti,crypto
+3a74f878-61a9-4797-a354-4e372b87f2d2,Tablet,828.93,2026-01-17,France,crypto
+1f266689-2943-49bf-b79d-ca348a6b659a,Laptop,1688.13,2026-01-12,Turkmenistan,crypto
+6356b5ad-da65-443a-a79a-b2e59471dccc,Camera,307.35,2026-02-28,Rwanda,paypal
+7d224aa0-ca78-4f14-9bdc-aac1874bd5be,Laptop,1747.7,2026-02-14,Burundi,credit_card
+03bc9066-d191-4475-95bd-e758f81f1fda,Camera,52.1,2026-01-12,Bahrain,credit_card
+855feec6-9d41-4c3b-a438-71631211160b,Laptop,1797.07,2026-01-14,Czech Republic,crypto
+7880bc0e-124a-4caf-8643-a51de4812428,Tablet,1518.78,2026-01-13,New Zealand,crypto
+b36da885-19f8-4bce-98d8-f720529e983a,Phone,1009.63,2026-01-11,Benin,crypto
+2b52edee-119d-4a46-89c0-262347c6d622,Laptop,451.76,2026-02-03,Somalia,crypto
+599d3e1d-fa48-4528-97f2-baa7eadb4a56,Phone,1106.6,2026-03-05,Cayman Islands,crypto
+6a2f71f9-2573-4b84-a69a-f46cbe42c208,Tablet,592.5,2026-02-13,Ukraine,crypto
+8c75fcdf-2a8c-468a-b4c0-1da741f9f00a,Camera,1833.8,2026-01-22,Bahamas,credit_card
+18304d32-4967-4ed8-9b36-1735199fea09,Phone,993.45,2026-01-29,Bahrain,paypal
+fb909f23-b691-4e90-bb22-2c97bdf18295,Phone,1154.11,2026-02-11,Niger,crypto
+bfff4d04-d12c-49fb-b97d-2197c8c55264,Camera,1023.81,2026-02-03,Algeria,paypal
+89eb6a88-dc4c-4a30-a6e2-5000a53e16ee,Laptop,328.33,2026-02-02,Norway,paypal
+b9ac3f9f-7dd5-4844-bf18-89f6fd5e7e33,Laptop,82.79,2026-01-10,Tonga,credit_card
+a3bc9a99-c85f-4752-a84e-29d471e17700,Laptop,1984.86,2026-01-16,Gibraltar,paypal
+c0544f26-e325-41a2-80dc-b8554ed2e575,Tablet,782.27,2026-01-09,New Caledonia,paypal
+905a5213-6dbb-4a57-bd54-9874c0272910,Phone,1565.05,2026-01-08,Ethiopia,credit_card
+960f471e-5254-4231-96da-c2e7def7efb4,Laptop,1783.42,2026-02-11,Comoros,credit_card
+a04847cb-147e-4410-8785-a0d43604b9f1,Camera,1807.23,2026-01-15,Singapore,credit_card
+bdf4631e-4dcb-4810-8c63-50ec44939236,Laptop,246.35,2026-01-15,Taiwan,crypto
+f7f49ebe-b263-4edc-b11d-0862e2558011,Camera,1175.65,2026-03-02,Macao,crypto
+4dde529f-3d48-48ea-ba3b-afee410168d1,Phone,818.05,2026-01-26,Northern Mariana Islands,crypto
+9d2563c1-e985-4e2c-ac53-b6028899b2c3,Laptop,1887.43,2026-02-15,United States of America,credit_card
+3717227d-b64e-4170-8fd1-dcb560c5134d,Phone,328.55,2026-01-24,Cocos (Keeling) Islands,crypto
+1d540071-9e54-4163-90e0-aec448ac8369,Camera,697.09,2026-02-21,Mongolia,paypal
+e983b133-cfd5-4a7b-8dee-c0adfbb3417c,Laptop,224.51,2026-02-19,Oman,credit_card
+f10def42-8ded-4b07-b7de-f426cc4a312b,Camera,1152.47,2026-01-29,Solomon Islands,paypal
+115b8f92-2ad5-4841-a03d-a5f7af77f0cf,Laptop,1280.23,2026-02-03,Nicaragua,paypal
+a77e4f42-fd84-45ea-8d6d-2bf3b0ef41cd,Camera,324.02,2026-01-05,North Macedonia,crypto
+2195c94c-d909-4765-82f1-4e6391ee8219,Camera,603.27,2026-03-04,Seychelles,credit_card
+61602c5e-8d3f-49fc-b8cf-e08b2611af32,Tablet,611.87,2026-01-31,Malta,paypal
+32898d87-8405-43a2-a71e-836a6288e00a,Phone,323.77,2026-02-15,Liberia,paypal
+e84a4dee-3256-4b53-bc2b-b0906ae67fe7,Phone,793.18,2026-02-11,Philippines,paypal
+492cad63-bac2-4171-a802-81102759f7e5,Phone,201.5,2026-02-11,Azerbaijan,crypto
+21377df3-441c-4171-8627-d81993238fe9,Phone,1421.66,2026-02-05,American Samoa,paypal
+4166d294-c0d7-4f48-bf0f-55a06dfba719,Phone,267.02,2026-02-27,Dominica,paypal
+2cd772cc-a274-45f6-a250-474b3c41f4d4,Laptop,932.49,2026-01-11,Mauritius,paypal
+d9a425df-61ed-43ac-a2cd-052a17c5c8dd,Camera,1765.24,2026-02-22,Malaysia,credit_card
+63a71b9a-b4fe-4545-8aed-978229a9f1d3,Phone,1984.66,2026-02-15,Norway,credit_card
+21dfb433-901a-4836-b2d0-feb70bf1ff45,Phone,143.08,2026-03-04,Brunei Darussalam,crypto
+4e4760f4-7454-4b0b-b0d1-04288d33aeda,Tablet,925.06,2026-01-20,Monaco,paypal
+2d900150-4494-4f86-ad82-5c184d3faad9,Camera,776.55,2026-02-22,Grenada,crypto
+1dde1d3a-5272-4ca4-ace0-537b07b88146,Phone,631.9,2026-02-22,Armenia,paypal
+ff22b11e-80ab-4361-8e1a-1f4281d0f80e,Laptop,1445.26,2026-03-07,Belarus,credit_card
+95bd8e9b-5835-4080-aeda-521c9407914a,Tablet,870.69,2026-02-12,Azerbaijan,credit_card
+633eb417-f579-4164-9492-d1d739892ebe,Camera,713.56,2026-01-02,Madagascar,paypal
+999b377e-e7ed-45ec-96f8-3d0db281d980,Tablet,449.12,2026-01-25,Thailand,crypto
+88b96b41-af99-42fe-ba8d-902490dafc52,Laptop,99.52,2026-01-25,Austria,paypal
+2d017440-8f92-4c18-8e97-174fd51597e3,Laptop,1741.31,2026-02-07,Russian Federation,paypal
+406ad9e0-886e-42df-aa96-896041ddf46b,Camera,1296.27,2026-03-04,Reunion,paypal
+4aedbdec-f539-4b2e-942b-6fdb14203811,Tablet,456.35,2026-02-21,Seychelles,credit_card
+a6cba175-03bb-4b1e-945d-e8c1ca8c649f,Tablet,1406.76,2026-02-24,Madagascar,credit_card
